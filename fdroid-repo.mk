@@ -48,6 +48,7 @@ PRODUCT_PACKAGES += \
     Briar \
     CalyxVPN \
     DAVx5 \
+    FakeStore \
     F-DroidBasic \
     Hypatia \
     K-9Mail \
