@@ -58,6 +58,7 @@ PRODUCT_PACKAGES += \
     Briar \
     CalyxVPN \
     DAVx5 \
+    FakeStore \
     F-Droid \
     F-DroidBasic \
     GCamPhotosPreview \
