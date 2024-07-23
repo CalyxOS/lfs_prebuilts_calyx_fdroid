@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01299f20_7ca423a5",
+        "filename": ".gitlab-ci.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-07-23T15:29:49Z",
+      "side": 1,
+      "message": "Unrelated, but should this be updated or removed?",
+      "revId": "4a713ee0638c0e36e831a398600b5dac976a80de",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
