@@ -16,6 +16,24 @@
       "message": "Unrelated, but should this be updated or removed?",
       "revId": "4a713ee0638c0e36e831a398600b5dac976a80de",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9be3eb0b_2535ed27",
+        "filename": ".gitlab-ci.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-07-26T20:22:21Z",
+      "side": 1,
+      "message": "Yes",
+      "parentUuid": "01299f20_7ca423a5",
+      "revId": "4a713ee0638c0e36e831a398600b5dac976a80de",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
