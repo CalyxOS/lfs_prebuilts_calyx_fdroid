@@ -1,0 +1,96 @@
+{
+  "repo": {
+    "timestamp": 1722398486000
+  },
+  "packages": {
+    "org.breezyweather": {
+      "metadata": {
+        "added": 1721880082000,
+        "lastUpdated": 1721880082000
+      },
+      "versions": {
+        "0a8f49667cd298ea0e1e0ddca53a04848685c24001639f687a679eb64c840619": null,
+        "d1264227d6c6732a2b113bbfdff44ac47a77836bc8216b3ab201aaf5e93cf87c": {
+          "added": 1721880082000,
+          "file": {
+            "name": "/BreezyWeather.apk",
+            "sha256": "d1264227d6c6732a2b113bbfdff44ac47a77836bc8216b3ab201aaf5e93cf87c",
+            "size": 12906140
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.2.6_freenet",
+            "versionCode": 50206,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.android.alarm.permission.SET_ALARM"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
