@@ -1,0 +1,83 @@
+{
+  "repo": {
+    "timestamp": 1722916885000
+  },
+  "packages": {
+    "app.organicmaps": {
+      "metadata": {
+        "added": 1722830492000,
+        "lastUpdated": 1722830492000
+      },
+      "versions": {
+        "efeb644e645cab5fd46058b9e1e78fe333fc046a40281feec9a567191b1cc247": null,
+        "bf4cc849852e086b320ee74de7f3740eda244c04e872acd6ef7776c3dd052ddd": {
+          "added": 1722830492000,
+          "file": {
+            "name": "/OrganicMaps.apk",
+            "sha256": "bf4cc849852e086b320ee74de7f3740eda244c04e872acd6ef7776c3dd052ddd",
+            "size": 57721416
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86_64"
+            ],
+            "versionName": "2024.07.27-8-FDroid",
+            "versionCode": 24072708,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "androidx.car.app.NAVIGATION_TEMPLATES"
+              },
+              {
+                "name": "androidx.car.app.ACCESS_SURFACE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

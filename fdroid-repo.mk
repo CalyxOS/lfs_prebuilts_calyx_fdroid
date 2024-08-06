@@ -10,16 +10,27 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/com.fsck.k9/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.fsck.k9/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.nextcloud.client/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.nextcloud.client/en-US/icon.png \
+    prebuilts/calyx/fdroid/repo/diff/1722052880000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722052880000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722139299000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722139299000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722225680000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722225680000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722312083000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722312083000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722398486000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722398486000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722484904000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722484904000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722571292000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722571292000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722657685000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722657685000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722744092000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722744092000.json \
+    prebuilts/calyx/fdroid/repo/diff/1722830493000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1722830493000.json \
     prebuilts/calyx/fdroid/repo/entry.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.jar \
     prebuilts/calyx/fdroid/repo/entry.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.json \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
+    prebuilts/calyx/fdroid/repo/icons/org.thoughtcrime.securesms.5185.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/org.thoughtcrime.securesms.5185.png \
+    prebuilts/calyx/fdroid/repo/index-v1.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v1.jar \
+    prebuilts/calyx/fdroid/repo/index-v1.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v1.json \
+    prebuilts/calyx/fdroid/repo/index-v2.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v2.json \
     prebuilts/calyx/fdroid/repo/index.css:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.css \
     prebuilts/calyx/fdroid/repo/index.html:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.html \
     prebuilts/calyx/fdroid/repo/index.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.jar \
     prebuilts/calyx/fdroid/repo/index.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.png \
-    prebuilts/calyx/fdroid/repo/index-v1.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v1.jar \
-    prebuilts/calyx/fdroid/repo/index-v1.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v1.json \
-    prebuilts/calyx/fdroid/repo/index-v2.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index-v2.json \
     prebuilts/calyx/fdroid/repo/index.xml:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/index.xml \
     prebuilts/calyx/fdroid/repo/org.breezyweather/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.breezyweather/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.breezyweather/fr/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.breezyweather/fr/icon.png \
@@ -49,12 +60,13 @@ PRODUCT_PACKAGES += \
     CalyxVPN \
     DAVx5 \
     F-DroidBasic \
+    GCamPhotosPreview \
     Hypatia \
     K-9Mail \
     MuPDFviewer \
     Nextcloud \
-    OnionShare \
     OONIProbe \
+    OnionShare \
     Orbot \
     OrganicMaps \
     RiseupVPN \
