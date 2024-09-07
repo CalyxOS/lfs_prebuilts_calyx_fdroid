@@ -1,5 +1,5 @@
 {
-  "/etc/issue.net": "Debian GNU/Linux 11",
+  "/etc/issue.net": "Debian GNU/Linux 12",
   "antiFeatures": {
     "NonFreeNet": {
       "apps": [
@@ -19,24 +19,25 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1719547323537,
+  "endTimestamp": 1725738421307,
   "failedBuilds": {},
   "fdroidserver": {
-    "commitId": "d0d15a205f4c89ae0b52fc497235e4c1e5d5a05e",
+    "commitId": "e24640da85e50893f890e30ef3e91f5f66158676",
     "isDirty": true,
     "modifiedFiles": [
       "fdroidserver/update.py"
     ],
     "untrackedFiles": []
   },
-  "jarsigner": "/usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner",
-  "keytool": "/usr/lib/jvm/java-11-openjdk-amd64/bin/keytool",
+  "jarsigner": "/usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-17-openjdk-amd64/bin/keytool",
   "needsUpdate": [
     "app.organicmaps",
     "at.bitfire.davdroid",
     "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
     "com.fsck.k9",
+    "com.google.android.apps.photos",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
     "org.breezyweather",
@@ -57,6 +58,7 @@
     "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
     "com.fsck.k9",
+    "com.google.android.apps.photos",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
     "org.breezyweather",
@@ -77,6 +79,7 @@
     "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
     "com.fsck.k9",
+    "com.google.android.apps.photos",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
     "org.breezyweather",
@@ -91,6 +94,6 @@
     "se.leap.riseupvpn",
     "us.spotco.malwarescanner"
   ],
-  "startTimestamp": 1719547281000,
+  "startTimestamp": 1725738385000,
   "subcommand": "update"
 }

@@ -4,7 +4,6 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/fallback-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/fallback-icon.png \
     prebuilts/calyx/fdroid/repo/app.organicmaps/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/app.organicmaps/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/at.bitfire.davdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/at.bitfire.davdroid/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/categories.txt:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/categories.txt \
     prebuilts/calyx/fdroid/repo/com.artifex.mupdf.viewer.app/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.artifex.mupdf.viewer.app/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.aurora.store/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.aurora.store/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.fsck.k9/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.fsck.k9/en-US/icon.png \
@@ -49,6 +48,7 @@ PRODUCT_PACKAGES += \
     CalyxVPN \
     DAVx5 \
     F-DroidBasic \
+    GCamPhotosPreview \
     Hypatia \
     K-9Mail \
     MuPDFviewer \
