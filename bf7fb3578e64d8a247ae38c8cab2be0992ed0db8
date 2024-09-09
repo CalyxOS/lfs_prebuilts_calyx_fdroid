@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "79cb850d_cd155e79",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-09T13:42:08Z",
+      "side": 1,
+      "message": "Lupin fails to install this Signal.apk - all other apps are fine.\n\nF-Droid manages to handle it fine from the same repo / apk\n\nNot much in the logs:\n```\n       PackageInstaller  D  Received result for org.fdroid.basic: status\u003d0 INSTALL_SUCCEEDED: Session installed\n      VRI[MainActivity]  D  visibilityChanged oldVisibility\u003dtrue newVisibility\u003dfalse\n                   HWUI  D  endAllActiveAnimators on 0xb400007bc472e010 (UnprojectedRipple) with handle 0xb400007ae4711830\n WindowOnBackDispatcher  W  sendCancelIfRunning: isInProgress\u003dfalsecallback\u003dandroid.view.ViewRootImpl$$ExternalSyntheticLambda11@77729bb\n         PackageParsing  I  Parse times for \u0027/product/fdroid/repo/Signal.apk\u0027: parse\u003d875ms, update_cache\u003d0 ms\n           StateManager  I  Stopping AppInstallerService...\n```",
+      "revId": "bf7fb3578e64d8a247ae38c8cab2be0992ed0db8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
