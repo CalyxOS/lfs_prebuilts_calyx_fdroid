@@ -52,6 +52,24 @@
       "parentUuid": "c79133a0_1d365e01",
       "revId": "bf7fb3578e64d8a247ae38c8cab2be0992ed0db8",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2118aa5e_6da9975a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2024-09-10T13:31:27Z",
+      "side": 1,
+      "message": "Ok, but there is no log at all about the Signal install? That can\u0027t be.",
+      "parentUuid": "37863a10_4e1b9289",
+      "revId": "bf7fb3578e64d8a247ae38c8cab2be0992ed0db8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
