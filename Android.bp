@@ -1,0 +1,329 @@
+// Auto generated, do not edit.
+
+prebuilt_etc {
+    name: "fdroid-repo",
+
+    product_specific: true,
+    src: "additional_repos.xml",
+    relative_install_path: "org.fdroid.fdroid",
+}
+
+prebuilt_etc {
+    name: "fdroid-debug-repo",
+
+    product_specific: true,
+    src: "additional_repos.xml",
+    relative_install_path: "org.fdroid.fdroid.debug",
+}
+
+prebuilt_etc {
+    name: "fdroid-basic-repo",
+
+    product_specific: true,
+    src: "additional_repos.xml",
+    relative_install_path: "org.fdroid.basic",
+}
+
+prebuilt_etc {
+    name: "fdroid-basic-debug-repo",
+
+    product_specific: true,
+    src: "additional_repos.xml",
+    relative_install_path: "org.fdroid.basic.debug",
+}
+
+prebuilt_etc {
+    name: "aurora-store",
+
+    product_specific: true,
+    src: "aurora-store-blacklist.xml",
+    relative_install_path: "com.aurora.store",
+}
+
+android_app_import {
+    name: "AuroraStore",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/AuroraStore.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "BreezyWeather",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/BreezyWeather.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "Briar",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/Briar.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "CalyxVPN",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/CalyxVPN.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "DAVx5",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/DAVx5.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "F-DroidBasic",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/F-DroidBasic.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "Hypatia",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/Hypatia.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "K-9Mail",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/K-9Mail.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "MuPDFviewer",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/MuPDFviewer.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "Nextcloud",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/Nextcloud.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "OnionShare",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/OnionShare.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "OONIProbe",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/OONIProbe.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "Orbot",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/Orbot.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "OrganicMaps",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/OrganicMaps.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "RiseupVPN",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/RiseupVPN.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "ScrambledExif",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/ScrambledExif.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "Signal",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/Signal.apk",
+    presigned: true,
+
+}
+
+android_app_import {
+    name: "TorBrowser",
+
+    relative_install_path: "fdroid/repo",
+
+    dex_preopt: {
+        enabled: false,
+    },
+
+    preprocessed: true,
+    enforce_uses_libs: false,
+    apk: "repo/TorBrowser.apk",
+    presigned: true,
+
+}
