@@ -88,7 +88,7 @@
         "lastUpdated": 1726804903000
       },
       "versions": {
-        "59afa3c8b9ee6fd0948f3e81e2fdbf1ee5d3ea777d79412a41fb535dfad360bb": null,
+        "fae8d1f498a0dbef5b6ce463da92493dd3b21e8354a9e5556e6f2a6d7098f2db": null,
         "9f6f860fafac4ce38b11c5066110b2cf516bcfecc25fa3a27de5e0206cba64ee": {
           "added": 1726804903000,
           "file": {
@@ -310,77 +310,6 @@
                 "name": "org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
-          }
-        }
-      }
-    },
-    "org.openobservatory.ooniprobe": {
-      "metadata": {
-        "added": 1726286501000,
-        "lastUpdated": 1726286501000
-      },
-      "versions": {
-        "ff3d0b46ba9d8b86837a63bf83de32dbae7a5df0fd870c49b13d91d2ea1aac52": null,
-        "4e20ba376b4a2cc9264dc6376e135309a3fd5cd7c8812cf7b3dc7839af201ce5": {
-          "added": 1726286501000,
-          "file": {
-            "name": "/OONIProbe.apk",
-            "sha256": "4e20ba376b4a2cc9264dc6376e135309a3fd5cd7c8812cf7b3dc7839af201ce5",
-            "size": 106434849
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a",
-              "armeabi-v7a",
-              "x86",
-              "x86_64"
-            ],
-            "versionName": "3.9.0",
-            "versionCode": 118,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 34
-            },
-            "signer": {
-              "sha256": [
-                "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
-              },
-              {
-                "name": "org.openobservatory.ooniprobe.permission.C2D_MESSAGE"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "org.openobservatory.ooniprobe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          },
-          "antiFeatures": {
-            "Tracking": {}
           }
         }
       }

@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1726286505434,
+  "endTimestamp": 1727064098640,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "a0c1029fee2e0429019fd0042895021f93014ef4",
@@ -94,6 +94,6 @@
     "se.leap.riseupvpn",
     "us.spotco.malwarescanner"
   ],
-  "startTimestamp": 1726286496000,
+  "startTimestamp": 1727064094000,
   "subcommand": "update"
 }
