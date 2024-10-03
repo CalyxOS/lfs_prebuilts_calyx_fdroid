@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1727064095000,
+    "timestamp": 1727928091000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -1800,13 +1800,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1726804909000,
+        "added": 1727841712000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1726804909000,
+        "lastUpdated": 1727841712000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1829,12 +1829,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "d2b8df64f03a68d2649c3a5e93c11d02c8bcd84a5d3db4448accf37672f4de27": {
-          "added": 1726804909000,
+        "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719": {
+          "added": 1727841712000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "d2b8df64f03a68d2649c3a5e93c11d02c8bcd84a5d3db4448accf37672f4de27",
-            "size": 99887848
+            "sha256": "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719",
+            "size": 100055992
           },
           "manifest": {
             "nativecode": [
@@ -1843,8 +1843,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.17.5",
-            "versionCode": 146200,
+            "versionName": "7.18.2",
+            "versionCode": 146500,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2214,14 +2214,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1726632106000,
+        "added": 1727841716000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1726632106000,
+        "lastUpdated": 1727841716000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -2251,19 +2251,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "0c648a055623b88d9e88afb9b2c41972a908ccdf07182a9bd62fc9a008cba17e": {
-          "added": 1726632106000,
+        "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59": {
+          "added": 1727841716000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "0c648a055623b88d9e88afb9b2c41972a908ccdf07182a9bd62fc9a008cba17e",
-            "size": 101724858
+            "sha256": "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59",
+            "size": 101737146
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "115.2.1-release (13.5.4)",
-            "versionCode": 2016044835,
+            "versionName": "115.2.1-release (13.5.6)",
+            "versionCode": 2016047547,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 33
