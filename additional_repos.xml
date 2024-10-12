@@ -22,7 +22,7 @@
         <!-- name -->
         <item>CalyxOS Local Repository</item>
         <!-- address -->
-        <item>file:///product/fdroid/repo/</item>
+        <item>file:///product/app/fdroid/repo/</item>
         <!-- description -->
         <item>
             This is a repository of apps to be used with CalyxOS. It is installed
