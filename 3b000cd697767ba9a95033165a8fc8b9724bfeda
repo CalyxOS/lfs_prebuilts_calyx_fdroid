@@ -58,6 +58,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac387f04_0fdce1e6",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "774fac56_ca237d9d",
+      "range": {
+        "startLine": 39,
+        "startChar": 4,
+        "endLine": 39,
+        "endChar": 37
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b8c80b66_b6d302a9",
@@ -71,6 +95,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Might have to declare `product_specific: true,` for this relative path?",
+      "range": {
+        "startLine": 46,
+        "startChar": 4,
+        "endLine": 46,
+        "endChar": 40
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "12755476_87f7a1c2",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "b8c80b66_b6d302a9",
       "range": {
         "startLine": 46,
         "startChar": 4,
@@ -104,6 +152,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "dbaf25cc_80babcd4",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "2a88302a_8d2c34ce",
+      "range": {
+        "startLine": 62,
+        "startChar": 0,
+        "endLine": 62,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8af22e3a_c6452e31",
@@ -117,6 +189,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 78,
+        "startChar": 0,
+        "endLine": 78,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a08a9766_a015fa45",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "8af22e3a_c6452e31",
       "range": {
         "startLine": 78,
         "startChar": 0,
@@ -150,6 +246,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f5213f9b_8e2710b6",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "f336faa7_d02d6d93",
+      "range": {
+        "startLine": 94,
+        "startChar": 0,
+        "endLine": 94,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4845031f_4030f95e",
@@ -163,6 +283,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 110,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "40744656_083c29c7",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "4845031f_4030f95e",
       "range": {
         "startLine": 110,
         "startChar": 0,
@@ -196,6 +340,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "34ec5e89_93c7cba7",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "1c86bd0a_f0b2eaac",
+      "range": {
+        "startLine": 126,
+        "startChar": 0,
+        "endLine": 126,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5d2fcb98_1c14b3b4",
@@ -209,6 +377,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 142,
+        "startChar": 0,
+        "endLine": 142,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "97b3dbca_6e34ad7d",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "5d2fcb98_1c14b3b4",
       "range": {
         "startLine": 142,
         "startChar": 0,
@@ -242,6 +434,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "68715911_4ecaf9fa",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "a362e455_16d23d5b",
+      "range": {
+        "startLine": 158,
+        "startChar": 0,
+        "endLine": 158,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e21a74b7_6f2ff3d7",
@@ -255,6 +471,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 174,
+        "startChar": 0,
+        "endLine": 174,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ae80dc57_71237b3f",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "e21a74b7_6f2ff3d7",
       "range": {
         "startLine": 174,
         "startChar": 0,
@@ -288,6 +528,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b540ab6_8e8b6b37",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "af113995_c4cd7b1d",
+      "range": {
+        "startLine": 190,
+        "startChar": 0,
+        "endLine": 190,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6a18c296_6e90d4bb",
@@ -301,6 +565,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 206,
+        "startChar": 0,
+        "endLine": 206,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cd55147c_ea35db08",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "6a18c296_6e90d4bb",
       "range": {
         "startLine": 206,
         "startChar": 0,
@@ -334,6 +622,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b2d8b17_9d6f0078",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "c03c3dd2_dd970a81",
+      "range": {
+        "startLine": 222,
+        "startChar": 0,
+        "endLine": 222,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e45d6cb2_f221c0aa",
@@ -347,6 +659,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 238,
+        "startChar": 0,
+        "endLine": 238,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "291a9681_e66a797c",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "e45d6cb2_f221c0aa",
       "range": {
         "startLine": 238,
         "startChar": 0,
@@ -380,6 +716,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "16c6ff02_a4411e8e",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 254,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "2b4ef97a_3f9af045",
+      "range": {
+        "startLine": 254,
+        "startChar": 0,
+        "endLine": 254,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a8c7eae0_43eb84e7",
@@ -393,6 +753,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 270,
+        "startChar": 0,
+        "endLine": 270,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96b6aedc_382319c2",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 270,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "a8c7eae0_43eb84e7",
       "range": {
         "startLine": 270,
         "startChar": 0,
@@ -426,6 +810,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "779107ac_c4214c79",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "8f600f87_7eb4574e",
+      "range": {
+        "startLine": 286,
+        "startChar": 0,
+        "endLine": 286,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b088d8b6_4acae79c",
@@ -449,6 +857,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce6d6888_95a8cdb5",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "b088d8b6_4acae79c",
+      "range": {
+        "startLine": 302,
+        "startChar": 0,
+        "endLine": 302,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "69257d0a_d7d47120",
@@ -462,6 +894,30 @@
       "writtenOn": "2024-09-11T18:06:30Z",
       "side": 1,
       "message": "Ditto",
+      "range": {
+        "startLine": 318,
+        "startChar": 0,
+        "endLine": 318,
+        "endChar": 41
+      },
+      "revId": "3b000cd697767ba9a95033165a8fc8b9724bfeda",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "843a8452_9d0d5477",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-10-16T19:40:20Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "69257d0a_d7d47120",
       "range": {
         "startLine": 318,
         "startChar": 0,
