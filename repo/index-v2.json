@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1727928091000,
+    "timestamp": 1729224107000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,13 +66,13 @@
   "packages": {
     "app.organicmaps": {
       "metadata": {
-        "added": 1726632102000,
+        "added": 1728964905000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1726632102000,
+        "lastUpdated": 1728964905000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
         "webSite": "https://organicmaps.app/",
@@ -95,12 +95,12 @@
         "preferredSigner": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
       },
       "versions": {
-        "e39f017a1a9f9a6d1ecae7c95e902e1ba94cdcc24994dcf0be2140f608c90da3": {
-          "added": 1726632102000,
+        "71c6a8dc7b1d96062765b15abfaf65bb09d8857a10ebc2b3d10ee1c8ca504b19": {
+          "added": 1728964905000,
           "file": {
             "name": "/OrganicMaps.apk",
-            "sha256": "e39f017a1a9f9a6d1ecae7c95e902e1ba94cdcc24994dcf0be2140f608c90da3",
-            "size": 57927085
+            "sha256": "71c6a8dc7b1d96062765b15abfaf65bb09d8857a10ebc2b3d10ee1c8ca504b19",
+            "size": 57763444
           },
           "manifest": {
             "nativecode": [
@@ -108,11 +108,11 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2024.09.08-7-FDroid",
-            "versionCode": 24090807,
+            "versionName": "2024.10.08-5-FDroid",
+            "versionCode": 24100805,
             "usesSdk": {
               "minSdkVersion": 21,
-              "targetSdkVersion": 34
+              "targetSdkVersion": 35
             },
             "signer": {
               "sha256": [
@@ -359,14 +359,14 @@
     },
     "com.artifex.mupdf.viewer.app": {
       "metadata": {
-        "added": 1725986237000,
+        "added": 1728273696000,
         "categories": [
           "Reading",
           "Default"
         ],
         "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
         "issueTracker": "https://bugs.ghostscript.com",
-        "lastUpdated": 1725986237000,
+        "lastUpdated": 1728273696000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
         "webSite": "https://mupdf.com",
@@ -406,11 +406,11 @@
         "preferredSigner": "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
       },
       "versions": {
-        "42c13d874814b585f2eca1a71c9c0d2bcdc010f43e43e96ad84e8fa3089e331e": {
-          "added": 1725986237000,
+        "f6d28a9646ce7e5523a3d4f5f6a968c9e36e2f01c52c3abd5aa7ed6c1ce04a81": {
+          "added": 1728273696000,
           "file": {
             "name": "/MuPDFviewer.apk",
-            "sha256": "42c13d874814b585f2eca1a71c9c0d2bcdc010f43e43e96ad84e8fa3089e331e",
+            "sha256": "f6d28a9646ce7e5523a3d4f5f6a968c9e36e2f01c52c3abd5aa7ed6c1ce04a81",
             "size": 12930421
           },
           "manifest": {
@@ -419,8 +419,8 @@
               "armeabi-v7a",
               "x86"
             ],
-            "versionName": "1.24.9a",
-            "versionCode": 154,
+            "versionName": "1.24.10a",
+            "versionCode": 155,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -441,14 +441,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1725986227000,
+        "added": 1728619302000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1725986227000,
+        "lastUpdated": 1728619302000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -498,19 +498,25 @@
         "preferredSigner": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
       },
       "versions": {
-        "5a5c56f59194d973d335a534b0e359659e1bf49a8ecb8188bf8c2f8d6c68ffaa": {
-          "added": 1725986227000,
+        "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead": {
+          "added": 1728619302000,
           "file": {
             "name": "/AuroraStore.apk",
-            "sha256": "5a5c56f59194d973d335a534b0e359659e1bf49a8ecb8188bf8c2f8d6c68ffaa",
-            "size": 7046295
+            "sha256": "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead",
+            "size": 7387686
           },
           "manifest": {
-            "versionName": "4.5.1",
-            "versionCode": 60,
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.6.1",
+            "versionCode": 62,
             "usesSdk": {
               "minSdkVersion": 21,
-              "targetSdkVersion": 34
+              "targetSdkVersion": 35
             },
             "signer": {
               "sha256": [
@@ -1800,13 +1806,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1727841712000,
+        "added": 1728619308000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1727841712000,
+        "lastUpdated": 1728619308000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1829,12 +1835,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719": {
-          "added": 1727841712000,
+        "df0de04a24a00b34a609ca43b404e786e63a4d23d568a7a801c5d2aee3036642": {
+          "added": 1728619308000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719",
-            "size": 100055992
+            "sha256": "df0de04a24a00b34a609ca43b404e786e63a4d23d568a7a801c5d2aee3036642",
+            "size": 100285593
           },
           "manifest": {
             "nativecode": [
@@ -1843,8 +1849,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.18.2",
-            "versionCode": 146500,
+            "versionName": "7.19.2",
+            "versionCode": 146800,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2214,14 +2220,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1727841716000,
+        "added": 1728964909000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1727841716000,
+        "lastUpdated": 1728964909000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -2251,19 +2257,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59": {
-          "added": 1727841716000,
+        "d2b3c9147c457f506c28c4681abec026ef2bf69255eafd84dfb61c543fc5bc16": {
+          "added": 1728964909000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59",
-            "size": 101737146
+            "sha256": "d2b3c9147c457f506c28c4681abec026ef2bf69255eafd84dfb61c543fc5bc16",
+            "size": 101803142
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "115.2.1-release (13.5.6)",
-            "versionCode": 2016047547,
+            "versionName": "115.2.1-release (13.5.8)",
+            "versionCode": 2016050187,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 33
@@ -2360,7 +2366,7 @@
     },
     "se.leap.riseupvpn": {
       "metadata": {
-        "added": 1725986248000,
+        "added": 1728446509000,
         "categories": [
           "Internet",
           "Security",
@@ -2368,7 +2374,7 @@
         ],
         "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
-        "lastUpdated": 1725986248000,
+        "lastUpdated": 1728446509000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://0xacab.org/leap/bitmask_android",
         "translation": "https://www.transifex.com/projects/p/bitmask-android",
@@ -2415,12 +2421,12 @@
         "preferredSigner": "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2"
       },
       "versions": {
-        "8b85ef9f718aa037da810ce72e9f86f20a5195c11a31c52c0e4ef5e6dbd102fe": {
-          "added": 1725986248000,
+        "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e": {
+          "added": 1728446509000,
           "file": {
             "name": "/RiseupVPN.apk",
-            "sha256": "8b85ef9f718aa037da810ce72e9f86f20a5195c11a31c52c0e4ef5e6dbd102fe",
-            "size": 60903816
+            "sha256": "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e",
+            "size": 63725960
           },
           "manifest": {
             "nativecode": [
@@ -2429,8 +2435,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.3.1",
-            "versionCode": 173000,
+            "versionName": "1.4.1",
+            "versionCode": 176000,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34

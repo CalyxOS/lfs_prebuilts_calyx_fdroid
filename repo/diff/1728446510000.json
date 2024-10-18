@@ -1,21 +1,100 @@
 {
   "repo": {
-    "timestamp": 1727928091000
+    "timestamp": 1729224107000
   },
   "packages": {
-    "org.thoughtcrime.securesms": {
+    "app.organicmaps": {
       "metadata": {
-        "added": 1727841712000,
-        "lastUpdated": 1727841712000
+        "added": 1728964905000,
+        "lastUpdated": 1728964905000
       },
       "versions": {
-        "d2b8df64f03a68d2649c3a5e93c11d02c8bcd84a5d3db4448accf37672f4de27": null,
-        "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719": {
-          "added": 1727841712000,
+        "c61ce7886dae13d2e9f24c68b7fb9d7b2b9d61062d76a675a1f1dc6f8c351fcc": null,
+        "71c6a8dc7b1d96062765b15abfaf65bb09d8857a10ebc2b3d10ee1c8ca504b19": {
+          "added": 1728964905000,
           "file": {
-            "name": "/Signal.apk",
-            "sha256": "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719",
-            "size": 100055992
+            "name": "/OrganicMaps.apk",
+            "sha256": "71c6a8dc7b1d96062765b15abfaf65bb09d8857a10ebc2b3d10ee1c8ca504b19",
+            "size": 57763444
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86_64"
+            ],
+            "versionName": "2024.10.08-5-FDroid",
+            "versionCode": 24100805,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "androidx.car.app.NAVIGATION_TEMPLATES"
+              },
+              {
+                "name": "androidx.car.app.ACCESS_SURFACE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.aurora.store": {
+      "metadata": {
+        "added": 1728619302000,
+        "lastUpdated": 1728619302000
+      },
+      "versions": {
+        "5a5c56f59194d973d335a534b0e359659e1bf49a8ecb8188bf8c2f8d6c68ffaa": null,
+        "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead": {
+          "added": 1728619302000,
+          "file": {
+            "name": "/AuroraStore.apk",
+            "sha256": "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead",
+            "size": 7387686
           },
           "manifest": {
             "nativecode": [
@@ -24,8 +103,109 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.18.2",
-            "versionCode": 146500,
+            "versionName": "4.6.1",
+            "versionCode": 62,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.aurora.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeNet": {}
+          }
+        }
+      }
+    },
+    "org.thoughtcrime.securesms": {
+      "metadata": {
+        "added": 1728619308000,
+        "lastUpdated": 1728619308000
+      },
+      "versions": {
+        "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719": null,
+        "df0de04a24a00b34a609ca43b404e786e63a4d23d568a7a801c5d2aee3036642": {
+          "added": 1728619308000,
+          "file": {
+            "name": "/Signal.apk",
+            "sha256": "df0de04a24a00b34a609ca43b404e786e63a4d23d568a7a801c5d2aee3036642",
+            "size": 100285593
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "7.19.2",
+            "versionCode": 146800,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -263,24 +443,24 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1727841716000,
-        "lastUpdated": 1727841716000
+        "added": 1728964909000,
+        "lastUpdated": 1728964909000
       },
       "versions": {
-        "0c648a055623b88d9e88afb9b2c41972a908ccdf07182a9bd62fc9a008cba17e": null,
-        "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59": {
-          "added": 1727841716000,
+        "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59": null,
+        "d2b3c9147c457f506c28c4681abec026ef2bf69255eafd84dfb61c543fc5bc16": {
+          "added": 1728964909000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59",
-            "size": 101737146
+            "sha256": "d2b3c9147c457f506c28c4681abec026ef2bf69255eafd84dfb61c543fc5bc16",
+            "size": 101803142
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "115.2.1-release (13.5.6)",
-            "versionCode": 2016047547,
+            "versionName": "115.2.1-release (13.5.8)",
+            "versionCode": 2016050187,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 33
