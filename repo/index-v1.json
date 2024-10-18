@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1727928091000,
+    "timestamp": 1729224107000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -26,7 +26,7 @@
         "Default"
       ],
       "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
-      "suggestedVersionCode": "60",
+      "suggestedVersionCode": "62",
       "description": "This ''Aurora Store'' is a complete rewrite, replacing https://f-droid.org/packages/com.dragons.aurora.\n\nAurora Store is an alternate to Google's Play Store, with an elegant design,\nusing Aurora you can download apps, update existing apps, search for apps,\nget details about in-app trackers, spoof your location and much more.",
       "donate": "https://www.paypal.me/whyorean",
       "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
@@ -34,9 +34,9 @@
       "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
       "translation": "https://poeditor.com/join/project/54swaCpFXJ",
       "webSite": "http://auroraoss.com",
-      "added": 1725986227000,
+      "added": 1728619302000,
       "packageName": "com.aurora.store",
-      "lastUpdated": 1725986227000,
+      "lastUpdated": 1728619302000,
       "localized": {
         "de": {
           "summary": "Ein Google Playstore-Client"
@@ -624,15 +624,15 @@
         "Default"
       ],
       "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
-      "suggestedVersionCode": "154",
+      "suggestedVersionCode": "155",
       "description": "MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,\nsearching, form editing and more. It also reads OpenXPS and CBZ (comic book)\ndocuments.",
       "issueTracker": "https://bugs.ghostscript.com",
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
       "webSite": "https://mupdf.com",
-      "added": 1725986237000,
+      "added": 1728273696000,
       "packageName": "com.artifex.mupdf.viewer.app",
-      "lastUpdated": 1725986237000,
+      "lastUpdated": 1728273696000,
       "localized": {
         "de": {
           "summary": "Leichtgewichtiger Dokumentenbetrachter"
@@ -1042,15 +1042,15 @@
         "Navigation",
         "Default"
       ],
-      "suggestedVersionCode": "24090807",
+      "suggestedVersionCode": "24100805",
       "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
       "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
       "webSite": "https://organicmaps.app/",
-      "added": 1726632102000,
+      "added": 1728964905000,
       "packageName": "app.organicmaps",
-      "lastUpdated": 1726632102000,
+      "lastUpdated": 1728964905000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1072,7 +1072,7 @@
         "Default"
       ],
       "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
-      "suggestedVersionCode": "173000",
+      "suggestedVersionCode": "176000",
       "description": "RiseupVPN is an application to provide easy and secure encrypted communication.\nThe app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is\npreconfigured with one trusted provider\u2014the Riseup collective\u2014and allows\nanonymous VPN usage without any manual setup.\n\nBy encrypting and securely routing all your network traffic through Riseup\u2019s\nservers, RiseupVPN is able to prevent many forms of censorship and surveillance.",
       "donate": "https://riseup.net/vpn/donate",
       "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
@@ -1080,9 +1080,9 @@
       "sourceCode": "https://0xacab.org/leap/bitmask_android",
       "translation": "https://www.transifex.com/projects/p/bitmask-android",
       "webSite": "https://riseup.net/",
-      "added": 1725986248000,
+      "added": 1728446509000,
       "packageName": "se.leap.riseupvpn",
-      "lastUpdated": 1725986248000,
+      "lastUpdated": 1728446509000,
       "localized": {
         "de": {
           "summary": "Sicheres VPN mit Bitmask"
@@ -1231,16 +1231,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "146500",
+      "suggestedVersionCode": "146800",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1727841712000,
+      "added": 1728619308000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1727841712000,
+      "lastUpdated": 1728619308000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1261,7 +1261,7 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "2016047547",
+      "suggestedVersionCode": "2016050187",
       "description": "Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you. Any cookies automatically clear when you\u2019re done browsing.\n\nDEFEND AGAINST SURVEILLANCE\nTor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you\u2019re using Tor.\n\nRESIST FINGERPRINTING\nTor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.\n\nMULTI-LAYERED ENCRYPTION\nWhen you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works:\n\nBROWSE FREELY\nWith Tor Browser for Android, you are free to access sites your local internet service provider may have blocked.\n\nTHIS APP IS MADE POSSIBLE BY DONORS LIKE YOU\nTor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation. Give before the end of 2019, and Mozilla will match your gift: https://donate.torproject.org/donate/donate-tbi-gp\n\nLearn more about Tor Browser for Android:\n- Need help? Visit https://support.torproject.org. The manual is coming soon.\n- Learn more about what\u2019s happening at Tor: https://blog.torproject.org\n- Follow the Tor Project on Twitter: https://twitter.com/torproject\n\nABOUT THE TOR PROJECT\nThe Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project\u2019s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.\n",
       "donate": "https://donate.torproject.org/",
       "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
@@ -1270,9 +1270,9 @@
       "name": "Tor Browser for Android",
       "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "added": 1727841716000,
+      "added": 1728964909000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1727841716000,
+      "lastUpdated": 1728964909000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -1283,9 +1283,9 @@
   "packages": {
     "app.organicmaps": [
       {
-        "added": 1726632102000,
+        "added": 1728964905000,
         "apkName": "OrganicMaps.apk",
-        "hash": "e39f017a1a9f9a6d1ecae7c95e902e1ba94cdcc24994dcf0be2140f608c90da3",
+        "hash": "71c6a8dc7b1d96062765b15abfaf65bb09d8857a10ebc2b3d10ee1c8ca504b19",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1296,8 +1296,8 @@
         "packageName": "app.organicmaps",
         "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
         "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
-        "size": 57927085,
-        "targetSdkVersion": 34,
+        "size": 57763444,
+        "targetSdkVersion": 35,
         "uses-permission": [
           [
             "android.permission.ACCESS_COARSE_LOCATION",
@@ -1356,8 +1356,8 @@
             null
           ]
         ],
-        "versionCode": 24090807,
-        "versionName": "2024.09.08-7-FDroid"
+        "versionCode": 24100805,
+        "versionName": "2024.10.08-5-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
@@ -1500,9 +1500,9 @@
     ],
     "com.artifex.mupdf.viewer.app": [
       {
-        "added": 1725986237000,
+        "added": 1728273696000,
         "apkName": "MuPDFviewer.apk",
-        "hash": "42c13d874814b585f2eca1a71c9c0d2bcdc010f43e43e96ad84e8fa3089e331e",
+        "hash": "f6d28a9646ce7e5523a3d4f5f6a968c9e36e2f01c52c3abd5aa7ed6c1ce04a81",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1521,22 +1521,28 @@
             null
           ]
         ],
-        "versionCode": 154,
-        "versionName": "1.24.9a"
+        "versionCode": 155,
+        "versionName": "1.24.10a"
       }
     ],
     "com.aurora.store": [
       {
-        "added": 1725986227000,
+        "added": 1728619302000,
         "apkName": "AuroraStore.apk",
-        "hash": "5a5c56f59194d973d335a534b0e359659e1bf49a8ecb8188bf8c2f8d6c68ffaa",
+        "hash": "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead",
         "hashType": "sha256",
         "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "com.aurora.store",
         "sig": "6b9ac7fa32e48b1b97796cc2f0ffd1cb",
         "signer": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532",
-        "size": 7046295,
-        "targetSdkVersion": 34,
+        "size": 7387686,
+        "targetSdkVersion": 35,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -1619,8 +1625,8 @@
             null
           ]
         ],
-        "versionCode": 60,
-        "versionName": "4.5.1"
+        "versionCode": 62,
+        "versionName": "4.6.1"
       }
     ],
     "com.fsck.k9": [
@@ -2410,9 +2416,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1727841712000,
+        "added": 1728619308000,
         "apkName": "Signal.apk",
-        "hash": "ce64a9dacdc9bde4b9e184fb1911b504f8fc8ad2f60d0e30e65274d76f1b5719",
+        "hash": "df0de04a24a00b34a609ca43b404e786e63a4d23d568a7a801c5d2aee3036642",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2424,7 +2430,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 100055992,
+        "size": 100285593,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2720,8 +2726,8 @@
             null
           ]
         ],
-        "versionCode": 146500,
-        "versionName": "7.18.2"
+        "versionCode": 146800,
+        "versionName": "7.19.2"
       }
     ],
     "org.torproject.android": [
@@ -2787,9 +2793,9 @@
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1727841716000,
+        "added": 1728964909000,
         "apkName": "TorBrowser.apk",
-        "hash": "82bb602b5dc9e42f0e513649ff102754128aebc9dc62965702e0c7ab8962ef59",
+        "hash": "d2b3c9147c457f506c28c4681abec026ef2bf69255eafd84dfb61c543fc5bc16",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2798,7 +2804,7 @@
         "packageName": "org.torproject.torbrowser",
         "sig": "31e36334f34e126a0e0d1efd29b84fb2",
         "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
-        "size": 101737146,
+        "size": 101803142,
         "targetSdkVersion": 33,
         "uses-permission": [
           [
@@ -2904,15 +2910,15 @@
             null
           ]
         ],
-        "versionCode": 2016047547,
-        "versionName": "115.2.1-release (13.5.6)"
+        "versionCode": 2016050187,
+        "versionName": "115.2.1-release (13.5.8)"
       }
     ],
     "se.leap.riseupvpn": [
       {
-        "added": 1725986248000,
+        "added": 1728446509000,
         "apkName": "RiseupVPN.apk",
-        "hash": "8b85ef9f718aa037da810ce72e9f86f20a5195c11a31c52c0e4ef5e6dbd102fe",
+        "hash": "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2924,7 +2930,7 @@
         "packageName": "se.leap.riseupvpn",
         "sig": "93382ad36b0a32133bb7790999ec1107",
         "signer": "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2",
-        "size": 60903816,
+        "size": 63725960,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2984,8 +2990,8 @@
             null
           ]
         ],
-        "versionCode": 173000,
-        "versionName": "1.3.1"
+        "versionCode": 176000,
+        "versionName": "1.4.1"
       }
     ],
     "us.spotco.malwarescanner": [
