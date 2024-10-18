@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a0838b2c_672c81e7",
+        "filename": "repo/index-v2.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 509,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-10-18T19:21:23Z",
+      "side": 1,
+      "message": "Does Aurora Store have native code now?",
+      "revId": "c014feb1f2a6d8fe955b45e3f94f6e5b4392512d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
