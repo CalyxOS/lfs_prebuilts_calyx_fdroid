@@ -16,6 +16,24 @@
       "message": "Does Aurora Store have native code now?",
       "revId": "c014feb1f2a6d8fe955b45e3f94f6e5b4392512d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8b9ab61e_1fa82da6",
+        "filename": "repo/index-v2.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 509,
+      "author": {
+        "id": 1000065
+      },
+      "writtenOn": "2024-10-19T08:25:56Z",
+      "side": 1,
+      "message": "Nope, it doesn\u0027t",
+      "parentUuid": "a0838b2c_672c81e7",
+      "revId": "c014feb1f2a6d8fe955b45e3f94f6e5b4392512d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
