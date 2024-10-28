@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1730088084" url="file:///product/fdroid/repo" version="20002">
+	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1730146171" url="file:///product/fdroid/repo" version="20002">
 		<description>This is a repository of apps to be used with CalyxOS. It is installed
 to the system partition, and meant to be used to initially install
 apps when offline. It contains a limited number of applications deemed
@@ -263,6 +263,54 @@ For more information and a list of tested servers/services, have a look at the W
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
+	<application id="org.fdroid.fdroid">
+		<id>org.fdroid.fdroid</id>
+		<added>2024-10-28</added>
+		<lastupdated>2024-10-28</lastupdated>
+		<name>F-Droid</name>
+		<summary>The app store that respects freedom and privacy</summary>
+		<desc>F-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.
+
+It connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.
+
+Android itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:
+
+* Get notified when updates are available
+* Optionally download and install updates automatically
+* Keep track of older and beta versions
+* Filter out apps incompatible with the device
+* Find apps via categories and searchable descriptions
+* Access associated URLs for donations, source code etc.
+* Stay safe by checking repo index signatures and APK hashes
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>System,Hidden</categories>
+		<category>System</category>
+		<web>https://f-droid.org</web>
+		<source>https://gitlab.com/fdroid/fdroidclient</source>
+		<tracker>https://gitlab.com/fdroid/fdroidclient/issues</tracker>
+		<changelog>https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md</changelog>
+		<donate>https://f-droid.org/donate</donate>
+		<openCollective>F-Droid-Euro</openCollective>
+		<marketversion></marketversion>
+		<marketvercode>1020051</marketvercode>
+		<package>
+			<version>1.20.1</version>
+			<versioncode>1020051</versioncode>
+			<apkname>F-Droid.apk</apkname>
+			<hash type="sha256">a2aff2d624995878fbbb522d60a3465747f119cddb4051180ab9267a076ff18a</hash>
+			<size>11847160</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-10-28</added>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BLUETOOTH_SCAN,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,ENFORCE_UPDATE_OWNERSHIP,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,NFC,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USB_PERMISSION,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.BLUETOOTH"/>
+			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH_ADMIN"/>
+			<uses-permission maxSdkVersion="22" name="android.permission.USB_PERMISSION"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
 	<application id="org.fdroid.basic">
 		<id>org.fdroid.basic</id>
 		<added>2024-10-25</added>
@@ -456,8 +504,8 @@ documents.</desc>
 	</application>
 	<application id="com.nextcloud.client">
 		<id>com.nextcloud.client</id>
-		<added>2024-10-25</added>
-		<lastupdated>2024-10-25</lastupdated>
+		<added>2024-10-28</added>
+		<lastupdated>2024-10-28</lastupdated>
 		<name>Nextcloud</name>
 		<summary>Synchronization client</summary>
 		<desc>A safe home for all your data. Access &amp; share your files, calendars, contacts,
@@ -480,16 +528,16 @@ mail &amp; more from any device, on your terms. This is the official Android app
 		<changelog>https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md</changelog>
 		<donate>https://nextcloud.com/include/</donate>
 		<marketversion></marketversion>
-		<marketvercode>30300290</marketvercode>
+		<marketvercode>30300390</marketvercode>
 		<package>
-			<version>3.30.2</version>
-			<versioncode>30300290</versioncode>
+			<version>3.30.3</version>
+			<versioncode>30300390</versioncode>
 			<apkname>Nextcloud.apk</apkname>
-			<hash type="sha256">ae37e6257b8cb7afdff51becc6f3045b83a765426a310f2287265c926d3fcb05</hash>
+			<hash type="sha256">1de43312383786d2a08a088d53819d6e52c8afc1542e9e34ab64b1b63ab0c232</hash>
 			<size>38669323</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-10-25</added>
+			<added>2024-10-28</added>
 			<sig>0f8ca80a9abcc3452f65222ed09819a9</sig>
 			<permissions>ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,MANAGE_EXTERNAL_STORAGE,NFC,POST_NOTIFICATIONS,READ_CALENDAR,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_CREDENTIALS,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.nextcloud.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -664,8 +712,8 @@ available from the Mozilla addon site).
 	</application>
 	<application id="app.organicmaps">
 		<id>app.organicmaps</id>
-		<added>2024-10-25</added>
-		<lastupdated>2024-10-25</lastupdated>
+		<added>2024-10-28</added>
+		<lastupdated>2024-10-28</lastupdated>
 		<name>Organic Maps</name>
 		<summary>Offline maps with turn-by-turn navigation</summary>
 		<desc>Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.
@@ -684,16 +732,16 @@ available from the Mozilla addon site).
 		<source>https://github.com/organicmaps/organicmaps/tree/HEAD</source>
 		<tracker>https://github.com/organicmaps/organicmaps/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>24100805</marketvercode>
+		<marketvercode>24102302</marketvercode>
 		<package>
-			<version>2024.10.08-5-FDroid</version>
-			<versioncode>24100805</versioncode>
+			<version>2024.10.23-2-FDroid</version>
+			<versioncode>24102302</versioncode>
 			<apkname>OrganicMaps.apk</apkname>
-			<hash type="sha256">71c6a8dc7b1d96062765b15abfaf65bb09d8857a10ebc2b3d10ee1c8ca504b19</hash>
-			<size>57763444</size>
+			<hash type="sha256">7191583a1a56a38181ec860e1e0c61069a5070f92edb6466ecf8a22497acd2cd</hash>
+			<size>57894068</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>35</targetSdkVersion>
-			<added>2024-10-25</added>
+			<added>2024-10-28</added>
 			<sig>472167dd9f46ae80fec5f3a3e8f47a81</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,androidx.car.app.ACCESS_SURFACE,androidx.car.app.NAVIGATION_TEMPLATES,app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>

@@ -12,6 +12,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/diff/1729894076000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1729894076000.json \
     prebuilts/calyx/fdroid/repo/diff/1729915289000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1729915289000.json \
     prebuilts/calyx/fdroid/repo/diff/1730001692000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1730001692000.json \
+    prebuilts/calyx/fdroid/repo/diff/1730088084000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1730088084000.json \
     prebuilts/calyx/fdroid/repo/entry.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.jar \
     prebuilts/calyx/fdroid/repo/entry.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.json \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
@@ -29,6 +30,7 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/org.briarproject.briar.android/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.briarproject.briar.android/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.calyxinstitute.vpn/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.calyxinstitute.vpn/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.fdroid.basic/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.fdroid.basic/en-US/icon.png \
+    prebuilts/calyx/fdroid/repo/org.fdroid.fdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.fdroid.fdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.onionshare.android.fdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.onionshare.android.fdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.openobservatory.ooniprobe/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.openobservatory.ooniprobe/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.thoughtcrime.securesms/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.thoughtcrime.securesms/en-US/icon.png \
@@ -50,6 +52,7 @@ PRODUCT_PACKAGES += \
     Briar \
     CalyxVPN \
     DAVx5 \
+    F-Droid \
     F-DroidBasic \
     GCamPhotosPreview \
     Hypatia \
