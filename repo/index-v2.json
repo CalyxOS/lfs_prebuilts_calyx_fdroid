@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1730146171000,
+    "timestamp": 1730260891000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -2559,14 +2559,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1729894076000,
+        "added": 1730260890000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1729894076000,
+        "lastUpdated": 1730260890000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -2596,19 +2596,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "f81ac7bacafe63309712c6d33d57aa8482b459dc421c86c6b85af3658799cfcc": {
-          "added": 1729894076000,
+        "b4c9d808ecd2b3952a2bdac4df5997ddf27c156fd085e8cad282195c3c69eeaa": {
+          "added": 1730260890000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "f81ac7bacafe63309712c6d33d57aa8482b459dc421c86c6b85af3658799cfcc",
-            "size": 105714793
+            "sha256": "b4c9d808ecd2b3952a2bdac4df5997ddf27c156fd085e8cad282195c3c69eeaa",
+            "size": 105747561
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "14.0 (128.3.0esr)",
-            "versionCode": 2016050562,
+            "versionName": "14.0.1 (128.4.0esr)",
+            "versionCode": 2016052810,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
