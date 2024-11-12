@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1730260891000,
+    "timestamp": 1731384098000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -594,14 +594,14 @@
     },
     "com.fsck.k9": {
       "metadata": {
-        "added": 1729894054000,
+        "added": 1730952094000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
         "issueTracker": "https://github.com/k9mail/k-9/issues",
-        "lastUpdated": 1729894054000,
+        "lastUpdated": 1730952094000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/k9mail/k-9",
         "translation": "https://www.transifex.com/projects/p/k9mail/",
@@ -642,16 +642,22 @@
         "preferredSigner": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
       },
       "versions": {
-        "28271e251431cf3debcc2aa2bf6495d0ceae09a5bd6548d32fbb58bf99f2591b": {
-          "added": 1729894054000,
+        "200377b9be3c9597981fd2797539dbb0246a9553e6cd43f1f157c6043326a4a1": {
+          "added": 1730952094000,
           "file": {
             "name": "/K-9Mail.apk",
-            "sha256": "28271e251431cf3debcc2aa2bf6495d0ceae09a5bd6548d32fbb58bf99f2591b",
-            "size": 10222021
+            "sha256": "200377b9be3c9597981fd2797539dbb0246a9553e6cd43f1f157c6043326a4a1",
+            "size": 10550447
           },
           "manifest": {
-            "versionName": "6.804",
-            "versionCode": 38004,
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "8.0",
+            "versionCode": 39011,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -856,14 +862,14 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1730146168000,
+        "added": 1730952095000,
         "categories": [
           "Internet",
           "Hidden"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1730146168000,
+        "lastUpdated": 1730952095000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -912,12 +918,12 @@
         "preferredSigner": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83"
       },
       "versions": {
-        "1de43312383786d2a08a088d53819d6e52c8afc1542e9e34ab64b1b63ab0c232": {
-          "added": 1730146168000,
+        "bc21cc28e83528eb225428780e956b1dabf2a71841b7eef3f2629924e0783852": {
+          "added": 1730952095000,
           "file": {
             "name": "/Nextcloud.apk",
-            "sha256": "1de43312383786d2a08a088d53819d6e52c8afc1542e9e34ab64b1b63ab0c232",
-            "size": 38669323
+            "sha256": "bc21cc28e83528eb225428780e956b1dabf2a71841b7eef3f2629924e0783852",
+            "size": 38702147
           },
           "manifest": {
             "nativecode": [
@@ -926,8 +932,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "3.30.3",
-            "versionCode": 30300390,
+            "versionName": "3.30.4",
+            "versionCode": 30300490,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 34
@@ -2145,13 +2151,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1729894072000,
+        "added": 1731124888000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1729894072000,
+        "lastUpdated": 1731124888000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -2174,12 +2180,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "63b7501413c13cbe962a9bfa796e72538a6beb9bfdf09adc6b9d4f679b080a5a": {
-          "added": 1729894072000,
+        "0496d047d510dd7c07ae26644ac51778f0221cbca615d76127ad32dc71a2f663": {
+          "added": 1731124888000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "63b7501413c13cbe962a9bfa796e72538a6beb9bfdf09adc6b9d4f679b080a5a",
-            "size": 100294686
+            "sha256": "0496d047d510dd7c07ae26644ac51778f0221cbca615d76127ad32dc71a2f663",
+            "size": 100938304
           },
           "manifest": {
             "nativecode": [
@@ -2188,8 +2194,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.20.2",
-            "versionCode": 147001,
+            "versionName": "7.23.1",
+            "versionCode": 148100,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
