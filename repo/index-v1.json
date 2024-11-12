@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1730260891000,
+    "timestamp": 1731384098000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -899,16 +899,16 @@
         "Default"
       ],
       "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
-      "suggestedVersionCode": "38004",
+      "suggestedVersionCode": "39011",
       "description": "E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do\nOpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings\nand account configurations can be exported so that they can be imported easily\nif you are switching packages/signatures: a file manager will need to be already\ninstalled to achieve this.",
       "issueTracker": "https://github.com/k9mail/k-9/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/k9mail/k-9",
       "translation": "https://www.transifex.com/projects/p/k9mail/",
       "webSite": "https://k9mail.app/",
-      "added": 1729894054000,
+      "added": 1730952094000,
       "packageName": "com.fsck.k9",
-      "lastUpdated": 1729894054000,
+      "lastUpdated": 1730952094000,
       "localized": {
         "de": {
           "summary": "Voll ausgestatteter E-Mail-Client"
@@ -1054,7 +1054,7 @@
         "Hidden"
       ],
       "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "30300390",
+      "suggestedVersionCode": "30300490",
       "description": "A safe home for all your data. Access & share your files, calendars, contacts,\nmail & more from any device, on your terms. This is the official Android app.\n\n'''Features:'''\n\n* Easy, modern interface\n* Upload your files to your Nextcloud server\n* Share your files with others\n* Keep your favorite files and folders synced\n* Instant Upload for photos and videos taken by your device\n* Multi-account support",
       "donate": "https://nextcloud.com/include/",
       "issueTracker": "https://github.com/nextcloud/android/issues",
@@ -1062,9 +1062,9 @@
       "sourceCode": "https://github.com/nextcloud/android",
       "translation": "https://www.transifex.com/nextcloud/nextcloud/",
       "webSite": "https://nextcloud.com",
-      "added": 1730146168000,
+      "added": 1730952095000,
       "packageName": "com.nextcloud.client",
-      "lastUpdated": 1730146168000,
+      "lastUpdated": 1730952095000,
       "localized": {
         "cs": {
           "summary": "Synchroniza\u010dn\u00ed klient"
@@ -1584,16 +1584,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "147001",
+      "suggestedVersionCode": "148100",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1729894072000,
+      "added": 1731124888000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1729894072000,
+      "lastUpdated": 1731124888000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1984,15 +1984,21 @@
     ],
     "com.fsck.k9": [
       {
-        "added": 1729894054000,
+        "added": 1730952094000,
         "apkName": "K-9Mail.apk",
-        "hash": "28271e251431cf3debcc2aa2bf6495d0ceae09a5bd6548d32fbb58bf99f2591b",
+        "hash": "200377b9be3c9597981fd2797539dbb0246a9553e6cd43f1f157c6043326a4a1",
         "hashType": "sha256",
         "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "com.fsck.k9",
         "sig": "4cc8dc4af011320a78e2cae3b5a1fc31",
         "signer": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576",
-        "size": 10222021,
+        "size": 10550447,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2052,8 +2058,8 @@
             null
           ]
         ],
-        "versionCode": 38004,
-        "versionName": "6.804"
+        "versionCode": 39011,
+        "versionName": "8.0"
       }
     ],
     "com.google.android.apps.photos": [
@@ -2110,9 +2116,9 @@
     ],
     "com.nextcloud.client": [
       {
-        "added": 1730146168000,
+        "added": 1730952095000,
         "apkName": "Nextcloud.apk",
-        "hash": "1de43312383786d2a08a088d53819d6e52c8afc1542e9e34ab64b1b63ab0c232",
+        "hash": "bc21cc28e83528eb225428780e956b1dabf2a71841b7eef3f2629924e0783852",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -2124,7 +2130,7 @@
         "packageName": "com.nextcloud.client",
         "sig": "0f8ca80a9abcc3452f65222ed09819a9",
         "signer": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83",
-        "size": 38669323,
+        "size": 38702147,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2264,8 +2270,8 @@
             null
           ]
         ],
-        "versionCode": 30300390,
-        "versionName": "3.30.3"
+        "versionCode": 30300490,
+        "versionName": "3.30.4"
       }
     ],
     "org.breezyweather": [
@@ -2905,9 +2911,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1729894072000,
+        "added": 1731124888000,
         "apkName": "Signal.apk",
-        "hash": "63b7501413c13cbe962a9bfa796e72538a6beb9bfdf09adc6b9d4f679b080a5a",
+        "hash": "0496d047d510dd7c07ae26644ac51778f0221cbca615d76127ad32dc71a2f663",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2919,7 +2925,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 100294686,
+        "size": 100938304,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3215,8 +3221,8 @@
             null
           ]
         ],
-        "versionCode": 147001,
-        "versionName": "7.20.2"
+        "versionCode": 148100,
+        "versionName": "7.23.1"
       }
     ],
     "org.torproject.android": [
