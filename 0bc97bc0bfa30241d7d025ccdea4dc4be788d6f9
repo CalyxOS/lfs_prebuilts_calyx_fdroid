@@ -34,6 +34,24 @@
       "parentUuid": "3eda3869_db4b85e6",
       "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "72c90748_564abf28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-11-15T22:01:27Z",
+      "side": 1,
+      "message": "Yes, F-Droid only reads `additional_repos.xml` on fresh install.\n\nIn theory we could migrate, but I don\u0027t know how complicated that would be.\nIt\u0027d certainly be useful for other situations though, like adding more repos later.\n\n@t@grobox.de thoughts?",
+      "parentUuid": "1bacb96f_26a625ca",
+      "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
