@@ -16,6 +16,24 @@
       "message": "We can\u0027t change the path of the f-droid repo to avoid breaking existing users.\n\nNeed another way.",
       "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1bacb96f_26a625ca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-11-15T20:14:44Z",
+      "side": 1,
+      "message": "How so? Is the path only read once and never again? If so, could we migrate them?",
+      "parentUuid": "3eda3869_db4b85e6",
+      "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
