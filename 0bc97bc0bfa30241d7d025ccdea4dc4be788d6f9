@@ -52,6 +52,24 @@
       "parentUuid": "1bacb96f_26a625ca",
       "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "959c0965_09cf80c4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2024-11-15T23:12:40Z",
+      "side": 1,
+      "message": "If this is about changing repo location, we could migrate it by changing the repo url in the index. Then after all users have updated their repo and get it from new location, the old one can be removed. If there\u0027s an issue with having a big repo at old location, it could just be a a stub repo mostly just having the new address.",
+      "parentUuid": "72c90748_564abf28",
+      "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
