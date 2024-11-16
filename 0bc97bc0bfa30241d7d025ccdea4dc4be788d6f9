@@ -70,6 +70,24 @@
       "parentUuid": "72c90748_564abf28",
       "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2201eb22_4c184714",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-11-16T10:37:26Z",
+      "side": 1,
+      "message": "Old location: `/product/fdroid/repo` - nothing there right now.\nNew location (this patch): `/product/app/fdroid/repo` - has the change in the index too.\n\nHowever, when you upgrade to a build with the new location, you get an error from F-Droid saying it can\u0027t find the repo at the old location.\n\nHow do we handle this for existing users? \n1. Figure out how to keep using old location\n2. Stub repo - I don\u0027t get how\n3. Have F-Droid client handle changes in `additional_repos.xml`\n\nNote that none of this is too urgent given Android.mk support is still present, and likely will be available for the next release too, so we have some time to come up with a migration, or even just make the old location work somehow.",
+      "parentUuid": "959c0965_09cf80c4",
+      "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
