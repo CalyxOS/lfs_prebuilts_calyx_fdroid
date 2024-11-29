@@ -106,6 +106,24 @@
       "parentUuid": "2201eb22_4c184714",
       "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "db6aae8b_09a84988",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-11-29T20:52:14Z",
+      "side": 1,
+      "message": "I\u0027m still not fully understanding this, hence the late reply.\n\nOld location: `/product/fdroid/repo` will get a stub repo that points to `/new/path`. Ok, so it\u0027s basically copying the new index here as well, just the index, and in theory that could be the stub repo.\n\nNew location: `/new/path` will get the actual repo,\n\nI see what you mean about preferring this over merging `additional_repos.xml` - it\u0027s complicated either way. Overall:\n\n1. We\u0027ll have to move away from `Android.mk` eventually. It\u0027s fine today, but better early.\n2. We may need `additional_repos.xml` merging for other things too. Should list those first, though\n3. We can still try to have `Android.bp` place the repo in the same old location and avoid the issue in the first place\n4. Otherwise I guess we\u0027ll try the above mentioned stub repo approach, see how that goes.\n\n\nFor now, not worth directly jumping to 4 without figuring out 2 and then 3 first.",
+      "parentUuid": "1ad9785d_8bac655a",
+      "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
