@@ -124,6 +124,24 @@
       "parentUuid": "1ad9785d_8bac655a",
       "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1bc4441d_65f609f2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-12-02T23:08:13Z",
+      "side": 1,
+      "message": "I tried 3, but I couldn\u0027t find any way to make it work. It has tight limitations as to where things can be placed. `Android.mk` has much less limitations in general",
+      "parentUuid": "db6aae8b_09a84988",
+      "revId": "0bc97bc0bfa30241d7d025ccdea4dc4be788d6f9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
