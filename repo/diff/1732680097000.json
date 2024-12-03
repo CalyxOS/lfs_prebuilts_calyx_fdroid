@@ -1,21 +1,21 @@
 {
   "repo": {
-    "timestamp": 1731384098000
+    "timestamp": 1733198487000
   },
   "packages": {
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1731124888000,
-        "lastUpdated": 1731124888000
+        "added": 1732766497000,
+        "lastUpdated": 1732766497000
       },
       "versions": {
-        "635306ef0f7d30169649642d0b749582075501e81e8c07446f796cf74daa9032": null,
-        "0496d047d510dd7c07ae26644ac51778f0221cbca615d76127ad32dc71a2f663": {
-          "added": 1731124888000,
+        "17abaa5e1f844e4d0cacba8571f404680a8660718f246faba70abd94c3e3b3fe": null,
+        "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046": {
+          "added": 1732766497000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "0496d047d510dd7c07ae26644ac51778f0221cbca615d76127ad32dc71a2f663",
-            "size": 100938304
+            "sha256": "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046",
+            "size": 102208536
           },
           "manifest": {
             "nativecode": [
@@ -24,8 +24,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.23.1",
-            "versionCode": 148100,
+            "versionName": "7.26.1",
+            "versionCode": 148900,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
