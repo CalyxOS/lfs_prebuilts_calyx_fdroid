@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1733198487000,
+    "timestamp": 1733889701000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -319,16 +319,16 @@
         "Default"
       ],
       "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
-      "suggestedVersionCode": "404030200",
+      "suggestedVersionCode": "404040002",
       "donate": "https://www.davx5.com/donate",
       "issueTracker": "https://www.davx5.com/forums",
       "license": "GPL-3.0-only",
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1729894050000,
+      "added": 1733457701000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1729894050000,
+      "lastUpdated": 1733457701000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -411,7 +411,7 @@
         "Hidden"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
-      "suggestedVersionCode": "1020051",
+      "suggestedVersionCode": "1021051",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
       "liberapay": "F-Droid-Data",
@@ -420,9 +420,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1730146166000,
+      "added": 1733544097000,
       "packageName": "org.fdroid.fdroid",
-      "lastUpdated": 1730146166000,
+      "lastUpdated": 1733544097000,
       "localized": {
         "af": {
           "description": "F-Droid is 'n installeerbare katalogus van gratis sagteware\nprogramme vir Android. Die F-Droid-kli\u00ebnt-app maak dit\nmaklik om te blaai, te installeer en op hoogte te bly van opdaterings op u toestel.\n\nDit kan gekoppel word aan enige F-Droid-versoenbare bewaarplekke. Die standaardrepos\nword gehuisves by f-droid.org, wat slegs bona fide libre sagteware bevat.\n\nAndroid self is oop in die sin dat u vry is om APK's te installeer\nwaar u ook al wil, maar daar is baie goeie redes om dit te gebruik\nF-Droid as u sagteware-programbestuurder:\n\n* Word in kennis gestel wanneer opdaterings beskikbaar is\n* Aflaai en installeer opdaterings outomaties\n* Hou ouer en beta-weergawes dop\n* Filtreer programme uit wat nie met die toestel versoenbaar is nie\n* Vind programme via kategorie\u00eb en soekbare beskrywings\n* Toegang tot geassosieerde URL's vir donasies, bronkode ens.\n* Bly veilig deur repo-indekshandtekeninge en APK-hakies na te gaan\n",
@@ -764,7 +764,7 @@
         "AlwaysInstall"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "1020051",
+      "suggestedVersionCode": "1021051",
       "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
@@ -775,9 +775,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1729894052000,
+      "added": 1733544098000,
       "packageName": "org.fdroid.basic",
-      "lastUpdated": 1729894052000,
+      "lastUpdated": 1733544098000,
       "localized": {
         "ar": {
           "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
@@ -859,15 +859,15 @@
         "Security",
         "Default"
       ],
-      "suggestedVersionCode": "312",
+      "suggestedVersionCode": "314",
       "donate": "https://divested.dev/donate",
       "issueTracker": "https://gitlab.com/divested-mobile/hypatia/issues",
       "liberapay": "Tad",
       "license": "GPL-3.0-or-later",
       "sourceCode": "https://gitlab.com/divested-mobile/hypatia",
-      "added": 1729894052000,
+      "added": 1733889695000,
       "packageName": "us.spotco.malwarescanner",
-      "lastUpdated": 1729894052000,
+      "lastUpdated": 1733889695000,
       "localized": {
         "de": {
           "description": "<p>Hypatia ist der weltweit erste FOSS-Malwarescanner f\u00fcr Android. Er basiert auf Signatur-Datenbanken im Stil von ClamAV.</p>\n\n<b>Funktionen</b>\n<ul>\n<li>Nahezu keine Auswirkungen auf den Akku: Sie werden keinerlei Auswirkungen auf den Akku bemerken</li>\n<li>Extrem schnell: kleine Dateien (1MB) werden in 20ms gescannt, gro\u00dfe Dateien (40MB) in 1000ms.</li>\n<li>Speichereffizient: mit den standardm\u00e4\u00dfig aktivierten Datenbanken verbraucht Hypatia weniger als 120MB.</li>\n<li>Regelm\u00e4\u00dfiger Scan: erlaubt die Auswahl von /system, internem Speicher, externem Speicher und installierten Apps</li>\n<li>Echtzeit-Scanner: kann Malware in Echtzeit beim Schreiben/Umbenennen im internen Speicher erkennen</li>\n<li>Vollst\u00e4ndig offline: Das Internet wird nur zum Herunterladen von Signatur-Datenbanken verwendet, die Dateien verlassen niemals Ihr Ger\u00e4t</li>\n<li>Persistenz: automatischer Neustart beim Booten/Update</li>\n<li>Winzige Codebasis: mit weniger als 1000 sloc kann sie sogar von jemandem mit grundlegenden Programmierkenntnissen gepr\u00fcft werden</li>\n<li>Minimale Abh\u00e4ngigkeiten: die App verwendet nur Bibliotheken, wenn es n\u00f6tig ist</li>\n<li>Signatur-Datenbanken k\u00f6nnen auf Wunsch des Benutzers aktiviert/deaktiviert werden</li>\n</ul>\n",
@@ -977,15 +977,15 @@
         "Default"
       ],
       "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
-      "suggestedVersionCode": "156",
+      "suggestedVersionCode": "161",
       "description": "MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,\nsearching, form editing and more. It also reads OpenXPS and CBZ (comic book)\ndocuments.",
       "issueTracker": "https://bugs.ghostscript.com",
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
       "webSite": "https://mupdf.com",
-      "added": 1732680091000,
+      "added": 1733457701000,
       "packageName": "com.artifex.mupdf.viewer.app",
-      "lastUpdated": 1732680091000,
+      "lastUpdated": 1733457701000,
       "localized": {
         "de": {
           "summary": "Leichtgewichtiger Dokumentenbetrachter"
@@ -1054,7 +1054,7 @@
         "Hidden"
       ],
       "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "30300590",
+      "suggestedVersionCode": "30300690",
       "description": "A safe home for all your data. Access & share your files, calendars, contacts,\nmail & more from any device, on your terms. This is the official Android app.\n\n'''Features:'''\n\n* Easy, modern interface\n* Upload your files to your Nextcloud server\n* Share your files with others\n* Keep your favorite files and folders synced\n* Instant Upload for photos and videos taken by your device\n* Multi-account support",
       "donate": "https://nextcloud.com/include/",
       "issueTracker": "https://github.com/nextcloud/android/issues",
@@ -1062,9 +1062,9 @@
       "sourceCode": "https://github.com/nextcloud/android",
       "translation": "https://www.transifex.com/nextcloud/nextcloud/",
       "webSite": "https://nextcloud.com",
-      "added": 1732161688000,
+      "added": 1733889697000,
       "packageName": "com.nextcloud.client",
-      "lastUpdated": 1732161688000,
+      "lastUpdated": 1733889697000,
       "localized": {
         "cs": {
           "summary": "Synchroniza\u010dn\u00ed klient"
@@ -1185,16 +1185,16 @@
         "Default"
       ],
       "changelog": "https://github.com/ooni/probe-android/releases",
-      "suggestedVersionCode": "122",
+      "suggestedVersionCode": "123",
       "description": "Are websites and social media apps blocked? Is your network unusually slow?\nRun OONI Probe to find out!\n\nWith this app, you will examine the blocking of websites and instant\nmessaging apps, measure your network\u2019s speed and performance, and check\nwhether systems that could be responsible for censorship and surveillance\nare in your network.\n\nOONI Probe is developed by the Open Observatory of Network Interference\n(OONI), a free software project (under The Tor Project) that aims to uncover\ninternet censorship around the world.\n\nSince 2012, OONI\u2019s global community has collected millions of network\nmeasurements from more than 200 countries, shedding light on multiple cases\nof network interference.\n\n'''Collect evidence of internet censorship'''\nYou can check whether and how websites and instant messaging apps are\nblocked. The network measurement data you will collect may serve as evidence\nof internet censorship.\n\n'''Detect systems responsible for censorship and surveillance'''\nOONI Probe tests are also designed to uncover the presence of systems\n(middleboxes) that could be responsible for censorship and surveillance.\n\n'''Measure the speed and performance of your network'''\nYou can measure the speed and performance of your network by running OONI\u2019s\nimplementation of the Network Diagnostic Test (NDT). You can also measure\nvideo streaming performance with the Dynamic Adaptive Streaming over HTTP\n(DASH) test.\n\n'''Open data'''\nOONI publishes network measurement data because open data allows third\nparties to verify OONI findings, conduct independent studies, and answer\nother research questions. Openly publishing OONI data also helps increase\ntransparency of internet censorship around the world. You can explore and\ndownload OONI data here: https://ooni.io/data/\n\n'''Free software'''\nAll OONI Probe tests (including our NDT and DASH implementations), are based\non free and open source software. You can find OONI software projects\n<a href=\"https://github.com/ooni\">on Github</a>. Curious to learn how OONI Probe tests\nwork? Learn more <a href=\"https://ooni.io/nettest\">here</a>.\n\nTo receive updates from the OONI-verse,\n<a href=\"https://twitter.com/OpenObservatory\">follow us on Twitter</a>\n\nDisclaimer: Running OONI Probe might be against the terms of service of your ISP\nor legally questionable in your country. By running OONI Probe, you will connect\nto web services which might be banned. The OONI project will publish data\nsubmitted by probes, possibly including your IP address or other identifying\ninformation. In addition, your use of OONI Probe will be clear to anyone who has\naccess to your computer, and to anyone who can monitor your Internet connection\n(such as your employer, ISP or government). Learn more about potential risks\n<a href=\"https://ooni.torproject.org/about/risks\">here</a>",
       "issueTracker": "https://github.com/ooni/probe-android/issues",
       "license": "BSD-2-Clause",
       "sourceCode": "https://github.com/ooni/probe-android",
       "translation": "https://www.transifex.com/otf/ooniprobe/",
       "webSite": "https://ooni.torproject.org/",
-      "added": 1729894059000,
+      "added": 1733889700000,
       "packageName": "org.openobservatory.ooniprobe",
-      "lastUpdated": 1729894059000,
+      "lastUpdated": 1733889700000,
       "localized": {
         "de": {
           "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
@@ -1395,15 +1395,15 @@
         "Navigation",
         "Default"
       ],
-      "suggestedVersionCode": "24111207",
+      "suggestedVersionCode": "24112712",
       "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
       "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
       "webSite": "https://organicmaps.app/",
-      "added": 1731643290000,
+      "added": 1733457704000,
       "packageName": "app.organicmaps",
-      "lastUpdated": 1731643290000,
+      "lastUpdated": 1733457704000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1636,9 +1636,9 @@
   "packages": {
     "app.organicmaps": [
       {
-        "added": 1731643290000,
+        "added": 1733457704000,
         "apkName": "OrganicMaps.apk",
-        "hash": "2b3181a612478cc307d528903630749e8aa9255eb84c132afcaecffc48398b69",
+        "hash": "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1649,7 +1649,7 @@
         "packageName": "app.organicmaps",
         "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
         "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
-        "size": 57906356,
+        "size": 58046211,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1709,15 +1709,15 @@
             null
           ]
         ],
-        "versionCode": 24111207,
-        "versionName": "2024.11.12-7-FDroid"
+        "versionCode": 24112712,
+        "versionName": "2024.11.27-12-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1729894050000,
+        "added": 1733457701000,
         "apkName": "DAVx5.apk",
-        "hash": "27abc48a8c6d9cfd1582c904b853190ab0263b36232c274f8f79549e320d50ef",
+        "hash": "617930268be1d76be3c35e7babe4fb4a8ff6050343fd8d668437298166205d34",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1729,7 +1729,7 @@
         "packageName": "at.bitfire.davdroid",
         "sig": "03542175324d067b4c36582242f8aecc",
         "signer": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707",
-        "size": 16514859,
+        "size": 16514613,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1767,18 +1767,6 @@
           [
             "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
             null
-          ],
-          [
-            "android.permission.AUTHENTICATE_ACCOUNTS",
-            22
-          ],
-          [
-            "android.permission.GET_ACCOUNTS",
-            22
-          ],
-          [
-            "android.permission.MANAGE_ACCOUNTS",
-            22
           ],
           [
             "android.permission.READ_CONTACTS",
@@ -1847,15 +1835,15 @@
             null
           ]
         ],
-        "versionCode": 404030200,
-        "versionName": "4.4.3.2-ose"
+        "versionCode": 404040002,
+        "versionName": "4.4.4-ose"
       }
     ],
     "com.artifex.mupdf.viewer.app": [
       {
-        "added": 1732680091000,
+        "added": 1733457701000,
         "apkName": "MuPDFviewer.apk",
-        "hash": "ff043ec7f3b9929f004ce69d8f9f729215347c4974b87ec324558715966dec94",
+        "hash": "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1866,7 +1854,7 @@
         "packageName": "com.artifex.mupdf.viewer.app",
         "sig": "5f189df9c7482a659154c71fa1c0a45f",
         "signer": "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce",
-        "size": 12930421,
+        "size": 13098357,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -1874,8 +1862,8 @@
             null
           ]
         ],
-        "versionCode": 156,
-        "versionName": "1.24.11a"
+        "versionCode": 161,
+        "versionName": "1.25.1a"
       }
     ],
     "com.aurora.store": [
@@ -2116,9 +2104,9 @@
     ],
     "com.nextcloud.client": [
       {
-        "added": 1732161688000,
+        "added": 1733889697000,
         "apkName": "Nextcloud.apk",
-        "hash": "50535ea75a05edce6b8db430e8b84f54948026a909ddd30a95ca05f41d186810",
+        "hash": "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -2130,7 +2118,7 @@
         "packageName": "com.nextcloud.client",
         "sig": "0f8ca80a9abcc3452f65222ed09819a9",
         "signer": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83",
-        "size": 38792259,
+        "size": 38820931,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2270,8 +2258,8 @@
             null
           ]
         ],
-        "versionCode": 30300590,
-        "versionName": "3.30.5"
+        "versionCode": 30300690,
+        "versionName": "3.30.6"
       }
     ],
     "org.breezyweather": [
@@ -2566,15 +2554,15 @@
     ],
     "org.fdroid.basic": [
       {
-        "added": 1729894052000,
+        "added": 1733544098000,
         "apkName": "F-DroidBasic.apk",
-        "hash": "5425d5b9493046044f22bf3ec559816d20d8cb4c8b16ffc8cf82eeb4344ad9c5",
+        "hash": "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "packageName": "org.fdroid.basic",
         "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
         "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
-        "size": 10987602,
+        "size": 11049098,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2626,6 +2614,10 @@
             null
           ],
           [
+            "org.fdroid.basic.permission.UPDATE_REPOS",
+            null
+          ],
+          [
             "android.permission.INTERNET",
             null
           ],
@@ -2646,21 +2638,21 @@
             28
           ]
         ],
-        "versionCode": 1020051,
-        "versionName": "1.20.1"
+        "versionCode": 1021051,
+        "versionName": "1.21.1"
       }
     ],
     "org.fdroid.fdroid": [
       {
-        "added": 1730146166000,
+        "added": 1733544097000,
         "apkName": "F-Droid.apk",
-        "hash": "a2aff2d624995878fbbb522d60a3465747f119cddb4051180ab9267a076ff18a",
+        "hash": "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "packageName": "org.fdroid.fdroid",
         "sig": "9063aaadfff9cfd811a9c72fb5012f28",
         "signer": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab",
-        "size": 11847160,
+        "size": 11904560,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2764,6 +2756,10 @@
             null
           ],
           [
+            "org.fdroid.fdroid.permission.UPDATE_REPOS",
+            null
+          ],
+          [
             "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
             null
           ],
@@ -2778,8 +2774,8 @@
             null
           ]
         ],
-        "versionCode": 1020051,
-        "versionName": "1.20.1"
+        "versionCode": 1021051,
+        "versionName": "1.21.1"
       }
     ],
     "org.onionshare.android.fdroid": [
@@ -2843,9 +2839,9 @@
     ],
     "org.openobservatory.ooniprobe": [
       {
-        "added": 1729894059000,
+        "added": 1733889700000,
         "apkName": "OONIProbe.apk",
-        "hash": "40b2e7bfee70f85ac47d76fb17cd62e52535678e59f80749c5b542ee6d72ae06",
+        "hash": "0f8d608670c95acf8bdcb42c607c3f8b582204e64918c6787dd2d66606295893",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2857,7 +2853,7 @@
         "packageName": "org.openobservatory.ooniprobe",
         "sig": "a1d02df38f28bbe3af69161786e1d39b",
         "signer": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6",
-        "size": 107237563,
+        "size": 105681302,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2905,8 +2901,8 @@
             null
           ]
         ],
-        "versionCode": 122,
-        "versionName": "4.0.0"
+        "versionCode": 123,
+        "versionName": "4.0.1"
       }
     ],
     "org.thoughtcrime.securesms": [
@@ -3519,15 +3515,15 @@
     ],
     "us.spotco.malwarescanner": [
       {
-        "added": 1729894052000,
+        "added": 1733889695000,
         "apkName": "Hypatia.apk",
-        "hash": "8994bc0b10ef8089835486524966fe9ddfd971265c6ff92183f756cdc5fecc0c",
+        "hash": "7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "us.spotco.malwarescanner",
         "sig": "2921e035b5c0f3015dbab918fd4d0a66",
         "signer": "793660516b62ae8deba66d5e5e4244e0931749ab9f48575b501244ceea858a84",
-        "size": 497970,
+        "size": 559410,
         "targetSdkVersion": 32,
         "uses-permission": [
           [
@@ -3571,8 +3567,8 @@
             null
           ]
         ],
-        "versionCode": 312,
-        "versionName": "3.12"
+        "versionCode": 314,
+        "versionName": "3.14"
       }
     ]
   }
