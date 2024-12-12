@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1733198487000,
+    "timestamp": 1733889701000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,13 +66,13 @@
   "packages": {
     "app.organicmaps": {
       "metadata": {
-        "added": 1731643290000,
+        "added": 1733457704000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1731643290000,
+        "lastUpdated": 1733457704000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
         "webSite": "https://organicmaps.app/",
@@ -95,12 +95,12 @@
         "preferredSigner": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
       },
       "versions": {
-        "2b3181a612478cc307d528903630749e8aa9255eb84c132afcaecffc48398b69": {
-          "added": 1731643290000,
+        "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff": {
+          "added": 1733457704000,
           "file": {
             "name": "/OrganicMaps.apk",
-            "sha256": "2b3181a612478cc307d528903630749e8aa9255eb84c132afcaecffc48398b69",
-            "size": 57906356
+            "sha256": "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff",
+            "size": 58046211
           },
           "manifest": {
             "nativecode": [
@@ -108,8 +108,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2024.11.12-7-FDroid",
-            "versionCode": 24111207,
+            "versionName": "2024.11.27-12-FDroid",
+            "versionCode": 24112712,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -169,14 +169,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1729894050000,
+        "added": 1733457701000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1729894050000,
+        "lastUpdated": 1733457701000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -237,12 +237,12 @@
         "preferredSigner": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       },
       "versions": {
-        "27abc48a8c6d9cfd1582c904b853190ab0263b36232c274f8f79549e320d50ef": {
-          "added": 1729894050000,
+        "617930268be1d76be3c35e7babe4fb4a8ff6050343fd8d668437298166205d34": {
+          "added": 1733457701000,
           "file": {
             "name": "/DAVx5.apk",
-            "sha256": "27abc48a8c6d9cfd1582c904b853190ab0263b36232c274f8f79549e320d50ef",
-            "size": 16514859
+            "sha256": "617930268be1d76be3c35e7babe4fb4a8ff6050343fd8d668437298166205d34",
+            "size": 16514613
           },
           "manifest": {
             "nativecode": [
@@ -251,8 +251,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.4.3.2-ose",
-            "versionCode": 404030200,
+            "versionName": "4.4.4-ose",
+            "versionCode": 404040002,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 35
@@ -289,18 +289,6 @@
               },
               {
                 "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.AUTHENTICATE_ACCOUNTS",
-                "maxSdkVersion": 22
-              },
-              {
-                "name": "android.permission.GET_ACCOUNTS",
-                "maxSdkVersion": 22
-              },
-              {
-                "name": "android.permission.MANAGE_ACCOUNTS",
-                "maxSdkVersion": 22
               },
               {
                 "name": "android.permission.READ_CONTACTS"
@@ -359,14 +347,14 @@
     },
     "com.artifex.mupdf.viewer.app": {
       "metadata": {
-        "added": 1732680091000,
+        "added": 1733457701000,
         "categories": [
           "Reading",
           "Default"
         ],
         "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
         "issueTracker": "https://bugs.ghostscript.com",
-        "lastUpdated": 1732680091000,
+        "lastUpdated": 1733457701000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
         "webSite": "https://mupdf.com",
@@ -406,12 +394,12 @@
         "preferredSigner": "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
       },
       "versions": {
-        "ff043ec7f3b9929f004ce69d8f9f729215347c4974b87ec324558715966dec94": {
-          "added": 1732680091000,
+        "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6": {
+          "added": 1733457701000,
           "file": {
             "name": "/MuPDFviewer.apk",
-            "sha256": "ff043ec7f3b9929f004ce69d8f9f729215347c4974b87ec324558715966dec94",
-            "size": 12930421
+            "sha256": "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6",
+            "size": 13098357
           },
           "manifest": {
             "nativecode": [
@@ -419,8 +407,8 @@
               "armeabi-v7a",
               "x86"
             ],
-            "versionName": "1.24.11a",
-            "versionCode": 156,
+            "versionName": "1.25.1a",
+            "versionCode": 161,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -862,14 +850,14 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1732161688000,
+        "added": 1733889697000,
         "categories": [
           "Internet",
           "Hidden"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1732161688000,
+        "lastUpdated": 1733889697000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -918,12 +906,12 @@
         "preferredSigner": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83"
       },
       "versions": {
-        "50535ea75a05edce6b8db430e8b84f54948026a909ddd30a95ca05f41d186810": {
-          "added": 1732161688000,
+        "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41": {
+          "added": 1733889697000,
           "file": {
             "name": "/Nextcloud.apk",
-            "sha256": "50535ea75a05edce6b8db430e8b84f54948026a909ddd30a95ca05f41d186810",
-            "size": 38792259
+            "sha256": "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41",
+            "size": 38820931
           },
           "manifest": {
             "nativecode": [
@@ -932,8 +920,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "3.30.5",
-            "versionCode": 30300590,
+            "versionName": "3.30.6",
+            "versionCode": 30300690,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 34
@@ -1472,14 +1460,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1729894052000,
+        "added": 1733544098000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1729894052000,
+        "lastUpdated": 1733544098000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1524,16 +1512,16 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "5425d5b9493046044f22bf3ec559816d20d8cb4c8b16ffc8cf82eeb4344ad9c5": {
-          "added": 1729894052000,
+        "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a": {
+          "added": 1733544098000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "5425d5b9493046044f22bf3ec559816d20d8cb4c8b16ffc8cf82eeb4344ad9c5",
-            "size": 10987602
+            "sha256": "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a",
+            "size": 11049098
           },
           "manifest": {
-            "versionName": "1.20.1",
-            "versionCode": 1020051,
+            "versionName": "1.21.1",
+            "versionCode": 1021051,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 34
@@ -1582,6 +1570,9 @@
                 "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
               },
               {
+                "name": "org.fdroid.basic.permission.UPDATE_REPOS"
+              },
+              {
                 "name": "android.permission.INTERNET"
               },
               {
@@ -1604,14 +1595,14 @@
     },
     "org.fdroid.fdroid": {
       "metadata": {
-        "added": 1730146166000,
+        "added": 1733544097000,
         "categories": [
           "System",
           "Hidden"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1730146166000,
+        "lastUpdated": 1733544097000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1823,16 +1814,16 @@
         "preferredSigner": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
       },
       "versions": {
-        "a2aff2d624995878fbbb522d60a3465747f119cddb4051180ab9267a076ff18a": {
-          "added": 1730146166000,
+        "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef": {
+          "added": 1733544097000,
           "file": {
             "name": "/F-Droid.apk",
-            "sha256": "a2aff2d624995878fbbb522d60a3465747f119cddb4051180ab9267a076ff18a",
-            "size": 11847160
+            "sha256": "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef",
+            "size": 11904560
           },
           "manifest": {
-            "versionName": "1.20.1",
-            "versionCode": 1020051,
+            "versionName": "1.21.1",
+            "versionCode": 1021051,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 29
@@ -1921,6 +1912,9 @@
               },
               {
                 "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "org.fdroid.fdroid.permission.UPDATE_REPOS"
               },
               {
                 "name": "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -2031,7 +2025,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1729894059000,
+        "added": 1733889700000,
         "categories": [
           "Internet",
           "Security",
@@ -2039,7 +2033,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1729894059000,
+        "lastUpdated": 1733889700000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -2082,12 +2076,12 @@
         "preferredSigner": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6"
       },
       "versions": {
-        "40b2e7bfee70f85ac47d76fb17cd62e52535678e59f80749c5b542ee6d72ae06": {
-          "added": 1729894059000,
+        "0f8d608670c95acf8bdcb42c607c3f8b582204e64918c6787dd2d66606295893": {
+          "added": 1733889700000,
           "file": {
             "name": "/OONIProbe.apk",
-            "sha256": "40b2e7bfee70f85ac47d76fb17cd62e52535678e59f80749c5b542ee6d72ae06",
-            "size": 107237563
+            "sha256": "0f8d608670c95acf8bdcb42c607c3f8b582204e64918c6787dd2d66606295893",
+            "size": 105681302
           },
           "manifest": {
             "nativecode": [
@@ -2096,8 +2090,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.0.0",
-            "versionCode": 122,
+            "versionName": "4.0.1",
+            "versionCode": 123,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -2862,13 +2856,13 @@
     },
     "us.spotco.malwarescanner": {
       "metadata": {
-        "added": 1729894052000,
+        "added": 1733889695000,
         "categories": [
           "Security",
           "Default"
         ],
         "issueTracker": "https://gitlab.com/divested-mobile/hypatia/issues",
-        "lastUpdated": 1729894052000,
+        "lastUpdated": 1733889695000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/divested-mobile/hypatia",
         "authorName": "Divested Computing Group",
@@ -2904,16 +2898,16 @@
         "preferredSigner": "793660516b62ae8deba66d5e5e4244e0931749ab9f48575b501244ceea858a84"
       },
       "versions": {
-        "8994bc0b10ef8089835486524966fe9ddfd971265c6ff92183f756cdc5fecc0c": {
-          "added": 1729894052000,
+        "7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da": {
+          "added": 1733889695000,
           "file": {
             "name": "/Hypatia.apk",
-            "sha256": "8994bc0b10ef8089835486524966fe9ddfd971265c6ff92183f756cdc5fecc0c",
-            "size": 497970
+            "sha256": "7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da",
+            "size": 559410
           },
           "manifest": {
-            "versionName": "3.12",
-            "versionCode": 312,
+            "versionName": "3.14",
+            "versionCode": 314,
             "usesSdk": {
               "minSdkVersion": 16,
               "targetSdkVersion": 32
