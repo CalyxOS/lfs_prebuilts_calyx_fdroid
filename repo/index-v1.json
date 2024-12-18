@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1733889701000,
+    "timestamp": 1734494491000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -117,14 +117,14 @@
         "Default"
       ],
       "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
-      "suggestedVersionCode": "50208",
+      "suggestedVersionCode": "50300",
       "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
       "license": "LGPL-3.0-only",
       "sourceCode": "https://github.com/breezy-weather/breezy-weather",
       "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
-      "added": 1729894046000,
+      "added": 1734235304000,
       "packageName": "org.breezyweather",
-      "lastUpdated": 1729894046000,
+      "lastUpdated": 1734235304000,
       "localized": {
         "en-US": {
           "description": "Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.\n\nIn the app, you'll find:\n- Real-time weather conditions (temperature, feels like, wind, UV index, humidity, dew point, atmospheric pressure, visibility, cloud cover, ceiling)\n- Daily and hourly forecasts up to 16 days (temperature, air quality, wind, UV index, precipitation, sunshine, feels like)\n- Detailed hourly forecasts (humidity / dew point, pressure, cloud cover, visibility)\n- Precipitation in the next hour\n- Air quality, allergen and ephemeris information\n- Severe weather and precipitation alerts\n\nThe app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability:\n- Automatic dark mode\n- Custom icon packs\n- Large selection of home screen widgets for at-a-glance information\n- Live wallpaper\n\n<b>Sources</b>\nAvailable worldwide weather sources:\n- Open-Meteo\n- AccuWeather\u00b9\n- MET Norway\u00b9\n- OpenWeatherMap\u00b9\u00b2\n- Pirate Weather\u00b9\u00b3\n- HERE\u00b9\u00b3\n- M\u00e9t\u00e9o France\u00b9\n- Danmarks Meteorologiske Institut (DMI)\u00b9\n\nAvailable only-national weather sources:\n- Mixed China sources\u00b9\n- National Weather Service (NWS)\u00b9\n- Bright Sky (DWD)\n- Environment and Climate Change Canada\u00b9\n- Israel Meteorological Service (IMS)\u00b9\n- SMHI\u00b9\n- MET \u00c9ireann\u00b9\n\nAvailable secondary weather sources:\n- WMO Severe Weather Information Centre\u00b9\n- Recosant\u00e9\n- ATMO AuRA\u00b9\n\n\u00b9 Not included in versions with suffix _fdroid\n\u00b2 Often rate-limited\n\u00b3 Requires an API key\n\n<b>Versions</b>\nDepending on your F-Droid repositories, you may be able to download different flavors of Breezy Weather:\n- Versions with no suffix: standard version, fully open source\n- Versions with _gplay suffix: same as standard + includes proprietary Fused location for Google Play Services users\n- Versions with _fdroid suffix: same as standard without all sources that are not libre/self-hostable\n\n<b>Permissions</b>\nRequired:\n- Network (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET): fetch weather data from sources over the Internet\n\nOptional:\n- Background services (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, SET_ALARM, FOREGROUND_SERVICE, FOREGROUND_SERVICE_DATA_SYNC, FOREGROUND_SERVICE_SPECIAL_USE): weather updates in the background and scheduled forecast notifications\n- Ignore battery optimizations (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS): help preventing the app from being killed on some devices\n- Send notifications (POST_NOTIFICATIONS): alerts, precipitation, today/tomorrow forecast, notification-widget, update progress of background updates, etc\n- Location (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): to show weather in your current location\n- Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): helps setting the live weather wallpaper and/or widgets on some devices\n- Tile (EXPAND_STATUS_BAR): allow to launch the app from Quick Settings\n\n<b>License</b>\n- GNU Lesser General Public License v3.0\n- This License does not grant any rights in the trademarks, service marks, or logos of any Contributor.\n- Misrepresentation of the origin of that material is prohibited, and modified versions of such material must be marked in reasonable ways as different from the original version.\n",
@@ -1584,16 +1584,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "148900",
+      "suggestedVersionCode": "149100",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1732766497000,
+      "added": 1734408096000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1732766497000,
+      "lastUpdated": 1734408096000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -2264,9 +2264,9 @@
     ],
     "org.breezyweather": [
       {
-        "added": 1729894046000,
+        "added": 1734235304000,
         "apkName": "BreezyWeather.apk",
-        "hash": "4f8036f29af4a6667afe463bd83e38a7321d975a896db0277965fa5f96f3f9af",
+        "hash": "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2278,8 +2278,8 @@
         "packageName": "org.breezyweather",
         "sig": "688802048f64d92faa490892a23d802c",
         "signer": "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8",
-        "size": 13107430,
-        "targetSdkVersion": 34,
+        "size": 13349599,
+        "targetSdkVersion": 35,
         "uses-permission": [
           [
             "android.permission.ACCESS_FINE_LOCATION",
@@ -2350,8 +2350,8 @@
             null
           ]
         ],
-        "versionCode": 50208,
-        "versionName": "5.2.8_freenet"
+        "versionCode": 50300,
+        "versionName": "5.3.0_freenet"
       }
     ],
     "org.briarproject.briar.android": [
@@ -2907,9 +2907,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1732766497000,
+        "added": 1734408096000,
         "apkName": "Signal.apk",
-        "hash": "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046",
+        "hash": "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2921,7 +2921,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 102208536,
+        "size": 102446219,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3129,6 +3129,10 @@
             null
           ],
           [
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            null
+          ],
+          [
             "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
             null
           ],
@@ -3217,8 +3221,8 @@
             null
           ]
         ],
-        "versionCode": 148900,
-        "versionName": "7.26.1"
+        "versionCode": 149100,
+        "versionName": "7.27.1"
       }
     ],
     "org.torproject.android": [

@@ -9,16 +9,16 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/com.fsck.k9/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.fsck.k9/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.nextcloud.client/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.nextcloud.client/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/diff/1733025702000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733025702000.json \
-    prebuilts/calyx/fdroid/repo/diff/1733112086000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733112086000.json \
-    prebuilts/calyx/fdroid/repo/diff/1733198487000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733198487000.json \
-    prebuilts/calyx/fdroid/repo/diff/1733284888000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733284888000.json \
-    prebuilts/calyx/fdroid/repo/diff/1733371292000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733371292000.json \
-    prebuilts/calyx/fdroid/repo/diff/1733457705000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733457705000.json \
-    prebuilts/calyx/fdroid/repo/diff/1733544099000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733544099000.json \
     prebuilts/calyx/fdroid/repo/diff/1733630500000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733630500000.json \
     prebuilts/calyx/fdroid/repo/diff/1733716890000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733716890000.json \
     prebuilts/calyx/fdroid/repo/diff/1733803289000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733803289000.json \
+    prebuilts/calyx/fdroid/repo/diff/1733889701000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733889701000.json \
+    prebuilts/calyx/fdroid/repo/diff/1733976090000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1733976090000.json \
+    prebuilts/calyx/fdroid/repo/diff/1734062491000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1734062491000.json \
+    prebuilts/calyx/fdroid/repo/diff/1734148887000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1734148887000.json \
+    prebuilts/calyx/fdroid/repo/diff/1734235305000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1734235305000.json \
+    prebuilts/calyx/fdroid/repo/diff/1734321684000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1734321684000.json \
+    prebuilts/calyx/fdroid/repo/diff/1734408097000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1734408097000.json \
     prebuilts/calyx/fdroid/repo/entry.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.jar \
     prebuilts/calyx/fdroid/repo/entry.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.json \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
