@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1733889701000,
+    "timestamp": 1734494491000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -1044,14 +1044,14 @@
     },
     "org.breezyweather": {
       "metadata": {
-        "added": 1729894046000,
+        "added": 1734235304000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
         "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
-        "lastUpdated": 1729894046000,
+        "lastUpdated": 1734235304000,
         "license": "LGPL-3.0-only",
         "sourceCode": "https://github.com/breezy-weather/breezy-weather",
         "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
@@ -1088,12 +1088,12 @@
         "preferredSigner": "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8"
       },
       "versions": {
-        "4f8036f29af4a6667afe463bd83e38a7321d975a896db0277965fa5f96f3f9af": {
-          "added": 1729894046000,
+        "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5": {
+          "added": 1734235304000,
           "file": {
             "name": "/BreezyWeather.apk",
-            "sha256": "4f8036f29af4a6667afe463bd83e38a7321d975a896db0277965fa5f96f3f9af",
-            "size": 13107430
+            "sha256": "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5",
+            "size": 13349599
           },
           "manifest": {
             "nativecode": [
@@ -1102,11 +1102,11 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "5.2.8_freenet",
-            "versionCode": 50208,
+            "versionName": "5.3.0_freenet",
+            "versionCode": 50300,
             "usesSdk": {
               "minSdkVersion": 21,
-              "targetSdkVersion": 34
+              "targetSdkVersion": 35
             },
             "signer": {
               "sha256": [
@@ -2145,13 +2145,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1732766497000,
+        "added": 1734408096000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1732766497000,
+        "lastUpdated": 1734408096000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -2174,12 +2174,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046": {
-          "added": 1732766497000,
+        "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516": {
+          "added": 1734408096000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046",
-            "size": 102208536
+            "sha256": "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516",
+            "size": 102446219
           },
           "manifest": {
             "nativecode": [
@@ -2188,8 +2188,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.26.1",
-            "versionCode": 148900,
+            "versionName": "7.27.1",
+            "versionCode": 149100,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2353,6 +2353,9 @@
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CAMERA"
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE_PHONE_CALL"
