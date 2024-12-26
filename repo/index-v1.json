@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1734494491000,
+    "timestamp": 1735185694000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -117,14 +117,14 @@
         "Default"
       ],
       "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
-      "suggestedVersionCode": "50300",
+      "suggestedVersionCode": "50301",
       "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
       "license": "LGPL-3.0-only",
       "sourceCode": "https://github.com/breezy-weather/breezy-weather",
       "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
-      "added": 1734235304000,
+      "added": 1734580901000,
       "packageName": "org.breezyweather",
-      "lastUpdated": 1734235304000,
+      "lastUpdated": 1734580901000,
       "localized": {
         "en-US": {
           "description": "Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.\n\nIn the app, you'll find:\n- Real-time weather conditions (temperature, feels like, wind, UV index, humidity, dew point, atmospheric pressure, visibility, cloud cover, ceiling)\n- Daily and hourly forecasts up to 16 days (temperature, air quality, wind, UV index, precipitation, sunshine, feels like)\n- Detailed hourly forecasts (humidity / dew point, pressure, cloud cover, visibility)\n- Precipitation in the next hour\n- Air quality, allergen and ephemeris information\n- Severe weather and precipitation alerts\n\nThe app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability:\n- Automatic dark mode\n- Custom icon packs\n- Large selection of home screen widgets for at-a-glance information\n- Live wallpaper\n\n<b>Sources</b>\nAvailable worldwide weather sources:\n- Open-Meteo\n- AccuWeather\u00b9\n- MET Norway\u00b9\n- OpenWeatherMap\u00b9\u00b2\n- Pirate Weather\u00b9\u00b3\n- HERE\u00b9\u00b3\n- M\u00e9t\u00e9o France\u00b9\n- Danmarks Meteorologiske Institut (DMI)\u00b9\n\nAvailable only-national weather sources:\n- Mixed China sources\u00b9\n- National Weather Service (NWS)\u00b9\n- Bright Sky (DWD)\n- Environment and Climate Change Canada\u00b9\n- Israel Meteorological Service (IMS)\u00b9\n- SMHI\u00b9\n- MET \u00c9ireann\u00b9\n\nAvailable secondary weather sources:\n- WMO Severe Weather Information Centre\u00b9\n- Recosant\u00e9\n- ATMO AuRA\u00b9\n\n\u00b9 Not included in versions with suffix _fdroid\n\u00b2 Often rate-limited\n\u00b3 Requires an API key\n\n<b>Versions</b>\nDepending on your F-Droid repositories, you may be able to download different flavors of Breezy Weather:\n- Versions with no suffix: standard version, fully open source\n- Versions with _gplay suffix: same as standard + includes proprietary Fused location for Google Play Services users\n- Versions with _fdroid suffix: same as standard without all sources that are not libre/self-hostable\n\n<b>Permissions</b>\nRequired:\n- Network (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET): fetch weather data from sources over the Internet\n\nOptional:\n- Background services (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, SET_ALARM, FOREGROUND_SERVICE, FOREGROUND_SERVICE_DATA_SYNC, FOREGROUND_SERVICE_SPECIAL_USE): weather updates in the background and scheduled forecast notifications\n- Ignore battery optimizations (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS): help preventing the app from being killed on some devices\n- Send notifications (POST_NOTIFICATIONS): alerts, precipitation, today/tomorrow forecast, notification-widget, update progress of background updates, etc\n- Location (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): to show weather in your current location\n- Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): helps setting the live weather wallpaper and/or widgets on some devices\n- Tile (EXPAND_STATUS_BAR): allow to launch the app from Quick Settings\n\n<b>License</b>\n- GNU Lesser General Public License v3.0\n- This License does not grant any rights in the trademarks, service marks, or logos of any Contributor.\n- Misrepresentation of the origin of that material is prohibited, and modified versions of such material must be marked in reasonable ways as different from the original version.\n",
@@ -850,48 +850,6 @@
     },
     {
       "allowedAPKSigningKeys": [
-        "793660516b62ae8deba66d5e5e4244e0931749ab9f48575b501244ceea858a84"
-      ],
-      "authorName": "Divested Computing Group",
-      "authorWebSite": "https://divestos.org",
-      "bitcoin": "bc1qkjtp2k7cc4kuv8k9wjdlxkeuqczenrpv5mwasl",
-      "categories": [
-        "Security",
-        "Default"
-      ],
-      "suggestedVersionCode": "314",
-      "donate": "https://divested.dev/donate",
-      "issueTracker": "https://gitlab.com/divested-mobile/hypatia/issues",
-      "liberapay": "Tad",
-      "license": "GPL-3.0-or-later",
-      "sourceCode": "https://gitlab.com/divested-mobile/hypatia",
-      "added": 1733889695000,
-      "packageName": "us.spotco.malwarescanner",
-      "lastUpdated": 1733889695000,
-      "localized": {
-        "de": {
-          "description": "<p>Hypatia ist der weltweit erste FOSS-Malwarescanner f\u00fcr Android. Er basiert auf Signatur-Datenbanken im Stil von ClamAV.</p>\n\n<b>Funktionen</b>\n<ul>\n<li>Nahezu keine Auswirkungen auf den Akku: Sie werden keinerlei Auswirkungen auf den Akku bemerken</li>\n<li>Extrem schnell: kleine Dateien (1MB) werden in 20ms gescannt, gro\u00dfe Dateien (40MB) in 1000ms.</li>\n<li>Speichereffizient: mit den standardm\u00e4\u00dfig aktivierten Datenbanken verbraucht Hypatia weniger als 120MB.</li>\n<li>Regelm\u00e4\u00dfiger Scan: erlaubt die Auswahl von /system, internem Speicher, externem Speicher und installierten Apps</li>\n<li>Echtzeit-Scanner: kann Malware in Echtzeit beim Schreiben/Umbenennen im internen Speicher erkennen</li>\n<li>Vollst\u00e4ndig offline: Das Internet wird nur zum Herunterladen von Signatur-Datenbanken verwendet, die Dateien verlassen niemals Ihr Ger\u00e4t</li>\n<li>Persistenz: automatischer Neustart beim Booten/Update</li>\n<li>Winzige Codebasis: mit weniger als 1000 sloc kann sie sogar von jemandem mit grundlegenden Programmierkenntnissen gepr\u00fcft werden</li>\n<li>Minimale Abh\u00e4ngigkeiten: die App verwendet nur Bibliotheken, wenn es n\u00f6tig ist</li>\n<li>Signatur-Datenbanken k\u00f6nnen auf Wunsch des Benutzers aktiviert/deaktiviert werden</li>\n</ul>\n",
-          "name": "Hypatia"
-        },
-        "en-US": {
-          "description": "<p>Hypatia is the worlds first FOSS malware scanner for Android. It is powered by ClamAV style signature databases.</p>\n\n<b>Features</b>\n<ul>\n<li>Near zero battery impact: you'll never notice any impact on battery at all</li>\n<li>Extremely fast: it can scan small files (1MB) in 20ms, and even large files (40MB) in 1000ms.</li>\n<li>Memory efficient: with the default databases enabled it uses under 120MB.</li>\n<li>Regular scan: allowing selection of /system, internal storage, external storage, and installed apps</li>\n<li>Realtime scanner: can detect malware in realtime on write/rename in internal storage</li>\n<li>Completely offline: Internet is only used to download signature databases, files will never ever leave your device</li>\n<li>Persistence: will automatically restart on boot/update</li>\n<li>Tiny codebase: coming in at under 1000 sloc, it can be audited by even someone with basic programming experience</li>\n<li>Minimal dependencies: the app only uses libraries when necessary</li>\n<li>Signature databases can be enabled/disabled at the users demand</li>\n</ul>\n",
-          "icon": "icon.png",
-          "name": "Hypatia",
-          "summary": "A real-time malware scanner"
-        },
-        "fr": {
-          "description": "<p>Hypatia est le premier scanner de malware FOSS (logiciel libre) au monde pour Android. Il est propuls\u00e9 par les bases de donn\u00e9es de signatures de style ClamAV.</p>\n\n<b>Caract\u00e9ristiques</b>\n<ul>\n<li>Impact de la batterie proche de z\u00e9ro: vous ne remarquerez aucun impact sur la batterie</li>\n<li>Extr\u00eamement rapide: il peut scanner les petits fichiers (1MB) en 20ms, et m\u00eame les gros fichiers (40MB) en 1000ms.</li>\n<li>M\u00e9moire efficace: avec les bases de donn\u00e9es activ\u00e9es par d\u00e9faut, il utilise moins de 120 Mo.</li>\n<li>Analyse r\u00e9guli\u00e8re: permet de s\u00e9lectionner le syst\u00e8me, le m\u00e9moire interne, le m\u00e9moire externe et les applications install\u00e9es</li>\n<li>Scanner en temps r\u00e9el: peut d\u00e9tecter les malwares en temps r\u00e9el sur l'\u00e9criture ou le renommage dans le m\u00e9moire interne</li>\n<li>Compl\u00e8tement hors ligne: l'internet n'est utilis\u00e9 que pour t\u00e9l\u00e9charger des bases de donn\u00e9es de signatures, les fichiers ne quitteront jamais votre appareil</li>\n<li>Persistance: red\u00e9marre automatiquement au d\u00e9marrage/mise \u00e0 jour</li>\n<li>Une base de code minuscule: avec moins de 1000 sloc, elle peut \u00eatre v\u00e9rifi\u00e9e m\u00eame par une personne ayant une exp\u00e9rience de base en programmation</li>\n<li>D\u00e9pendances minimales: l'application n'utilise les biblioth\u00e8ques que lorsque cela est n\u00e9cessaire</li>\n<li>Les bases de donn\u00e9es de signatures peuvent \u00eatre activ\u00e9es/d\u00e9sactiv\u00e9es \u00e0 la demande des utilisateurs</li>\n</ul>\n",
-          "name": "Hypatia"
-        },
-        "pl-PL": {
-          "description": "<p>Hypatia to pierwszy w \u015bwiecie FOSS skaner z\u0142o\u015bliwego oprogramowania na Androida. Jest oparty o bazy danych sygnatur w stylu ClamAV.</p>\n\n<b>Funkcje</b>\n<ul>\n<li>Prawie zerowy wp\u0142yw na bateri\u0119 \u2013 nigdy nie zauwa\u017cysz wp\u0142ywu na zu\u017cycie baterii</li>\n<li>Ekstremalnie szybki \u2013 mo\u017ce skanowa\u0107 ma\u0142e pliki files (1MB) w 20ms, a nawet wi\u0119ksze pliki (40MB) w 1000ms.</li>\n<li>Oszcz\u0119dny dla pami\u0119ci \u2013 z domy\u015blnymi bazami danych wykorzystuje mniej ni\u017c 120MB.</li>\n<li>Zwyk\u0142e skanowanie \u2013 pozwala wybra\u0107 /system, pami\u0119\u0107 wewn\u0119trzn\u0105, zewn\u0119trzn\u0105 i zainstalowane aplikacje</li>\n<li>Skaner w czasie rzeczywistym \u2013 mo\u017ce wykrywa\u0107 z\u0142o\u015bliwe oprogramowanie podczas nadpisywania/zmian nazw w pami\u0119ci wewn\u0119trznej</li>\n<li>Ca\u0142kowicie offline \u2013 Internet wykorzystywany jest jedynie do pobierania baz danych sygnatur, pliki nigdy nie opuszcz\u0105 Twojego urz\u0105dzenia</li>\n<li>Trwa\u0142o\u015b\u0107 \u2013 automatycznie restartuje si\u0119 po uruchomieniu/aktualizacji</li>\n<li>Niewielki kod \u2013 zawiera mniej ni\u017c 1000 linii kodu, mo\u017ce zosta\u0107 zaudytowany nawet przez osob\u0119 z podstawow\u0105 wiedz\u0105 o programowaniu</li>\n<li>Minimalne zale\u017cno\u015bci \u2013 aplikacja wykorzystuje biblioteki jedynie gdy s\u0105 potrzebne</li>\n<li>Bazy danych sygnatur mog\u0105 by\u0107 w\u0142\u0105czone/wy\u0142\u0105czone na \u017cyczenie u\u017cytkownika</li>\n</ul>\n",
-          "name": "Hypatia",
-          "summary": "Skaner z\u0142o\u015bliwego oprogramowania w czasie rzeczywistym"
-        }
-      }
-    },
-    {
-      "allowedAPKSigningKeys": [
         "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
       ],
       "categories": [
@@ -899,16 +857,16 @@
         "Default"
       ],
       "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
-      "suggestedVersionCode": "39012",
+      "suggestedVersionCode": "39019",
       "description": "E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do\nOpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings\nand account configurations can be exported so that they can be imported easily\nif you are switching packages/signatures: a file manager will need to be already\ninstalled to achieve this.",
       "issueTracker": "https://github.com/k9mail/k-9/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/k9mail/k-9",
       "translation": "https://www.transifex.com/projects/p/k9mail/",
       "webSite": "https://k9mail.app/",
-      "added": 1731816095000,
+      "added": 1734580902000,
       "packageName": "com.fsck.k9",
-      "lastUpdated": 1731816095000,
+      "lastUpdated": 1734580902000,
       "localized": {
         "de": {
           "summary": "Voll ausgestatteter E-Mail-Client"
@@ -977,15 +935,15 @@
         "Default"
       ],
       "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
-      "suggestedVersionCode": "161",
+      "suggestedVersionCode": "162",
       "description": "MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,\nsearching, form editing and more. It also reads OpenXPS and CBZ (comic book)\ndocuments.",
       "issueTracker": "https://bugs.ghostscript.com",
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
       "webSite": "https://mupdf.com",
-      "added": 1733457701000,
+      "added": 1734580903000,
       "packageName": "com.artifex.mupdf.viewer.app",
-      "lastUpdated": 1733457701000,
+      "lastUpdated": 1734580903000,
       "localized": {
         "de": {
           "summary": "Leichtgewichtiger Dokumentenbetrachter"
@@ -1584,16 +1542,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "149100",
+      "suggestedVersionCode": "149600",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1734408096000,
+      "added": 1735099295000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1734408096000,
+      "lastUpdated": 1735099295000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1841,9 +1799,9 @@
     ],
     "com.artifex.mupdf.viewer.app": [
       {
-        "added": 1733457701000,
+        "added": 1734580903000,
         "apkName": "MuPDFviewer.apk",
-        "hash": "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6",
+        "hash": "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1862,8 +1820,8 @@
             null
           ]
         ],
-        "versionCode": 161,
-        "versionName": "1.25.1a"
+        "versionCode": 162,
+        "versionName": "1.25.2a"
       }
     ],
     "com.aurora.store": [
@@ -1972,9 +1930,9 @@
     ],
     "com.fsck.k9": [
       {
-        "added": 1731816095000,
+        "added": 1734580902000,
         "apkName": "K-9Mail.apk",
-        "hash": "092fc165ebbabf3f9198c986a54810208b3dc46002b1ed7a3799fcfecb004d1a",
+        "hash": "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1986,7 +1944,7 @@
         "packageName": "com.fsck.k9",
         "sig": "4cc8dc4af011320a78e2cae3b5a1fc31",
         "signer": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576",
-        "size": 10562735,
+        "size": 10599599,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2046,8 +2004,8 @@
             null
           ]
         ],
-        "versionCode": 39012,
-        "versionName": "8.1"
+        "versionCode": 39019,
+        "versionName": "8.2"
       }
     ],
     "com.google.android.apps.photos": [
@@ -2264,9 +2222,9 @@
     ],
     "org.breezyweather": [
       {
-        "added": 1734235304000,
+        "added": 1734580901000,
         "apkName": "BreezyWeather.apk",
-        "hash": "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5",
+        "hash": "17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2278,7 +2236,7 @@
         "packageName": "org.breezyweather",
         "sig": "688802048f64d92faa490892a23d802c",
         "signer": "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8",
-        "size": 13349599,
+        "size": 13464373,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2350,8 +2308,8 @@
             null
           ]
         ],
-        "versionCode": 50300,
-        "versionName": "5.3.0_freenet"
+        "versionCode": 50301,
+        "versionName": "5.3.1_freenet"
       }
     ],
     "org.briarproject.briar.android": [
@@ -2907,9 +2865,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1734408096000,
+        "added": 1735099295000,
         "apkName": "Signal.apk",
-        "hash": "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516",
+        "hash": "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2921,7 +2879,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 102446219,
+        "size": 102728843,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3221,8 +3179,8 @@
             null
           ]
         ],
-        "versionCode": 149100,
-        "versionName": "7.27.1"
+        "versionCode": 149600,
+        "versionName": "7.28.4"
       }
     ],
     "org.torproject.android": [
@@ -3515,64 +3473,6 @@
         ],
         "versionCode": 176000,
         "versionName": "1.4.1"
-      }
-    ],
-    "us.spotco.malwarescanner": [
-      {
-        "added": 1733889695000,
-        "apkName": "Hypatia.apk",
-        "hash": "7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "us.spotco.malwarescanner",
-        "sig": "2921e035b5c0f3015dbab918fd4d0a66",
-        "signer": "793660516b62ae8deba66d5e5e4244e0931749ab9f48575b501244ceea858a84",
-        "size": 559410,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.MANAGE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.QUERY_ALL_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.REQUEST_DELETE_PACKAGES",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ]
-        ],
-        "versionCode": 314,
-        "versionName": "3.14"
       }
     ]
   }

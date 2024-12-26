@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1734494491" url="file:///product/fdroid/repo" version="20002">
+	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1735185694" url="file:///product/fdroid/repo" version="20002">
 		<description>This is a repository of apps to be used with CalyxOS. It is installed
 to the system partition, and meant to be used to initially install
 apps when offline. It contains a limited number of applications deemed
@@ -47,8 +47,8 @@ get details about in-app trackers, spoof your location and much more.</desc>
 	</application>
 	<application id="org.breezyweather">
 		<id>org.breezyweather</id>
-		<added>2024-12-15</added>
-		<lastupdated>2024-12-15</lastupdated>
+		<added>2024-12-19</added>
+		<lastupdated>2024-12-19</lastupdated>
 		<name>Breezy Weather</name>
 		<summary>A powerful, open-source Material Design weather app.</summary>
 		<desc>Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.
@@ -127,16 +127,16 @@ Optional:
 		<tracker>https://github.com/breezy-weather/breezy-weather/issues</tracker>
 		<changelog>https://github.com/breezy-weather/breezy-weather/releases</changelog>
 		<marketversion></marketversion>
-		<marketvercode>50300</marketvercode>
+		<marketvercode>50301</marketvercode>
 		<package>
-			<version>5.3.0_freenet</version>
-			<versioncode>50300</versioncode>
+			<version>5.3.1_freenet</version>
+			<versioncode>50301</versioncode>
 			<apkname>BreezyWeather.apk</apkname>
-			<hash type="sha256">e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5</hash>
-			<size>13349599</size>
+			<hash type="sha256">17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380</hash>
+			<size>13464373</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>35</targetSdkVersion>
-			<added>2024-12-15</added>
+			<added>2024-12-19</added>
 			<sig>688802048f64d92faa490892a23d802c</sig>
 			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,com.android.alarm.permission.SET_ALARM,org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -388,56 +388,10 @@ It pretends to be Google Photos to do that.</desc>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
-	<application id="us.spotco.malwarescanner">
-		<id>us.spotco.malwarescanner</id>
-		<added>2024-12-11</added>
-		<lastupdated>2024-12-11</lastupdated>
-		<name>Hypatia</name>
-		<summary>A real-time malware scanner</summary>
-		<desc>&lt;p&gt;Hypatia is the worlds first FOSS malware scanner for Android. It is powered by ClamAV style signature databases.&lt;/p&gt;
-
-&lt;b&gt;Features&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;Near zero battery impact: you'll never notice any impact on battery at all&lt;/li&gt;
-&lt;li&gt;Extremely fast: it can scan small files (1MB) in 20ms, and even large files (40MB) in 1000ms.&lt;/li&gt;
-&lt;li&gt;Memory efficient: with the default databases enabled it uses under 120MB.&lt;/li&gt;
-&lt;li&gt;Regular scan: allowing selection of /system, internal storage, external storage, and installed apps&lt;/li&gt;
-&lt;li&gt;Realtime scanner: can detect malware in realtime on write/rename in internal storage&lt;/li&gt;
-&lt;li&gt;Completely offline: Internet is only used to download signature databases, files will never ever leave your device&lt;/li&gt;
-&lt;li&gt;Persistence: will automatically restart on boot/update&lt;/li&gt;
-&lt;li&gt;Tiny codebase: coming in at under 1000 sloc, it can be audited by even someone with basic programming experience&lt;/li&gt;
-&lt;li&gt;Minimal dependencies: the app only uses libraries when necessary&lt;/li&gt;
-&lt;li&gt;Signature databases can be enabled/disabled at the users demand&lt;/li&gt;
-&lt;/ul&gt;
-</desc>
-		<license>GPL-3.0-or-later</license>
-		<categories>Security,Default</categories>
-		<category>Security</category>
-		<web></web>
-		<source>https://gitlab.com/divested-mobile/hypatia</source>
-		<tracker>https://gitlab.com/divested-mobile/hypatia/issues</tracker>
-		<author>Divested Computing Group</author>
-		<donate>https://divested.dev/donate</donate>
-		<bitcoin>bc1qkjtp2k7cc4kuv8k9wjdlxkeuqczenrpv5mwasl</bitcoin>
-		<marketversion></marketversion>
-		<marketvercode>314</marketvercode>
-		<package>
-			<version>3.14</version>
-			<versioncode>314</versioncode>
-			<apkname>Hypatia.apk</apkname>
-			<hash type="sha256">7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da</hash>
-			<size>559410</size>
-			<sdkver>16</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2024-12-11</added>
-			<sig>2921e035b5c0f3015dbab918fd4d0a66</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-		</package>
-	</application>
 	<application id="com.fsck.k9">
 		<id>com.fsck.k9</id>
-		<added>2024-11-17</added>
-		<lastupdated>2024-11-17</lastupdated>
+		<added>2024-12-19</added>
+		<lastupdated>2024-12-19</lastupdated>
 		<name>K-9 Mail</name>
 		<summary>Full-featured email client</summary>
 		<desc>E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do
@@ -453,16 +407,16 @@ installed to achieve this.</desc>
 		<tracker>https://github.com/k9mail/k-9/issues</tracker>
 		<changelog>https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml</changelog>
 		<marketversion></marketversion>
-		<marketvercode>39012</marketvercode>
+		<marketvercode>39019</marketvercode>
 		<package>
-			<version>8.1</version>
-			<versioncode>39012</versioncode>
+			<version>8.2</version>
+			<versioncode>39019</versioncode>
 			<apkname>K-9Mail.apk</apkname>
-			<hash type="sha256">092fc165ebbabf3f9198c986a54810208b3dc46002b1ed7a3799fcfecb004d1a</hash>
-			<size>10562735</size>
+			<hash type="sha256">09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f</hash>
+			<size>10599599</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-11-17</added>
+			<added>2024-12-19</added>
 			<sig>4cc8dc4af011320a78e2cae3b5a1fc31</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,com.fsck.k9.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -470,8 +424,8 @@ installed to achieve this.</desc>
 	</application>
 	<application id="com.artifex.mupdf.viewer.app">
 		<id>com.artifex.mupdf.viewer.app</id>
-		<added>2024-12-06</added>
-		<lastupdated>2024-12-06</lastupdated>
+		<added>2024-12-19</added>
+		<lastupdated>2024-12-19</lastupdated>
 		<name>MuPDF viewer</name>
 		<summary>Lightweight document viewer</summary>
 		<desc>MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,
@@ -485,16 +439,16 @@ documents.</desc>
 		<tracker>https://bugs.ghostscript.com</tracker>
 		<changelog>https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD</changelog>
 		<marketversion></marketversion>
-		<marketvercode>161</marketvercode>
+		<marketvercode>162</marketvercode>
 		<package>
-			<version>1.25.1a</version>
-			<versioncode>161</versioncode>
+			<version>1.25.2a</version>
+			<versioncode>162</versioncode>
 			<apkname>MuPDFviewer.apk</apkname>
-			<hash type="sha256">25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6</hash>
+			<hash type="sha256">8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a</hash>
 			<size>13098357</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-12-06</added>
+			<added>2024-12-19</added>
 			<sig>5f189df9c7482a659154c71fa1c0a45f</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -853,8 +807,8 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 	</application>
 	<application id="org.thoughtcrime.securesms">
 		<id>org.thoughtcrime.securesms</id>
-		<added>2024-12-17</added>
-		<lastupdated>2024-12-17</lastupdated>
+		<added>2024-12-25</added>
+		<lastupdated>2024-12-25</lastupdated>
 		<name>Signal</name>
 		<summary>Signal Private Messenger</summary>
 		<desc>Privacy is possible. Signal makes it easy.
@@ -879,16 +833,16 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 		<source>https://github.com/signalapp/Signal-Android</source>
 		<tracker>https://support.signal.org/</tracker>
 		<marketversion></marketversion>
-		<marketvercode>149100</marketvercode>
+		<marketvercode>149600</marketvercode>
 		<package>
-			<version>7.27.1</version>
-			<versioncode>149100</versioncode>
+			<version>7.28.4</version>
+			<versioncode>149600</versioncode>
 			<apkname>Signal.apk</apkname>
-			<hash type="sha256">ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516</hash>
-			<size>102446219</size>
+			<hash type="sha256">e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474</hash>
+			<size>102728843</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-12-17</added>
+			<added>2024-12-25</added>
 			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_CONNECTED_DEVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,NEARBY_WIFI_DEVICES,POST_NOTIFICATIONS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_MEDIA_VISUAL_USER_SELECTED,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SCHEDULE_EXACT_ALARM,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS,org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>

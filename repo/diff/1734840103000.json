@@ -1,110 +1,22 @@
 {
   "repo": {
-    "timestamp": 1734494491000
+    "timestamp": 1735185694000
   },
   "packages": {
-    "org.breezyweather": {
-      "metadata": {
-        "added": 1734235304000,
-        "lastUpdated": 1734235304000
-      },
-      "versions": {
-        "4f8036f29af4a6667afe463bd83e38a7321d975a896db0277965fa5f96f3f9af": null,
-        "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5": {
-          "added": 1734235304000,
-          "file": {
-            "name": "/BreezyWeather.apk",
-            "sha256": "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5",
-            "size": 13349599
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a",
-              "armeabi-v7a",
-              "x86",
-              "x86_64"
-            ],
-            "versionName": "5.3.0_freenet",
-            "versionCode": 50300,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 35
-            },
-            "signer": {
-              "sha256": [
-                "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.ACCESS_FINE_LOCATION"
-              },
-              {
-                "name": "android.permission.ACCESS_COARSE_LOCATION"
-              },
-              {
-                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.ACCESS_WIFI_STATE"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "com.android.alarm.permission.SET_ALARM"
-              },
-              {
-                "name": "android.permission.EXPAND_STATUS_BAR"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          }
-        }
-      }
-    },
+    "us.spotco.malwarescanner": null,
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1734408096000,
-        "lastUpdated": 1734408096000
+        "added": 1735099295000,
+        "lastUpdated": 1735099295000
       },
       "versions": {
-        "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046": null,
-        "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516": {
-          "added": 1734408096000,
+        "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516": null,
+        "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474": {
+          "added": 1735099295000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516",
-            "size": 102446219
+            "sha256": "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474",
+            "size": 102728843
           },
           "manifest": {
             "nativecode": [
@@ -113,8 +25,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.27.1",
-            "versionCode": 149100,
+            "versionName": "7.28.4",
+            "versionCode": 149600,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34

@@ -1,21 +1,62 @@
 {
   "repo": {
-    "timestamp": 1734494491000
+    "timestamp": 1735185694000
   },
   "packages": {
-    "org.breezyweather": {
+    "us.spotco.malwarescanner": null,
+    "com.artifex.mupdf.viewer.app": {
       "metadata": {
-        "added": 1734235304000,
-        "lastUpdated": 1734235304000
+        "added": 1734580903000,
+        "lastUpdated": 1734580903000
       },
       "versions": {
-        "4f8036f29af4a6667afe463bd83e38a7321d975a896db0277965fa5f96f3f9af": null,
-        "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5": {
-          "added": 1734235304000,
+        "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6": null,
+        "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a": {
+          "added": 1734580903000,
           "file": {
-            "name": "/BreezyWeather.apk",
-            "sha256": "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5",
-            "size": 13349599
+            "name": "/MuPDFviewer.apk",
+            "sha256": "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a",
+            "size": 13098357
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.25.2a",
+            "versionCode": 162,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.fsck.k9": {
+      "metadata": {
+        "added": 1734580902000,
+        "lastUpdated": 1734580902000
+      },
+      "versions": {
+        "092fc165ebbabf3f9198c986a54810208b3dc46002b1ed7a3799fcfecb004d1a": null,
+        "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f": {
+          "added": 1734580902000,
+          "file": {
+            "name": "/K-9Mail.apk",
+            "sha256": "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f",
+            "size": 10599599
           },
           "manifest": {
             "nativecode": [
@@ -24,8 +65,88 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "5.3.0_freenet",
-            "versionCode": 50300,
+            "versionName": "8.2",
+            "versionCode": 39019,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.fsck.k9.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.breezyweather": {
+      "metadata": {
+        "added": 1734580901000,
+        "lastUpdated": 1734580901000
+      },
+      "versions": {
+        "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5": null,
+        "17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380": {
+          "added": 1734580901000,
+          "file": {
+            "name": "/BreezyWeather.apk",
+            "sha256": "17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380",
+            "size": 13464373
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.3.1_freenet",
+            "versionCode": 50301,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -94,17 +215,17 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1734408096000,
-        "lastUpdated": 1734408096000
+        "added": 1735099295000,
+        "lastUpdated": 1735099295000
       },
       "versions": {
-        "23c79711e5f136d27fa9dc4516dd2061f67456544afa5ea42a997e6c59c4f046": null,
-        "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516": {
-          "added": 1734408096000,
+        "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516": null,
+        "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474": {
+          "added": 1735099295000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516",
-            "size": 102446219
+            "sha256": "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474",
+            "size": 102728843
           },
           "manifest": {
             "nativecode": [
@@ -113,8 +234,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.27.1",
-            "versionCode": 149100,
+            "versionName": "7.28.4",
+            "versionCode": 149600,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34

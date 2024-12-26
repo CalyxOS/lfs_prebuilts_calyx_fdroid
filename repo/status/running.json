@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1734494494584,
+  "endTimestamp": 1735185698347,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "a0c1029fee2e0429019fd0042895021f93014ef4",
@@ -50,8 +50,7 @@
     "org.thoughtcrime.securesms",
     "org.torproject.android",
     "org.torproject.torbrowser",
-    "se.leap.riseupvpn",
-    "us.spotco.malwarescanner"
+    "se.leap.riseupvpn"
   ],
   "noPackages": [
     "app.organicmaps",
@@ -72,8 +71,7 @@
     "org.thoughtcrime.securesms",
     "org.torproject.android",
     "org.torproject.torbrowser",
-    "se.leap.riseupvpn",
-    "us.spotco.malwarescanner"
+    "se.leap.riseupvpn"
   ],
   "noUpdateCheck": [
     "app.organicmaps",
@@ -94,9 +92,8 @@
     "org.thoughtcrime.securesms",
     "org.torproject.android",
     "org.torproject.torbrowser",
-    "se.leap.riseupvpn",
-    "us.spotco.malwarescanner"
+    "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1734494490000,
+  "startTimestamp": 1735185693000,
   "subcommand": "update"
 }
