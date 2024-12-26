@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1734494491000,
+    "timestamp": 1735228828000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,13 +66,13 @@
   "packages": {
     "app.organicmaps": {
       "metadata": {
-        "added": 1733457704000,
+        "added": 1735228815000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1733457704000,
+        "lastUpdated": 1735228815000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
         "webSite": "https://organicmaps.app/",
@@ -96,7 +96,7 @@
       },
       "versions": {
         "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff": {
-          "added": 1733457704000,
+          "added": 1735228815000,
           "file": {
             "name": "/OrganicMaps.apk",
             "sha256": "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff",
@@ -169,14 +169,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1733457701000,
+        "added": 1735228801000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1733457701000,
+        "lastUpdated": 1735228801000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -238,7 +238,7 @@
       },
       "versions": {
         "617930268be1d76be3c35e7babe4fb4a8ff6050343fd8d668437298166205d34": {
-          "added": 1733457701000,
+          "added": 1735228801000,
           "file": {
             "name": "/DAVx5.apk",
             "sha256": "617930268be1d76be3c35e7babe4fb4a8ff6050343fd8d668437298166205d34",
@@ -347,14 +347,14 @@
     },
     "com.artifex.mupdf.viewer.app": {
       "metadata": {
-        "added": 1733457701000,
+        "added": 1735228806000,
         "categories": [
           "Reading",
           "Default"
         ],
         "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
         "issueTracker": "https://bugs.ghostscript.com",
-        "lastUpdated": 1733457701000,
+        "lastUpdated": 1735228806000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
         "webSite": "https://mupdf.com",
@@ -394,11 +394,11 @@
         "preferredSigner": "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
       },
       "versions": {
-        "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6": {
-          "added": 1733457701000,
+        "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a": {
+          "added": 1735228806000,
           "file": {
             "name": "/MuPDFviewer.apk",
-            "sha256": "25b1bfc60c1bfe634161b93cc3790436c3159f74422586444221e2d44375f5f6",
+            "sha256": "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a",
             "size": 13098357
           },
           "manifest": {
@@ -407,8 +407,8 @@
               "armeabi-v7a",
               "x86"
             ],
-            "versionName": "1.25.1a",
-            "versionCode": 161,
+            "versionName": "1.25.2a",
+            "versionCode": 162,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -429,14 +429,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1729894044000,
+        "added": 1735228795000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1729894044000,
+        "lastUpdated": 1735228795000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -487,7 +487,7 @@
       },
       "versions": {
         "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead": {
-          "added": 1729894044000,
+          "added": 1735228795000,
           "file": {
             "name": "/AuroraStore.apk",
             "sha256": "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead",
@@ -582,14 +582,14 @@
     },
     "com.fsck.k9": {
       "metadata": {
-        "added": 1731816095000,
+        "added": 1735228806000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
         "issueTracker": "https://github.com/k9mail/k-9/issues",
-        "lastUpdated": 1731816095000,
+        "lastUpdated": 1735228806000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/k9mail/k-9",
         "translation": "https://www.transifex.com/projects/p/k9mail/",
@@ -630,12 +630,12 @@
         "preferredSigner": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
       },
       "versions": {
-        "092fc165ebbabf3f9198c986a54810208b3dc46002b1ed7a3799fcfecb004d1a": {
-          "added": 1731816095000,
+        "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f": {
+          "added": 1735228806000,
           "file": {
             "name": "/K-9Mail.apk",
-            "sha256": "092fc165ebbabf3f9198c986a54810208b3dc46002b1ed7a3799fcfecb004d1a",
-            "size": 10562735
+            "sha256": "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f",
+            "size": 10599599
           },
           "manifest": {
             "nativecode": [
@@ -644,8 +644,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.1",
-            "versionCode": 39012,
+            "versionName": "8.2",
+            "versionCode": 39019,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -705,11 +705,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1729894052000,
+        "added": 1735228804000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1729894052000,
+        "lastUpdated": 1735228804000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -726,7 +726,7 @@
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1729894052000,
+          "added": 1735228804000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
@@ -755,14 +755,14 @@
     },
     "com.jarsilio.android.scrambledeggsif": {
       "metadata": {
-        "added": 1729894066000,
+        "added": 1735228818000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
-        "lastUpdated": 1729894066000,
+        "lastUpdated": 1735228818000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
         "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
@@ -815,7 +815,7 @@
       },
       "versions": {
         "ad90f511e786fdb674b2f6630f873251ca2d9bf9d06c6aea4aa8220d7ce927d3": {
-          "added": 1729894066000,
+          "added": 1735228818000,
           "file": {
             "name": "/ScrambledExif.apk",
             "sha256": "ad90f511e786fdb674b2f6630f873251ca2d9bf9d06c6aea4aa8220d7ce927d3",
@@ -850,14 +850,14 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1733889697000,
+        "added": 1735228808000,
         "categories": [
           "Internet",
           "Hidden"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1733889697000,
+        "lastUpdated": 1735228808000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -907,7 +907,7 @@
       },
       "versions": {
         "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41": {
-          "added": 1733889697000,
+          "added": 1735228808000,
           "file": {
             "name": "/Nextcloud.apk",
             "sha256": "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41",
@@ -1044,14 +1044,14 @@
     },
     "org.breezyweather": {
       "metadata": {
-        "added": 1734235304000,
+        "added": 1735228797000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
         "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
-        "lastUpdated": 1734235304000,
+        "lastUpdated": 1735228797000,
         "license": "LGPL-3.0-only",
         "sourceCode": "https://github.com/breezy-weather/breezy-weather",
         "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
@@ -1088,12 +1088,12 @@
         "preferredSigner": "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8"
       },
       "versions": {
-        "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5": {
-          "added": 1734235304000,
+        "17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380": {
+          "added": 1735228797000,
           "file": {
             "name": "/BreezyWeather.apk",
-            "sha256": "e8725b677d739b42a204301e15c3a083c42dccfc4fdb185d87b2fd4ba630d0a5",
-            "size": 13349599
+            "sha256": "17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380",
+            "size": 13464373
           },
           "manifest": {
             "nativecode": [
@@ -1102,8 +1102,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "5.3.0_freenet",
-            "versionCode": 50300,
+            "versionName": "5.3.1_freenet",
+            "versionCode": 50301,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -1172,7 +1172,7 @@
     },
     "org.briarproject.briar.android": {
       "metadata": {
-        "added": 1729894047000,
+        "added": 1735228799000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -1181,7 +1181,7 @@
         ],
         "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
         "issueTracker": "https://code.briarproject.org/briar/briar/issues",
-        "lastUpdated": 1729894047000,
+        "lastUpdated": 1735228799000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://code.briarproject.org/briar/briar",
         "translation": "https://www.transifex.com/otf/briar/",
@@ -1226,7 +1226,7 @@
       },
       "versions": {
         "a67704ec984d6cd0d74d098eca78c5e8f58035c30fc1c112f8450cc4c86415c1": {
-          "added": 1729894047000,
+          "added": 1735228799000,
           "file": {
             "name": "/Briar.apk",
             "sha256": "a67704ec984d6cd0d74d098eca78c5e8f58035c30fc1c112f8450cc4c86415c1",
@@ -1333,7 +1333,7 @@
     },
     "org.calyxinstitute.vpn": {
       "metadata": {
-        "added": 1732507312000,
+        "added": 1735228801000,
         "categories": [
           "Internet",
           "Security",
@@ -1341,7 +1341,7 @@
         ],
         "changelog": "https://gitlab.com/calyxos/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/calyxos/bitmask_android/issues",
-        "lastUpdated": 1732507312000,
+        "lastUpdated": 1735228801000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/calyxos/bitmask_android",
         "translation": "https://www.transifex.com/otf/bitmask-android/",
@@ -1386,7 +1386,7 @@
       },
       "versions": {
         "9f35d1e1e52c6402b4c0bd1ee7fe1a4e45454c30cf32c267e8e93f300743d790": {
-          "added": 1732507312000,
+          "added": 1735228801000,
           "file": {
             "name": "/CalyxVPN.apk",
             "sha256": "9f35d1e1e52c6402b4c0bd1ee7fe1a4e45454c30cf32c267e8e93f300743d790",
@@ -1460,14 +1460,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1733544098000,
+        "added": 1735228804000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1733544098000,
+        "lastUpdated": 1735228804000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1513,7 +1513,7 @@
       },
       "versions": {
         "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a": {
-          "added": 1733544098000,
+          "added": 1735228804000,
           "file": {
             "name": "/F-DroidBasic.apk",
             "sha256": "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a",
@@ -1595,14 +1595,14 @@
     },
     "org.fdroid.fdroid": {
       "metadata": {
-        "added": 1733544097000,
+        "added": 1735228803000,
         "categories": [
           "System",
           "Hidden"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1733544097000,
+        "lastUpdated": 1735228803000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1815,7 +1815,7 @@
       },
       "versions": {
         "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef": {
-          "added": 1733544097000,
+          "added": 1735228803000,
           "file": {
             "name": "/F-Droid.apk",
             "sha256": "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef",
@@ -1934,14 +1934,14 @@
     },
     "org.onionshare.android.fdroid": {
       "metadata": {
-        "added": 1729894060000,
+        "added": 1735228812000,
         "categories": [
           "Internet",
           "Security",
           "Default"
         ],
         "issueTracker": "https://github.com/onionshare/onionshare-android/issues",
-        "lastUpdated": 1729894060000,
+        "lastUpdated": 1735228812000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/onionshare/onionshare-android",
         "name": {
@@ -1967,7 +1967,7 @@
       },
       "versions": {
         "320a4cf22de59a7b905a4260545aa247bf9d9daf789bfba8ae1e45b75a6ae946": {
-          "added": 1729894060000,
+          "added": 1735228812000,
           "file": {
             "name": "/OnionShare.apk",
             "sha256": "320a4cf22de59a7b905a4260545aa247bf9d9daf789bfba8ae1e45b75a6ae946",
@@ -2025,7 +2025,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1733889700000,
+        "added": 1735228811000,
         "categories": [
           "Internet",
           "Security",
@@ -2033,7 +2033,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1733889700000,
+        "lastUpdated": 1735228811000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -2077,7 +2077,7 @@
       },
       "versions": {
         "0f8d608670c95acf8bdcb42c607c3f8b582204e64918c6787dd2d66606295893": {
-          "added": 1733889700000,
+          "added": 1735228811000,
           "file": {
             "name": "/OONIProbe.apk",
             "sha256": "0f8d608670c95acf8bdcb42c607c3f8b582204e64918c6787dd2d66606295893",
@@ -2145,13 +2145,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1734408096000,
+        "added": 1735228823000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1734408096000,
+        "lastUpdated": 1735228823000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -2174,12 +2174,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516": {
-          "added": 1734408096000,
+        "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474": {
+          "added": 1735228823000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "ec17c37a5d208967fb24e36c02e167e74001ee97cc2b36ccffa2a0a1f7449516",
-            "size": 102446219
+            "sha256": "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474",
+            "size": 102728843
           },
           "manifest": {
             "nativecode": [
@@ -2188,8 +2188,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.27.1",
-            "versionCode": 149100,
+            "versionName": "7.28.4",
+            "versionCode": 149600,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2430,14 +2430,14 @@
     },
     "org.torproject.android": {
       "metadata": {
-        "added": 1729894061000,
+        "added": 1735228813000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-        "lastUpdated": 1729894061000,
+        "lastUpdated": 1735228813000,
         "license": "BSD-3-Clause",
         "sourceCode": "https://gitweb.torproject.org/orbot.git",
         "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
@@ -2503,7 +2503,7 @@
       },
       "versions": {
         "f203b33d693007d9f410650307ec1a8766e3f71a7cbd3600085eea2edecbe8ad": {
-          "added": 1729894061000,
+          "added": 1735228813000,
           "file": {
             "name": "/Orbot.apk",
             "sha256": "f203b33d693007d9f410650307ec1a8766e3f71a7cbd3600085eea2edecbe8ad",
@@ -2562,14 +2562,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1732680096000,
+        "added": 1735228828000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1732680096000,
+        "lastUpdated": 1735228828000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -2600,7 +2600,7 @@
       },
       "versions": {
         "26eca07025397e4fb926c088392f2ee624b2523a9a55c8c9beeca08cf6e9b9ef": {
-          "added": 1732680096000,
+          "added": 1735228828000,
           "file": {
             "name": "/TorBrowser.apk",
             "sha256": "26eca07025397e4fb926c088392f2ee624b2523a9a55c8c9beeca08cf6e9b9ef",
@@ -2729,7 +2729,7 @@
     },
     "se.leap.riseupvpn": {
       "metadata": {
-        "added": 1729894065000,
+        "added": 1735228817000,
         "categories": [
           "Internet",
           "Security",
@@ -2737,7 +2737,7 @@
         ],
         "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
-        "lastUpdated": 1729894065000,
+        "lastUpdated": 1735228817000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://0xacab.org/leap/bitmask_android",
         "translation": "https://www.transifex.com/projects/p/bitmask-android",
@@ -2785,7 +2785,7 @@
       },
       "versions": {
         "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e": {
-          "added": 1729894065000,
+          "added": 1735228817000,
           "file": {
             "name": "/RiseupVPN.apk",
             "sha256": "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e",
@@ -2851,105 +2851,6 @@
               },
               {
                 "name": "android.permission.READ_EXTERNAL_STORAGE"
-              }
-            ]
-          }
-        }
-      }
-    },
-    "us.spotco.malwarescanner": {
-      "metadata": {
-        "added": 1733889695000,
-        "categories": [
-          "Security",
-          "Default"
-        ],
-        "issueTracker": "https://gitlab.com/divested-mobile/hypatia/issues",
-        "lastUpdated": 1733889695000,
-        "license": "GPL-3.0-or-later",
-        "sourceCode": "https://gitlab.com/divested-mobile/hypatia",
-        "authorName": "Divested Computing Group",
-        "authorWebSite": "https://divestos.org",
-        "bitcoin": "bc1qkjtp2k7cc4kuv8k9wjdlxkeuqczenrpv5mwasl",
-        "liberapay": "Tad",
-        "name": {
-          "de": "Hypatia",
-          "en-US": "Hypatia",
-          "fr": "Hypatia",
-          "pl-PL": "Hypatia"
-        },
-        "summary": {
-          "en-US": "A real-time malware scanner",
-          "pl-PL": "Skaner złośliwego oprogramowania w czasie rzeczywistym"
-        },
-        "description": {
-          "de": "<p>Hypatia ist der weltweit erste FOSS-Malwarescanner für Android. Er basiert auf Signatur-Datenbanken im Stil von ClamAV.</p>\n\n<b>Funktionen</b>\n<ul>\n<li>Nahezu keine Auswirkungen auf den Akku: Sie werden keinerlei Auswirkungen auf den Akku bemerken</li>\n<li>Extrem schnell: kleine Dateien (1MB) werden in 20ms gescannt, große Dateien (40MB) in 1000ms.</li>\n<li>Speichereffizient: mit den standardmäßig aktivierten Datenbanken verbraucht Hypatia weniger als 120MB.</li>\n<li>Regelmäßiger Scan: erlaubt die Auswahl von /system, internem Speicher, externem Speicher und installierten Apps</li>\n<li>Echtzeit-Scanner: kann Malware in Echtzeit beim Schreiben/Umbenennen im internen Speicher erkennen</li>\n<li>Vollständig offline: Das Internet wird nur zum Herunterladen von Signatur-Datenbanken verwendet, die Dateien verlassen niemals Ihr Gerät</li>\n<li>Persistenz: automatischer Neustart beim Booten/Update</li>\n<li>Winzige Codebasis: mit weniger als 1000 sloc kann sie sogar von jemandem mit grundlegenden Programmierkenntnissen geprüft werden</li>\n<li>Minimale Abhängigkeiten: die App verwendet nur Bibliotheken, wenn es nötig ist</li>\n<li>Signatur-Datenbanken können auf Wunsch des Benutzers aktiviert/deaktiviert werden</li>\n</ul>\n",
-          "en-US": "<p>Hypatia is the worlds first FOSS malware scanner for Android. It is powered by ClamAV style signature databases.</p>\n\n<b>Features</b>\n<ul>\n<li>Near zero battery impact: you'll never notice any impact on battery at all</li>\n<li>Extremely fast: it can scan small files (1MB) in 20ms, and even large files (40MB) in 1000ms.</li>\n<li>Memory efficient: with the default databases enabled it uses under 120MB.</li>\n<li>Regular scan: allowing selection of /system, internal storage, external storage, and installed apps</li>\n<li>Realtime scanner: can detect malware in realtime on write/rename in internal storage</li>\n<li>Completely offline: Internet is only used to download signature databases, files will never ever leave your device</li>\n<li>Persistence: will automatically restart on boot/update</li>\n<li>Tiny codebase: coming in at under 1000 sloc, it can be audited by even someone with basic programming experience</li>\n<li>Minimal dependencies: the app only uses libraries when necessary</li>\n<li>Signature databases can be enabled/disabled at the users demand</li>\n</ul>\n",
-          "fr": "<p>Hypatia est le premier scanner de malware FOSS (logiciel libre) au monde pour Android. Il est propulsé par les bases de données de signatures de style ClamAV.</p>\n\n<b>Caractéristiques</b>\n<ul>\n<li>Impact de la batterie proche de zéro: vous ne remarquerez aucun impact sur la batterie</li>\n<li>Extrêmement rapide: il peut scanner les petits fichiers (1MB) en 20ms, et même les gros fichiers (40MB) en 1000ms.</li>\n<li>Mémoire efficace: avec les bases de données activées par défaut, il utilise moins de 120 Mo.</li>\n<li>Analyse régulière: permet de sélectionner le système, le mémoire interne, le mémoire externe et les applications installées</li>\n<li>Scanner en temps réel: peut détecter les malwares en temps réel sur l'écriture ou le renommage dans le mémoire interne</li>\n<li>Complètement hors ligne: l'internet n'est utilisé que pour télécharger des bases de données de signatures, les fichiers ne quitteront jamais votre appareil</li>\n<li>Persistance: redémarre automatiquement au démarrage/mise à jour</li>\n<li>Une base de code minuscule: avec moins de 1000 sloc, elle peut être vérifiée même par une personne ayant une expérience de base en programmation</li>\n<li>Dépendances minimales: l'application n'utilise les bibliothèques que lorsque cela est nécessaire</li>\n<li>Les bases de données de signatures peuvent être activées/désactivées à la demande des utilisateurs</li>\n</ul>\n",
-          "pl-PL": "<p>Hypatia to pierwszy w świecie FOSS skaner złośliwego oprogramowania na Androida. Jest oparty o bazy danych sygnatur w stylu ClamAV.</p>\n\n<b>Funkcje</b>\n<ul>\n<li>Prawie zerowy wpływ na baterię – nigdy nie zauważysz wpływu na zużycie baterii</li>\n<li>Ekstremalnie szybki – może skanować małe pliki files (1MB) w 20ms, a nawet większe pliki (40MB) w 1000ms.</li>\n<li>Oszczędny dla pamięci – z domyślnymi bazami danych wykorzystuje mniej niż 120MB.</li>\n<li>Zwykłe skanowanie – pozwala wybrać /system, pamięć wewnętrzną, zewnętrzną i zainstalowane aplikacje</li>\n<li>Skaner w czasie rzeczywistym – może wykrywać złośliwe oprogramowanie podczas nadpisywania/zmian nazw w pamięci wewnętrznej</li>\n<li>Całkowicie offline – Internet wykorzystywany jest jedynie do pobierania baz danych sygnatur, pliki nigdy nie opuszczą Twojego urządzenia</li>\n<li>Trwałość – automatycznie restartuje się po uruchomieniu/aktualizacji</li>\n<li>Niewielki kod – zawiera mniej niż 1000 linii kodu, może zostać zaudytowany nawet przez osobę z podstawową wiedzą o programowaniu</li>\n<li>Minimalne zależności – aplikacja wykorzystuje biblioteki jedynie gdy są potrzebne</li>\n<li>Bazy danych sygnatur mogą być włączone/wyłączone na życzenie użytkownika</li>\n</ul>\n"
-        },
-        "donate": [
-          "https://divested.dev/donate"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "/us.spotco.malwarescanner/en-US/icon.png",
-            "sha256": "0b0a176a123cb3291575984f0a78195c56aeee4aafb3650f76737ca69f299269",
-            "size": 13546
-          }
-        },
-        "preferredSigner": "793660516b62ae8deba66d5e5e4244e0931749ab9f48575b501244ceea858a84"
-      },
-      "versions": {
-        "7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da": {
-          "added": 1733889695000,
-          "file": {
-            "name": "/Hypatia.apk",
-            "sha256": "7262cf1f76a04c91f187b958658aa588d7a313534f5522daa5a9d159297b21da",
-            "size": 559410
-          },
-          "manifest": {
-            "versionName": "3.14",
-            "versionCode": 314,
-            "usesSdk": {
-              "minSdkVersion": 16,
-              "targetSdkVersion": 32
-            },
-            "signer": {
-              "sha256": [
-                "793660516b62ae8deba66d5e5e4244e0931749ab9f48575b501244ceea858a84"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.QUERY_ALL_PACKAGES"
-              },
-              {
-                "name": "android.permission.REQUEST_DELETE_PACKAGES"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
               }
             ]
           }
