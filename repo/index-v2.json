@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1736345426000,
+    "timestamp": 1737604896000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -429,14 +429,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1736345391000,
+        "added": 1737518489000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1736345391000,
+        "lastUpdated": 1737518489000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -486,12 +486,12 @@
         "preferredSigner": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
       },
       "versions": {
-        "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead": {
-          "added": 1736345391000,
+        "d15023d378eb7fab3d47a7d2a7cfdf2e907e7d34e0182b93d37294c237f60ced": {
+          "added": 1737518489000,
           "file": {
             "name": "/AuroraStore.apk",
-            "sha256": "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead",
-            "size": 7387686
+            "sha256": "d15023d378eb7fab3d47a7d2a7cfdf2e907e7d34e0182b93d37294c237f60ced",
+            "size": 7428372
           },
           "manifest": {
             "nativecode": [
@@ -500,8 +500,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.6.1",
-            "versionCode": 62,
+            "versionName": "4.6.4",
+            "versionCode": 65,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -559,6 +559,10 @@
               },
               {
                 "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_CREDENTIALS",
+                "maxSdkVersion": 22
               },
               {
                 "name": "android.permission.WAKE_LOCK"
@@ -705,11 +709,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1736345400000,
+        "added": 1737604895000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1736345400000,
+        "lastUpdated": 1737604895000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -726,7 +730,7 @@
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1736345400000,
+          "added": 1737604895000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
@@ -850,14 +854,14 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1736345404000,
+        "added": 1736654503000,
         "categories": [
           "Internet",
           "Hidden"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1736345404000,
+        "lastUpdated": 1736654503000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -906,12 +910,12 @@
         "preferredSigner": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83"
       },
       "versions": {
-        "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41": {
-          "added": 1736345404000,
+        "06c237293d6aea893ed6c5335ee7aa461f86f6e9dac7f4016c2b9fbe97deeb7c": {
+          "added": 1736654503000,
           "file": {
             "name": "/Nextcloud.apk",
-            "sha256": "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41",
-            "size": 38820931
+            "sha256": "06c237293d6aea893ed6c5335ee7aa461f86f6e9dac7f4016c2b9fbe97deeb7c",
+            "size": 38845507
           },
           "manifest": {
             "nativecode": [
@@ -920,8 +924,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "3.30.6",
-            "versionCode": 30300690,
+            "versionName": "3.30.7",
+            "versionCode": 30300790,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 34
@@ -2144,13 +2148,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1736345421000,
+        "added": 1737086498000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1736345421000,
+        "lastUpdated": 1737086498000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -2173,12 +2177,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474": {
-          "added": 1736345421000,
+        "6ea7387cff1bdb12d06324868c2419533d5a05e6519eb7feefba7f5832e95d80": {
+          "added": 1737086498000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474",
-            "size": 102728843
+            "sha256": "6ea7387cff1bdb12d06324868c2419533d5a05e6519eb7feefba7f5832e95d80",
+            "size": 103311673
           },
           "manifest": {
             "nativecode": [
@@ -2187,8 +2191,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.28.4",
-            "versionCode": 149600,
+            "versionName": "7.29.4",
+            "versionCode": 150100,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2429,14 +2433,14 @@
     },
     "org.torproject.android": {
       "metadata": {
-        "added": 1736345410000,
+        "added": 1736913692000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-        "lastUpdated": 1736345410000,
+        "lastUpdated": 1736913692000,
         "license": "BSD-3-Clause",
         "sourceCode": "https://gitweb.torproject.org/orbot.git",
         "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
@@ -2500,19 +2504,19 @@
         "preferredSigner": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
       },
       "versions": {
-        "f203b33d693007d9f410650307ec1a8766e3f71a7cbd3600085eea2edecbe8ad": {
-          "added": 1736345410000,
+        "adc46dec3028dc96adc6b3b2f79dbe40e26d92750eab694568a8ac3dc6b37bb0": {
+          "added": 1736913692000,
           "file": {
             "name": "/Orbot.apk",
-            "sha256": "f203b33d693007d9f410650307ec1a8766e3f71a7cbd3600085eea2edecbe8ad",
-            "size": 42792282
+            "sha256": "adc46dec3028dc96adc6b3b2f79dbe40e26d92750eab694568a8ac3dc6b37bb0",
+            "size": 40193034
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "17.3.2-RC-1-tor-0.4.8.12",
-            "versionCode": 1732300102,
+            "versionName": "17.4.1-BETA-2-tor-0.4.8.13",
+            "versionCode": 1741200202,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 34

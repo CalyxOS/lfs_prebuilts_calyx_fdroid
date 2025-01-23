@@ -1,0 +1,123 @@
+{
+  "repo": {
+    "timestamp": 1737604896000
+  },
+  "packages": {
+    "com.aurora.store": {
+      "metadata": {
+        "added": 1737518489000,
+        "lastUpdated": 1737518489000
+      },
+      "versions": {
+        "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead": null,
+        "d15023d378eb7fab3d47a7d2a7cfdf2e907e7d34e0182b93d37294c237f60ced": {
+          "added": 1737518489000,
+          "file": {
+            "name": "/AuroraStore.apk",
+            "sha256": "d15023d378eb7fab3d47a7d2a7cfdf2e907e7d34e0182b93d37294c237f60ced",
+            "size": 7428372
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.6.4",
+            "versionCode": 65,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_CREDENTIALS",
+                "maxSdkVersion": 22
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "com.aurora.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          },
+          "antiFeatures": {
+            "NonFreeNet": {}
+          }
+        }
+      }
+    },
+    "com.google.android.apps.photos": {
+      "metadata": {
+        "added": 1737604895000,
+        "lastUpdated": 1737604895000
+      },
+      "versions": {
+        "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
+          "added": 1737604895000
+        }
+      }
+    }
+  }
+}

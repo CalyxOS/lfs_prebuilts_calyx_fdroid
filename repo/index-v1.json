@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1736345426000,
+    "timestamp": 1737604896000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -26,7 +26,7 @@
         "Default"
       ],
       "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
-      "suggestedVersionCode": "62",
+      "suggestedVersionCode": "65",
       "description": "This ''Aurora Store'' is a complete rewrite, replacing https://f-droid.org/packages/com.dragons.aurora.\n\nAurora Store is an alternate to Google's Play Store, with an elegant design,\nusing Aurora you can download apps, update existing apps, search for apps,\nget details about in-app trackers, spoof your location and much more.",
       "donate": "https://www.paypal.me/whyorean",
       "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
@@ -34,9 +34,9 @@
       "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
       "translation": "https://poeditor.com/join/project/54swaCpFXJ",
       "webSite": "http://auroraoss.com",
-      "added": 1736345391000,
+      "added": 1737518489000,
       "packageName": "com.aurora.store",
-      "lastUpdated": 1736345391000,
+      "lastUpdated": 1737518489000,
       "localized": {
         "de": {
           "summary": "Ein Google Playstore-Client"
@@ -843,9 +843,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1736345400000,
+      "added": 1737604895000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1736345400000
+      "lastUpdated": 1737604895000
     },
     {
       "allowedAPKSigningKeys": [
@@ -1011,7 +1011,7 @@
         "Hidden"
       ],
       "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "30300690",
+      "suggestedVersionCode": "30300790",
       "description": "A safe home for all your data. Access & share your files, calendars, contacts,\nmail & more from any device, on your terms. This is the official Android app.\n\n'''Features:'''\n\n* Easy, modern interface\n* Upload your files to your Nextcloud server\n* Share your files with others\n* Keep your favorite files and folders synced\n* Instant Upload for photos and videos taken by your device\n* Multi-account support",
       "donate": "https://nextcloud.com/include/",
       "issueTracker": "https://github.com/nextcloud/android/issues",
@@ -1019,9 +1019,9 @@
       "sourceCode": "https://github.com/nextcloud/android",
       "translation": "https://www.transifex.com/nextcloud/nextcloud/",
       "webSite": "https://nextcloud.com",
-      "added": 1736345404000,
+      "added": 1736654503000,
       "packageName": "com.nextcloud.client",
-      "lastUpdated": 1736345404000,
+      "lastUpdated": 1736654503000,
       "localized": {
         "cs": {
           "summary": "Synchroniza\u010dn\u00ed klient"
@@ -1218,7 +1218,7 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "1732300102",
+      "suggestedVersionCode": "1741200202",
       "description": "Tor is both software and an open network that helps you defend against network\nsurveillance that threatens personal freedom and privacy, confidential business\nactivities and relationships.\n\nOrbot allows access to Tor by accessing a local SOCKS or HTTP proxy.\nOn a rooted device, the proxying can be completely transparent\ni.e. the app that accesses the network need not be aware of the\nproxy's existence; you can choose which apps go via the proxy in the\nsettings.\n\nIf you don't have root access, there are some apps that are designed to work\nclosely with tor or allow proxied connections:\nhttps://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and\nhttps://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox\ncalled <a href=\"https://github.com/guardianproject/ProxyMob/downloads\">ProxyMob</a> (not yet\navailable from the Mozilla addon site).\n",
       "donate": "https://www.torproject.org/donate/donate.html.en",
       "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
@@ -1227,9 +1227,9 @@
       "sourceCode": "https://gitweb.torproject.org/orbot.git",
       "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
       "webSite": "https://www.torproject.org/docs/android.html",
-      "added": 1736345410000,
+      "added": 1736913692000,
       "packageName": "org.torproject.android",
-      "lastUpdated": 1736345410000,
+      "lastUpdated": 1736913692000,
       "localized": {
         "af": {
           "summary": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm"
@@ -1540,16 +1540,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "149600",
+      "suggestedVersionCode": "150100",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1736345421000,
+      "added": 1737086498000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1736345421000,
+      "lastUpdated": 1737086498000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1824,9 +1824,9 @@
     ],
     "com.aurora.store": [
       {
-        "added": 1736345391000,
+        "added": 1737518489000,
         "apkName": "AuroraStore.apk",
-        "hash": "835c59db2017feb7659ac5623aa52ad15eba9fe652ec03bab9872da5ec31cead",
+        "hash": "d15023d378eb7fab3d47a7d2a7cfdf2e907e7d34e0182b93d37294c237f60ced",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1838,7 +1838,7 @@
         "packageName": "com.aurora.store",
         "sig": "6b9ac7fa32e48b1b97796cc2f0ffd1cb",
         "signer": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532",
-        "size": 7387686,
+        "size": 7428372,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1906,6 +1906,10 @@
             null
           ],
           [
+            "android.permission.USE_CREDENTIALS",
+            22
+          ],
+          [
             "android.permission.WAKE_LOCK",
             null
           ],
@@ -1922,8 +1926,8 @@
             null
           ]
         ],
-        "versionCode": 62,
-        "versionName": "4.6.1"
+        "versionCode": 65,
+        "versionName": "4.6.4"
       }
     ],
     "com.fsck.k9": [
@@ -2008,7 +2012,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1736345400000,
+        "added": 1737604895000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
         "hashType": "sha256",
@@ -2060,9 +2064,9 @@
     ],
     "com.nextcloud.client": [
       {
-        "added": 1736345404000,
+        "added": 1736654503000,
         "apkName": "Nextcloud.apk",
-        "hash": "a10ce7d48f86c62760556cec3e9e3b92c960f6c32b3cf48a0ac47eb5f8a1ee41",
+        "hash": "06c237293d6aea893ed6c5335ee7aa461f86f6e9dac7f4016c2b9fbe97deeb7c",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -2074,7 +2078,7 @@
         "packageName": "com.nextcloud.client",
         "sig": "0f8ca80a9abcc3452f65222ed09819a9",
         "signer": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83",
-        "size": 38820931,
+        "size": 38845507,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2214,8 +2218,8 @@
             null
           ]
         ],
-        "versionCode": 30300690,
-        "versionName": "3.30.6"
+        "versionCode": 30300790,
+        "versionName": "3.30.7"
       }
     ],
     "org.breezyweather": [
@@ -2863,9 +2867,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1736345421000,
+        "added": 1737086498000,
         "apkName": "Signal.apk",
-        "hash": "e1f0d33a6594e8680d7e0476f0e65f9c6c9c89af5e4234c1decf0eea4168a474",
+        "hash": "6ea7387cff1bdb12d06324868c2419533d5a05e6519eb7feefba7f5832e95d80",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2877,7 +2881,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 102728843,
+        "size": 103311673,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3177,15 +3181,15 @@
             null
           ]
         ],
-        "versionCode": 149600,
-        "versionName": "7.28.4"
+        "versionCode": 150100,
+        "versionName": "7.29.4"
       }
     ],
     "org.torproject.android": [
       {
-        "added": 1736345410000,
+        "added": 1736913692000,
         "apkName": "Orbot.apk",
-        "hash": "f203b33d693007d9f410650307ec1a8766e3f71a7cbd3600085eea2edecbe8ad",
+        "hash": "adc46dec3028dc96adc6b3b2f79dbe40e26d92750eab694568a8ac3dc6b37bb0",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -3194,7 +3198,7 @@
         "packageName": "org.torproject.android",
         "sig": "8bd7e51b479aeba908ff46ada3305a29",
         "signer": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b",
-        "size": 42792282,
+        "size": 40193034,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3238,8 +3242,8 @@
             null
           ]
         ],
-        "versionCode": 1732300102,
-        "versionName": "17.3.2-RC-1-tor-0.4.8.12"
+        "versionCode": 1741200202,
+        "versionName": "17.4.1-BETA-2-tor-0.4.8.13"
       }
     ],
     "org.torproject.torbrowser": [
