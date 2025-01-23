@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dbb77736_627b8fb1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2025-01-23T17:35:38Z",
+      "side": 1,
+      "message": "Smoke test is fine in work profile. Apps install and look normal. Aurora Store is 4.6.4.",
+      "revId": "bcc531b31689309d5495a8f1b7a22030fc170408",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
