@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1737604896000,
+    "timestamp": 1738728099000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,13 +66,13 @@
   "packages": {
     "app.organicmaps": {
       "metadata": {
-        "added": 1736345412000,
+        "added": 1738382530000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1736345412000,
+        "lastUpdated": 1738382530000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
         "webSite": "https://organicmaps.app/",
@@ -95,12 +95,12 @@
         "preferredSigner": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
       },
       "versions": {
-        "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff": {
-          "added": 1736345412000,
+        "855f4c88e73561c290ae356995d49cb3909a5f4c795f9b989679fcda07da336b": {
+          "added": 1738382530000,
           "file": {
             "name": "/OrganicMaps.apk",
-            "sha256": "8a38c9f5ee6fe2a691d718bb1efe3787f9ca9a4a87f68939efba8c346e6328ff",
-            "size": 58046211
+            "sha256": "855f4c88e73561c290ae356995d49cb3909a5f4c795f9b989679fcda07da336b",
+            "size": 58546323
           },
           "manifest": {
             "nativecode": [
@@ -108,8 +108,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2024.11.27-12-FDroid",
-            "versionCode": 24112712,
+            "versionName": "2025.01.26-9-FDroid",
+            "versionCode": 25012609,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -169,14 +169,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1736345397000,
+        "added": 1738209708000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1736345397000,
+        "lastUpdated": 1738209708000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -237,12 +237,12 @@
         "preferredSigner": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       },
       "versions": {
-        "0667d3a8513c4d445fdcf9b56c459900cd6d9b36ff2b42296074519e929101b8": {
-          "added": 1736345397000,
+        "512c0f360f8b0f815819ff71f31efd5ef7ed51990b7adbb0ea224ef2df58cf36": {
+          "added": 1738209708000,
           "file": {
             "name": "/DAVx5.apk",
-            "sha256": "0667d3a8513c4d445fdcf9b56c459900cd6d9b36ff2b42296074519e929101b8",
-            "size": 16576083
+            "sha256": "512c0f360f8b0f815819ff71f31efd5ef7ed51990b7adbb0ea224ef2df58cf36",
+            "size": 16539275
           },
           "manifest": {
             "nativecode": [
@@ -251,8 +251,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.4.5-ose",
-            "versionCode": 404050003,
+            "versionName": "4.4.6-ose",
+            "versionCode": 404060003,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 35
@@ -709,11 +709,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1737604895000,
+        "added": 1738728095000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1737604895000,
+        "lastUpdated": 1738728095000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -730,7 +730,7 @@
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1737604895000,
+          "added": 1738728095000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
@@ -854,14 +854,14 @@
     },
     "com.nextcloud.client": {
       "metadata": {
-        "added": 1736654503000,
+        "added": 1737691304000,
         "categories": [
           "Internet",
           "Hidden"
         ],
         "changelog": "https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://github.com/nextcloud/android/issues",
-        "lastUpdated": 1736654503000,
+        "lastUpdated": 1737691304000,
         "license": "GPL-2.0-only",
         "sourceCode": "https://github.com/nextcloud/android",
         "translation": "https://www.transifex.com/nextcloud/nextcloud/",
@@ -910,12 +910,12 @@
         "preferredSigner": "5709576f9d6c6a7687dd5d56b269d1fa5e379702b91bc83f39fd7b7c597c1b83"
       },
       "versions": {
-        "06c237293d6aea893ed6c5335ee7aa461f86f6e9dac7f4016c2b9fbe97deeb7c": {
-          "added": 1736654503000,
+        "f0d3d66525ddf8ecd32441a34d965ca56be04a9ded9f50aab7138e12caadf7e6": {
+          "added": 1737691304000,
           "file": {
             "name": "/Nextcloud.apk",
-            "sha256": "06c237293d6aea893ed6c5335ee7aa461f86f6e9dac7f4016c2b9fbe97deeb7c",
-            "size": 38845507
+            "sha256": "f0d3d66525ddf8ecd32441a34d965ca56be04a9ded9f50aab7138e12caadf7e6",
+            "size": 38853699
           },
           "manifest": {
             "nativecode": [
@@ -924,8 +924,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "3.30.7",
-            "versionCode": 30300790,
+            "versionName": "3.30.8",
+            "versionCode": 30300890,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 34
@@ -1004,6 +1004,9 @@
               {
                 "name": "com.android.launcher.permission.INSTALL_SHORTCUT",
                 "maxSdkVersion": 25
+              },
+              {
+                "name": "android.permission.ACCESS_MEDIA_LOCATION"
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE"
@@ -2148,13 +2151,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1737086498000,
+        "added": 1738641697000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1737086498000,
+        "lastUpdated": 1738641697000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -2177,12 +2180,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "6ea7387cff1bdb12d06324868c2419533d5a05e6519eb7feefba7f5832e95d80": {
-          "added": 1737086498000,
+        "bec179adcf1307001d2cbe3e92a65b00059c0f792c966499cd702a5ca8f98df0": {
+          "added": 1738641697000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "6ea7387cff1bdb12d06324868c2419533d5a05e6519eb7feefba7f5832e95d80",
-            "size": 103311673
+            "sha256": "bec179adcf1307001d2cbe3e92a65b00059c0f792c966499cd702a5ca8f98df0",
+            "size": 105085545
           },
           "manifest": {
             "nativecode": [
@@ -2191,8 +2194,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.29.4",
-            "versionCode": 150100,
+            "versionName": "7.32.2",
+            "versionCode": 150900,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2433,14 +2436,14 @@
     },
     "org.torproject.android": {
       "metadata": {
-        "added": 1736913692000,
+        "added": 1738382527000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-        "lastUpdated": 1736913692000,
+        "lastUpdated": 1738382527000,
         "license": "BSD-3-Clause",
         "sourceCode": "https://gitweb.torproject.org/orbot.git",
         "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
@@ -2504,22 +2507,22 @@
         "preferredSigner": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
       },
       "versions": {
-        "adc46dec3028dc96adc6b3b2f79dbe40e26d92750eab694568a8ac3dc6b37bb0": {
-          "added": 1736913692000,
+        "406519c432c094281a718b42083726ebb16c9f06077662878836711bbc1cca94": {
+          "added": 1738382527000,
           "file": {
             "name": "/Orbot.apk",
-            "sha256": "adc46dec3028dc96adc6b3b2f79dbe40e26d92750eab694568a8ac3dc6b37bb0",
-            "size": 40193034
+            "sha256": "406519c432c094281a718b42083726ebb16c9f06077662878836711bbc1cca94",
+            "size": 23658862
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "17.4.1-BETA-2-tor-0.4.8.13",
-            "versionCode": 1741200202,
+            "versionName": "17.4.1-BETA-3-tor-0.4.8.13",
+            "versionCode": 1741200302,
             "usesSdk": {
-              "minSdkVersion": 23,
-              "targetSdkVersion": 34
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
             },
             "signer": {
               "sha256": [
@@ -2564,14 +2567,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1736345425000,
+        "added": 1738728099000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1736345425000,
+        "lastUpdated": 1738728099000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -2601,19 +2604,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "9bcdfffda528b41e6d68910b059175239f4bb5f8e02384eb92e25a2ac7eb2e38": {
-          "added": 1736345425000,
+        "c861703766fbcecf87d7036d2c36b2d746454382fd21ca1e7a53f31ab69e91e9": {
+          "added": 1738728099000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "9bcdfffda528b41e6d68910b059175239f4bb5f8e02384eb92e25a2ac7eb2e38",
-            "size": 105726619
+            "sha256": "c861703766fbcecf87d7036d2c36b2d746454382fd21ca1e7a53f31ab69e91e9",
+            "size": 105722523
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "14.0.4 (128.6.0esr)",
-            "versionCode": 2016066274,
+            "versionName": "14.0.5 (128.7.0esr)",
+            "versionCode": 2016071634,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
