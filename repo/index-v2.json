@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1740062470000,
+    "timestamp": 1740062898000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -44,11 +44,6 @@
       "Navigation": {
         "name": {
           "en-US": "Navigation"
-        }
-      },
-      "Reading": {
-        "name": {
-          "en-US": "Reading"
         }
       },
       "Security": {
@@ -345,88 +340,6 @@
         }
       }
     },
-    "com.artifex.mupdf.viewer.app": {
-      "metadata": {
-        "added": 1736345403000,
-        "categories": [
-          "Reading",
-          "Default"
-        ],
-        "changelog": "https://git.ghostscript.com/?p=mupdf.git;a=blob_plain;f=CHANGES;hb=HEAD",
-        "issueTracker": "https://bugs.ghostscript.com",
-        "lastUpdated": 1736345403000,
-        "license": "AGPL-3.0-or-later",
-        "sourceCode": "https://git.ghostscript.com/?p=mupdf-android-viewer.git;a=summary",
-        "webSite": "https://mupdf.com",
-        "name": {
-          "en-US": "MuPDF viewer"
-        },
-        "summary": {
-          "de": "Leichtgewichtiger Dokumentenbetrachter",
-          "en-US": "Lightweight document viewer",
-          "es": "Visualizador de documentos ligéro",
-          "fi": "Höyhenkevyt asiakirjakatselin",
-          "fr": "Visionneuse de documents légère",
-          "he": "מציג מסמכים קליל",
-          "it": "Un leggero visualizzatore di documenti",
-          "nb": "Lettvektig dokumentviser",
-          "pl": "Przeglądarka dokumentów",
-          "pt": "Visualizador de documentos leve",
-          "pt-BR": "Visualizador de documentos leve",
-          "pt-PT": "Visualizador de documentos leve",
-          "ro": "Vizualizator de documente ușor",
-          "ru": "Легкая программа просмотра документов",
-          "sq": "Parës dokumentesh i peshës së lehtë",
-          "tr": "Hafif belge görüntüleyici",
-          "uk": "Мінімалістичний переглядач документів",
-          "zh-CN": "轻量级文档查看器"
-        },
-        "description": {
-          "en-US": "MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations,\nsearching, form editing and more. It also reads OpenXPS and CBZ (comic book)\ndocuments."
-        },
-        "icon": {
-          "en-US": {
-            "name": "/com.artifex.mupdf.viewer.app/en-US/icon.png",
-            "sha256": "661e7ba8911bc7f4d2517325a9d2ca8cde4e0262bd91c76a7c76b22c4d492c37",
-            "size": 4260
-          }
-        },
-        "preferredSigner": "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
-      },
-      "versions": {
-        "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a": {
-          "added": 1736345403000,
-          "file": {
-            "name": "/MuPDFviewer.apk",
-            "sha256": "8b0fc4ff7386a762a66fdedf917f4a84e9f46d62b079d714a5567f706bdffe0a",
-            "size": 13098357
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a",
-              "armeabi-v7a",
-              "x86"
-            ],
-            "versionName": "1.25.2a",
-            "versionCode": 162,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 34
-            },
-            "signer": {
-              "sha256": [
-                "f7de6763f66a3c6e7b0c8b78e528cb1c1f5dd3b3b0e2859e36e49988d7fadcce"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
-              }
-            ]
-          }
-        }
-      }
-    },
     "com.aurora.store": {
       "metadata": {
         "added": 1737518489000,
@@ -709,11 +622,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1740062469000,
+        "added": 1740062897000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1740062469000,
+        "lastUpdated": 1740062897000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -730,7 +643,7 @@
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1740062469000,
+          "added": 1740062897000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
