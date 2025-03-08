@@ -1,36 +1,114 @@
 {
   "repo": {
-    "timestamp": 1740062898000,
-    "categories": {
-      "Reading": null
-    }
+    "timestamp": 1741406490000
   },
   "packages": {
-    "com.artifex.mupdf.viewer.app": null,
+    "app.organicmaps": {
+      "metadata": {
+        "added": 1741320088000,
+        "lastUpdated": 1741320088000
+      },
+      "versions": {
+        "fb629cbebbe54e23d235e5b76bca94b0613c55dc202da61eddb7600036b40c7a": null,
+        "006dece793a348142fc969dc9eba6950ed921935a5176e5ca24f95057a0f6543": {
+          "added": 1741320088000,
+          "file": {
+            "name": "/OrganicMaps.apk",
+            "sha256": "006dece793a348142fc969dc9eba6950ed921935a5176e5ca24f95057a0f6543",
+            "size": 58765937
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86_64"
+            ],
+            "versionName": "2025.03.02-7-FDroid",
+            "versionCode": 25030207,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "androidx.car.app.NAVIGATION_TEMPLATES"
+              },
+              {
+                "name": "androidx.car.app.ACCESS_SURFACE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1740062897000,
-        "lastUpdated": 1740062897000
+        "added": 1741406484000,
+        "lastUpdated": 1741406484000
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1740062897000
+          "added": 1741406484000
         }
       }
     },
     "org.breezyweather": {
       "metadata": {
-        "added": 1739419295000,
-        "lastUpdated": 1739419295000
+        "added": 1741320085000,
+        "lastUpdated": 1741320085000
       },
       "versions": {
-        "17472437c61f49ce1006eae8efff299b2b2c88a710c2755cb289c41f03df5380": null,
-        "28c53394ca53b12f16e5c691ef5a282273b57c21c813aa6fe45deb30cce85624": {
-          "added": 1739419295000,
+        "28c53394ca53b12f16e5c691ef5a282273b57c21c813aa6fe45deb30cce85624": null,
+        "d120b19527d2d8f020397205a6c5b7f15582d7932a9097e6cec0a0a8266e0435": {
+          "added": 1741320085000,
           "file": {
             "name": "/BreezyWeather.apk",
-            "sha256": "28c53394ca53b12f16e5c691ef5a282273b57c21c813aa6fe45deb30cce85624",
-            "size": 13221922
+            "sha256": "d120b19527d2d8f020397205a6c5b7f15582d7932a9097e6cec0a0a8266e0435",
+            "size": 13393987
           },
           "manifest": {
             "nativecode": [
@@ -39,8 +117,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "5.4.2_freenet",
-            "versionCode": 50402,
+            "versionName": "5.4.5_freenet",
+            "versionCode": 50405,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -109,17 +187,17 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1739419302000,
-        "lastUpdated": 1739419302000
+        "added": 1741406489000,
+        "lastUpdated": 1741406489000
       },
       "versions": {
-        "485217b551e72c7b16dc410cdefb7eaf1f07500202e3a21b29dd7c560409e7c6": null,
-        "7630938689f936b28743e345fe4d9216c2a7131175ebb6744e00403f6343feb4": {
-          "added": 1739419302000,
+        "97813ebfabad6cf6cd5239c1057e6e3208d181b0be3f6e947b12152d381a17da": null,
+        "548e59e79fbc9f04184400ab4b0cef17d88db54aa02c48ac778e9732aa48fc2d": {
+          "added": 1741406489000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "7630938689f936b28743e345fe4d9216c2a7131175ebb6744e00403f6343feb4",
-            "size": 105282210
+            "sha256": "548e59e79fbc9f04184400ab4b0cef17d88db54aa02c48ac778e9732aa48fc2d",
+            "size": 105835816
           },
           "manifest": {
             "nativecode": [
@@ -128,8 +206,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.33.2",
-            "versionCode": 151200,
+            "versionName": "7.36.2",
+            "versionCode": 151900,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -150,7 +228,7 @@
                 "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
               },
               {
-                "name": "android.permission.USE_FINGERPRINT"
+                "name": "android.permission.USE_BIOMETRIC"
               },
               {
                 "name": "org.thoughtcrime.securesms.ACCESS_SECRETS"
@@ -304,7 +382,7 @@
                 "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
               },
               {
-                "name": "android.permission.USE_BIOMETRIC"
+                "name": "android.permission.USE_FINGERPRINT"
               },
               {
                 "name": "com.google.android.c2dm.permission.RECEIVE"
@@ -362,71 +440,6 @@
               },
               {
                 "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
-              }
-            ]
-          }
-        }
-      }
-    },
-    "org.torproject.android": {
-      "metadata": {
-        "added": 1739419296000,
-        "lastUpdated": 1739419296000
-      },
-      "versions": {
-        "406519c432c094281a718b42083726ebb16c9f06077662878836711bbc1cca94": null,
-        "723e1836df4a15c67b32505ab36f94638e1dc7738f153a5dd3dfb1e173a126fa": {
-          "added": 1739419296000,
-          "file": {
-            "name": "/Orbot.apk",
-            "sha256": "723e1836df4a15c67b32505ab36f94638e1dc7738f153a5dd3dfb1e173a126fa",
-            "size": 23658919
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a"
-            ],
-            "versionName": "17.4.1-BETA-4-tor-0.4.8.13",
-            "versionCode": 1741200402,
-            "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 35
-            },
-            "signer": {
-              "sha256": [
-                "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.ACCESS_WIFI_STATE"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "org.torproject.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }
