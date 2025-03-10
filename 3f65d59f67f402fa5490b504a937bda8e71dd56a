@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ff77ec0_50f2bc51",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2025-03-10T19:25:49Z",
+      "side": 1,
+      "message": "PoC for new script",
+      "revId": "3f65d59f67f402fa5490b504a937bda8e71dd56a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d83c7b2e_cf9456d5",
+        "filename": "fdroid-repo.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2025-03-10T19:25:49Z",
+      "side": 1,
+      "message": "Reordering changes, should we force LC_ALL\u003dC sorting in the script?",
+      "revId": "3f65d59f67f402fa5490b504a937bda8e71dd56a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
