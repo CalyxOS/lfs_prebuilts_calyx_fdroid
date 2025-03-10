@@ -1,0 +1,137 @@
+{
+  "repo": {
+    "timestamp": 1741579291000
+  },
+  "packages": {
+    "com.google.android.apps.photos": {
+      "metadata": {
+        "added": 1741579291000,
+        "lastUpdated": 1741579291000
+      },
+      "versions": {
+        "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
+          "added": 1741579291000
+        }
+      }
+    },
+    "org.briarproject.briar.android": {
+      "metadata": {
+        "added": 1741579290000,
+        "lastUpdated": 1741579290000
+      },
+      "versions": {
+        "a67704ec984d6cd0d74d098eca78c5e8f58035c30fc1c112f8450cc4c86415c1": null,
+        "3eeddd867eb7dc97f3ea8beb46871bf4428f476ff91b001b19af347efdec7490": {
+          "added": 1741579290000,
+          "file": {
+            "name": "/Briar.apk",
+            "sha256": "3eeddd867eb7dc97f3ea8beb46871bf4428f476ff91b001b19af347efdec7490",
+            "size": 49028872
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.5.14",
+            "versionCode": 10514,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.NEARBY_WIFI_DEVICES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 18
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.HIDE_OVERLAY_WINDOWS"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_ADMIN",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.BLUETOOTH_SCAN"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_ADVERTISE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 18
+              }
+            ],
+            "usesPermissionSdk23": [
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
