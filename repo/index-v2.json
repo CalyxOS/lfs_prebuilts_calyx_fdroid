@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1741406490000,
+    "timestamp": 1742875299000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -167,14 +167,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1738987313000,
+        "added": 1742270493000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1738987313000,
+        "lastUpdated": 1742270493000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -235,12 +235,12 @@
         "preferredSigner": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       },
       "versions": {
-        "3273d3e138570a90c11b2eec04b977aa5cd3c3da91386ca2199ef64119fe5e2a": {
-          "added": 1738987313000,
+        "b36dc3afc797be902a12a6c6d9fa338ae5d7f8b8e67769dde918f1b746592665": {
+          "added": 1742270493000,
           "file": {
             "name": "/DAVx5.apk",
-            "sha256": "3273d3e138570a90c11b2eec04b977aa5cd3c3da91386ca2199ef64119fe5e2a",
-            "size": 16526987
+            "sha256": "b36dc3afc797be902a12a6c6d9fa338ae5d7f8b8e67769dde918f1b746592665",
+            "size": 16518885
           },
           "manifest": {
             "nativecode": [
@@ -249,8 +249,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.4.7-ose",
-            "versionCode": 404070002,
+            "versionName": "4.4.8-ose",
+            "versionCode": 404080001,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 35
@@ -502,14 +502,14 @@
     },
     "com.fsck.k9": {
       "metadata": {
-        "added": 1736345402000,
+        "added": 1742875297000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
         "issueTracker": "https://github.com/k9mail/k-9/issues",
-        "lastUpdated": 1736345402000,
+        "lastUpdated": 1742875297000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/k9mail/k-9",
         "translation": "https://www.transifex.com/projects/p/k9mail/",
@@ -550,12 +550,12 @@
         "preferredSigner": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576"
       },
       "versions": {
-        "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f": {
-          "added": 1736345402000,
+        "a0b8ed37bdd07bb51bdabfdf5212f5a9cbae58388725b5b3611518ecb207073a": {
+          "added": 1742875297000,
           "file": {
             "name": "/K-9Mail.apk",
-            "sha256": "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f",
-            "size": 10599599
+            "sha256": "a0b8ed37bdd07bb51bdabfdf5212f5a9cbae58388725b5b3611518ecb207073a",
+            "size": 10626490
           },
           "manifest": {
             "nativecode": [
@@ -564,8 +564,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.2",
-            "versionCode": 39019,
+            "versionName": "9.0",
+            "versionCode": 39022,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -625,11 +625,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1741406484000,
+        "added": 1742875296000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1741406484000,
+        "lastUpdated": 1742875296000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -646,7 +646,7 @@
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1741406484000,
+          "added": 1742875296000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
@@ -1086,7 +1086,7 @@
     },
     "org.briarproject.briar.android": {
       "metadata": {
-        "added": 1736345394000,
+        "added": 1741579290000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -1095,7 +1095,7 @@
         ],
         "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
         "issueTracker": "https://code.briarproject.org/briar/briar/issues",
-        "lastUpdated": 1736345394000,
+        "lastUpdated": 1741579290000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://code.briarproject.org/briar/briar",
         "translation": "https://www.transifex.com/otf/briar/",
@@ -1138,12 +1138,12 @@
         "preferredSigner": "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37"
       },
       "versions": {
-        "a67704ec984d6cd0d74d098eca78c5e8f58035c30fc1c112f8450cc4c86415c1": {
-          "added": 1736345394000,
+        "3eeddd867eb7dc97f3ea8beb46871bf4428f476ff91b001b19af347efdec7490": {
+          "added": 1741579290000,
           "file": {
             "name": "/Briar.apk",
-            "sha256": "a67704ec984d6cd0d74d098eca78c5e8f58035c30fc1c112f8450cc4c86415c1",
-            "size": 59438164
+            "sha256": "3eeddd867eb7dc97f3ea8beb46871bf4428f476ff91b001b19af347efdec7490",
+            "size": 49028872
           },
           "manifest": {
             "nativecode": [
@@ -1152,11 +1152,11 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.5.13",
-            "versionCode": 10513,
+            "versionName": "1.5.14",
+            "versionCode": 10514,
             "usesSdk": {
               "minSdkVersion": 21,
-              "targetSdkVersion": 33
+              "targetSdkVersion": 34
             },
             "signer": {
               "sha256": [
@@ -1238,6 +1238,12 @@
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
               }
             ]
           }
@@ -1373,14 +1379,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1736345400000,
+        "added": 1742011291000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1736345400000,
+        "lastUpdated": 1742011291000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1425,16 +1431,22 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a": {
-          "added": 1736345400000,
+        "088004f6d4bb82129d9c4e1134ab6345b532bb109352dc00ad59a09c03395866": {
+          "added": 1742011291000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a",
-            "size": 11049098
+            "sha256": "088004f6d4bb82129d9c4e1134ab6345b532bb109352dc00ad59a09c03395866",
+            "size": 10974426
           },
           "manifest": {
-            "versionName": "1.21.1",
-            "versionCode": 1021051,
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.22.0",
+            "versionCode": 1022050,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 34
@@ -1508,14 +1520,14 @@
     },
     "org.fdroid.fdroid": {
       "metadata": {
-        "added": 1736345399000,
+        "added": 1742011290000,
         "categories": [
           "System",
           "Hidden"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1736345399000,
+        "lastUpdated": 1742011290000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1727,16 +1739,22 @@
         "preferredSigner": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab"
       },
       "versions": {
-        "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef": {
-          "added": 1736345399000,
+        "fad9ee755502a5e38785a5bd13fc7d70f607185178b59fe339040d3823ecd7d9": {
+          "added": 1742011290000,
           "file": {
             "name": "/F-Droid.apk",
-            "sha256": "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef",
-            "size": 11904560
+            "sha256": "fad9ee755502a5e38785a5bd13fc7d70f607185178b59fe339040d3823ecd7d9",
+            "size": 12406541
           },
           "manifest": {
-            "versionName": "1.21.1",
-            "versionCode": 1021051,
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.22.0",
+            "versionCode": 1022050,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 29
@@ -1941,7 +1959,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1740456099000,
+        "added": 1742875298000,
         "categories": [
           "Internet",
           "Security",
@@ -1949,7 +1967,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1740456099000,
+        "lastUpdated": 1742875298000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -1992,19 +2010,19 @@
         "preferredSigner": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6"
       },
       "versions": {
-        "b26e7b6b937ec029f05d61d242a59cc3bb79b254d2e0deded5798026a540503d": {
-          "added": 1740456099000,
+        "93df5dc749029f640ba48d555b45d8ae9285e40055f2497ba906fadead146d83": {
+          "added": 1742875298000,
           "file": {
             "name": "/OONIProbe.apk",
-            "sha256": "b26e7b6b937ec029f05d61d242a59cc3bb79b254d2e0deded5798026a540503d",
-            "size": 69712249
+            "sha256": "93df5dc749029f640ba48d555b45d8ae9285e40055f2497ba906fadead146d83",
+            "size": 69909490
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "5.0.3",
-            "versionCode": 162,
+            "versionName": "5.0.5",
+            "versionCode": 192,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 35
@@ -2052,13 +2070,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1741406489000,
+        "added": 1742270499000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1741406489000,
+        "lastUpdated": 1742270499000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -2081,12 +2099,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "548e59e79fbc9f04184400ab4b0cef17d88db54aa02c48ac778e9732aa48fc2d": {
-          "added": 1741406489000,
+        "1d2591e8703cdd7b2385bdbc518810752a7abf1c25caa7e903c00d50d4c2c2f6": {
+          "added": 1742270499000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "548e59e79fbc9f04184400ab4b0cef17d88db54aa02c48ac778e9732aa48fc2d",
-            "size": 105835816
+            "sha256": "1d2591e8703cdd7b2385bdbc518810752a7abf1c25caa7e903c00d50d4c2c2f6",
+            "size": 105848047
           },
           "manifest": {
             "nativecode": [
@@ -2095,8 +2113,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.36.2",
-            "versionCode": 151900,
+            "versionName": "7.37.3",
+            "versionCode": 152200,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2635,7 +2653,7 @@
     },
     "se.leap.riseupvpn": {
       "metadata": {
-        "added": 1736345414000,
+        "added": 1741838494000,
         "categories": [
           "Internet",
           "Security",
@@ -2643,7 +2661,7 @@
         ],
         "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
-        "lastUpdated": 1736345414000,
+        "lastUpdated": 1741838494000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://0xacab.org/leap/bitmask_android",
         "translation": "https://www.transifex.com/projects/p/bitmask-android",
@@ -2690,12 +2708,12 @@
         "preferredSigner": "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2"
       },
       "versions": {
-        "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e": {
-          "added": 1736345414000,
+        "2d18adfccb1ae2bed22ffaf0c43f443497b365bd4b2800c41c973bf3ca2f3b05": {
+          "added": 1741838494000,
           "file": {
             "name": "/RiseupVPN.apk",
-            "sha256": "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e",
-            "size": 63725960
+            "sha256": "2d18adfccb1ae2bed22ffaf0c43f443497b365bd4b2800c41c973bf3ca2f3b05",
+            "size": 69113489
           },
           "manifest": {
             "nativecode": [
@@ -2704,8 +2722,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.4.1",
-            "versionCode": 176000,
+            "versionName": "1.5.1",
+            "versionCode": 179000,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
@@ -2751,6 +2769,9 @@
               },
               {
                 "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
               },
               {
                 "name": "se.leap.riseupvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"

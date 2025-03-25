@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1741406490000,
+    "timestamp": 1742875299000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -157,16 +157,16 @@
         "Default"
       ],
       "changelog": "https://code.briarproject.org/briar/briar/wikis/changelog",
-      "suggestedVersionCode": "10513",
+      "suggestedVersionCode": "10514",
       "description": "Briar is a messaging app designed for activists, journalists, and anyone else\nwho needs a safe, easy and robust way to communicate. Unlike traditional\nmessaging tools such as email, Twitter or Telegram, Briar doesn't rely on a\ncentral server - messages are synchronized directly between the users' devices.\nIf the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the\ninformation flowing in a crisis. If the Internet's up, Briar can sync via the\nTor network, protecting users and their relationships from surveillance.",
       "issueTracker": "https://code.briarproject.org/briar/briar/issues",
       "license": "GPL-3.0-or-later",
       "sourceCode": "https://code.briarproject.org/briar/briar",
       "translation": "https://www.transifex.com/otf/briar/",
       "webSite": "https://briarproject.org/",
-      "added": 1736345394000,
+      "added": 1741579290000,
       "packageName": "org.briarproject.briar.android",
-      "lastUpdated": 1736345394000,
+      "lastUpdated": 1741579290000,
       "localized": {
         "de": {
           "summary": "Soziales Netzwerk im Darknet"
@@ -318,16 +318,16 @@
         "Default"
       ],
       "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
-      "suggestedVersionCode": "404070002",
+      "suggestedVersionCode": "404080001",
       "donate": "https://www.davx5.com/donate",
       "issueTracker": "https://www.davx5.com/forums",
       "license": "GPL-3.0-only",
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1738987313000,
+      "added": 1742270493000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1738987313000,
+      "lastUpdated": 1742270493000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -410,7 +410,7 @@
         "Hidden"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md",
-      "suggestedVersionCode": "1021051",
+      "suggestedVersionCode": "1022050",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
       "liberapay": "F-Droid-Data",
@@ -419,9 +419,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1736345399000,
+      "added": 1742011290000,
       "packageName": "org.fdroid.fdroid",
-      "lastUpdated": 1736345399000,
+      "lastUpdated": 1742011290000,
       "localized": {
         "af": {
           "description": "F-Droid is 'n installeerbare katalogus van gratis sagteware\nprogramme vir Android. Die F-Droid-kli\u00ebnt-app maak dit\nmaklik om te blaai, te installeer en op hoogte te bly van opdaterings op u toestel.\n\nDit kan gekoppel word aan enige F-Droid-versoenbare bewaarplekke. Die standaardrepos\nword gehuisves by f-droid.org, wat slegs bona fide libre sagteware bevat.\n\nAndroid self is oop in die sin dat u vry is om APK's te installeer\nwaar u ook al wil, maar daar is baie goeie redes om dit te gebruik\nF-Droid as u sagteware-programbestuurder:\n\n* Word in kennis gestel wanneer opdaterings beskikbaar is\n* Aflaai en installeer opdaterings outomaties\n* Hou ouer en beta-weergawes dop\n* Filtreer programme uit wat nie met die toestel versoenbaar is nie\n* Vind programme via kategorie\u00eb en soekbare beskrywings\n* Toegang tot geassosieerde URL's vir donasies, bronkode ens.\n* Bly veilig deur repo-indekshandtekeninge en APK-hakies na te gaan\n",
@@ -763,7 +763,7 @@
         "AlwaysInstall"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "1021051",
+      "suggestedVersionCode": "1022050",
       "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
@@ -774,9 +774,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1736345400000,
+      "added": 1742011291000,
       "packageName": "org.fdroid.basic",
-      "lastUpdated": 1736345400000,
+      "lastUpdated": 1742011291000,
       "localized": {
         "ar": {
           "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
@@ -843,9 +843,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1741406484000,
+      "added": 1742875296000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1741406484000
+      "lastUpdated": 1742875296000
     },
     {
       "allowedAPKSigningKeys": [
@@ -856,16 +856,16 @@
         "Default"
       ],
       "changelog": "https://k9mail.app/k-9/changelog_5.6-MAINT_branch.xml",
-      "suggestedVersionCode": "39019",
+      "suggestedVersionCode": "39022",
       "description": "E-mail client supporting multiple accounts, POP3, IMAP and Push IMAP. Can do\nOpenPGP encryption if https://f-droid.org/packages/org.sufficientlysecure.keychain is installed. Settings\nand account configurations can be exported so that they can be imported easily\nif you are switching packages/signatures: a file manager will need to be already\ninstalled to achieve this.",
       "issueTracker": "https://github.com/k9mail/k-9/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/k9mail/k-9",
       "translation": "https://www.transifex.com/projects/p/k9mail/",
       "webSite": "https://k9mail.app/",
-      "added": 1736345402000,
+      "added": 1742875297000,
       "packageName": "com.fsck.k9",
-      "lastUpdated": 1736345402000,
+      "lastUpdated": 1742875297000,
       "localized": {
         "de": {
           "summary": "Voll ausgestatteter E-Mail-Client"
@@ -1065,16 +1065,16 @@
         "Default"
       ],
       "changelog": "https://github.com/ooni/probe-android/releases",
-      "suggestedVersionCode": "162",
+      "suggestedVersionCode": "192",
       "description": "Are websites and social media apps blocked? Is your network unusually slow?\nRun OONI Probe to find out!\n\nWith this app, you will examine the blocking of websites and instant\nmessaging apps, measure your network\u2019s speed and performance, and check\nwhether systems that could be responsible for censorship and surveillance\nare in your network.\n\nOONI Probe is developed by the Open Observatory of Network Interference\n(OONI), a free software project (under The Tor Project) that aims to uncover\ninternet censorship around the world.\n\nSince 2012, OONI\u2019s global community has collected millions of network\nmeasurements from more than 200 countries, shedding light on multiple cases\nof network interference.\n\n'''Collect evidence of internet censorship'''\nYou can check whether and how websites and instant messaging apps are\nblocked. The network measurement data you will collect may serve as evidence\nof internet censorship.\n\n'''Detect systems responsible for censorship and surveillance'''\nOONI Probe tests are also designed to uncover the presence of systems\n(middleboxes) that could be responsible for censorship and surveillance.\n\n'''Measure the speed and performance of your network'''\nYou can measure the speed and performance of your network by running OONI\u2019s\nimplementation of the Network Diagnostic Test (NDT). You can also measure\nvideo streaming performance with the Dynamic Adaptive Streaming over HTTP\n(DASH) test.\n\n'''Open data'''\nOONI publishes network measurement data because open data allows third\nparties to verify OONI findings, conduct independent studies, and answer\nother research questions. Openly publishing OONI data also helps increase\ntransparency of internet censorship around the world. You can explore and\ndownload OONI data here: https://ooni.io/data/\n\n'''Free software'''\nAll OONI Probe tests (including our NDT and DASH implementations), are based\non free and open source software. You can find OONI software projects\n<a href=\"https://github.com/ooni\">on Github</a>. Curious to learn how OONI Probe tests\nwork? Learn more <a href=\"https://ooni.io/nettest\">here</a>.\n\nTo receive updates from the OONI-verse,\n<a href=\"https://twitter.com/OpenObservatory\">follow us on Twitter</a>\n\nDisclaimer: Running OONI Probe might be against the terms of service of your ISP\nor legally questionable in your country. By running OONI Probe, you will connect\nto web services which might be banned. The OONI project will publish data\nsubmitted by probes, possibly including your IP address or other identifying\ninformation. In addition, your use of OONI Probe will be clear to anyone who has\naccess to your computer, and to anyone who can monitor your Internet connection\n(such as your employer, ISP or government). Learn more about potential risks\n<a href=\"https://ooni.torproject.org/about/risks\">here</a>",
       "issueTracker": "https://github.com/ooni/probe-android/issues",
       "license": "BSD-2-Clause",
       "sourceCode": "https://github.com/ooni/probe-android",
       "translation": "https://www.transifex.com/otf/ooniprobe/",
       "webSite": "https://ooni.torproject.org/",
-      "added": 1740456099000,
+      "added": 1742875298000,
       "packageName": "org.openobservatory.ooniprobe",
-      "lastUpdated": 1740456099000,
+      "lastUpdated": 1742875298000,
       "localized": {
         "de": {
           "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
@@ -1304,7 +1304,7 @@
         "Default"
       ],
       "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
-      "suggestedVersionCode": "176000",
+      "suggestedVersionCode": "179000",
       "description": "RiseupVPN is an application to provide easy and secure encrypted communication.\nThe app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is\npreconfigured with one trusted provider\u2014the Riseup collective\u2014and allows\nanonymous VPN usage without any manual setup.\n\nBy encrypting and securely routing all your network traffic through Riseup\u2019s\nservers, RiseupVPN is able to prevent many forms of censorship and surveillance.",
       "donate": "https://riseup.net/vpn/donate",
       "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
@@ -1312,9 +1312,9 @@
       "sourceCode": "https://0xacab.org/leap/bitmask_android",
       "translation": "https://www.transifex.com/projects/p/bitmask-android",
       "webSite": "https://riseup.net/",
-      "added": 1736345414000,
+      "added": 1741838494000,
       "packageName": "se.leap.riseupvpn",
-      "lastUpdated": 1736345414000,
+      "lastUpdated": 1741838494000,
       "localized": {
         "de": {
           "summary": "Sicheres VPN mit Bitmask"
@@ -1463,16 +1463,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "151900",
+      "suggestedVersionCode": "152200",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1741406489000,
+      "added": 1742270499000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1741406489000,
+      "lastUpdated": 1742270499000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1598,9 +1598,9 @@
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1738987313000,
+        "added": 1742270493000,
         "apkName": "DAVx5.apk",
-        "hash": "3273d3e138570a90c11b2eec04b977aa5cd3c3da91386ca2199ef64119fe5e2a",
+        "hash": "b36dc3afc797be902a12a6c6d9fa338ae5d7f8b8e67769dde918f1b746592665",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1612,7 +1612,7 @@
         "packageName": "at.bitfire.davdroid",
         "sig": "03542175324d067b4c36582242f8aecc",
         "signer": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707",
-        "size": 16526987,
+        "size": 16518885,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1718,8 +1718,8 @@
             null
           ]
         ],
-        "versionCode": 404070002,
-        "versionName": "4.4.7-ose"
+        "versionCode": 404080001,
+        "versionName": "4.4.8-ose"
       }
     ],
     "com.aurora.store": [
@@ -1832,9 +1832,9 @@
     ],
     "com.fsck.k9": [
       {
-        "added": 1736345402000,
+        "added": 1742875297000,
         "apkName": "K-9Mail.apk",
-        "hash": "09aeee5231ec7c3e7250fbdd515076f5b93cf695ed80fdf1b3cc90696209536f",
+        "hash": "a0b8ed37bdd07bb51bdabfdf5212f5a9cbae58388725b5b3611518ecb207073a",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1846,7 +1846,7 @@
         "packageName": "com.fsck.k9",
         "sig": "4cc8dc4af011320a78e2cae3b5a1fc31",
         "signer": "c430665e3662253b2078dcda350c2c6ce44d915a3d8a147b63ced619bb9e8576",
-        "size": 10599599,
+        "size": 10626490,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -1906,13 +1906,13 @@
             null
           ]
         ],
-        "versionCode": 39019,
-        "versionName": "8.2"
+        "versionCode": 39022,
+        "versionName": "9.0"
       }
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1741406484000,
+        "added": 1742875296000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
         "hashType": "sha256",
@@ -2208,9 +2208,9 @@
     ],
     "org.briarproject.briar.android": [
       {
-        "added": 1736345394000,
+        "added": 1741579290000,
         "apkName": "Briar.apk",
-        "hash": "a67704ec984d6cd0d74d098eca78c5e8f58035c30fc1c112f8450cc4c86415c1",
+        "hash": "3eeddd867eb7dc97f3ea8beb46871bf4428f476ff91b001b19af347efdec7490",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2222,8 +2222,8 @@
         "packageName": "org.briarproject.briar.android",
         "sig": "c47c736234483df29c95f62bc7bf0333",
         "signer": "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37",
-        "size": 59438164,
-        "targetSdkVersion": 33,
+        "size": 49028872,
+        "targetSdkVersion": 34,
         "uses-permission": [
           [
             "android.permission.ACCESS_NETWORK_STATE",
@@ -2318,10 +2318,18 @@
           [
             "android.permission.FOREGROUND_SERVICE",
             null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
           ]
         ],
-        "versionCode": 10513,
-        "versionName": "1.5.13"
+        "versionCode": 10514,
+        "versionName": "1.5.14"
       }
     ],
     "org.calyxinstitute.vpn": [
@@ -2406,15 +2414,21 @@
     ],
     "org.fdroid.basic": [
       {
-        "added": 1736345400000,
+        "added": 1742011291000,
         "apkName": "F-DroidBasic.apk",
-        "hash": "6192418dbb892c1f83097f98ce22b27b7a7729974464b063081ba26dc775eb6a",
+        "hash": "088004f6d4bb82129d9c4e1134ab6345b532bb109352dc00ad59a09c03395866",
         "hashType": "sha256",
         "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "org.fdroid.basic",
         "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
         "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
-        "size": 11049098,
+        "size": 10974426,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -2490,21 +2504,27 @@
             28
           ]
         ],
-        "versionCode": 1021051,
-        "versionName": "1.21.1"
+        "versionCode": 1022050,
+        "versionName": "1.22.0"
       }
     ],
     "org.fdroid.fdroid": [
       {
-        "added": 1736345399000,
+        "added": 1742011290000,
         "apkName": "F-Droid.apk",
-        "hash": "b64651849eceb57459049e7017e043008fce8f146aad1d34d98f0027d87e4eef",
+        "hash": "fad9ee755502a5e38785a5bd13fc7d70f607185178b59fe339040d3823ecd7d9",
         "hashType": "sha256",
         "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
         "packageName": "org.fdroid.fdroid",
         "sig": "9063aaadfff9cfd811a9c72fb5012f28",
         "signer": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab",
-        "size": 11904560,
+        "size": 12406541,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2626,8 +2646,8 @@
             null
           ]
         ],
-        "versionCode": 1021051,
-        "versionName": "1.21.1"
+        "versionCode": 1022050,
+        "versionName": "1.22.0"
       }
     ],
     "org.onionshare.android.fdroid": [
@@ -2695,9 +2715,9 @@
     ],
     "org.openobservatory.ooniprobe": [
       {
-        "added": 1740456099000,
+        "added": 1742875298000,
         "apkName": "OONIProbe.apk",
-        "hash": "b26e7b6b937ec029f05d61d242a59cc3bb79b254d2e0deded5798026a540503d",
+        "hash": "93df5dc749029f640ba48d555b45d8ae9285e40055f2497ba906fadead146d83",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -2706,7 +2726,7 @@
         "packageName": "org.openobservatory.ooniprobe",
         "sig": "a1d02df38f28bbe3af69161786e1d39b",
         "signer": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6",
-        "size": 69712249,
+        "size": 69909490,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2746,15 +2766,15 @@
             null
           ]
         ],
-        "versionCode": 162,
-        "versionName": "5.0.3"
+        "versionCode": 192,
+        "versionName": "5.0.5"
       }
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1741406489000,
+        "added": 1742270499000,
         "apkName": "Signal.apk",
-        "hash": "548e59e79fbc9f04184400ab4b0cef17d88db54aa02c48ac778e9732aa48fc2d",
+        "hash": "1d2591e8703cdd7b2385bdbc518810752a7abf1c25caa7e903c00d50d4c2c2f6",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2766,7 +2786,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 105835816,
+        "size": 105848047,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3066,8 +3086,8 @@
             null
           ]
         ],
-        "versionCode": 151900,
-        "versionName": "7.36.2"
+        "versionCode": 152200,
+        "versionName": "7.37.3"
       }
     ],
     "org.torproject.android": [
@@ -3284,9 +3304,9 @@
     ],
     "se.leap.riseupvpn": [
       {
-        "added": 1736345414000,
+        "added": 1741838494000,
         "apkName": "RiseupVPN.apk",
-        "hash": "47c1b809d9545b67a7285230b3656ee4de7eecdcbe992a11ea24ea9739eacc2e",
+        "hash": "2d18adfccb1ae2bed22ffaf0c43f443497b365bd4b2800c41c973bf3ca2f3b05",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -3298,7 +3318,7 @@
         "packageName": "se.leap.riseupvpn",
         "sig": "93382ad36b0a32133bb7790999ec1107",
         "signer": "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2",
-        "size": 63725960,
+        "size": 69113489,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3350,6 +3370,10 @@
             null
           ],
           [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
             "se.leap.riseupvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
             null
           ],
@@ -3358,8 +3382,8 @@
             null
           ]
         ],
-        "versionCode": 176000,
-        "versionName": "1.4.1"
+        "versionCode": 179000,
+        "versionName": "1.5.1"
       }
     ]
   }
