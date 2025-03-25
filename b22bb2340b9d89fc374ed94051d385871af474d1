@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "42e75321_b8dc42f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-03-25T19:31:26Z",
+      "side": 1,
+      "message": "I just thought of a good way to test this to make sure the signatures are the same\n\n1. Install a build without this, install all apps\n2. Update to a build with this change included\n3. Create new work profile or user, install all apps.\n\nIf installation works, they must be the same sig.\n\nWe do have 33358: [installer] Improve ApkInstaller | https://review.calyxos.org/c/CalyxOS/platform_external_calyx_lupin/+/33358\n\nBut regardless, Android doesn\u0027t let you install the same package name with different signature in different work profile / users anyways.",
+      "revId": "b22bb2340b9d89fc374ed94051d385871af474d1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
