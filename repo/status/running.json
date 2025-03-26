@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1736345429151,
+  "endTimestamp": 1742875301965,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "3b64dcee7a7a46eefd56e49e902037d61b635ed6",
@@ -34,7 +34,6 @@
   "needsUpdate": [
     "app.organicmaps",
     "at.bitfire.davdroid",
-    "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
     "com.fsck.k9",
     "com.google.android.apps.photos",
@@ -55,7 +54,6 @@
   "noPackages": [
     "app.organicmaps",
     "at.bitfire.davdroid",
-    "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
     "com.fsck.k9",
     "com.google.android.apps.photos",
@@ -76,7 +74,6 @@
   "noUpdateCheck": [
     "app.organicmaps",
     "at.bitfire.davdroid",
-    "com.artifex.mupdf.viewer.app",
     "com.aurora.store",
     "com.fsck.k9",
     "com.google.android.apps.photos",
@@ -94,6 +91,6 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1736345390000,
+  "startTimestamp": 1742875295000,
   "subcommand": "update"
 }
