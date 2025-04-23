@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1744344102346,
+  "endTimestamp": 1745380892082,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "3b64dcee7a7a46eefd56e49e902037d61b635ed6",
@@ -35,10 +35,10 @@
     "app.organicmaps",
     "at.bitfire.davdroid",
     "com.aurora.store",
-    "com.fsck.k9",
     "com.google.android.apps.photos",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
+    "net.thunderbird.android",
     "org.breezyweather",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
@@ -55,10 +55,10 @@
     "app.organicmaps",
     "at.bitfire.davdroid",
     "com.aurora.store",
-    "com.fsck.k9",
     "com.google.android.apps.photos",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
+    "net.thunderbird.android",
     "org.breezyweather",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
@@ -75,10 +75,10 @@
     "app.organicmaps",
     "at.bitfire.davdroid",
     "com.aurora.store",
-    "com.fsck.k9",
     "com.google.android.apps.photos",
     "com.jarsilio.android.scrambledeggsif",
     "com.nextcloud.client",
+    "net.thunderbird.android",
     "org.breezyweather",
     "org.briarproject.briar.android",
     "org.calyxinstitute.vpn",
@@ -91,6 +91,6 @@
     "org.torproject.torbrowser",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1744344095000,
+  "startTimestamp": 1745380887000,
   "subcommand": "update"
 }

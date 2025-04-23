@@ -1,0 +1,625 @@
+{
+  "repo": {
+    "timestamp": 1745380889000,
+    "categories": {
+      "Writing": {
+        "name": {
+          "en-US": "Writing"
+        }
+      }
+    }
+  },
+  "packages": {
+    "com.fsck.k9": null,
+    "com.google.android.apps.photos": {
+      "metadata": {
+        "added": 1745380888000,
+        "lastUpdated": 1745380888000
+      },
+      "versions": {
+        "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
+          "added": 1745380888000
+        }
+      }
+    },
+    "net.thunderbird.android": {
+      "metadata": {
+        "added": 1744744168000,
+        "categories": [
+          "Connectivity",
+          "Internet",
+          "Writing",
+          "Default"
+        ],
+        "changelog": "https://github.com/thunderbird/thunderbird-android/releases/",
+        "issueTracker": "https://github.com/thunderbird/thunderbird-android/issues",
+        "lastUpdated": 1744744168000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/thunderbird/thunderbird-android",
+        "translation": "https://hosted.weblate.org/projects/tb-android/",
+        "webSite": "https://thunderbird.net",
+        "name": {
+          "ca": "Thunderbird: allibereu la vostra safata d'entrada",
+          "cs-CZ": "Thunderbird: Svobodná pošta",
+          "de-DE": "Thunderbird: Befreie deinen Posteingang",
+          "en-US": "Thunderbird: Free Your Inbox",
+          "es-ES": "Thunderbird para Android",
+          "et": "Thunderbird: e-post sinu jaoks",
+          "eu-ES": "Androiderako Thunderbird",
+          "fa-IR": "تاندربرد: آزادی صندوق ورودی",
+          "fi-FI": "Thunderbird: Vapauta postilaatikkosi",
+          "fr-FR": "Thunderbird : Courriel libre",
+          "fy": "Thunderbird: Befrij jo Postfek",
+          "ga": "Thunderbird: Saor Do Bhosca Isteach",
+          "hu-HU": "Thunderbird: Szabad levelezés",
+          "id": "Thunderbird: Kosongkan Kotak Masuk Anda",
+          "is-IS": "Thunderbird: Frelsaðu pósthólfið þitt",
+          "it-IT": "Thunderbird: libera la tua casella di posta",
+          "iw-IL": "ת'אנדרבירד: שחרר את תיבת הדואר שלך",
+          "ja-JP": "Thunderbird: 受信トレイをもっと自由に",
+          "lt": "Thunderbird: lais. savo gaut.",
+          "nl-NL": "Thunderbird: Bevrijd uw e-mail",
+          "nn": "Thunderbird: Frigjer innboksen",
+          "pl-PL": "Thunderbird: Uwolnij pocztę",
+          "pt-BR": "Thunderbird: Liberte seu email",
+          "ro": "Thunderbird: eliberați-vă căsuța poștală",
+          "ru-RU": "Thunderbird: свободная почта",
+          "sk": "Thunderbird: Slobodná Schránka",
+          "sq": "Thunderbird: Çlironi Kutinë Tuaj Postare",
+          "sr": "Thunderbird: Ослободите своје пријемно сандуче",
+          "sv-SE": "Thunderbird: Frigör din inkorg",
+          "tr-TR": "Thunderbird: Özgür E-posta",
+          "uk": "Thunderbird: Вільна е-пошта",
+          "vi": "Thunderbird: Giải phóng hộp thư của bạn",
+          "zh-CN": "Thunderbird：解放收件箱",
+          "zh-TW": "Thunderbird: 釋放你的收件匣"
+        },
+        "summary": {
+          "ca": "El Thunderbird és una aplicació de correu electrònic de codi obert i centrada en",
+          "cs-CZ": "Thunderbird je 100% open-source e-mailová aplikace zaměřená na ochranu soukromí.",
+          "de-DE": "Thunderbird ist eine 100 % quelloffene, datenschutzfreundliche E-Mail-App.",
+          "en-US": "Thunderbird is a 100% open source, privacy focused email app.",
+          "es-ES": "Thunderbird es una aplicación de correo libre, privada y de código abierto.",
+          "et": "Thunderbird on avatud tarkvaral põhinev ja privaatsusest lähtuv e-posti klient.",
+          "eu-ES": "Thunderbird posta elektronikoko aplikazio librea, pribatutasunean zentratuta.",
+          "fa-IR": "تاندربرد کارهٔ رایانامه‌ای ۱۰۰٪ نرم‌افزار آزاد و با تمرکز بر محرمانگی است.",
+          "fr-FR": "Thunderbird, une appli de courriel à code source ouvert qui protège vos données.",
+          "fy": "Thunderbird is in 100% iepen boarne, op privacy rjochte e-mail-app.",
+          "ga": "Is aip ríomhphoist foinse oscailte 100% é Thunderbird atá dírithe ar phríobháide",
+          "hu-HU": "A Thunderbird egy 100%-ban nyílt forráskódú, privát levelezőprogram.",
+          "id": "Thunderbird adalah aplikasi surel yang 100% bersumber terbuka dan berfokus pada ",
+          "it-IT": "Thunderbird è un'app di posta elettronica 100% open source, incentrata sulla pri",
+          "iw-IL": "ת'אנדרבירד הוא יישום דוא\"ל 100% בקוד פתוח, המתמקד בפרטיות.",
+          "ja-JP": "Thunderbird はプライバシーを重視する 100% オープンソースのメールアプリです。",
+          "lt": "„Thunderbird“ – 100 % atvirojo kodo, į privatumą orientuota el. pašto programa.",
+          "nl-NL": "Thunderbird is een 100% open source, op privacy gerichte e-mail-app.",
+          "nn": "Thunderbird er ein personvern-fokusert e-post app med 100% open kjeldekode.",
+          "pl-PL": "Thunderbird to aplikacja pocztowa w 100% otwartoźródłowa i dbająca o prywatność.",
+          "pt-BR": "Thunderbird é um aplicativo de email, totalmente de código aberto e com foco na ",
+          "ro": "Thunderbird e o aplicație email 100% open source, axată pe confidențialitate.",
+          "ru-RU": "Thunderbird — 100% открытый приватный почтовый клиент.",
+          "sk": "Thunderbird je 100% open source e-mailová aplikácia, zo zameraním na súkromie.",
+          "sq": "Thunderbird-i është një aplikacion për email-e, 100% me burim të hapët, i përqen",
+          "sr": "Thunderbird је апликација за е-пошту са 100% отвореног кода, фокусирана на прива",
+          "sv-SE": "Thunderbird är en sekretessfokuserad e-postapp med 100 % öppen källkod.",
+          "tr-TR": "Thunderbird %100 açık kaynaklı, gizlilik odaklı bir e-posta uygulamasıdır.",
+          "uk": "Thunderbird зі 100% відкритим кодом і приватноцентричний застосунок е-пошти.",
+          "vi": "Thunderbird là ứng dụng thư điện tử chú trọng sự riêng tư và 100% mã nguồn mở.",
+          "zh-CN": "Thunderbird 是 100% 开源、注重隐私的电子邮件应用。",
+          "zh-TW": "Thunderbird 是一款 100% 開源、注重隱私的電子郵件應用程式。"
+        },
+        "description": {
+          "ca": "El Thunderbird és una potent aplicació de correu electrònic centrada en la privadesa. Gestioneu sense esforç diversos comptes de correu electrònic des d'una aplicació, amb una opció de «Safata d'entrada unificada» per obtenir la màxima productivitat. Basat en tecnologia de codi obert i recolzat per un equip dedicat de desenvolupadors juntament amb una comunitat global de voluntaris, el Thunderbird mai tracta les vostres dades privades com un producte. Està totalment finançat per les contribucions econòmiques dels nostres usuaris, de manera que no haureu de tornar a veure anuncis barrejats amb els vostres correus electrònics.\n\n<b>Què podeu fer</b>\n<ul>\n  <li>Deixeu enrere múltiples aplicacions i correu web. Utilitzeu una única aplicació, amb una safata d'entrada unificada opcional, per continuar el vostre dia.</li>\n  <li>Gaudiu d'un client de correu electrònic respectuós amb la privadesa que mai recopila ni ven les vostres dades personals. Us connectem directament amb el vostre proveïdor de correu electrònic. Això és tot!</li>\n  <li>Porteu la vostra privadesa al següent nivell utilitzant l'encriptació de correu electrònic OpenPGP (PGP/MIME) amb l'aplicació «OpenKeychain» per xifrar i desxifrar els vostres missatges.</li>\n  <li>Trieu sincronitzar el vostre correu electrònic a l'instant, a intervals determinats o a demanda. Sigui com sigui que vulgueu consultar el vostre correu electrònic, depèn de vós!</li>\n  <li>Cerqueu els vostres missatges importants mitjançant tant la cerca local i com la cerca al servidor.</li>\n</ul>\n\n<b>Compatibilitat</b>\n<ul>\n  <li>El Thunderbird funciona amb els protocols IMAP i POP3, admetent una àmplia gamma de proveïdors de correu electrònic, com ara Gmail, Outlook, Yahoo Mail, iCloud i més.</li>\n</ul>\n\n<b>Per què utilitzar el Thunderbird</b>\n<ul>\n  <li>El nom de confiança en correu electrònic des de fa més de 20 anys, ara a l'Android.</li>\n  <li>El Thunderbird està totalment finançat amb contribucions voluntàries dels nostres usuaris. No utilitzem les vostres dades personals. Mai sou el producte.</li>\n  <li>Elaborat per un equip tan eficaç com vós. Volem que dediqueu un temps mínim a utilitzar l'aplicació i que en obtingueu el màxim a canvi.</li>\n  <li>Amb col·laboradors d'arreu del món, el Thunderbird per a l'Android s'ha traduït a més de 20 idiomes.</li>\n  <li>Recolzat per la corporació MZLA Technologies, una filial de propietat total de la Fundació Mozilla.</li>\n</ul>\n\n<b>Codi obert i comunitat</b>\n<ul>\n  <li>El Thunderbird és lliure i de codi obert, la qual cosa significa que el seu codi està disponible per veure, modificar, utilitzar i compartir lliurement. La seva llicència també garanteix que serà gratuït per sempre. Podeu pensar en el Thunderbird com un regal de milers de col·laboradors.</li>\n  <li>Desenvolupem en obert amb actualitzacions regulars i transparents al nostre bloc i llistes de correu.</li>\n  <li>El nostre servei d'assistència als usuaris està impulsat per la nostra comunitat global. Trobeu les respostes que necessiteu o feu el paper de col·laborador, ja sigui per respondre preguntes, traduir l'aplicació o parlar del Thunderbird als vostres amics i familiars.</li>\n</ul>\n",
+          "cs-CZ": "Thunderbird je výkonná e-mailová aplikace zaměřená na ochranu soukromí. Snadno spravujte několik e-mailových účtů z jedné aplikace s možností jednotné schránky pro maximální produktivitu. Aplikace je postavena na open-source technologii a je podporována specializovaným týmem vývojářů spolu s celosvětovou komunitou dobrovolníků, a proto s vašimi soukromými údaji nikdy nezachází jako s produktem. Je podporována výhradně finančními příspěvky našich uživatelů, takže už nikdy neuvidíte reklamy přimíchané do svých e-mailů.\n\n<b>Co aplikace umí</b>\n<ul>\n  <li>Zbavte se více aplikací a webové pošty. Používejte jednu aplikaci s volitelnou jednotnou schránkou, která vám pomůže zvládnout celý den.</li>\n  <li>Užijte si e-mailový klient zaměřený na ochranu soukromí, který nikdy nesbírá ani neprodává vaše osobní údaje. Přímo vás propojíme s vaším poskytovatelem e-mailu. Nic víc!</li>\n  <li>Posuňte své soukromí na vyšší úroveň pomocí šifrování e-mailů pomocí OpenPGP (PGP/MIME) s aplikací „OpenKeychain“, která šifruje a dešifruje vaše zprávy.</li>\n  <li>Nastavte si, zda chcete synchronizovat svou poštu ihned, v nastavených intervalech nebo na vyžádání. Jak chcete kontrolovat svůj e-mail je jen na vás!</li>\n  <li>Najděte své důležité zprávy s lokálním i serverovým vyhledáváním.</li>\n</ul>\n\n<b>Kompatibilita</b>\n<ul>\n  <li>Thunderbird pracuje s protokoly IMAP a POP3 a podporuje širokou škálu poskytovatelů e-mailových služeb, včetně Gmailu, Outlooku, Yahoo Mailu, iCloudu a dalších.</li>\n</ul>\n\n<b>Proč používat Thunderbird</b>\n<ul>\n  <li>Důvěryhodné jméno v e-mailu již více než 20 let - nyní i pro Android.</li>\n  <li>Thunderbird je plně financován z dobrovolných příspěvků našich uživatelů. Vaše osobní údaje s nikým nesdílíme. Nikdy nejste produktem.</li>\n  <li>Vytvořeno týmem, který má rád efektivitu stejně, jako vy. Chceme, abyste používáním aplikace strávili co nejméně času a přitom získali maximum.</li>\n  <li>Díky přispěvatelům z celého světa byl Thunderbird pro Android přeložen do více než 20 jazyků.</li>\n  <li>Thunderbird je součástí MZLA Technologies Corporation, dceřiné společnosti plně vlastněné Mozilla Foundation.</li>\n</ul>\n\n<b>Open-source a komunitní</b>\n<ul>\n  <li>Thunderbird je zdarma a open-source, což znamená, že jeho kód je k dispozici k nahlédnutí, úpravám, používání a volnému sdílení. Jeho licence také zaručuje, že bude zdarma navždy. Thunderbird můžete považovat za dar tisíců přispěvatelů pro vás.</li>\n  <li>Vyvíjíme se otevřeně, s pravidelnými a transparentními aktualizacemi na našem blogu a v e-mailových zpravodajích.</li>\n  <li>Naši uživatelskou podporu zajišťuje globální komunita. Najděte odpovědi, které potřebujete, nebo se zapojte do role přispěvatele – ať už jde o zodpovídání otázek, překládání aplikace nebo vyprávění přátelům a rodině o Thunderbirdu.</li>\n</ul>\n",
+          "de-DE": "Thunderbird ist eine leistungsstarke, auf Privatsphäre ausgerichtete E-Mail-App. Verwalte mühelos mehrere E-Mail-Konten von einer App aus, mit einer gemeinsamen Posteingangsoption für maximale Produktivität. Thunderbird basiert auf Open-Source-Technologie und wird von einem engagierten Team von Entwicklern und einer weltweiten Gemeinschaft von Freiwilligen unterstützt, so dass deine privaten Daten nie als Produkt behandelt werden. Thunderbird wird ausschließlich durch finanzielle Spenden unserer Nutzer unterstützt, so dass du nie wieder Werbeeinblendungen in deinen E-Mails sehen musst.\n\n<b>Was kannst du tun</b>\n<ul>\n   <li>Vergiss mehrere Apps und Webmail. Verwende eine einzige App mit einem optionalen einheitlichen Posteingang, um deinen Tag zu meistern.</li>\n   <li>Genieße einen datenschutzfreundlichen E-Mail-Client, der niemals deine persönlichen Daten sammelt oder verkauft. Wir verbinden dich direkt mit deinem E-Mail-Anbieter. Das war's!</li>\n   <li>Hebe deine Privatsphäre auf die nächste Stufe, indem du die OpenPGP-E-Mail-Verschlüsselung (PGP/MIME) mit der App „OpenKeychain“ nutzt, um deine Nachrichten zu ver- und entschlüsseln.</li>\n   <li>Wähle aus, ob du deine E-Mails sofort, in bestimmten Intervallen oder auf Abruf synchronisieren möchtest. Wie du deine E-Mails abrufen willst, liegt ganz bei dir!</li>\n   <li>Finde deine wichtigen Nachrichten sowohl über die lokale als auch über die serverseitige Suche.</li>\n</ul>\n\n<b>Kompatibilität</b>\n<ul>\n   <li>Thunderbird arbeitet mit IMAP- und POP3-Protokollen und unterstützt eine Vielzahl von E-Mail-Anbietern, darunter Gmail, Outlook, Yahoo Mail, iCloud und mehr.</li>\n</ul>\n\n<b>Warum Thunderbird verwenden</b>\n<ul>\n   <li>Der bewährte Name für E-Mail seit über 20 Jahren - jetzt auch für Android.</li>\n   <li>Thunderbird wird vollständig durch freiwillige Beiträge unserer Nutzer finanziert. Wir sammeln deine persönlichen Daten nicht. Du bist niemals das Produkt.</li>\n   <li>Entwickelt von einem Team, das genauso auf Effizienz bedacht ist wie du. Wir möchten, dass du möglichst wenig Zeit mit der App verbringst, während du den größtmöglichen Nutzen daraus ziehst.</li>\n   <li>Mitwirkende aus der ganzen Welt haben Thunderbird für Android in mehr als 20 Sprachen übersetzt.</li>\n   <li>Unterstützt von MZLA Technologies Corporation, einer hundertprozentigen Tochtergesellschaft der Mozilla Foundation.</li>\n</ul>\n\n<b>Open Source und Gemeinschaft</b>\n<ul>\n   <li>Thunderbird ist frei und quelloffen, d.h. sein Code kann frei eingesehen, geändert, benutzt und weitergegeben werden. Die Lizenz stellt außerdem sicher, dass Thunderbird für immer kostenlos bleibt. Betrachte Thunderbird als ein Geschenk von Tausenden von Mitwirkenden an dich.</li>\n   <li>Wir entwickeln offen, mit regelmäßigen, transparenten Updates in unserem Blog und auf unseren Mailinglisten.</li>\n   <li>Unsere Benutzerunterstützung wird von unserer globalen Gemeinschaft getragen. Finde die Antworten, die du brauchst, oder übernehme die Rolle eines Mitwirkenden - sei es beim Beantworten von Fragen, beim Übersetzen der App oder beim Weiterempfehlen von Thunderbird an Freunde und Familie.</li>\n</ul>\n",
+          "en-US": "Thunderbird is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity. Built on open-source technology and supported by a dedicated team of developers alongside a global community of volunteers, Thunderbird never treats your private data as a product. Supported solely by financial contributions from our users, so you never have to see ads mixed in with your emails again.\n\n<b>What you can do</b>\n<ul>\n  <li>Ditch multiple apps and webmail. Use one app, with an optional Unified Inbox, to power through your day.</li>\n  <li>Enjoy a privacy-friendly email client that never collects or sells your personal data. We directly connect you to your email provider. That’s it!</li>\n  <li>Take your privacy to the next level by using OpenPGP email encryption (PGP/MIME) with the “OpenKeychain” app, to encrypt and decrypt your messages.</li>\n  <li>Choose to sync your email instantly, at set intervals, or on-demand. However you want to check your email, it’s up to you!</li>\n  <li>Find your important messages using both local and server-side search.</li>\n</ul>\n\n<b>Compatibility</b>\n<ul>\n  <li>Thunderbird works with IMAP and POP3 protocols, supporting a wide range of email providers, including Gmail, Outlook, Yahoo Mail, iCloud, and more.</li>\n</ul>\n\n<b>Why use Thunderbird</b>\n<ul>\n  <li>The trusted name in email for over 20 years - now on Android.</li>\n  <li>Thunderbird is fully funded by voluntary contributions from our users. We don’t mine your personal data. You are never the product.</li>\n  <li>Made by a team that is as efficiency-minded as you are. We want you to spend minimal time using the app while getting maximum in return.</li>\n  <li>With contributors from all over the world, Thunderbird for Android has been translated into more than 20 languages.</li>\n  <li>Supported by MZLA Technologies Corporation, a wholly owned subsidiary of the Mozilla Foundation.</li>\n</ul>\n\n<b>Open Source and Community</b>\n<ul>\n  <li>Thunderbird is free and open source, which means its code is available to see, modify, use and share freely. Its license also ensures that it will be free forever. You can think of Thunderbird as a gift from thousands of contributors to you.</li>\n  <li>We develop in the open with regular, transparent updates on our blog and mailing lists.</li>\n  <li>Our user support is powered by our global community. Find the answers you need, or step into the role of a contributor - whether it’s answering questions, translating the app, or telling your friends and family about Thunderbird.</li>\n</ul>\n",
+          "es-ES": "Thunderbird es una completa aplicación de correo electrónico que respeta tu privacidad. Puedes manejar múltiples cuentas de correo desde su vista unificada, mejorando tu productividad. Al ser enteramente de código abierto y creada por un equipo de desarrollo, junto a una comunidad global de voluntarios, con Thunderbird tus datos no están en venta. Nos financiamos con el apoyo económico de usuarios como tú, por lo que nunca verás publicidad en tu bandeja de entrada.\n\n<b>Ventajas</b>\n<ul>\n  <li>Olvídate de tener que utilizar múltiples clientes de correo o webs, con una sola aplicación y (si lo prefieres) su vista unificada tendrás todo lo que necesites en tu día a día.</li>\n  <li>Ni recabamos ni vendemos tus datos, solo nos conectamos a tu proveedor de correo para darte servicio, sin más.</li>\n  <li>Mejora tu privacidad aún más con el cifrado de correo OpenPGP (PGP/MIME) y la aplicación «OpenKeychain», que te permiten cifrar y descifrar tus mensajes.</li>\n  <li>Sincroniza tu bandeja de entrada al instante, a intervalos regulares o de forma manual. Tú eliges.</li>\n  <li>Encuentra los correos que más te importan con su búsqueda local y remota en el servidor de tu proveedor.</li>\n</ul>\n\n<b>Compatibilidad</b>\n<ul>\n  <li>Thunderbird entiende los protocolos IMAP y POP3, por lo que funciona con una larga lista de proveedores de correo como Gmail, Outlook, Yahoo Mail, iCloud, entre otros.</li>\n</ul>\n\n<b>¿Por qué usar Thunderbird?</b>\n<ul>\n  <li>Tras más de veinte años de servicio, ahora está disponible para Android.</li>\n  <li>Thunderbird se financia a base de donativos de gente como tú. Ni nos interesan tus datos personales ni tú eres, ni serás nunca, el producto.</li>\n  <li>Creado por un equipo que valora la eficiencia tanto como tú; queremos que pases el menor tiempo posible en la aplicación y que mientras la usas le saques todo el jugo posible.</li>\n  <li>Un equipo internacional de voluntarios ha traducido Thunderbird para Android a más de 20 idiomas.</li>\n  <li>Apoyado por MZLA Technologies Corporation, una empresa que depende de la Fundación Mozilla.</li>\n</ul>\n\n<b>Una comunidad de software libre</b>\n<ul>\n  <li>Thunderbird es un programa libre y de código abierto, lo que significa que cualquiera puede ver cómo funciona, cambiarlo y crear versiones derivadas. El acuerdo de licencia hará que siga siendo así. Es como si te beneficiaras del trabajo acumulado y desinteresado de miles de voluntarios que quieren lo mejor para ti.</li>\n  <li>Lo desarrollamos de forma pública y transparente, se puede seguir desde nuestro blog y las listas de correo.</li>\n  <li>Nuestros usuarios se ayudan entre ellos. Busca las respuestas a tus preguntas o ayuda a otros respondiendo dudas, traduciendo la aplicación o dándola a conocer en tu círculo más cercano.</li>\n</ul>\n",
+          "et": "Thunderbird on võimas privaatsuskeskne e-postirakendus. Saad mugavalt kasutada ühes rakenduses mitut e-posti kontot ning ühise koondsisendkausta võimalus parandab sinu tõhusust. Rakendus põhineb avatud lähtekoodil, projekti veab pühendunud tiim arendajaid, kelle toeks on ülemaailmne vabatahtlike kogukond. Thunderbird mitte kunagi ei kasuta sinu privaatseid andmeid tootena - meie rahastamine põhineb vaid kasutajate toetustel ning sinu e-kirjade vahel me kunagi ei kuva reklaame.\n\n<b>Mida sa saad teha?</b>\n<ul>\n  <li>Unusta ära mitu erinevat e-posti rakendust ja veebimeil. Kasuta ühte rakendust, kust koondsisendkaust aitab sul oma suhtlust lihtsamini korraldada.</li>\n  <li>Kasuta privaatsussõbralikku e-posti klienti, mis mitte kunagi ei kogu sinu andmeid. Me vaid ühendame sind sinu e-posti kliendiga. See on ka kõik!</li>\n  <li>Kui soovid veelgi privaatsust parandada, siis OpenKeychain rakenduse abil kasuta OpenPGP-põhist läbivat e-posti krüptimist  (PGP/MIME).</li>\n  <li>Vali, kas tahad e-posti kohest sünkroniseerimist, uuendamist etteantud ajavahemike järel või ainult sinu päringu alusel - just täpselt nii, nagu sul vaja on!</li>\n  <li>Otsi vajalikke kirju nii kohaliku kui serveripõhise otsingu abil.</li>\n</ul>\n\n<b>Ühilduvus</b>\n<ul>\n  <li>Thunderbird toimib nii IMAP, kui POP3 protokollidega ning võimaldab paljude e-postiteenuste pakkujate kasutamist, sh Gmail, Outlook, Yahoo Mail, iCloud.</li>\n</ul>\n\n<b>Miks just Thunderbird on õige valik?</b>\n<ul>\n  <li>Usalusväärne posti klient juba üle 20 aasta - nüüd olemas ka Androidis.</li>\n  <li>Thunderbirdi rahastus põhineb vaid vabataktlike toetusel. Me ei ahnitse kokku ega müü sinu isiklikke andmeid - sina ei ole kunagi toode, mida müüakse.</li>\n  <li>Arendajate tiim on sarnaselt sinuga orienteeritud tõhususele. Me soovime kulutada rakendusele võimalikult vähe aega, aga saavutades selle ajaga parima tulemuse.</li>\n  <li>Üle maailma tegutsevate kaasautorite abil on Thunderbird Androidile tõlgitud enam kui 20 keelde.</li>\n  <li>Meie tegevust toetab MZLA Technologies Corporation, mis on Mozilla Foundationi täielikus omandis olev tütarettevõte.</li>\n</ul>\n\n<b>Avatud lähtekood ja kogukond</b>\n<ul>\n  <li>Thunderbird avatud lähtekoodil põhineb vaba ja tasuta tarkvara. Rakenduse lähtekood on vaba kõigile tutvumiseks, muutmiseks, kasutamiseks ja jagamiseks. Meie litsents tagab ka selle, et nii jääb igavesti. Sa võid tõlgendada seda ka nii, et Thunderbird on tuhandete kaasautorite kingitus sulle.</li>\n  <li>Meie arendustegevus on avalik ja läbipaistev ning oma tegevusest jagame pidevalt teavet nii meie ajaveebis kui postiloendites.</li>\n  <li>Meie kasutajatugi põhineb ülemaailmsel kogukonnal. Otsi vastuseid sind huvitavatele küsimustele, abista teisi, osale kogukonna töös või tutvusta kõikidele huvilistele Thunderbirdi - kõik see vastavalt sinu eelistustele.</li>\n</ul>\n",
+          "eu-ES": "Thunderbird pribatutasunean zentratutako posta elektronikoko aplikazio indartsua da. Kudeatu esfortzurik gabe posta elektronikoko hainbat kontu aplikazio bakarretik, produktibitate handiena lortzeko Sarrera-ontzi bateratu aukerarekin. Kode irekiko teknologian eraikia eta garatzaile talde dedikatu batek lagunduta, boluntarioen komunitate global batekin batera, Thunderbird-ek ez ditu inoiz zure datu pribatuak produktu gisa tratatzen. Gure erabiltzaileen diru-ekarpenekin soilik onartzen da, beraz, ez duzu inoiz berriro ikusi behar iragarkiak zure mezu elektronikoekin nahastuta.\n\n<b>Zer egin dezakezu:</b>\n<ul>\n  <li>Utzi hainbat aplikazio eta web-posta erabiltzen. Erabili aplikazio bat, aukerako Sarrera-ontzi bateratua duena, zure eguna aurrera ateratzeko.</li>\n  <li>Gozatu zure datu pertsonalak inoiz biltzen edo saltzen ez dituen pribatutasun egokia duen posta-bezero batez. Zuzenean zure posta-hornitzailearekin konektatzen zaitugu. Hori da!</li>\n  <li>Eraman zure pribatutasuna hurrengo mailara OpenPGP posta elektronikoaren enkriptatzea (PGP/MIME) erabiliz \"OpenKeychain\" aplikazioarekin, zure mezuak enkriptatzeko eta deszifratzeko.</li>\n  <li>Aukeratu zure posta elektronikoa berehala sinkronizatzea, ezarritako maiztasunarekin edo eskaeraren arabera.</li>\n  <li>Bilatu zure mezu garrantzitsuak bilaketa lokala eta zerbitzariaren aldeko bilaketa erabiliz.</li>\n</ul>\n\n<b>Bateragarritasuna</b>\n<ul>\n  <li>Thunderbird-ek IMAP eta POP3 protokoloekin funtzionatzen du eta posta elektronikoko hornitzaile ugari onartzen ditu, besteak beste, Gmail, Outlook, Yahoo Mail, iCloud eta abar.</li>\n</ul>\n\n<b>Zergatik erabili Thunderbird:</b>\n<ul>\n  <li>20 urtetik gorako posta elektronikoko aplikazio fidagarria - orain Android-en.</li>\n  <li>Thunderbird gure erabiltzaileen borondatezko ekarpenekin finantzatzen da guztiz. Ez ditugu zure datu pertsonalak erabiltzen. Ez zara inoiz produktua.</li>\n  <li>Zu bezain eraginkorra den talde batek egina. Aplikazioa erabiltzen denbora gutxien igaro dezazun nahi dugu, trukean gehienez.</li>\n  <li>Mundu osoko laguntzaileekin, Thunderbird Android-erako 20 hizkuntza baino gehiagotara itzuli da.</li>\n  <li>MZLA Technologies Corporation-ek lagunduta, Mozilla Fundazioaren jabetza osoa duen filiala.</li>\n</ul>\n\n<b>Kode irekia eta komunitatea</b>\n<ul>\n  <li>Thunderbird doakoa eta kode irekia da, hau da, bere kodea eskuragarri dago libreki ikusteko, aldatzeko, erabiltzeko eta partekatzeko. Bere lizentziak betirako doakoa izango dela ziurtatzen du. Thunderbird milaka kolaboratzaileren opari bat dela pentsa dezakezu.</li>\n  <li>Gure blogean eta posta zerrendetan ohiko eguneratze gardenekin garatzen gara.</li>\n  <li>Gure erabiltzaileentzako laguntza gure mundu mailako komunitateak eskaintzen du. Bilatu behar dituzun erantzunak edo sartu kolaboratzaile baten rola: galderak erantzuten, aplikazioa itzultzen edo zure lagunei eta senideei Thunderbird-i buruz kontatu.</li>\n</ul>\n",
+          "fa-IR": "تاندربرد یک برنامه رایانامه قدرتمند و متمرکز بر حریم خصوصی است. با استفاده از گزینه صندوق ورودی یکپارچه برای حداکثر بهره‌وری، به راحتی چندین حساب رایانامه را از یک برنامه مدیریت کنید. تاندربرد که بر اساس فناوری متن‌باز ساخته شده و توسط یک تیم اختصاصی از توسعه دهندگان در کنار یک جامعه سراسری از داوطلبان پشتیبانی می شود، هرگز با داده های خصوصی شما به عنوان یک محصول رفتار نمی کند. صرفاً توسط کمک‌های مالی کاربران ما پشتیبانی می‌شود، بنابراین دیگر هیچ‌وقت مجبور نخواهید شد که دوباره تبلیغات را در ترکیب با رایانامه‌هایتان مشاهده کنید.\n\n<b>کارهایی که می‌توانید انجام دهید</b>\n<ul>\n  <li>برنامه‌ها و وب‌های متعدد مرتبط با رایانامه را کنار بگذارید. از یک برنامه، با صندوق ورودی یکپارچه اختیاری، استفاده کنید تا یک روز با تمام قدرت داشته باشید.</li>\n  <li>از یک کارخواه رایانامه دوستدار حریم خصوصی که هرگز داده های شخصی شما را جمع آوری نمی‌کند یا نمی‌فروشد، لذت ببرید. ما مستقیماً شما را به ارائه‌دهنده‌های خدمت رایانامه متصل می کنیم. فقط همین!</li>\n  <li>با استفاده از رمزگذاری رایانامه OpenPGP (PGP/MIME) با برنامه OpenKeychain، برای رمزگذاری و رمزگشایی پیام‌های خود، حریم خصوصی خود را به سطح بالاتر ببرید.</li>\n  <li>انتخاب کنید تا رایانامه خود را فوراً، در فواصل زمانی تعیین شده یا بر اساس درخواست همگام کنید. هر طور که بخواهید رایانامه خود را چک کنید، این به شما بستگی دارد!</li>\n  <li>پیام‌های مهم خود را با استفاده از جستجوی محلی و برخط پیدا کنید.</li>\n</ul>\n\n<b>سازگاری</b>\n<ul>\n  <li>تاندربرد با پروتکل های IMAP و POP3 کار می کند و از طیف گسترده ای از ارائه دهندگان رایانامه از جمله Gmail، Outlook، Yahoo Mail، iCloud و غیره پشتیبانی می کند.</li>\n</ul>\n\n<b>چرا از تاندربرد استفاده کنیم</b>\n<ul>\n  <li>نام قابل اعتماد برای رایانامه در طول بیش از ۲۰ سال - اکنون در اندروید.</li>\n  <li>تاندربرد به طور کامل از طریق مشارکت های داوطلبانه کاربران ما حمایت و تأمین می شود. ما اطلاعات شخصی شما را استخراج نمی کنیم. شما هرگز به عنوان محصول مورد بهره‌برداری قرار نمی‌گیرید.</li>\n  <li>ساخته شده توسط تیمی که به اندازه شما کارآمد فکر می کند. ما می خواهیم که شما کمترین زمان خود را برای استفاده از برنامه صرف کنید و در ازای آن بیشترین آورده را داشته باشید.</li>\n  <li>با مشارکت کنندگان از سراسر جهان، تاندربرد برای اندروید به بیش از ۲۰ زبان ترجمه شده است.</li>\n  <li>توسط MZLA Technologies Corporation، یک شرکت تابعه کاملا متعلق به بنیاد موزیلا پشتیبانی می شود.</li>\n</ul>\n\n<b>متن‌باز بودن و جامعه</b>\n<ul>\n  <li>تاندربرد رایگان و منبع باز است، به این معنی که کد آن برای دیدن، تغییر، استفاده و اشتراک‌گذاری آزادانه در دسترس است. مجوز آن همچنین تضمین می کند که برای همیشه آزاد خواهد بود. شما می‌توانید تاندربرد را به عنوان هدیه‌ای از جانب هزاران مشارکت‌کننده در نظر بگیرید.</li>\n  <li>توسعه‌ ما در فضای باز با به‌روزرسانی‌های منظم و شفاف در وبلاگ و لیست‌های پستی خود می‌باشد.</li>\n  <li>پشتیبانی کاربر به وسیله جامعه سراسری ما قدرت می‌گیرد. پاسخ‌های مورد نیاز خود را بیابید، یا به عنوان یک مشارکت‌کننده فعالیت کنید که پاسخ دادن به سؤالات، ترجمه برنامه، یا گفتگو با دوستان و خانواده‌تان درباره تاندربرد، می‌تواند باشد.</li>\n</ul>\n",
+          "fr-FR": "Thunderbird est une appli de courriel puissante qui protège vos renseignements personnels. Gérez sans effort plusieurs comptes de courriel avec une seule appli, avec une option de boîte de réception unifiée pour une productivité maximale. Construite sur une technologie à source ouverte et développée par une équipe de développeurs dévoués aux côtés d’une communauté mondiale de bénévoles, Thunderbird ne traite jamais vos données personnelles comme un produit. Entièrement financées par les dons de nos utilisateurs, vous ne verrez plus jamais de publicités mélangées à vos courriels.\n\n<b>Ce que vous pouvez faire</b>\n<ul>\n  <li>Abandonnez les autres applis et le courriel Web. Une seule appli pour gérer vos courriels, avec une boîte de réception unifiée en option.</li>\n  <li>Profitez d’un client de courriel qui protège vos renseignements personnels sans jamais les recueillir ni les vendre. Nous vous connectons directement à votre service de courriel, c’est tout.</li> \n  <li>Protégez davantage votre vie privée en chiffrant vos courriels avec OpenPGP (PGP/MIME) grâce à l’appli « OpenKeychain », pour un chiffrement et déchiffrement transparent de vos courriels.</li>\n  <li>Choisissez de synchroniser vos courriels instantanément, périodiquement ou à la demande. Vous décidez comment consulter vos courriels.</li>\n  <li>Trouvez vos messages importants grâce à la recherche locale et côté serveur.</li>\n</ul>\n\n<b>Compatibilité</b>\n<ul>\n  <li>Thunderbird fonctionne avec les protocoles IMAP et POP3, compatible avec un large éventail de services de courriel dont Gmail, Outlook, Yahoo Mail, iCloud, et d’autres.</li>\n</ul>\n\n<b>Raisons d’utiliser Thunderbird</b>\n<ul>\n  <li>La marque de confiance en matière de courriel depuis plus de 20 ans, maintenant sur Android.</li>\n  <li>Thunderbird est entièrement financée par les dons de nos utilisateurs. Nous n’exploitons pas vos données personnelles. Vous n’êtes jamais le produit.</li>\n  <li>Conçue par une équipe aussi soucieuse d’efficacité que vous. Nous voulons que vous passiez un minimum de temps à utiliser l’appli et en profitiez au maximum.</li>\n  <li>Nos collaborateurs du monde entier traduisent Thunderbird pour Android en plus de 20 langues.</li>\n  <li>Soutenue par MZLA Technologies Corporation, une filiale à part entière de la Fondation Mozilla.</li>\n</ul>\n\n<b>Code source ouvert et communauté</b>\n<ul>\n  <li>Thunderbird est gratuite et à source ouverte. Son code peut être consulté, modifié, utilisé et partagé librement. Sa licence garantit que l’appli sera toujours gratuite. C’est un cadeau des milliers de contributeurs à vous.</li>\n  <li>Nous développons au grand jour, avec des mises à jour régulières et transparentes sur notre blogue et nos listes de diffusion.</li>\n  <li>L’assistance aux utilisateurs provient de notre communauté mondiale. Trouvez les réponses dont vous avez besoin ou contribuez en répondant aux questions, traduisant l’appli, ou en parlant de Thunderbird à vos amis et à votre famille.</li>\n</ul>\n",
+          "fy": "Thunderbird is in krêftich, op privacy rjochte e-mail-app. Behear maklik meardere accounts fan ien app út, mei in opsje foar in Gearfoege Postfek YN foar maksimale produktiviteit. Boud op iepenboarnetechnology en stipe troch in tawijd team fan ûntwikkelers tegearre mei in wrâldwide mienskip fan frijwilligers, behannelet Thunderbird jo priveegegevens nea as in produkt. Omdat wy folslein stipe wurde troch finansjele donaasjes fan ús brûkers, hoege jo nea mear advertinsjes te sjen tusken jo e-mailberjochten.\n\n<b>Wat kinne jo dwaan</b>\n<ul>\n  <li>Stopje mei it gebrûk fan meardere apps en webmail. Brûk ien app, mei opsjoneel in Gearfoege Postfek YN, om jo troch de dei te helpen.</li>\n  <li>Genietsje fan in privacyfreonlike e-mailclient dy’t nea jo persoanlike gegevens sammelet of ferkeapet. Wy ferbine streekrjocht mei jo e-mailprovider. Dat is it!</li>\n  <li>Bring jo privacy nei in noch heger nivo troch gebrûk te meitsjen fan OpenPGP e-mailfersifering (PGP/MIME) mei de ‘OpenKeychain’-app, om jo berjochten te fersiferjen en ûntsiferjen.</li>\n  <li>Kies derfoar jo e-mailberjochten daliks te syngronisearjen, op fêste tiden, of wannear’t jo mar wolle. Hoe’t jo jo e-mail ek kontrolearje wolle, dat is hielendal oan jo!</li>\n  <li>Fyn jo wichtige berjochten mei help fan sawol lokaal as op de server sykje.</li>\n</ul>\n\n<b>Komptabiliteit</b>\n<ul>\n  <li>Thunderbird wurket mei IMAP- en POP3-protokollen, stipet in breed skala oan e-mailproviders, ynklusyf Gmail, Outlook, Yahoo Mail, iCloud, en mear.</li>\n</ul>\n\n<b>Wêrom Thunderbird brûke</b>\n<ul>\n  <li>De fertroude namme yn e-mail foar mear as 20 jier – no op Android.</li>\n  <li>Thunderbird is folslein finansiere troch frijwillige bydragen fan ús brûkers. Wy sammelje jo persoanlike gegevens net. Jo binne nea it produkt.</li>\n  <li>Makke troch in team dat krekt sa tinkt oer effisjinsje as jo. Wy wolle dat jo sa min mooglik tiid spandearje oan it gebrûk fan de app, wylst jo it maksimale werom krije.</li>\n  <li>Mei meiwurkers fan oer de hiele wrâld, wurdt Thunderbird foar Android oerset yn mear as 20 talen.</li>\n  <li>Stipe troch MZLA Technologies Corporation, in folsleine dochterûndernimming fan de Mozilla Foundation.</li>\n</ul>\n\n<b>Iepen Boarne en Mienskip</b>\n<ul>\n  <li>Thunderbird is fergees en iepen boarne, wat betsjut dat de koade beskikber is om te besjen, bewurkjen, brûken en frij te dielen. De lisinsje garandearret ek dat it altyd frij bliuwe sil. Jo kinne Thunderbird beskôgje as in kado oan jo fan tûzenen meiwurkers.</li>\n  <li>Wy ûntwikkelje yn de iepenheid mei reguliere, transparante fernijingen op ús blog en mailinglisten.</li>\n  <li>Us brûkersstipe wurdt mooglik makke troch ús wrâldwide mienskip. Fyn de antwurden dy’t jo nedich hawwe, of stap yn de rol fan in meiwurker – oft it no it beäntwurdzjen is fan fragen, it oersetten fan de app, of jo freonen en famylje fertelle oer Thunderbird.</li>\n</ul>\n",
+          "ga": "Is aip ríomhphoist chumhachtach é Thunderbird atá dírithe ar phríobháideachas. Bainistigh go héasca cuntais ríomhphoist iolracha ó app amháin, le rogha Bosca Isteach Aontaithe le haghaidh táirgiúlacht uasta. Tógtha ar theicneolaíocht foinse oscailte agus tacaithe ag foireann tiomnaithe forbróirí in éineacht le pobal domhanda oibrithe deonacha, ní chaithfidh Thunderbird do shonraí príobháideacha mar tháirge riamh. Le tacaíocht iomlán ó ranníocaíochtaí airgeadais ónár n-úsáideoirí, mar sin ní gá duit fógraí a fheiceáil measctha isteach le do ríomhphoist arís.\n\n<b>Cad is féidir leat a dhéanamh</b>\n<ul>\n <li>Cuir deireadh le go leor aipeanna agus ríomhphoist. Úsáid aip amháin, le Bosca Isteach roghnach roghnach, chun cumhacht a thabhairt duit ar feadh do lá.</li>\n <li>Bain sult as cliant ríomhphoist atá fabhrach do phríobháideachas nach mbailíonn nó nach ndíolann do shonraí pearsanta choíche. Déanaimid tú a nascadh go díreach le do sholáthraí ríomhphoist. Sin é!</li>\n <li>Tóg do phríobháideachas go dtí an chéad leibhéal eile trí úsáid a bhaint as criptiúchán ríomhphoist OpenPGP (PGP/MIME) leis an aip “OpenKeychain”, chun do chuid teachtaireachtaí a chriptiú agus a dhíchriptiú.</li>\n <li>Roghnaigh do ríomhphost a shioncronú láithreach, ag eatraimh socraithe, nó ar éileamh. Mar sin féin is mian leat do ríomhphost a sheiceáil, is ortsa atá sé!</li>\n <li>Faigh do chuid teachtaireachtaí tábhachtacha trí úsáid a bhaint as cuardach áitiúil agus cuardach ar thaobh an fhreastalaí.</li>\n</ul>\n\n<b>Comhoiriúnacht</b>\n<ul>\n <li>Oibríonn Thunderbird le prótacail IMAP agus POP3, ag tacú le raon leathan soláthraithe ríomhphoist, lena n-áirítear Gmail, Outlook, Yahoo Mail, iCloud agus go leor eile.</li>\n</ul>\n\n<b>Cén fáth a úsáid Thunderbird</b>\n<ul>\n <li>An t-ainm iontaofa sa ríomhphost le breis agus 20 bliain - anois ar Android.</li>\n <li>Tá Thunderbird maoinithe go hiomlán ag ranníocaíochtaí deonacha ónár n-úsáideoirí. Ní mian linn do shonraí pearsanta. Ní tusa an táirge riamh.</li>\n <li>Déanta ag foireann atá chomh meon éifeachtúil agus atá tú. Teastaíonn uainn nach gcaithfeá ach beagán ama ag baint úsáide as an aip agus an t-uasmhéid a bhaint amach duit.</li>\n <li>Le rannpháirtithe ó gach cearn den domhan, tá Thunderbird for Android aistrithe go níos mó ná 20 teanga.</li>\n <li>Tacaithe ag MZLA Technologies Corporation, fochuideachta faoi lánúinéireacht Fhondúireacht Mozilla.</li>\n</ul>\n\n<b>Foinse Oscailte agus Pobal</b>\n<ul>\n <li>Tá Thunderbird saor in aisce agus foinse oscailte, rud a chiallaíonn gur féidir a chód a fheiceáil, a mhodhnú, a úsáid agus a chomhroinnt go héasca. Cinntíonn a cheadúnas freisin go mbeidh sé saor go deo. Is féidir leat smaoineamh ar Thunderbird mar bhronntanas ó na mílte rannpháirtí duit.</li>\n <li>Déanaimid forbairt go poiblí le nuashonruithe rialta, trédhearcacha ar ár mblag agus ar ár liostaí seoltaí.</li>\n <li>Tá ár dtacaíocht úsáideora faoi thiomáint ag ár bpobal domhanda. Faigh na freagraí atá uait, nó céim isteach i ról an rannpháirtí - bíodh sé ag freagairt ceisteanna, ag aistriú na haipe nó ag insint le do chairde agus do mhuintir faoi Thunderbird.</li>\n</ul>\n",
+          "hu-HU": "A Thunderbird egy sokoldalú, adatvédelem-központú levelezőalkalmazás. Kezeljen erőfeszítés nélkül több levelezőfiókot egyetlen alkalmazásból, egységes beérkezett üzenetek mappával a maximális hatékonyságért. Nyílt forráskódú technológiára építve, elkötelezett fejlesztőcsapat és egy globális önkéntes közösség által támogatva. A Thunderbird sosem kezeli termékként a személyes adatait. Csak és kizárólag a felhasználóink pénzügyi adományából finanszírozzuk, így többé sosem kell reklámokat látnia a levelei közé keveredve.\n\n<b>Mit tehet</b>\n<ul>\n  <li>Szabaduljon meg több alkalmazástól és a webes levelezőktől. Használjon egyetlen alkalmazást, a választható egységes beérkezett üzenetek mappával, hogy átvészelje a napját.</li>\n  <li>Élvezze az adatvédelem-barát levelezőklienst, amely sosem gyűjt és ad el személyes adatokat. Közvetlenül a levelezőszolgáltatójához kapcsoljuk. Ennyi az egész!</li>\n  <li>Lépjen szintet az adatvédelemben az OpenPGP levéltitkosítással (PGP/MIME), az „OpenKeychain” alkalmazás segítségével: titkosítsa és fejtse vissza a leveleit.</li>\n  <li>Válasszon, hogy azonnal, időközönként vagy kérésre szinkronizálja a leveleit. Bárhogy is szeretné ellenőrizni a leveleit, csak Önön múlik!</li>\n  <li>Találja meg a fontos leveleit a helyi és a kiszolgálóoldali kereséssel.</li>\n</ul>\n\n<b>Kompatibilitás</b>\n<ul>\n  <li>A Thunderbird az IMAP és a POP3 protokollokkal működik, számos e-mail-szolgáltatót támogatva, köztük a Gmailt, az Outlookot, a Yahoo Mailt, az iCloudot és még sok mást.</li>\n</ul>\n\n<b>Miért a Thunderbird?</b>\n<ul>\n  <li>Több mint 20 éve a levelezés megbízható neve – most Androidon.</li>\n  <li>A Thunderbirdöt teljesen a felhasználóink önkéntes adománya finanszírozza. Nem kutakodunk a személyes adataiban. Sosem Ön a termék.</li>\n  <li>Egy olyan csapat fejlesztésében, akik épp úgy szeretik a hatékonyságot, mint Ön. Azt szeretnénk, hogy a legkevesebb időt töltse el az alkalmazással, de cserébe a legtöbbet hozza ki belőle.</li>\n  <li>Az egész világról származó közreműködőknek köszönhetően, a Thunderbird for Android több mint 20 nyelvre le lett fordítva.</li>\n  <li>A MZLA Technologies Corporation támogatásával, amely a Mozilla Alapítvány kizárólagos tulajdonú leányvállalata.</li>\n</ul>\n\n<b>Nyílt forráskód és közösség</b>\n<ul>\n  <li>A Thunderbird szabad és nyílt forráskódú szoftver, amely azt jelenti, hogy a forráskódja mindenki számára látható, módosítható, használható és szabadon megosztható. A licence biztosítja, hogy örökké szabad legyen. Úgy is gondolhat a Thunderbirdre, mint ezernyi közreműködő közös ajándékára.</li>\n  <li>Nyilvánosan fejlesztünk, rendszeres és átlátható frissítési összefoglalókat osztunk meg a blogunkon és a levelezőlistáinkon.</li>\n  <li>A felhasználói támogatásunkat a globális közösségünk végzi. Találja meg a válaszokat, vagy lépjen Ön is közreműködői szerepbe – válaszoljon a kérdésekre, segítsen az alkalmazás fordításában, vagy csak ossza meg a Thunderbird hírét a barátaival és családjával.</li>\n</ul>\n",
+          "it-IT": "Thunderbird è una potente app di posta elettronica incentrata sulla privacy. Gestisci senza sforzo più account di posta elettronica da un'unica app, con un'opzione Posta in arrivo unificata per la massima produttività. Basato su tecnologia open source e supportato da un team dedicato di sviluppatori insieme a una comunità globale di volontari, Thunderbird non tratta mai i tuoi dati privati come un prodotto. Supportato esclusivamente dai contributi finanziari dei nostri utenti, così non dovrai mai più vedere annunci pubblicitari mescolati alle tue e-mail.\n\n<b>Cosa puoi fare</b>\n<ul>\n<li>Abbandona diverse app e webmail. Utilizza un'unica app, con una Posta in arrivo unificata opzionale, per affrontare la giornata.</li>\n<li>Goditi un client di posta elettronica rispettoso della privacy che non raccoglie o vende mai i tuoi dati personali. Ti colleghiamo direttamente al tuo provider di posta elettronica. Ecco fatto!</li>\n<li>Porta la tua privacy a un livello superiore utilizzando la crittografia e-mail OpenPGP (PGP/MIME) con l'app \"OpenKeychain\", per crittografare e decrittografare i tuoi messaggi.</li>\n<li>Scegli di sincronizzare la tua e-mail all'istante, a intervalli stabiliti o su richiesta. In qualunque modo tu voglia controllare la tua e-mail, la scelta è tua!</li>\n<li>Trova i tuoi messaggi importanti utilizzando la ricerca locale e lato server.</li>\n</ul>\n\n<b>Compatibilità</b>\n<ul>\n<li>Thunderbird funziona con i protocolli IMAP e POP3, supportando un'ampia gamma di provider di posta elettronica, tra cui Gmail, Outlook, Yahoo Mail, iCloud e altri.</li>\n</ul>\n\n<b>Perché usare Thunderbird</b>\n<ul>\n<li>Il nome di fiducia nella posta elettronica da oltre 20 anni, ora su Android.</li>\n<li>Thunderbird è interamente finanziato da contributi volontari dei nostri utenti. Non estraiamo i tuoi dati personali. Non sei mai il prodotto.</li>\n<li>Realizzato da un team che ha la stessa attenzione all'efficienza che hai tu. Vogliamo che tu trascorra il minimo tempo possibile utilizzando l'app ottenendo il massimo in cambio.</li>\n<li>Con collaboratori da tutto il mondo, Thunderbird per Android è stato tradotto in più di 20 lingue.</li>\n<li>Supportato da MZLA Technologies Corporation, una sussidiaria interamente controllata dalla Mozilla Foundation.</li>\n</ul>\n\n<b>Open Source e Community</b>\n<ul>\n<li>Thunderbird è gratuito e open source, il che significa che il suo codice è disponibile per essere consultato, modificato, utilizzato e condiviso liberamente. La sua licenza garantisce inoltre che sarà gratuito per sempre. Puoi pensare a Thunderbird come a un regalo di migliaia di collaboratori a te.</li>\n<li>Sviluppiamo in modo aperto con aggiornamenti regolari e trasparenti sul nostro blog e sulle mailing list.</li>\n<li>Il nostro supporto agli utenti è alimentato dalla nostra community globale. Trova le risposte di cui hai bisogno o mettiti nei panni di un collaboratore, che si tratti di rispondere a domande, tradurre l'app o raccontare ai tuoi amici e familiari di Thunderbird.</li>\n</ul>\n",
+          "ja-JP": "Thunderbird はプライバシー重視の強力なメールアプリです。効率を最大化する統合受信トレイオプションを使用すれば、複数のメールアカウントを一つのアプリから簡単に管理できます。オープンソースで構築され、ボランティアの国際コミュニティとともに専任の開発者チームがサポートする Thunderbird では、あなたのプライバシーに関わる情報が商品として扱われることは決してありません。ユーザーの寄付のみに支えられているため、メールに広告を混ぜ込んで表示したりしません。\n\n<b>できること</b>\n<ul>\n  <li>アプリやウェブメールの併用にさよなら。一つのアプリに集約できるだけでなく、オプションの統合受信トレイが毎日のお役に立ちます。</li>\n  <li>個人データを収集して販売しない、プライバシーを尊重するメールクライアントをお楽しみください。あなたとメールプロバイダーを直接繋ぎます。余計なことはしません。</li>\n  <li>「OpenKeychain」アプリを併用すれば、あなたのプライバシーを次の段階に向上させる OpenPGP メール暗号化 (PGP/MIME) を使用したメッセージの暗号化と復号が可能になります。</li>\n  <li>メールを即時に同期するか、設定した間隔で同期するか、リクエストしたときのみ同期するかはあなたが選択できます。どのようにメールを確認するかはあなたが決められます。</li>\n  <li>ローカルとサーバー両方を検索して重要なメッセージを見つけられます。</li>\n</ul>\n\n<b>互換性</b>\n<ul>\n  <li>Thunderbird は IMAP と POP3 プロトコルで動作し、Gmail、Outlook、Yahoo Mail、iCloud などを含む幅広いメールプロバイダーに対応します。</li>\n</ul>\n\n<b>Thunderbird を使う理由</b>\n<ul>\n  <li>メールで 20 年以上信頼されてきた名前 - これからは Android にも</li>\n  <li>Thunderbird の資金はすべてユーザーからの寄付されています。あなたを商品にするために個人データを収集することは決してありません。</li>\n  <li>あなたと同じくらい効率を重視するチームが開発。アプリを使う時間は最小で、最大の効果を発揮したいと考えています。</li>\n  <li>世界中の貢献者が Android 版 Thunderbird を 20 以上の言語に翻訳。</li>\n  <li>Mozilla Foundation の完全子会社である MZLA Technologies Corporation によってサポート。</li>\n</ul>\n\n<b>オープンソースのコミュニティ</b>\n<ul>\n  <li>Thunderbird は自由でオープンソースです。これは、コードを閲覧し、改変し、使用し、自由に共有できることを意味します。このライセンスは永遠に自由であることも保証します。Thunderbird は数千の貢献者からあなたへのギフトと考えてもらうことができます。</li>\n  <li>私たちはブログやメーリングリストを活用した定期的かつ透明性を確保した更新によりオープンに開発しています。</li>\n  <li>ユーザーサポートは国際コミュニティによって提供されています。質問がある場合や、貢献者の一員 - 質問に回答する、アプリを翻訳する、友達や家族に Thunderbird を広める - となりたい場合はご参加ください。</li>\n</ul>\n",
+          "nl-NL": "Thunderbird is een krachtig, op privacy gerichte e-mail-app. Beheer gemakkelijk meerdere accounts vanuit één app, met een optie voor een Samengevoegd Postvak IN voor maximale productiviteit. Gebouwd op opensourcetechnologie en ondersteund door een toegewijd team van ontwikkelaars samen met een wereldwijde gemeenschap van vrijwilligers, behandelt Thunderbird uw privégegevens nooit als een product. Omdat wij volledig ondersteund worden door financiële donaties van onze gebruikers, hoeft u nooit meer advertenties te zien tussen uw e-mailberichten.\n\n<b>Wat kunt u doen</b>\n<ul>\n  <li>Stoppen met het gebruik van meerdere apps en webmail. Gebruik één app, met een optioneel Samengevoegd Postvak IN, om u door de dag te helpen.</li>\n  <li>Geniet van een privacyvriendelijke e-mailclient die nooit uw persoonlijke gegevens verzameld of verkoopt. We verbinden rechtstreeks met uw e-mailprovider. Dat is het!</li>\n  <li>Breng uw privacy naar een nog hoger niveau door gebruik te maken van OpenPGP e-mailencryptie (PGP/MIME) met de ‘OpenKeychain’-app, om uw berichten te versleutelen en ontcijferen.</li>\n  <li>Kies ervoor uw e-mailberichten direct te synchroniseren, op gezette tijden, of wanneer u maar wilt. Hoe u uw e-mail ook wilt controleren, dat is helemaal aan u!</li>\n  <li>Vind uw belangrijke berichten met behulp van zowel lokaal als op de server zoeken.</li>\n</ul>\n\n<b>Compatibiliteit</b>\n<ul>\n  <li>Thunderbird werkt met IMAP- en POP3-protocollen, ondersteunt een breed scala aan e-mailproviders, inclusief Gmail, Outlook, Yahoo Mail, iCloud, en meer.</li>\n</ul>\n\n<b>Waarom Thunderbird gebruiken</b>\n<ul>\n  <li>De vertrouwde naam in e-mail voor meer dan 20 jaar – nu op Android.</li>\n  <li>Thunderbird is volledig gefinancierd door vrijwillige bijdragen van onze gebruikers. We verzamelen uw persoonlijke gegevens niet. U bent nooit het product.</li>\n  <li>Gemaakt door een team dat net zo denkt over efficiency als u. We willen dat u zo weinig mogelijk tijd spendeert aan het gebruik van de app, terwijl u het maximale terugkrijgt.</li>\n  <li>Met medewerkers van over de hele wereld, wordt Thunderbird voor Android vertaald in meer dan 20 talen.</li>\n  <li>Ondersteund door MZLA Technologies Corporation, een volledige dochteronderneming van de Mozilla Foundation.</li>\n</ul>\n\n<b>Open Source en Gemeenschap</b>\n<ul>\n  <li>Thunderbird is gratis en open source, wat betekent dat de code beschikbaar is om te bekijken, bewerken, gebruiken en vrij te delen. De licentie garandeert ook dat het altijd vrij zal blijven. U kunt Thunderbird beschouwen als een gift aan u van duizenden medewerkers.</li>\n  <li>We ontwikkelen in de openheid met reguliere, transparante updates op ons blog en mailinglijsten.</li>\n  <li>Onze gebruikersondersteuning wordt mogelijk gemaakt door onze wereldwijde gemeenschap. Vind de antwoorden die u nodig hebt, of stap in de rol van een medewerker – of het nu het beantwoorden is van vragen, het vertalen van de app, of uw vrienden en familie vertellen over Thunderbird.</li>\n</ul>\n",
+          "nn": "Thunderbird er ein kraftfull, personvernfokusert e-postapp. Uanstrengt handering av fleire e-postkontoar frå ein app, med samla innboks-moglegheit for maksimal produktivitet. Bygd på open kjeldekode teknologi og støtta av eit dedikert team av utviklarar, på sida av eit globalt samfunn av frivillige. Thunderbird behandlar aldri den private dataen din som eit produkt. Utelukkande støtta av økonomiske bidrag frå brukarane våre, så du aldri treng å sjå annonsar blanda med e-postane dine igjen.\n\n<b>Kva du kan gjere</b>\n<ul>\n  <li>Dropp fleire appar og webmail. Bruk ein app, med ein valfri samla innboks, for å få deg gjennom dagen.</li>\n  <li>Nyt ein personversvennleg e-postklient som aldri samlar eller sel dine personlege data. Me koplar deg direkte til din e-posttenar. Det er det!</li>\n  <li>Ta ditt personvern til neste nivå med å bruke OpenPGP e-postkryptering (PGP/MIME) med “OpenKeychain”-appen, for å kryptere og dekryptere meldingane dine.</li>\n  <li>Vel å synkronisere dine e-postar umiddelbart, med faste intervall, eller etter førespurnad. Korleis du vil sjekke e-posten din er opp til deg!</li>\n  <li>Finn dine viktige meldingar med å bruke både lokalt og tenar-side søk.</li>\n</ul>\n\n<b>Kompatibilitet</b>\n<ul>\n  <li>Thunderbird fungerer med IMAP- og POP3-protokollar, og støtter eit vidt spenn e-post-tilbydarar som inkluderer Gmail, Outlook, Yahoo Mail, iCloud, og meir.</li>\n</ul>\n\n<b>Korfor bruke Thunderbird</b>\n<ul>\n  <li>Det pålitelege namnet innan e-post i over 20 år – no på Android</li>\n  <li>Thunderbird er fullstendig finansiert av frivillige bidrag frå brukarane våre. Me høstar ikkje din personlege data. Du er aldri produktet.</li>\n  <li>Laga av eit like effektivitetsfokusert team som deg sjølv. Me ønskjer at du bruker minimal tid på appen og får maksimal verdi i retur.</li>\n  <li>Med bidragsytarar frå heile verda, har Thunderbird for Android blitt omset til meir enn 20 språk.</li>\n  <li>Støtta av MZLA Technologies Corporation, eit dotterselskap fullstendig eigd av Mozilla Foundation.</li>\n</ul>\n\n<b>Open kjeldekode og samfunn</b>\n<ul>\n  <li>Thunderbird har fri og open kjeldekode, som betyr at koden er tilgjengeleg for å sjå, endre, bruke og dele fritt. Lisensen sikrar at den vil vere fri for alltid. Du kan tenkje på Thunderbird som ei gåve frå tusenar av bidragsytarar til deg.</li>\n  <li>Me utviklar i det opne, med regelmessige, transparante oppdateringar i vår blogg og våre e-postlister.</li>\n  <li>Vår brukarstønad er dreven av vårt globale samfunn. Finn svara du treng, og tre inn i rolla som bidragsytar - anten det er for å svare på spørsmål, omsetje appen, eller fortelje dine vennar og familie om Thunderbird.</li>\n</ul>\n",
+          "pl-PL": "Thunderbird to potężna, skoncentrowana na prywatności aplikacja pocztowa. Bezproblemowo zarządzaj wieloma kontami e-mail z jednej aplikacji, z opcją zintegrowanej skrzynki odbiorczej dla maksymalnej produktywności. Zbudowana na technologii open source i wspierana przez oddany zespół programistów wraz z globalną społecznością wolontariuszy, Thunderbird nigdy nie traktuje Twoich prywatnych danych jako produktu. Wspierany wyłącznie dzięki wkładom finansowym od naszych użytkowników, więc nigdy więcej nie zobaczysz reklam w swoich e-mailach.\n\n<b>Co możesz zrobić</b>\n<ul>\n<li>Porzuć wiele aplikacji i pocztę w przeglądarce. Używaj jednej aplikacji z opcjonalną zintegrowaną skrzynką odbiorczą przez cały czas.</li>\n<li>Ciesz się dbającym o prywatności klientem poczty e-mail, który nigdy nie zbiera ani nie sprzedaje Twoich danych osobowych. Łączymy Cię bezpośrednio z Twoim dostawcą poczty e-mail. To wszystko!</li>\n<li>Przenieś swoją prywatność na wyższy poziom, używając szyfrowania wiadomości e-mail OpenPGP (PGP/MIME) z aplikacją „OpenKeychain”, aby szyfrować i odszyfrowywać wiadomości.</li>\n<li>Wybierz synchronizację wiadomości e-mail natychmiast, w określonych odstępach czasu lub na żądanie. Jakkolwiek chcesz sprawdzić swoją pocztę, to zależy od Ciebie!</li>\n<li>Znajdź ważne wiadomości, korzystając zarówno z wyszukiwania lokalnego, jak i po stronie serwera.</li>\n</ul>\n\n<b>Zgodność</b>\n<ul>\n<li>Thunderbird współpracuje z protokołami IMAP i POP3, obsługując szeroką gamę dostawców poczty e-mail, w tym Gmail, Outlook, Yahoo Mail, iCloud i inne.</li>\n</ul>\n\n<b>Dlaczego warto używać Thunderbirda</b>\n<ul>\n<li>Zaufana nazwa w dziedzinie poczty e-mail od ponad 20 lat — teraz na Androidzie.</li>\n<li>Thunderbird jest w całości finansowany z dobrowolnych składek naszych użytkowników. Nie wydobywamy Twoich danych osobowych. Nigdy nie jesteś produktem.</li>\n<li>Stworzony przez zespół, który — tak jak Ty — jest nastawiony na wydajność. Chcemy, aby użytkownicy spędzali jak najmniej czasu na korzystaniu z aplikacji, otrzymując w zamian jak najwięcej.</li>\n<li>Dzięki współpracownikom z całego świata Thunderbird na Androida został przetłumaczony na ponad 20 języków.</li>\n<li>Obsługiwany przez MZLA Technologies Corporation, spółkę zależną w całości należącą do Mozilla Foundation.</li>\n</ul>\n\n<b>Oprogramowanie typu open source i społeczność</b>\n<ul>\n<li>Thunderbird jest darmowy i ma otwarte oprogramowanie, co oznacza, że jego kod można przeglądać, modyfikować, używać i udostępniać za darmo. Jego licencja zapewnia również, że będzie darmowy na zawsze. Możesz myśleć o aplikacji Thunderbird jako o darze od tysięcy współpracowników dla Ciebie.</li>\n<li>Rozwijamy się w sposób otwarty, regularnie zamieszczając przejrzyste aktualizacje na naszym blogu i listach mailingowych.</li>\n<li>Nasze wsparcie użytkowników jest obsługiwane przez naszą globalną społeczność. Znajdź odpowiedzi, których potrzebujesz, lub wciel się w rolę współautora — czy to odpowiadając na pytania, tłumacząc aplikację, czy opowiadając znajomym i rodzinie o aplikacji Thunderbird.</li>\n</ul>\n",
+          "pt-BR": "Thunderbird é um poderoso aplicativo de email, com foco em privacidade. Gerencie sem esforço várias contas de email em um único aplicativo, com opção de caixa de entrada unificada para obter o máximo de produtividade. Desenvolvido com tecnologia de código aberto e mantido por uma equipe dedicada de desenvolvedores, junto com uma comunidade global de voluntários, o Thunderbird nunca trata seus dados privativos como produto. Sustentado somente por contribuições financeiras de nossos usuários, então você nunca mais precisa ver anúncios misturados com seus emails.\n\n<b>O que você pode fazer</b>\n<ul>\n  <li>Livre-se de vários aplicativos e webmails. Use um único aplicativo, com caixa de entrada unificada opcional, para otimizar seu dia a dia.</li>\n  <li>Aproveite um cliente de email que respeita sua privacidade e nunca coleta ou vende seus dados pessoais. Conectamos você diretamente com seu provedor de email. Simples assim!</li>\n  <li>Eleve o nível de sua privacidade usando a criptografia de email OpenPGP (PGP/MIME) com o aplicativo “OpenKeychain”, para criptografar e descriptografar suas mensagens.</li>\n  <li>Escolha sincronizar seus emails imediatamente, em intervalos predefinidos, ou quando pedir. Você decide como quer verificar seus emails!</li>\n  <li>Encontre suas mensagens importantes usando tanto pesquisa local quanto no servidor.</li>\n</ul>\n\n<b>Compatibilidade</b>\n<ul>\n  <li>O Thunderbird funciona com os protocolos IMAP e POP3, oferecendo suporte a uma ampla variedade de provedores de email, incluindo Gmail, Outlook, Yahoo Mail, iCloud e outros.</li>\n</ul>\n\n<b>Por que usar o Thunderbird</b>\n<ul>\n  <li>Nome confiável em email há mais de 20 anos, agora em Android.</li>\n  <li>O Thunderbird é totalmente financiado por contribuições voluntárias de nossos usuários. Não exploramos seus dados pessoais. Você nunca é o produto.</li>\n  <li>Feito por uma equipe tão preocupada com eficiência quanto você. Queremos que você gaste o mínimo de tempo usando o aplicativo e obtenha o máximo de retorno.</li>\n  <li>Com colaboradores do mundo todo, o Thunderbird para Android foi traduzido para mais de 20 idiomas.</li>\n  <li>Respaldado pela MZLA Technologies Corporation, uma subsidiária integral da Fundação Mozilla.</li>\n</ul>\n\n<b>Código aberto e comunidade</b>\n<ul>\n  <li>O Thunderbird é livre e de código aberto, o que significa que o código está disponível para ser visto, modificado, usado e compartilhado livremente. Sua licença também garante que ele será gratuito para sempre. Você pode pensar no Thunderbird como um presente de milhares de colaboradores para você.</li>\n  <li>Desenvolvemos de forma aberta, com novidades frequentes e transparentes em nosso blog e listas de discussão.</li>\n  <li>Nosso suporte ao usuário é fornecido por nossa comunidade global. Encontre as respostas que precisa ou assuma o papel de colaborador, seja respondendo dúvidas, traduzindo o aplicativo ou divulgando o Thunderbird para seus amigos e familiares.</li>\n</ul>\n",
+          "ro": "Thunderbird este o aplicație de poștă electronică completă și modernă, axată pe confidențialitate. Gestionați fără efort mai multe conturi de poștă electronică dintr-o singură aplicație, cu o opțiune Căsuță de primire unificată pentru productivitate maximă. Construită pe tehnologia de cod-sursă deschis și susținută de o echipă dedicată de dezvoltatori, alături de o comunitate globală de voluntari, Thunderbird nu tratează niciodată datele dvs. private ca pe un produs. Susținută exclusiv prin contribuții financiare din partea utilizatorilor noștri, astfel încât să nu mai trebuiască să vedeți niciodată reclame amestecate cu corespondența dvs.\n\n<b>Ce puteți face</b>\n<ul>\n  <li>Renunțați la aplicațiile multiple și la webmail. Folosiți o singură aplicație, cu o căsuță de primire unificată opțională, pentru a vă face ziua mai ușoară.</li>\n  <li>Bucurați-vă de un client de poștă electronică care protejează confidențialitatea și care nu colectează sau vinde niciodată datele dvs. personale. Vă conectăm direct la furnizorul dvs. de poștă electronică. Asta e tot!</li>\n  <li>Duceți-vă confidențialitatea la nivelul următor utilizând criptarea OpenPGP a corespondenței (PGP/MIME) cu aplicația „OpenKeychain”, pentru a vă cripta și decripta mesajele.</li>\n  <li>Alegeți să vă sincronizați corespondența instantaneu, la intervale stabilite sau la cerere. Oricum doriți să vă verificați corespondența, depinde de dvs.!</li>\n  <li>Găsiți mesajele importante utilizând atât căutarea locală, cât și cea din partea serverului.</li>\n</ul>\n\n<b>Compatibilitate</b>\n<ul>\n  <li>Thunderbird funcționează cu protocoalele IMAP și POP3, oferind suport pentru o gamă largă de furnizori de poștă electronică, inclusiv Gmail, Outlook, Yahoo Mail, iCloud și mulți alții.</li>\n</ul>\n\n<b>De ce să folosiți Thunderbird</b>\n<ul>\n  <li>Nume de încredere în domeniul poștei electronice de peste 20 de ani - acum și pe Android.</li>\n  <li>Thunderbird este finanțat integral prin contribuții voluntare din partea utilizatorilor noștri. Nu extragem datele dvs. personale. Tu nu ești niciodată produsul.</li>\n  <li>Realizat de o echipă care este la fel de preocupată de eficiență ca și tine. Dorim să petreceți cât mai puțin timp folosind aplicația și să obțineți maximum în schimb.</li>\n  <li>Cu colaboratori din întreaga lume, Thunderbird pentru Android a fost tradus în mai mult de 20 de limbi.</li>\n  <li>Susținut de MZLA Technologies Corporation, o filială deținută integral de Mozilla Foundation.</li>\n</ul>\n\n<b>Sursă deschisă și comunitate</b>\n<ul>\n  <li>Thunderbird este gratuit și cu cod-sursă deschis, ceea ce înseamnă că codul său poate fi vizualizat, modificat, utilizat și partajat în mod liber. Licența sa asigură, de asemenea, că va fi gratuit pentru totdeauna. Vă puteți gândi la Thunderbird ca la un cadou din partea a mii de colaboratori pentru dumneavoastră.</li>\n  <li>Dezvoltăm în mod deschis, cu actualizări regulate și transparente pe blogul nostru și pe listele de discuții.</li>\n  <li>Asistența noastră pentru utilizatori este alimentată de comunitatea noastră globală. Găsiți răspunsurile de care aveți nevoie sau intrați în rolul de contribuitor - fie că răspundeți la întrebări, traduceți aplicația sau le spuneți prietenilor și familiei despre Thunderbird.</li>\n</ul>\n",
+          "ru-RU": "Thunderbird — мощный почтовый клиент, ориентированный на конфиденциальность. Простое управление несколькими аккаунтами электронной почты из одного приложения с возможностью создания единого почтового ящика обеспечивает максимальную производительность. Созданный на основе технологии с открытым исходным кодом и поддерживаемый командой разработчиков и глобальным сообществом добровольцев, Thunderbird никогда не использует ваши личные данные как продукт. Поддержка осуществляется исключительно за счёт финансовых пожертвований наших пользователей, так что вам больше никогда не придётся видеть рекламу вперемешку с вашими электронными письмами.\n\n<b>Что вы сможете</b>\n<ul>\n  <li>Отказаться от нескольких приложений и веб-почты. Используйте одно приложение с дополнительным объединённым почтовым ящиком, чтобы с пользой провести день.</li>\n  <li>Пользоваться почтовым клиентом, который не собирает и не продаёт ваши личные данные. Он напрямую соединяет вас с вашим провайдером услуг электронной почты. Вот и всё!</li>\n  <li>Поднять свою конфиденциальность на новый уровень, используя шифрование электронной почты OpenPGP (PGP/MIME) через приложение «OpenKeychain» для шифрования/расшифровки сообщений.</li>\n  <li>Выбирать частоту синхронизацию электронной почты: мгновенно, через заданные промежутки времени или по требованию. Вам решать, как часто бы вы хотели проверять свою электронную почту!</li>\n  <li>Искать важные сообщения, используя как локальный, так и серверный поиск.</li>\n</ul>\n\n<b>Совместимость</b>\n<ul>\n  <li>Thunderbird работает с протоколами IMAP и POP3, поддерживая широкий спектр провайдеров электронной почты, включая Gmail, Outlook, Yahoo Mail, iCloud и других.</li>\n</ul>\n\n<b>Почему Thunderbird</b>\n<ul>\n  <li>Имя, которому доверяют электронную почту более 20 лет, теперь и на Android.</li>\n  <li>Thunderbird полностью финансируется за счёт добровольных пожертвований наших пользователей. Мы не обрабатываем ваши персональные данные. Вы никогда не станете товаром.</li>\n  <li>Создан командой, которая так же, как и вы, стремится к эффективности. Мы хотим, чтобы вы тратили минимум времени на использование приложения, получая при этом максимальную отдачу.</li>\n  <li>Благодаря участникам со всего мира Thunderbird для Android переведён более чем на 20 языков.</li>\n  <li>Поддерживается MZLA Technologies Corporation, дочерней компанией Mozilla Foundation.</li>\n</ul>\n\n<b>Открытый исходный код и сообщество</b>\n<ul>\n  <li>Thunderbird бесплатен и имеет открытый исходный код. Это означает, что его код можно свободно просматривать, изменять, использовать и делиться им. Лицензия также гарантирует, что он будет бесплатным всегда. Можно рассматривать Thunderbird как подарок вам от тысяч участников.</li>\n  <li>Развитие происходит открыто с регулярными публикациями обновлений в нашем блоге и списках рассылки.</li>\n  <li>Поддержка пользователей осуществляется глобальным сообществом. Найдите ответы на интересующие вас вопросы или станьте участником проекта: отвечайте на вопросы, переводите приложение или рассказывайте о Thunderbird своим друзьям и близким.</li>\n</ul>\n",
+          "sq": "Thunderbird-i është një aplikacion email-esh i fuqishëm, i përqendruar te privatësia. Administroni pa mundim llogari të shumta email, nga një aplikacion, përmes një mundësi “Të marrë të Njësuar”, për maksimumin e prodhimtarisë. Ngritur mbi teknologji me burim të hapët dhe mbështetur në një ekip enkas zhvilluesish, tok me një bashkësi globale vullnetarësh, Thunderbird-i s’i trajton kurrë si produkt të dhënat tuaja private. I mbajtur në këmbë vetëm nga kontribute financiare prej përdoruesve tanë, ndaj s’do t’ju duhet kurrë më të shihni reklama përzierë me emaile-t tuaj.\n\n<b>Ç’mund të bëni</b>\n<ul>\n  <li>Të hidhni tej aplikacione të shumta dhe “webmail”. Përdorni një aplikacion, me një “Të marrë të Njësuar” opsional, përgjatë ditës.</li>\n  <li>Të shijoni një klient email dashamirës ndaj privatësisë, që nuk mbledh, apo shet kurrë të dhënat tuaja personale. Ju lidhim drejtpërdrejt me shërbimin tuaj email. Kaq!</li>\n  <li>Shpjereni privatësinë tuaj një shkallë më lart, duke përdorur fshehtëzim OpenPGP email-esh (PGP/MIME) me aplikacionin “OpenKeychain”, për të fshehtëzuar dhe shfshehtëzuar mesazhet tuaj.</li>\n  <li>Zgjidhni njëkohësimin në çast të email-it tuaj, në intervale të caktuar, ose sipas dëshirës. Si dëshironi të shihni për email-e, e keni ju në dorë!</li>\n  <li>Gjeni mesazhe të rëndësishëm, duke përdorur si kërkim vendor, ashtu edhe më anë shërbyesi.</li>\n</ul>\n\n<b>Përputhje</b>\n<ul>\n  <li>Thunderbird-i funksionon me protokolle IMAP dhe POP3, duke mbuluar një gamë të gjerë shërbimesh email, përfshi Gmail, Outlook, Yahoo Mail, iCloud, etj.</li>\n</ul>\n\n<b>Pse të përdoret Thunderbird-i</b>\n<ul>\n  <li>Emri i besuar në email për mbi 20 vjet - tani në Android.</li>\n  <li>Thunderbird-i është plotësisht i financuar nga kontribute vullnetarësh nga përdoruesit tanë. Nuk shfrytëzojmë të dhënat tuaja personale. S’jeni kurrë një produkt.</li>\n  <li>Prodhuar nga një ekip me efikasitetin në mendje, si ju. Duam të shpenzoni kohën minimale duke përdorur aplikacionin, teksa përfitoni maksimumin.</li>\n  <li>Me kontribute nga anembanë bota, Thunderbird-i për Android është përkthyer në më shumë se 20 gjuhë.</li>\n  <li>Me përkrahjen e MZLA Technologies Corporation, një nëndegë në pronësi të plotë e Mozilla Foundation.</li>\n</ul>\n\n<b>Burim i Hapët dhe Bashkësisë</b>\n<ul>\n  <li>Thunderbird-i është falas dhe me burim të hapët, që do të thotë se kodi i tij mund të shihet, ndryshohet, përdoret dhe jepet lirisht. Licenca e tij garanton gjithashtu se do të jetë kështu përgjithmonë. Mund ta mendoni Thunderbird-in si një dhuratë për ju nga mijëra kontribues.</li>\n  <li>E zhvillojmë haptazi, me përditësime të rregullta, të tejdukshme, në blogun dhe listat tona të postimeve.</li>\n  <li>Asistenca jonë e përdoruesve bazohet në bashkësinë tonë globale. Gjeni përgjigjet që ju duhen, ose i hyni rolit të një kontribuesi - qoftë kur i përgjigjeni një pyetjeje, përktheni aplikacioni, apo u tregoni shokëve dhe familjes tuaj rreth Thunderbird-it.</li>\n</ul>\n",
+          "sv-SE": "Thunderbird är en kraftfull, integritetsfokuserad e-postapp. Hantera flera e-postkonton enkelt från en app, med en samlad inkorg för maximal produktivitet. Byggd på teknologi med öppen källkod och stöds av ett dedikerat team av utvecklare tillsammans med en global gemenskap av frivilliga, Thunderbird behandlar aldrig din privata data som en produkt. Stöds enbart av ekonomiska bidrag från våra användare, så att du aldrig behöver se annonser blandade med dina e-postmeddelanden igen.\n\n<b>Vad du kan göra</b>\n<ul>\n <li>Skippa flera appar och webbmail. Använd en app, med en valfri samlad inkorg, för att klara din dag.</li>\n <li>Njut av en integritetsvänlig e-postklient som aldrig samlar in eller säljer dina personuppgifter. Vi kopplar dig direkt till din e-postleverantör. Det är det!</li>\n <li>Ta din integritet till nästa nivå genom att använda OpenPGP-e-postkryptering (PGP/MIME) med appen \"OpenKeychain\" för att kryptera och dekryptera dina meddelanden.</li>\n <li>Välj att synkronisera din e-post direkt, med bestämda intervaller eller på begäran. Hur du än vill kontrollera din e-post så är det upp till dig!</li>\n <li>Hitta dina viktiga meddelanden med hjälp av både lokal sökning och sökning på serversidan.</li>\n</ul>\n\n<b>Kompatibilitet</b>\n<ul>\n <li>Thunderbird fungerar med IMAP- och POP3-protokoll och stöder ett brett utbud av e-postleverantörer, inklusive Gmail, Outlook, Yahoo Mail, iCloud och mer.</li>\n</ul>\n\n<b>Varför använda Thunderbird</b>\n<ul>\n <li>Det betrodda namnet inom e-post i över 20 år – nu på Android.</li>\n <li>Thunderbird finansieras helt av frivilliga bidrag från våra användare. Vi delar inte dina personuppgifter. Du är aldrig produkten.</li>\n <li>Gjord av ett team som är lika effektivitetsinriktat som du. Vi vill att du ska spendera minimal tid med att använda appen samtidigt som du får maximalt i gengäld.</li>\n <li>Med bidragsgivare från hela världen har Thunderbird för Android översatts till mer än 20 språk.</li>\n <li>Stöds av MZLA Technologies Corporation, ett helägt dotterbolag till Mozilla Foundation.</li>\n</ul>\n\n<b>Öppen källkod och community</b>\n<ul>\n <li>Thunderbird är gratis och öppen källkod, vilket innebär att dess kod är tillgänglig för att se, ändra, använda och dela fritt. Dess licens säkerställer också att den kommer att vara gratis för alltid. Du kan tänka på Thunderbird som en gåva från tusentals bidragsgivare till dig.</li>\n <li>Vi utvecklas i det fria med regelbundna, transparenta uppdateringar på vår blogg och e-postlistor.</li>\n <li>Vår användarsupport drivs av vårt globala community. Hitta svaren du behöver, eller gå in i rollen som en bidragsgivare – oavsett om det är att svara på frågor, översätta appen eller berätta för dina vänner och familj om Thunderbird.</li>\n</ul>\n",
+          "tr-TR": "Thunderbird güçlü ve gizlilik odaklı bir e-posta uygulamasıdır. Maksimum verimlilik için Birleşik Gelen Kutusu ile çok sayıda e-posta hesabınızı tek uygulamadan zahmetsizce yönetebilirsiniz. Açık kaynak teknolojisi üzerine inşa edilen ve özel bir geliştirici ekibinin yanı sıra gönüllüler tarafından desteklenen Thunderbird, kişisel verilerinize asla ticari bir gözle bakmaz. Yalnızca kullanıcılarımızın finansal katkılarıyla desteklenen Thunderbird'de e-postalarınızın arasına karışmış reklamlar görmek zorunda değilsiniz.\n\n<b>Neler yapabilirsiniz?</b>\n<ul>\n  <li>Aynı anda birkaç uygulama ve webmail kullanmayı bırakabilirsiniz. Tek bir uygulama ve Birleşik Gelen Kutusu size yeter.</li>\n  <li>Kişisel verilerinizi asla toplamayan ve satmayan, gizlilik dostu bir e-posta istemcisinin keyfini çıkarabilirsiniz. Sizi doğrudan e-posta sağlayıcınıza bağlıyoruz. Hepsi bu!</li>\n  <li>Mesajlarınızı şifrelemek ve çözmek için OpenKeychain uygulamasıyla OpenPGP e-posta şifrelemesini (PGP/MIME) kullanarak gizliliğinizi üst seviyeye taşıyabilirsiniz.</li>\n  <li>E-postalarınızı anında, belirli aralıklarla veya istediğiniz zaman senkronize etmeyi seçebilirsiniz.</li>\n  <li>Hem yerel hem de sunucu bazlı aramayı kullanarak önemli iletileri bulabilirsiniz.</li>\n</ul>\n\n<b>Uyumluluk</b>\n<ul>\n  <li>Thunderbird, IMAP ve POP3 protokollerini destekler. Gmail, Outlook, Yahoo Mail ve iCloud da dahil olmak üzere çok sayıda e-posta sağlayıcısıyla uyumludur.</li>\n</ul>\n\n<b>Neden Thunderbird kullanmalısınız?</b>\n<ul>\n  <li>20 yıldan uzun süredir e-posta dünyasının güvenilir ismi kabul edilen Thunderbird artık Android'de.</li>\n  <li>Thunderbird tamamen kullanıcılarımızın bağışlarıyla finanse ediliyor. Kişisel verilerinizi toplamıyoruz. Siz \"ürün\" değilsiniz.</li>\n  <li>Verimliliğe sizin kadar önem veren bir ekip tarafından geliştirildi. Uygulamada minimum zaman harcayıp maksimum fayda elde etmenizi istiyoruz.</li>\n  <li>Dünyanın dört bir yanındaki gönüllüler tarafından 20'den fazla dile çevrildi.</li>\n  <li>Mozilla Vakfının alt kuruluşu MZLA Technologies Corporation tarafından destekleniyor.</li>\n</ul>\n\n<b>Açık Kaynak ve Topluluk</b>\n<ul>\n  <li>Thunderbird özgür ve açık kaynaklıdır; yani kodları serbestçe görüntülenebilir, değiştirilebilir, kullanılabilir ve paylaşılabilir. Lisansı, sonsuza kadar özgür kalmasını sağlar. Thunderbird binlerce gönüllünün size armağınıdır.</li>\n  <li>Thunderbird'ü şeffaf bir şekilde geliştiriyor, gelişmeleri blogumuzda ve e-posta listelerimizde düzenli olarak paylaşıyoruz.</li>\n  <li>Teknik desteği topluluğumuz ele alıyor. İhtiyacınız olan cevapları gönüllülerimizden alabilir veya siz de katkıda bulunabilirsiniz. Soruları yanıtlayabilir, uygulamayı dilinize çevirebilir, arkadaşlarınıza ve ailenize Thunderbird'den bahsedebilirsiniz.</li>\n</ul>\n",
+          "uk": "Thunderbird - це потужний поштовий клієнт, орієнтований на приватність. Легко керуйте кількома обліковими записами електронної пошти з одного застосунку за допомогою опції «Об'єднана тека» для максимальної продуктивності. Створений на основі відкритих технологій і підтримуваний спеціальною командою розробників разом із глобальною спільнотою волонтерів, Thunderbird ніколи не розглядає ваші приватні дані як продукт. Thunderbird підтримується виключно коштом фінансових внесків наших користувачів, тому вам більше ніколи не доведеться бачити рекламу в електронних листах.\n\n<b>Що ви можете робити</b>\n<ul>\n  <li>Відмовтеся від кількох застосунків і вебпошти. Використовуйте один застосунок з додатковою функцією «Об'єднані Вхідні», щоб керувати своїми справами протягом усього дня.</li>\n  <li>Користуйтеся поштовим клієнтом, який ніколи не збирає і не продає ваші особисті дані. Ми напряму з'єднуємо вас з вашим постачальником послуг електронної пошти. Це все!</li>\n  <li>Підніміть свою приватність на новий рівень, використовуючи шифрування електронної пошти OpenPGP (PGP/MIME) за допомогою застосунку «OpenKeychain» для шифрування та розшифрування ваших повідомлень.</li>\n  <li>Ви можете синхронізувати електронну пошту миттєво, через певні проміжки часу або на вимогу. Як саме ви хочете перевіряти свою електронну пошту, вирішувати вам!</li>\n  <li>Знаходьте важливі повідомлення за допомогою локального та серверного пошуку.</li>\n</ul>\n\n<b>Сумісність</b>\n<ul>\n  <li>Thunderbird працює з протоколами IMAP і POP3, підтримуючи широкий спектр провайдерів електронної пошти, включаючи Gmail, Outlook, Yahoo Mail, iCloud та інші.</li>\n</ul>\n\n<b>Чому варто користуватися Thunderbird</b>\n<ul>\n  <li>Ім'я, якому довіряють в електронній пошті вже понад 20 років, тепер і на Android.</li>\n  <li>Thunderbird повністю фінансується коштом добровільних внесків наших користувачів. Ми не видобуваємо ваші особисті дані. Ви ніколи не будете нашим засобом заробітку.</li>\n  <li>Створений командою, яка так само націлена на ефективність, як і ви. Ми хочемо, щоб ви витрачали якнайменше часу на користування застосунком і отримували якнайбільше користі.</li>\n  <li>Завдяки учасникам з усього світу Thunderbird для Android перекладено більш ніж 20 мовами.</li>\n  <li>За підтримки MZLA Technologies Corporation, дочірньої компанії Mozilla Foundation.</li>\n</ul>\n\n<b>Відкритість і спільнота</b>\n<ul>\n  <li>Thunderbird має вільний і відкритий код, що означає, що його код можна вільно переглядати, змінювати, використовувати й поширювати. Його ліцензія також гарантує, що він буде вільним назавжди. Ви можете вважати Thunderbird подарунком вам від тисяч учасників.</li>\n  <li>Ми розвиваємося відкрито, регулярно оновлюючи наш блог та списки розсилки.</li>\n  <li>Наша підтримка користувачів забезпечується глобальною спільнотою. Знайдіть відповіді, які вам потрібні, або візьміть на себе роль учасника — відповідайте на запитання, перекладайте застосунок або розповідайте про Thunderbird своїм друзям і родичам.</li>\n</ul>\n",
+          "zh-CN": "Thunderbird 是功能强大、注重隐私的电子邮件应用。通过一个应用轻松管理多个电子邮件账号，并通过统一收件箱选项来最大限度地提高生产力。Thunderbird 基于开源技术构建，并得到了专门的开发团队和全球志愿者社区的支持，绝不会将您的私人数据视为产品。Thunderbird 仅由我们用户的捐款支持，因此您再也不会看到广告混入您的电子邮件中。\n\n<b>您可以做什么</b>\n<ul>\n  <li>摆脱多个应用和网络邮件。使用一个应用和可选的统一收件箱，即可轻松度过一天。</li>\n  <li>享受隐私友好的电子邮件客户端，它永远不会收集或出售您的个人数据。我们直接将您连接到您的邮件服务提供者。就是这样！</li>\n  <li>通过使用“OpenKeychain”应用的 OpenPGP 电子邮件加密（PGP/MIME）来加密和解密您的邮件，将您的隐私提升到一个新的水平。</li>\n  <li>您可以选择立即、按设定的时间间隔或按需同步电子邮件。无论您想如何检查电子邮件，都取决于您！</li>\n  <li>使用本地和服务器端搜索查找重要邮件。</li>\n</ul>\n\n<b>兼容性</b>\n<ul>\n  <li>Thunderbird 使用 IMAP 和 POP3 协议，支持各种邮件服务提供者，包括 Gmail、Outlook、Yahoo Mail、iCloud 等。</li>\n</ul>\n\n<b>为什么使用 Thunderbird</b>\n<ul>\n  <li>20 多年来电子邮件领域值得信赖的品牌——现在有 Android 版。</li>\n  <li>Thunderbird 的全部资金来自我们用户的自愿捐款。我们不会挖掘您的个人数据。您永远不是产品。</li>\n  <li>由一支和您一样注重效率的团队创造。我们希望您花最少的时间使用本应用，同时获得最大的回报。</li>\n  <li>Thunderbird Android 版的贡献者来自世界各地，现已翻译成 20 多种语言。</li>\n  <li>由 Mozilla 基金会的全资子公司 MZLA Technologies Corporation 提供支持。</li>\n</ul>\n\n<b>开源和社区</b>\n<ul>\n  <li>Thunderbird 是自由和开源的，这意味着它的代码可以自由查看、修改、使用和共享。它的许可证还确保它将永远自由。您可以将 Thunderbird 视为数千名贡献者送给您的礼物。</li>\n  <li>我们通过在我们的博客和邮件列表上透明的更新来公开开发。</li>\n  <li>我们的用户支持由我们的全球社区提供支持。找到您需要的答案，或担任贡献者——无论是回答问题、翻译本应用还是向您的朋友和家人介绍 Thunderbird。</li>\n</ul>\n",
+          "zh-TW": "Thunderbird 是一款功能強大且專注於隱私的電子郵件應用程式。輕鬆管理多個電子郵件帳戶，透過統一收件匣選項，實現最高生產力。基於開源技術，並由一群專業開發人員及全球志工社群支持，Thunderbird 絕不將你的私人數據當作商品。僅依靠使用者的財務支持，讓你不再需要在郵件中看到廣告。\n\n<b>你可以做的事</b>\n<ul>\n  <li>擺脫多重應用程式和網頁郵件。使用一款應用程式（可選擇統一收件匣）讓你一整天高效運作。</li>\n  <li>享受一款友善隱私的電子郵件客戶端，它不會收集或販賣你的個人資料。我們直接連接你和你的電子郵件服務提供者，就是這麼簡單！</li>\n  <li>使用 OpenPGP 電子郵件加密（PGP/MIME）與「OpenKeychain」應用程式進一步提升隱私，來加密和解密你的訊息。</li>\n  <li>可選擇立即同步電子郵件、按設定間隔或按需檢查電子郵件。如何檢查郵件，完全由你決定！</li>\n  <li>使用本機與伺服器端搜尋來找到你的重要訊息。</li>\n</ul>\n\n<b>相容性</b>\n<ul>\n  <li>Thunderbird 支援 IMAP 和 POP3 協議，適用於多種電子郵件服務提供者，包括 Gmail、Outlook、Yahoo Mail、iCloud 等。</li>\n</ul>\n\n<b>為什麼選擇 Thunderbird</b>\n<ul>\n  <li>擁有超過 20 年信譽的電子郵件品牌，現在也能在 Android 使用。</li>\n  <li>Thunderbird 完全由用戶自願捐款支持，我們不會挖掘你的個人資料，你永遠不會成為商品。</li>\n  <li>由一群與你一樣注重效率的團隊打造。我們希望你花最少的時間使用此應用程式，卻能獲得最大收益。</li>\n  <li>擁有來自世界各地的貢獻者，Android 版 Thunderbird 已被翻譯成超過 20 種語言。</li>\n  <li>由 Mozilla 基金會全資子公司 MZLA Technologies Corporation 支援。</li>\n</ul>\n\n<b>開源與社群</b>\n<ul>\n  <li>Thunderbird 是免費且開源的，這意味著其程式碼可以查看、修改、自由使用和分享。其授權也確保它將永遠免費。你可以將 Thunderbird 視為數千位貢獻者送給你的禮物。</li>\n  <li>我們在開放的環境中開發，並在我們的部落格和郵件列表上定期發布透明的更新。</li>\n  <li>我們的用戶支持由全球社群提供。找到你需要的答案，或成為貢獻者——無論是回答問題、翻譯應用程式，還是向你的朋友和家人介紹 Thunderbird。</li>\n</ul>\n"
+        },
+        "donate": [
+          "https://mzla.link/supportTfA"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "/net.thunderbird.android/en-US/icon.png",
+            "sha256": "96506e5d1c6c245213082b83cdef8434e3dad49fc71592ee74de4ade053ec625",
+            "size": 103011
+          }
+        },
+        "preferredSigner": "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1"
+      },
+      "versions": {
+        "1b142ca4bf10b478b0a7c4e7cff6549a93b9e79fbc4fe4a01cd4ca0231c09974": {
+          "added": 1744744168000,
+          "file": {
+            "name": "/Thunderbird.apk",
+            "sha256": "1b142ca4bf10b478b0a7c4e7cff6549a93b9e79fbc4fe4a01cd4ca0231c09974",
+            "size": 10918849
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "9.0",
+            "versionCode": 9,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "net.thunderbird.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.thoughtcrime.securesms": {
+      "metadata": {
+        "added": 1744776102000,
+        "lastUpdated": 1744776102000
+      },
+      "versions": {
+        "e6db6c28ed39024667def2a245e8d76916320facb843de82973517814adf32e5": null,
+        "f6ebd522f9cdd52cb2a31028745f1879ab7cbc762b9c2a88406f469a6dc6d4ad": {
+          "added": 1744776102000,
+          "file": {
+            "name": "/Signal.apk",
+            "sha256": "f6ebd522f9cdd52cb2a31028745f1879ab7cbc762b9c2a88406f469a6dc6d4ad",
+            "size": 107085464
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "7.39.5",
+            "versionCode": 153501,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "org.thoughtcrime.securesms.ACCESS_SECRETS"
+              },
+              {
+                "name": "android.permission.READ_PROFILE"
+              },
+              {
+                "name": "android.permission.READ_CONTACTS"
+              },
+              {
+                "name": "android.permission.WRITE_CONTACTS"
+              },
+              {
+                "name": "android.permission.ACCESS_NOTIFICATION_POLICY"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.READ_PHONE_NUMBERS"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.NEARBY_WIFI_DEVICES"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_CALL_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.WRITE_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.AUTHENTICATE_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.USE_CREDENTIALS"
+              },
+              {
+                "name": "android.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.BROADCAST_STICKY"
+              },
+              {
+                "name": "android.permission.DISABLE_KEYGUARD"
+              },
+              {
+                "name": "android.permission.RAISED_THREAD_PRIORITY"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.USE_FULL_SCREEN_INTENT"
+              },
+              {
+                "name": "android.permission.MANAGE_OWN_CALLS"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CAMERA"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_PHONE_CALL"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.READ"
+              },
+              {
+                "name": "com.sec.android.provider.badge.permission.WRITE"
+              },
+              {
+                "name": "com.htc.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.htc.launcher.permission.UPDATE_SHORTCUT"
+              },
+              {
+                "name": "com.sonyericsson.home.permission.BROADCAST_BADGE"
+              },
+              {
+                "name": "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+              },
+              {
+                "name": "com.anddoes.launcher.permission.UPDATE_COUNT"
+              },
+              {
+                "name": "com.majeur.launcher.permission.UPDATE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.CHANGE_BADGE"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.huawei.android.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "android.permission.READ_APP_BADGE"
+              },
+              {
+                "name": "com.oppo.launcher.permission.READ_SETTINGS"
+              },
+              {
+                "name": "com.oppo.launcher.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_READ"
+              },
+              {
+                "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.torproject.torbrowser": {
+      "metadata": {
+        "added": 1744862498000,
+        "lastUpdated": 1744862498000
+      },
+      "versions": {
+        "e3506bf90727e11f124ef7f734000c2091580c0f909b6f1417ed4bf995bf758c": null,
+        "9fa35f1ce1ae9a85eb6ba2de8a17929076baa69646554ddb93e6bf0573f9a72d": {
+          "added": 1744862498000,
+          "file": {
+            "name": "/TorBrowser.apk",
+            "sha256": "9fa35f1ce1ae9a85eb6ba2de8a17929076baa69646554ddb93e6bf0573f9a72d",
+            "size": 102289960
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "14.5 (128.9.0esr)",
+            "versionCode": 2016085146,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "maxSdkVersion": 26
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.CREDENTIAL_MANAGER_SET_ORIGIN"
+              },
+              {
+                "name": "android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "org.torproject.torbrowser.permission.RECEIVE_DOWNLOAD_BROADCAST"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "android.permission.HIGH_SAMPLING_RATE_SENSORS"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "org.torproject.torbrowser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              }
+            ],
+            "usesPermissionSdk23": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
