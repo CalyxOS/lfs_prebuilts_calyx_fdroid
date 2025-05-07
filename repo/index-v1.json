@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1745445457000,
+    "timestamp": 1746590512000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -117,14 +117,14 @@
         "Default"
       ],
       "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
-      "suggestedVersionCode": "50405",
+      "suggestedVersionCode": "50407",
       "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
       "license": "LGPL-3.0-only",
       "sourceCode": "https://github.com/breezy-weather/breezy-weather",
       "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
-      "added": 1745445429000,
+      "added": 1746331296000,
       "packageName": "org.breezyweather",
-      "lastUpdated": 1745445429000,
+      "lastUpdated": 1746331296000,
       "localized": {
         "en-US": {
           "description": "Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.\n\nIn the app, you'll find:\n- Real-time weather conditions (temperature, feels like, wind, UV index, humidity, dew point, atmospheric pressure, visibility, cloud cover, ceiling)\n- Daily and hourly forecasts up to 16 days (temperature, air quality, wind, UV index, precipitation, sunshine, feels like)\n- Detailed hourly forecasts (humidity / dew point, pressure, cloud cover, visibility)\n- Precipitation in the next hour\n- Air quality, allergen and ephemeris information\n- Severe weather and precipitation alerts\n\nThe app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability:\n- Automatic dark mode\n- Custom icon packs\n- Large selection of home screen widgets for at-a-glance information\n- Live wallpaper\n\n<b>Sources</b>\nAvailable worldwide weather sources:\n- Open-Meteo\n- AccuWeather\u00b9\n- MET Norway\u00b9\n- OpenWeatherMap\u00b9\u00b2\n- Pirate Weather\u00b9\u00b3\n- HERE\u00b9\u00b3\n- M\u00e9t\u00e9o France\u00b9\n- Danmarks Meteorologiske Institut (DMI)\u00b9\n\nAvailable only-national weather sources:\n- Mixed China sources\u00b9\n- National Weather Service (NWS)\u00b9\n- Bright Sky (DWD)\n- Environment and Climate Change Canada\u00b9\n- Israel Meteorological Service (IMS)\u00b9\n- SMHI\u00b9\n- MET \u00c9ireann\u00b9\n\nAvailable secondary weather sources:\n- WMO Severe Weather Information Centre\u00b9\n- Recosant\u00e9\n- ATMO AuRA\u00b9\n\n\u00b9 Not included in versions with suffix _fdroid\n\u00b2 Often rate-limited\n\u00b3 Requires an API key\n\n<b>Versions</b>\nDepending on your F-Droid repositories, you may be able to download different flavors of Breezy Weather:\n- Versions with no suffix: standard version, fully open source\n- Versions with _gplay suffix: same as standard + includes proprietary Fused location for Google Play Services users\n- Versions with _fdroid suffix: same as standard without all sources that are not libre/self-hostable\n\n<b>Permissions</b>\nRequired:\n- Network (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET): fetch weather data from sources over the Internet\n\nOptional:\n- Background services (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, SET_ALARM, FOREGROUND_SERVICE, FOREGROUND_SERVICE_DATA_SYNC, FOREGROUND_SERVICE_SPECIAL_USE): weather updates in the background and scheduled forecast notifications\n- Ignore battery optimizations (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS): help preventing the app from being killed on some devices\n- Send notifications (POST_NOTIFICATIONS): alerts, precipitation, today/tomorrow forecast, notification-widget, update progress of background updates, etc\n- Location (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): to show weather in your current location\n- Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): helps setting the live weather wallpaper and/or widgets on some devices\n- Tile (EXPAND_STATUS_BAR): allow to launch the app from Quick Settings\n\n<b>License</b>\n- GNU Lesser General Public License v3.0\n- This License does not grant any rights in the trademarks, service marks, or logos of any Contributor.\n- Misrepresentation of the origin of that material is prohibited, and modified versions of such material must be marked in reasonable ways as different from the original version.\n",
@@ -318,16 +318,16 @@
         "Default"
       ],
       "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
-      "suggestedVersionCode": "404080001",
+      "suggestedVersionCode": "404090001",
       "donate": "https://www.davx5.com/donate",
       "issueTracker": "https://www.davx5.com/forums",
       "license": "GPL-3.0-only",
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1745445433000,
+      "added": 1745985715000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1745445433000,
+      "lastUpdated": 1745985715000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -843,9 +843,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1745445436000,
+      "added": 1746590502000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1745445436000
+      "lastUpdated": 1746590502000
     },
     {
       "allowedAPKSigningKeys": [
@@ -1196,15 +1196,15 @@
         "Navigation",
         "Default"
       ],
-      "suggestedVersionCode": "25041903",
+      "suggestedVersionCode": "25042104",
       "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
       "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
       "webSite": "https://organicmaps.app/",
-      "added": 1745445442000,
+      "added": 1745985717000,
       "packageName": "app.organicmaps",
-      "lastUpdated": 1745445442000,
+      "lastUpdated": 1745985717000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1385,16 +1385,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "153501",
+      "suggestedVersionCode": "154200",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1745445451000,
+      "added": 1746590511000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1745445451000,
+      "lastUpdated": 1746590511000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1601,7 +1601,7 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "2016085146",
+      "suggestedVersionCode": "2016087842",
       "description": "Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you. Any cookies automatically clear when you\u2019re done browsing.\n\nDEFEND AGAINST SURVEILLANCE\nTor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you\u2019re using Tor.\n\nRESIST FINGERPRINTING\nTor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.\n\nMULTI-LAYERED ENCRYPTION\nWhen you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works:\n\nBROWSE FREELY\nWith Tor Browser for Android, you are free to access sites your local internet service provider may have blocked.\n\nTHIS APP IS MADE POSSIBLE BY DONORS LIKE YOU\nTor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation. Give before the end of 2019, and Mozilla will match your gift: https://donate.torproject.org/donate/donate-tbi-gp\n\nLearn more about Tor Browser for Android:\n- Need help? Visit https://support.torproject.org. The manual is coming soon.\n- Learn more about what\u2019s happening at Tor: https://blog.torproject.org\n- Follow the Tor Project on Twitter: https://twitter.com/torproject\n\nABOUT THE TOR PROJECT\nThe Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project\u2019s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.\n",
       "donate": "https://donate.torproject.org/",
       "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
@@ -1610,9 +1610,9 @@
       "name": "Tor Browser for Android",
       "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "added": 1745445456000,
+      "added": 1745985722000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1745445456000,
+      "lastUpdated": 1745985722000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -1623,9 +1623,9 @@
   "packages": {
     "app.organicmaps": [
       {
-        "added": 1745445442000,
+        "added": 1745985717000,
         "apkName": "OrganicMaps.apk",
-        "hash": "eb01bb1c8f3baaa9de07a94f7247322ed95b88e92fa8826cf5754d9b47c00c2f",
+        "hash": "645d39f1ca1d07c5b9b290c86488e64d6f7aa7616056fdb944eb9ebfe9cc752d",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1636,7 +1636,7 @@
         "packageName": "app.organicmaps",
         "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
         "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
-        "size": 58962910,
+        "size": 58979294,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1700,15 +1700,15 @@
             null
           ]
         ],
-        "versionCode": 25041903,
-        "versionName": "2025.04.19-3-FDroid"
+        "versionCode": 25042104,
+        "versionName": "2025.04.21-4-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1745445433000,
+        "added": 1745985715000,
         "apkName": "DAVx5.apk",
-        "hash": "b36dc3afc797be902a12a6c6d9fa338ae5d7f8b8e67769dde918f1b746592665",
+        "hash": "d56b45a7c33f3446ab732d81bccc269a17e1d277a83bbcd347eeb6729bf0852b",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1720,7 +1720,7 @@
         "packageName": "at.bitfire.davdroid",
         "sig": "03542175324d067b4c36582242f8aecc",
         "signer": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707",
-        "size": 16518885,
+        "size": 16584705,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1826,8 +1826,8 @@
             null
           ]
         ],
-        "versionCode": 404080001,
-        "versionName": "4.4.8-ose"
+        "versionCode": 404090001,
+        "versionName": "4.4.9-ose"
       }
     ],
     "com.aurora.store": [
@@ -1932,7 +1932,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1745445436000,
+        "added": 1746590502000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
         "hashType": "sha256",
@@ -2220,9 +2220,9 @@
     ],
     "org.breezyweather": [
       {
-        "added": 1745445429000,
+        "added": 1746331296000,
         "apkName": "BreezyWeather.apk",
-        "hash": "d120b19527d2d8f020397205a6c5b7f15582d7932a9097e6cec0a0a8266e0435",
+        "hash": "3456e72239836aa9f4ec4e582ca7eb2fd3eb3ffdcaf2ba34854462555db039cf",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2234,7 +2234,7 @@
         "packageName": "org.breezyweather",
         "sig": "688802048f64d92faa490892a23d802c",
         "signer": "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8",
-        "size": 13393987,
+        "size": 13468008,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2251,7 +2251,7 @@
           ],
           [
             "android.permission.READ_EXTERNAL_STORAGE",
-            null
+            32
           ],
           [
             "android.permission.FOREGROUND_SERVICE",
@@ -2306,8 +2306,8 @@
             null
           ]
         ],
-        "versionCode": 50405,
-        "versionName": "5.4.5_freenet"
+        "versionCode": 50407,
+        "versionName": "5.4.7_freenet"
       }
     ],
     "org.briarproject.briar.android": [
@@ -2876,9 +2876,9 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1745445451000,
+        "added": 1746590511000,
         "apkName": "Signal.apk",
-        "hash": "f6ebd522f9cdd52cb2a31028745f1879ab7cbc762b9c2a88406f469a6dc6d4ad",
+        "hash": "ca36fe9f394c95a83d583e3fcefc3cc8b8e1f8598bff5bf421ac5ae43f1c364d",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2890,7 +2890,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 107085464,
+        "size": 108150327,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3190,8 +3190,8 @@
             null
           ]
         ],
-        "versionCode": 153501,
-        "versionName": "7.39.5"
+        "versionCode": 154200,
+        "versionName": "7.41.3"
       }
     ],
     "org.torproject.android": [
@@ -3257,9 +3257,9 @@
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1745445456000,
+        "added": 1745985722000,
         "apkName": "TorBrowser.apk",
-        "hash": "9fa35f1ce1ae9a85eb6ba2de8a17929076baa69646554ddb93e6bf0573f9a72d",
+        "hash": "848e701d46114fc986fa50f7e47cafa3922536fef3762dbe7e8ad4a0edf45b52",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -3268,7 +3268,7 @@
         "packageName": "org.torproject.torbrowser",
         "sig": "31e36334f34e126a0e0d1efd29b84fb2",
         "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
-        "size": 102289960,
+        "size": 102396456,
         "targetSdkVersion": 34,
         "uses-permission": [
           [
@@ -3402,8 +3402,8 @@
             null
           ]
         ],
-        "versionCode": 2016085146,
-        "versionName": "14.5 (128.9.0esr)"
+        "versionCode": 2016087842,
+        "versionName": "14.5.1 (128.10.0esr)"
       }
     ],
     "se.leap.riseupvpn": [
