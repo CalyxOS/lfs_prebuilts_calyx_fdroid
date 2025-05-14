@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1746590512000,
+    "timestamp": 1747195302000,
     "version": 20002,
     "name": "CalyxOS Local Repository",
     "icon": "fdroid-icon.png",
@@ -843,9 +843,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1746590502000,
+      "added": 1747195301000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1746590502000
+      "lastUpdated": 1747195301000
     },
     {
       "allowedAPKSigningKeys": [
@@ -1932,7 +1932,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1746590502000,
+        "added": 1747195301000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
         "hashType": "sha256",

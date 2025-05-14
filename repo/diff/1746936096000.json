@@ -1,0 +1,18 @@
+{
+  "repo": {
+    "timestamp": 1747195302000
+  },
+  "packages": {
+    "com.google.android.apps.photos": {
+      "metadata": {
+        "added": 1747195301000,
+        "lastUpdated": 1747195301000
+      },
+      "versions": {
+        "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
+          "added": 1747195301000
+        }
+      }
+    }
+  }
+}
