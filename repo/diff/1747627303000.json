@@ -1,32 +1,32 @@
 {
   "repo": {
-    "timestamp": 1746590512000
+    "timestamp": 1747886493000
   },
   "packages": {
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1746590502000,
-        "lastUpdated": 1746590502000
+        "added": 1747886492000,
+        "lastUpdated": 1747886492000
       },
       "versions": {
         "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1746590502000
+          "added": 1747886492000
         }
       }
     },
-    "org.breezyweather": {
+    "net.thunderbird.android": {
       "metadata": {
-        "added": 1746331296000,
-        "lastUpdated": 1746331296000
+        "added": 1747713702000,
+        "lastUpdated": 1747713702000
       },
       "versions": {
-        "a7d4439854cad6c863d3028dd620c6f7b472f0e17e80be14d5f9965fb1983298": null,
-        "3456e72239836aa9f4ec4e582ca7eb2fd3eb3ffdcaf2ba34854462555db039cf": {
-          "added": 1746331296000,
+        "1b142ca4bf10b478b0a7c4e7cff6549a93b9e79fbc4fe4a01cd4ca0231c09974": null,
+        "8e93d948d5cb08ae0545b6dbaab8b1735d6db4be008fdf411c8c9da5b746642c": {
+          "added": 1747713702000,
           "file": {
-            "name": "/BreezyWeather.apk",
-            "sha256": "3456e72239836aa9f4ec4e582ca7eb2fd3eb3ffdcaf2ba34854462555db039cf",
-            "size": 13468008
+            "name": "/Thunderbird.apk",
+            "sha256": "8e93d948d5cb08ae0545b6dbaab8b1735d6db4be008fdf411c8c9da5b746642c",
+            "size": 11017153
           },
           "manifest": {
             "nativecode": [
@@ -35,69 +35,66 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "5.4.7_freenet",
-            "versionCode": 50407,
+            "versionName": "10.0",
+            "versionCode": 10,
             "usesSdk": {
               "minSdkVersion": 21,
-              "targetSdkVersion": 35
+              "targetSdkVersion": 34
             },
             "signer": {
               "sha256": [
-                "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8"
+                "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1"
               ]
             },
             "usesPermission": [
               {
-                "name": "android.permission.ACCESS_FINE_LOCATION"
+                "name": "android.permission.CAMERA"
               },
               {
-                "name": "android.permission.ACCESS_COARSE_LOCATION"
-              },
-              {
-                "name": "android.permission.ACCESS_BACKGROUND_LOCATION"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE",
-                "maxSdkVersion": 32
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.ACCESS_WIFI_STATE"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "com.android.alarm.permission.SET_ALARM"
-              },
-              {
-                "name": "android.permission.EXPAND_STATUS_BAR"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+                "name": "android.permission.READ_CONTACTS"
               },
               {
                 "name": "android.permission.POST_NOTIFICATIONS"
               },
               {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.READ_SYNC_SETTINGS"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.VIBRATE"
               },
               {
                 "name": "android.permission.WAKE_LOCK"
               },
               {
-                "name": "org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+                "maxSdkVersion": 33
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "net.thunderbird.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }
@@ -106,16 +103,16 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1746590511000,
-        "lastUpdated": 1746590511000
+        "added": 1747713700000,
+        "lastUpdated": 1747713700000
       },
       "versions": {
-        "9ab4561b4e726783e76db34d474234b02936796000d84fe64571576206a6c956": null,
-        "ca36fe9f394c95a83d583e3fcefc3cc8b8e1f8598bff5bf421ac5ae43f1c364d": {
-          "added": 1746590511000,
+        "ca36fe9f394c95a83d583e3fcefc3cc8b8e1f8598bff5bf421ac5ae43f1c364d": null,
+        "01372b6bb3fdde741bfc33704787ad7d94e83595cd200da71e297646779874c0": {
+          "added": 1747713700000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "ca36fe9f394c95a83d583e3fcefc3cc8b8e1f8598bff5bf421ac5ae43f1c364d",
+            "sha256": "01372b6bb3fdde741bfc33704787ad7d94e83595cd200da71e297646779874c0",
             "size": 108150327
           },
           "manifest": {
@@ -125,8 +122,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "7.41.3",
-            "versionCode": 154200,
+            "versionName": "7.41.4",
+            "versionCode": 154201,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 34
