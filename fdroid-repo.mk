@@ -46,6 +46,10 @@ PRODUCT_PACKAGES += \
     fdroid-debug-repo \
     fdroid-basic-repo \
     fdroid-basic-debug-repo \
+    fdroid-repo-legacy \
+    fdroid-debug-repo-legacy \
+    fdroid-basic-repo-legacy \
+    fdroid-basic-debug-repo-legacy \
     aurora-store \
     AuroraStore \
     BreezyWeather \
