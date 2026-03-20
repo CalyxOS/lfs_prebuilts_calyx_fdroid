@@ -1,0 +1,25 @@
+{
+  "repo": {
+    "timestamp": 1774049255000,
+    "categories": {
+      "Hidden": null
+    }
+  },
+  "packages": {
+    "com.nextcloud.client": null,
+    "org.briarproject.briar.android": null,
+    "org.calyxinstitute.vpn": null,
+    "org.fdroid.fdroid": null,
+    "com.google.android.apps.photos": {
+      "metadata": {
+        "added": 1774049254000,
+        "lastUpdated": 1774049254000
+      },
+      "versions": {
+        "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
+          "added": 1774049254000
+        }
+      }
+    }
+  }
+}

@@ -68,7 +68,6 @@ android_app_import {
     enforce_uses_libs: false,
     apk: "repo/BreezyWeather.apk",
     presigned: true,
-    skip_preprocessed_apk_checks: true,
 }
 
 android_app_import {
@@ -172,6 +171,20 @@ android_app_import {
 }
 
 android_app_import {
+    name: "OONIProbe",
+    relative_install_path: "repo",
+    dex_preopt: {
+        enabled: false,
+    },
+    fdroid: true,
+    preprocessed: true,
+    product_specific: true,
+    enforce_uses_libs: false,
+    apk: "repo/OONIProbe.apk",
+    presigned: true,
+}
+
+android_app_import {
     name: "OnionShare",
     relative_install_path: "repo",
     dex_preopt: {
@@ -187,20 +200,6 @@ android_app_import {
 }
 
 android_app_import {
-    name: "OONIProbe",
-    relative_install_path: "repo",
-    dex_preopt: {
-        enabled: false,
-    },
-    fdroid: true,
-    preprocessed: true,
-    product_specific: true,
-    enforce_uses_libs: false,
-    apk: "repo/OONIProbe.apk",
-    presigned: true,
-}
-
-android_app_import {
     name: "Orbot",
     relative_install_path: "repo",
     dex_preopt: {
@@ -212,7 +211,6 @@ android_app_import {
     enforce_uses_libs: false,
     apk: "repo/Orbot.apk",
     presigned: true,
-    skip_preprocessed_apk_checks: true,
 }
 
 android_app_import {
@@ -286,7 +284,6 @@ android_app_import {
     enforce_uses_libs: false,
     apk: "repo/Thunderbird.apk",
     presigned: true,
-    skip_preprocessed_apk_checks: true,
 }
 
 android_app_import {

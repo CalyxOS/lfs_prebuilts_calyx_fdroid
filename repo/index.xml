@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1747886493" url="file:///product/fdroid/repo" version="20002">
+	<repo icon="fdroid-icon.png" name="CalyxOS Local Repository" pubkey="30820503308202eba00302010202046d902e92300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e301e170d3139303131303134303235355a170d3436303532383134303235355a30323110300e060355040b1307462d44726f6964311e301c060355040313156c6f63616c686f73742e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a028202010087fc14522eb8d57da8e05121574345edf69574973d64585df2292c23acf81bc42c98f1cbfdf9fe7a1976bc575d28f6b606dbf3228b110cfc7ddc823722a279cd69b0f846ae5500ecd9884556209eacbbab30159a6ea1eaf2f64967849369a10adba65c8738b2c82b676e1367bb7b43a62dc1a5438a7c46ae2d971eafebca606a4960e0b7b1795a2a314e25759d06a20755b36b7bf0d9a6868c08aae63e389dd68f450ee093b02b28e830018dbcbbfd48ac757d8cda87549f9c41836608595e9ebfa09c128acc3c7dfd1d17a67eb6a5c99281fba69652ec27f4df3406b886e00881e6d6a4feb8fd1c5b84a5c773a631b1b2d6eab5c5ebe503c599d40f15d3de313b0d0c96d3c63802ef4346036791b2b793b3874ca73a70565ba7a768c3062679aab0e289e98b9ba16a77c8747b80820618863fe2028f02afc55914c8d6c4bcc13dd0dda61834b728875b9682ee9724589bbe216cf2b0655f62976dbf07c91514e1c342e8e397ba4458eaa5aa98703517264ef47a0972458fee928d67e06c34ecdbf7307a157928567d799c34f2a657cee034bd3fbbb717387f12e70871f2dc378687b7889bb727b92d69c8a9996257b8404e93e53eb187c807a154d95b5690eb053c249613cedad9edea857b168d41864c892c33cfecbb969cc6199e7215e82dc5810a1785ebdad509e0254daa2b2acda1093bda4fb389a8a2db5f526c5b23c10203010001a321301f301d0603551d0e04160414ba8990d4010764f81c86c769df075400c198f15e300d06092a864886f70d01010b05000382020100489ce26311568b78e4fa07951f5fcf77322ff1f4e688594e2821a20e3986d8c433b092f360930fed95d9ff206cee9070120e3ddceca1ce2221c5493dc892f1df87ae3f9a45f3e3f29dd41f852daaec9cd7b9bbe754cab9c18b0a4d0f8687915befadb27cce7ca9fd4f6061b43295568792eabd82a885ddd34ced64e9b3473b82069de6571f1bf8c292e5c599fbd37ce1103f8f95c0f644b091ba227706c53a1952959a1685a410221d374924079144d8da9536a4bbab8e9af570468c81059a78a59d212b6a07883bc5f04adf019ab922e2ab1ee23ebb3cba0e4e2987e81538b385fa8dd28486a05d53f128dfc9d18ab6bd1f2b7c92abf447eab70d3f4a73279c5fac6ec0e499cb07f4c03613836361f39cffdb75a09744b4bb37bf8d54967d0bee745bb0f39a7397faab9a79cd7b81fc2ee089814a8c18198fbf3d5d7a0e7823305bfc5339e4c61ccb64eee822acf9bc6a82e79fbce091ec91daac508970ef20e8bd4b3c2aa3dc3cd5af676d0fcfa2f4339f68a52a4f81087a2807fc3aa701bbbf80f92e8e1a3e458fe558c99d34ae94de21b211f6402606daaa1791c3be5f94730b3fa9d3e99ae34fc5682127c58fd4eb4d5b1e8f8b2848b3dbb0c1556d2c6043cceee5952e0a4f2b83c2b21ed472fd596d0f3b74e56d640f65b7cf471959c1d90d46986e598b49cd799d0793d6397f8e295a908301728291a68a14df561735" timestamp="1774049255" url="file:///product/fdroid/repo" version="20002">
 		<description>This is a repository of apps to be used with CalyxOS. It is installed
 to the system partition, and meant to be used to initially install
 apps when offline. It contains a limited number of applications deemed
@@ -9,8 +9,8 @@ suitable for inclusion with CalyxOS.
 	</repo>
 	<application id="com.aurora.store">
 		<id>com.aurora.store</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2026-01-10</added>
+		<lastupdated>2026-01-10</lastupdated>
 		<name>Aurora Store</name>
 		<summary>A Google Playstore Client</summary>
 		<desc>This ''Aurora Store'' is a complete rewrite, replacing https://f-droid.org/packages/com.dragons.aurora.
@@ -29,17 +29,17 @@ get details about in-app trackers, spoof your location and much more.</desc>
 		<email>whyorean@gmail.com</email>
 		<donate>https://www.paypal.me/whyorean</donate>
 		<marketversion></marketversion>
-		<marketvercode>66</marketvercode>
+		<marketvercode>71</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
-			<version>4.7.0</version>
-			<versioncode>66</versioncode>
+			<version>4.7.5</version>
+			<versioncode>71</versioncode>
 			<apkname>AuroraStore.apk</apkname>
-			<hash type="sha256">99690eae033e7063d019a8fcb9599142c0b66566e1e2cd512b59697384afa7af</hash>
-			<size>7879985</size>
+			<hash type="sha256">757a82b3d569597a13ffca191e4043233cfaa4bd4e9005ae297a2fcdf3d96d9e</hash>
+			<size>8148208</size>
 			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-04-23</added>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-01-10</added>
 			<sig>6b9ac7fa32e48b1b97796cc2f0ffd1cb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ENFORCE_UPDATE_OWNERSHIP,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_CREDENTIALS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.aurora.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
 			<uses-permission maxSdkVersion="22" name="android.permission.USE_CREDENTIALS"/>
@@ -48,8 +48,8 @@ get details about in-app trackers, spoof your location and much more.</desc>
 	</application>
 	<application id="org.breezyweather">
 		<id>org.breezyweather</id>
-		<added>2025-05-04</added>
-		<lastupdated>2025-05-04</lastupdated>
+		<added>2026-02-14</added>
+		<lastupdated>2026-02-14</lastupdated>
 		<name>Breezy Weather</name>
 		<summary>A powerful, open-source Material Design weather app.</summary>
 		<desc>Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.
@@ -128,105 +128,26 @@ Optional:
 		<tracker>https://github.com/breezy-weather/breezy-weather/issues</tracker>
 		<changelog>https://github.com/breezy-weather/breezy-weather/releases</changelog>
 		<marketversion></marketversion>
-		<marketvercode>50407</marketvercode>
+		<marketvercode>60103</marketvercode>
 		<package>
-			<version>5.4.7_freenet</version>
-			<versioncode>50407</versioncode>
+			<version>6.1.3_freenet</version>
+			<versioncode>60103</versioncode>
 			<apkname>BreezyWeather.apk</apkname>
-			<hash type="sha256">3456e72239836aa9f4ec4e582ca7eb2fd3eb3ffdcaf2ba34854462555db039cf</hash>
-			<size>13468008</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-05-04</added>
+			<hash type="sha256">7f10a18a99fb0cc037189124c89fb47c1a5b433dd4c7ffb52b999ee9a1cff5c7</hash>
+			<size>20282701</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-02-14</added>
 			<sig>688802048f64d92faa490892a23d802c</sig>
-			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,com.android.alarm.permission.SET_ALARM,org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_APP_SPECIFIC_LOCALES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,com.android.alarm.permission.SET_ALARM,org.breezyweather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-	</application>
-	<application id="org.briarproject.briar.android">
-		<id>org.briarproject.briar.android</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
-		<name>Briar</name>
-		<summary>Secure Messaging, Anywhere</summary>
-		<desc>Briar is a messaging app designed for activists, journalists, and anyone else
-who needs a safe, easy and robust way to communicate. Unlike traditional
-messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a
-central server - messages are synchronized directly between the users' devices.
-If the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the
-information flowing in a crisis. If the Internet's up, Briar can sync via the
-Tor network, protecting users and their relationships from surveillance.</desc>
-		<license>GPL-3.0-or-later</license>
-		<categories>Connectivity,Internet,Security,Default</categories>
-		<category>Connectivity</category>
-		<web>https://briarproject.org/</web>
-		<source>https://code.briarproject.org/briar/briar</source>
-		<tracker>https://code.briarproject.org/briar/briar/issues</tracker>
-		<changelog>https://code.briarproject.org/briar/briar/wikis/changelog</changelog>
-		<bitcoin>1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K</bitcoin>
-		<marketversion></marketversion>
-		<marketvercode>10514</marketvercode>
-		<package>
-			<version>1.5.14</version>
-			<versioncode>10514</versioncode>
-			<apkname>Briar.apk</apkname>
-			<hash type="sha256">3eeddd867eb7dc97f3ea8beb46871bf4428f476ff91b001b19af347efdec7490</hash>
-			<size>49028872</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-04-23</added>
-			<sig>c47c736234483df29c95f62bc7bf0333</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_ADVERTISE,BLUETOOTH_CONNECT,BLUETOOTH_SCAN,CAMERA,CHANGE_WIFI_STATE,HIDE_OVERLAY_WINDOWS,INTERNET,NEARBY_WIFI_DEVICES,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH_ADMIN"/>
-			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<uses-permission-sdk-23 maxSdkVersion="32" name="android.permission.ACCESS_FINE_LOCATION"/>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-	</application>
-	<application id="org.calyxinstitute.vpn">
-		<id>org.calyxinstitute.vpn</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
-		<name>Calyx VPN</name>
-		<summary>Free VPN Service offered by The Calyx Institute</summary>
-		<desc>CalyxVPN is an application to provide easy and secure encrypted communication.
-The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is
-preconfigured with one trusted provider—The Calyx Institute—and allows
-anonymous VPN usage without any manual setup.
-
-By encrypting and securely routing all your network traffic through Calyx's
-servers, CalyxVPN is able to prevent many forms of censorship and surveillance.</desc>
-		<license>GPL-3.0-only</license>
-		<categories>Internet,Security,Default</categories>
-		<category>Internet</category>
-		<web>https://calyx.net</web>
-		<source>https://gitlab.com/calyxos/bitmask_android</source>
-		<tracker>https://gitlab.com/calyxos/bitmask_android/issues</tracker>
-		<changelog>https://gitlab.com/calyxos/bitmask_android/blob/HEAD/CHANGELOG</changelog>
-		<donate>https://calyxinstitute.org/</donate>
-		<bitcoin>14wntQ8cBdnhUVfYmDjXz6PbpSSX8nCtkr</bitcoin>
-		<marketversion></marketversion>
-		<marketvercode>176000</marketvercode>
-		<package>
-			<version>1.4.1</version>
-			<versioncode>176000</versioncode>
-			<apkname>CalyxVPN.apk</apkname>
-			<hash type="sha256">9f35d1e1e52c6402b4c0bd1ee7fe1a4e45454c30cf32c267e8e93f300743d790</hash>
-			<size>63303900</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-04-23</added>
-			<sig>be23b05d2c9ba3c652d579c1fbd6bf72</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.calyxinstitute.vpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="at.bitfire.davdroid">
 		<id>at.bitfire.davdroid</id>
-		<added>2025-05-16</added>
-		<lastupdated>2025-05-16</lastupdated>
+		<added>2026-03-16</added>
+		<lastupdated>2026-03-16</lastupdated>
 		<name>DAVx⁵</name>
 		<summary>CalDAV/CardDAV Synchronization and Client</summary>
 		<desc>DAVx⁵ is a CalDAV/CardDAV management and synchronization app for Android which natively integrates with Android calendar/contact apps.
@@ -246,74 +167,25 @@ For more information and a list of tested servers/services, have a look at the W
 		<donate>https://www.davx5.com/donate</donate>
 		<bitcoin>bc1q0hvy0mknt9vce2f9hh829h72n3sht9llaltumk</bitcoin>
 		<marketversion></marketversion>
-		<marketvercode>404100004</marketvercode>
+		<marketvercode>405100003</marketvercode>
 		<package>
-			<version>4.4.10-ose</version>
-			<versioncode>404100004</versioncode>
+			<version>4.5.10-ose</version>
+			<versioncode>405100003</versioncode>
 			<apkname>DAVx5.apk</apkname>
-			<hash type="sha256">0435f3974383efef7851741b638aee329015bdc645d40ef706ab83752dd2ac21</hash>
-			<size>15691999</size>
+			<hash type="sha256">635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5</hash>
+			<size>16016134</size>
 			<sdkver>24</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-05-16</added>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-16</added>
 			<sig>03542175324d067b4c36582242f8aecc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,READ_CALENDAR,READ_CONTACTS,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,at.bitfire.davdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,at.techbee.jtx.permission.READ,at.techbee.jtx.permission.WRITE,org.dmfs.permission.READ_TASKS,org.dmfs.permission.WRITE_TASKS,org.tasks.permission.READ_TASKS,org.tasks.permission.WRITE_TASKS</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
-	<application id="org.fdroid.fdroid">
-		<id>org.fdroid.fdroid</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
-		<name>F-Droid</name>
-		<summary>The app store that respects freedom and privacy</summary>
-		<desc>F-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.
-
-It connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.
-
-Android itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:
-
-* Get notified when updates are available
-* Optionally download and install updates automatically
-* Keep track of older and beta versions
-* Filter out apps incompatible with the device
-* Find apps via categories and searchable descriptions
-* Access associated URLs for donations, source code etc.
-* Stay safe by checking repo index signatures and APK hashes
-</desc>
-		<license>GPL-3.0-or-later</license>
-		<categories>System,Hidden</categories>
-		<category>System</category>
-		<web>https://f-droid.org</web>
-		<source>https://gitlab.com/fdroid/fdroidclient</source>
-		<tracker>https://gitlab.com/fdroid/fdroidclient/issues</tracker>
-		<changelog>https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md</changelog>
-		<donate>https://f-droid.org/donate</donate>
-		<openCollective>F-Droid-Euro</openCollective>
-		<marketversion></marketversion>
-		<marketvercode>1022050</marketvercode>
-		<package>
-			<version>1.22.0</version>
-			<versioncode>1022050</versioncode>
-			<apkname>F-Droid.apk</apkname>
-			<hash type="sha256">fad9ee755502a5e38785a5bd13fc7d70f607185178b59fe339040d3823ecd7d9</hash>
-			<size>12406541</size>
-			<sdkver>23</sdkver>
-			<targetSdkVersion>29</targetSdkVersion>
-			<added>2025-04-23</added>
-			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BLUETOOTH_SCAN,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,ENFORCE_UPDATE_OWNERSHIP,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,NFC,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USB_PERMISSION,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,org.fdroid.fdroid.permission.UPDATE_REPOS</permissions>
-			<uses-permission maxSdkVersion="32" name="android.permission.BLUETOOTH"/>
-			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH_ADMIN"/>
-			<uses-permission maxSdkVersion="22" name="android.permission.USB_PERMISSION"/>
-			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-	</application>
 	<application id="org.fdroid.basic">
 		<id>org.fdroid.basic</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2025-07-28</added>
+		<lastupdated>2025-07-28</lastupdated>
 		<name>F-Droid Basic</name>
 		<summary>The minimal client app for the app store that respects freedom and privacy</summary>
 		<desc>NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.
@@ -341,16 +213,16 @@ Android itself is open in the sense that you are free to install APKs from anywh
 		<donate>https://f-droid.org/donate</donate>
 		<openCollective>F-Droid-Euro</openCollective>
 		<marketversion></marketversion>
-		<marketvercode>1022050</marketvercode>
+		<marketvercode>1023050</marketvercode>
 		<package>
-			<version>1.22.0</version>
-			<versioncode>1022050</versioncode>
+			<version>1.23.0</version>
+			<versioncode>1023050</versioncode>
 			<apkname>F-DroidBasic.apk</apkname>
-			<hash type="sha256">088004f6d4bb82129d9c4e1134ab6345b532bb109352dc00ad59a09c03395866</hash>
-			<size>10974426</size>
+			<hash type="sha256">4af7d64ed4f5f43eecc0c0ea1bef0b29befdfca01ddc8878245b76e46ba8e4ee</hash>
+			<size>11015916</size>
 			<sdkver>23</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-04-23</added>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2025-07-28</added>
 			<sig>b1f4c7b7c59bc03bb2f04845dab36e40</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,ENFORCE_UPDATE_OWNERSHIP,FOREGROUND_SERVICE,INTERNET,NFC,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,org.fdroid.basic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,org.fdroid.basic.permission.UPDATE_REPOS</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -360,8 +232,8 @@ Android itself is open in the sense that you are free to install APKs from anywh
 	</application>
 	<application id="com.google.android.apps.photos">
 		<id>com.google.android.apps.photos</id>
-		<added>2025-05-22</added>
-		<lastupdated>2025-05-22</lastupdated>
+		<added>2026-03-20</added>
+		<lastupdated>2026-03-20</lastupdated>
 		<name>GCam Photos Preview</name>
 		<summary>Preview photos from Google Camera</summary>
 		<desc>If you have Google Photos installed, you can safely ignore this application.
@@ -386,59 +258,15 @@ It pretends to be Google Photos to do that.</desc>
 			<size>1486625</size>
 			<sdkver>30</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2025-05-22</added>
+			<added>2026-03-20</added>
 			<sig>40a7f0bec25fddb9ffe341c951a44b26</sig>
 			<permissions>READ_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
-	<application id="com.nextcloud.client">
-		<id>com.nextcloud.client</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
-		<name>Nextcloud</name>
-		<summary>Synchronization client</summary>
-		<desc>A safe home for all your data. Access &amp; share your files, calendars, contacts,
-mail &amp; more from any device, on your terms. This is the official Android app.
-
-'''Features:'''
-
-* Easy, modern interface
-* Upload your files to your Nextcloud server
-* Share your files with others
-* Keep your favorite files and folders synced
-* Instant Upload for photos and videos taken by your device
-* Multi-account support</desc>
-		<license>GPL-2.0-only</license>
-		<categories>Internet,Hidden</categories>
-		<category>Internet</category>
-		<web>https://nextcloud.com</web>
-		<source>https://github.com/nextcloud/android</source>
-		<tracker>https://github.com/nextcloud/android/issues</tracker>
-		<changelog>https://github.com/nextcloud/android/blob/HEAD/CHANGELOG.md</changelog>
-		<donate>https://nextcloud.com/include/</donate>
-		<marketversion></marketversion>
-		<marketvercode>30310190</marketvercode>
-		<package>
-			<version>3.31.1</version>
-			<versioncode>30310190</versioncode>
-			<apkname>Nextcloud.apk</apkname>
-			<hash type="sha256">d0d09c7ad23506125747a651043ad6f92a3221abd3f0a057fc792e5206c9e144</hash>
-			<size>39437253</size>
-			<sdkver>25</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-04-23</added>
-			<sig>0f8ca80a9abcc3452f65222ed09819a9</sig>
-			<permissions>ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,AUTHENTICATE_ACCOUNTS,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,GET_ACCOUNTS,INTERNET,MANAGE_ACCOUNTS,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,READ_CALENDAR,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_SYNC_SETTINGS,READ_SYNC_STATS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_CREDENTIALS,VIBRATE,WAKE_LOCK,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.android.launcher.permission.INSTALL_SHORTCUT,com.nextcloud.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="25" name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
-	</application>
 	<application id="org.onionshare.android.fdroid">
 		<id>org.onionshare.android.fdroid</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2026-03-16</added>
+		<lastupdated>2026-03-16</lastupdated>
 		<name>OnionShare</name>
 		<summary>Securely and anonymously share files using the Tor network</summary>
 		<desc>Ever wanted to share something without also sharing it with Google or Dropbox? Tax documents, medical information, or unpublished research? Share files directly and securely without the middlemen.</desc>
@@ -449,16 +277,16 @@ mail &amp; more from any device, on your terms. This is the official Android app
 		<source>https://github.com/onionshare/onionshare-android</source>
 		<tracker>https://github.com/onionshare/onionshare-android/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>242</marketvercode>
+		<marketvercode>262</marketvercode>
 		<package>
-			<version>0.2.1-beta</version>
-			<versioncode>242</versioncode>
+			<version>0.2.3-beta</version>
+			<versioncode>262</versioncode>
 			<apkname>OnionShare.apk</apkname>
-			<hash type="sha256">8f670c0932388e1f6081b72b2f77c565dd57a624ca3e42f0f410ba0fdcb6ed01</hash>
-			<size>16758013</size>
+			<hash type="sha256">a485bf65b38b3b0fd056c541134f70f6a0754e0baa0d5c6d24158332ed2c6389</hash>
+			<size>17192789</size>
 			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-04-23</added>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-16</added>
 			<sig>600750cd18ff3fc8674a990d89049916</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,org.onionshare.android.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -466,8 +294,8 @@ mail &amp; more from any device, on your terms. This is the official Android app
 	</application>
 	<application id="org.openobservatory.ooniprobe">
 		<id>org.openobservatory.ooniprobe</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2026-03-16</added>
+		<lastupdated>2026-03-16</lastupdated>
 		<name>OONI Probe</name>
 		<summary>Open Observatory of Network Interference (OONI)</summary>
 		<desc>Are websites and social media apps blocked? Is your network unusually slow?
@@ -535,17 +363,17 @@ access to your computer, and to anyone who can monitor your Internet connection
 		<author>Open Observatory of Network Interference</author>
 		<email>contact@openobservatory.org</email>
 		<marketversion></marketversion>
-		<marketvercode>202</marketvercode>
+		<marketvercode>272</marketvercode>
 		<antifeatures>Tracking</antifeatures>
 		<package>
-			<version>5.0.6</version>
-			<versioncode>202</versioncode>
+			<version>6.0.1</version>
+			<versioncode>272</versioncode>
 			<apkname>OONIProbe.apk</apkname>
-			<hash type="sha256">9264f09d6e3bd6febccd4e8084ddd9ca6f5a2b28d45c0d991171eb7ec8f48951</hash>
-			<size>71853857</size>
+			<hash type="sha256">12205181400872f4c197391a51a734ade14d4fd00af747db5770850573e016e0</hash>
+			<size>66384812</size>
 			<sdkver>24</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-04-23</added>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-16</added>
 			<sig>a1d02df38f28bbe3af69161786e1d39b</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,org.openobservatory.ooniprobe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -553,8 +381,8 @@ access to your computer, and to anyone who can monitor your Internet connection
 	</application>
 	<application id="org.torproject.android">
 		<id>org.torproject.android</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2026-01-17</added>
+		<lastupdated>2026-01-17</lastupdated>
 		<name>Orbot</name>
 		<summary>Enhance your privacy, break through firewalls and communicate more safely.</summary>
 		<desc>Tor is both software and an open network that helps you defend against network
@@ -583,25 +411,25 @@ available from the Mozilla addon site).
 		<donate>https://www.torproject.org/donate/donate.html.en</donate>
 		<bitcoin>1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk</bitcoin>
 		<marketversion></marketversion>
-		<marketvercode>1741200402</marketvercode>
+		<marketvercode>1780300102</marketvercode>
 		<package>
-			<version>17.4.1-BETA-4-tor-0.4.8.13</version>
-			<versioncode>1741200402</versioncode>
+			<version>17.8.0-RC-1-tor-0.4.8.21</version>
+			<versioncode>1780300102</versioncode>
 			<apkname>Orbot.apk</apkname>
-			<hash type="sha256">723e1836df4a15c67b32505ab36f94638e1dc7738f153a5dd3dfb1e173a126fa</hash>
-			<size>23658919</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-04-23</added>
+			<hash type="sha256">75695707f81cfae247952875e61b468da9686ad5f7b20c87afbf7093f3d550e3</hash>
+			<size>42527360</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-01-17</added>
 			<sig>8bd7e51b479aeba908ff46ada3305a29</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,WAKE_LOCK,org.torproject.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_REMOTE_MESSAGING,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,org.torproject.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
 	<application id="app.organicmaps">
 		<id>app.organicmaps</id>
-		<added>2025-04-30</added>
-		<lastupdated>2025-04-30</lastupdated>
+		<added>2026-03-16</added>
+		<lastupdated>2026-03-16</lastupdated>
 		<name>Organic Maps</name>
 		<summary>Offline maps with turn-by-turn navigation</summary>
 		<desc>Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.
@@ -620,25 +448,26 @@ available from the Mozilla addon site).
 		<source>https://github.com/organicmaps/organicmaps/tree/HEAD</source>
 		<tracker>https://github.com/organicmaps/organicmaps/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>25042104</marketvercode>
+		<marketvercode>26031202</marketvercode>
 		<package>
-			<version>2025.04.21-4-FDroid</version>
-			<versioncode>25042104</versioncode>
+			<version>2026.03.12-2-FDroid</version>
+			<versioncode>26031202</versioncode>
 			<apkname>OrganicMaps.apk</apkname>
-			<hash type="sha256">645d39f1ca1d07c5b9b290c86488e64d6f7aa7616056fdb944eb9ebfe9cc752d</hash>
-			<size>58979294</size>
+			<hash type="sha256">0a53061f1bbbb6305cda0f028882914143c10e5369a5ad6fa6b768abe16a94f7</hash>
+			<size>70200943</size>
 			<sdkver>21</sdkver>
-			<targetSdkVersion>35</targetSdkVersion>
-			<added>2025-04-30</added>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-03-16</added>
 			<sig>472167dd9f46ae80fec5f3a3e8f47a81</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,androidx.car.app.ACCESS_SURFACE,androidx.car.app.NAVIGATION_TEMPLATES,app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_LOCATION,FOREGROUND_SERVICE_MEDIA_PLAYBACK,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,androidx.car.app.ACCESS_SURFACE,androidx.car.app.NAVIGATION_TEMPLATES,app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="22" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="se.leap.riseupvpn">
 		<id>se.leap.riseupvpn</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2025-07-28</added>
+		<lastupdated>2025-07-28</lastupdated>
 		<name>Riseup VPN</name>
 		<summary>Secure VPN powered by Bitmask</summary>
 		<desc>RiseupVPN is an application to provide easy and secure encrypted communication.
@@ -668,7 +497,7 @@ servers, RiseupVPN is able to prevent many forms of censorship and surveillance.
 			<size>68842985</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-04-23</added>
+			<added>2025-07-28</added>
 			<sig>93382ad36b0a32133bb7790999ec1107</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SYSTEM_EXEMPTED,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,se.leap.riseupvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -676,8 +505,8 @@ servers, RiseupVPN is able to prevent many forms of censorship and surveillance.
 	</application>
 	<application id="com.jarsilio.android.scrambledeggsif">
 		<id>com.jarsilio.android.scrambledeggsif</id>
-		<added>2025-04-23</added>
-		<lastupdated>2025-04-23</lastupdated>
+		<added>2025-07-28</added>
+		<lastupdated>2025-07-28</lastupdated>
 		<name>Scrambled Exif</name>
 		<summary>Remove the metadata from your pictures before sharing them</summary>
 		<desc>Scrambled Exif (pronounced &lt;i&gt;egg&lt;/i&gt;sif) helps you remove the metadata in your pictures before you share them.
@@ -736,15 +565,15 @@ https://www.transifex.com/juanitobananas/scrambled-exif/
 			<size>5121450</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-04-23</added>
+			<added>2025-07-28</added>
 			<sig>e6590e61cbe069a1d900172fa99a1707</sig>
 			<permissions>READ_EXTERNAL_STORAGE,REORDER_TASKS,com.jarsilio.android.scrambledeggsif.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 		</package>
 	</application>
 	<application id="org.thoughtcrime.securesms">
 		<id>org.thoughtcrime.securesms</id>
-		<added>2025-05-20</added>
-		<lastupdated>2025-05-20</lastupdated>
+		<added>2026-03-20</added>
+		<lastupdated>2026-03-20</lastupdated>
 		<name>Signal</name>
 		<summary>Signal Private Messenger</summary>
 		<desc>Privacy is possible. Signal makes it easy.
@@ -769,26 +598,28 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 		<source>https://github.com/signalapp/Signal-Android</source>
 		<tracker>https://support.signal.org/</tracker>
 		<marketversion></marketversion>
-		<marketvercode>154201</marketvercode>
+		<marketvercode>166801</marketvercode>
 		<package>
-			<version>7.41.4</version>
-			<versioncode>154201</versioncode>
+			<version>8.3.4</version>
+			<versioncode>166801</versioncode>
 			<apkname>Signal.apk</apkname>
-			<hash type="sha256">01372b6bb3fdde741bfc33704787ad7d94e83595cd200da71e297646779874c0</hash>
-			<size>108150327</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-05-20</added>
+			<hash type="sha256">c312e9621ce9e826ee3aa3e9c31279fb4ae9e50875f012e13aaed3030361c28e</hash>
+			<size>116323165</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-03-20</added>
 			<sig>4685187b2fceb9e4d3946ae7fffb5fe6</sig>
-			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_CONNECTED_DEVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,NEARBY_WIFI_DEVICES,POST_NOTIFICATIONS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_MEDIA_VISUAL_USER_SELECTED,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SCHEDULE_EXACT_ALARM,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS,org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_NOTIFICATION_POLICY,ACCESS_WIFI_STATE,AUTHENTICATE_ACCOUNTS,BLUETOOTH,BROADCAST_STICKY,CAMERA,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,DISABLE_KEYGUARD,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_CAMERA,FOREGROUND_SERVICE_CONNECTED_DEVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_MICROPHONE,FOREGROUND_SERVICE_PHONE_CALL,FOREGROUND_SERVICE_REMOTE_MESSAGING,GET_ACCOUNTS,INSTALL_SHORTCUT,INTERNET,MANAGE_OWN_CALLS,MODIFY_AUDIO_SETTINGS,NEARBY_WIFI_DEVICES,POST_NOTIFICATIONS,RAISED_THREAD_PRIORITY,READ_APP_BADGE,READ_CALL_STATE,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_MEDIA_VISUAL_USER_SELECTED,READ_PHONE_NUMBERS,READ_PHONE_STATE,READ_PROFILE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REORDER_TASKS,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,SCHEDULE_EXACT_ALARM,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_CREDENTIALS,USE_FINGERPRINT,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_CONTACTS,WRITE_EXTERNAL_STORAGE,WRITE_SYNC_SETTINGS,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE,org.thoughtcrime.securesms.ACCESS_SECRETS,org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
 			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+			<features>android.hardware.camera</features>
 		</package>
 	</application>
 	<application id="net.thunderbird.android">
 		<id>net.thunderbird.android</id>
-		<added>2025-05-20</added>
-		<lastupdated>2025-05-20</lastupdated>
+		<added>2026-03-20</added>
+		<lastupdated>2026-03-20</lastupdated>
 		<name>Thunderbird: Free Your Inbox</name>
 		<summary>Thunderbird is a 100% open source, privacy focused email app.</summary>
 		<desc>Thunderbird is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity. Built on open-source technology and supported by a dedicated team of developers alongside a global community of volunteers, Thunderbird never treats your private data as a product. Supported solely by financial contributions from our users, so you never have to see ads mixed in with your emails again.
@@ -832,16 +663,16 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 		<changelog>https://github.com/thunderbird/thunderbird-android/releases/</changelog>
 		<donate>https://mzla.link/supportTfA</donate>
 		<marketversion></marketversion>
-		<marketvercode>10</marketvercode>
+		<marketvercode>21</marketvercode>
 		<package>
-			<version>10.0</version>
-			<versioncode>10</versioncode>
+			<version>17.0</version>
+			<versioncode>21</versioncode>
 			<apkname>Thunderbird.apk</apkname>
-			<hash type="sha256">8e93d948d5cb08ae0545b6dbaab8b1735d6db4be008fdf411c8c9da5b746642c</hash>
-			<size>11017153</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-05-20</added>
+			<hash type="sha256">d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45</hash>
+			<size>14504793</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-03-20</added>
 			<sig>51d46a3e4944aa1faf96d23a6d3770a2</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,net.thunderbird.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<uses-permission maxSdkVersion="33" name="android.permission.FOREGROUND_SERVICE_DATA_SYNC"/>
@@ -850,8 +681,8 @@ Using Signal, you can communicate instantly while avoiding SMS fees, create grou
 	</application>
 	<application id="org.torproject.torbrowser">
 		<id>org.torproject.torbrowser</id>
-		<added>2025-05-19</added>
-		<lastupdated>2025-05-19</lastupdated>
+		<added>2026-02-25</added>
+		<lastupdated>2026-02-25</lastupdated>
 		<name>Tor Browser for Android</name>
 		<summary>Experience real private browsing without tracking, surveillance, or censorship.</summary>
 		<desc>Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world’s strongest tool for privacy and freedom online.
@@ -894,18 +725,19 @@ The Tor Project, Inc., is a 501(c)(3) organization developing free and open sour
 		<bitcoin>1JADsmDFX9d2TXis63S9F9L8eDAXwJmnWE</bitcoin>
 		<litecoin>LNAifc8nfjtDJ8azRPiancbZSBftPzhfzb</litecoin>
 		<marketversion></marketversion>
-		<marketvercode>2016091562</marketvercode>
+		<marketvercode>2016145546</marketvercode>
 		<package>
-			<version>14.5.2 (128.10.1esr)</version>
-			<versioncode>2016091562</versioncode>
+			<version>15.0.7 (140.8.0esr)</version>
+			<versioncode>2016145546</versioncode>
 			<apkname>TorBrowser.apk</apkname>
-			<hash type="sha256">362c6d6b87bf180155fe90c5d595c7ad946e8a310000034fe316c9ce9bd0168f</hash>
-			<size>102400552</size>
+			<hash type="sha256">f38fb2a37724e7e7e0b0bf0eec3f1c37b804b9b8a868b1593c2310256873a769</hash>
+			<size>110876025</size>
 			<sdkver>21</sdkver>
-			<targetSdkVersion>34</targetSdkVersion>
-			<added>2025-05-19</added>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-02-25</added>
 			<sig>31e36334f34e126a0e0d1efd29b84fb2</sig>
-			<permissions>ACCESS_NETWORK_STATE,CAMERA,CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS,CREDENTIAL_MANAGER_SET_ORIGIN,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_SPECIAL_USE,HIGH_SAMPLING_RATE_SENSORS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_MEDIA_VISUAL_USER_SELECTED,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,org.torproject.torbrowser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,org.torproject.torbrowser.permission.RECEIVE_DOWNLOAD_BROADCAST</permissions>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS,CREDENTIAL_MANAGER_SET_ORIGIN,DOWNLOAD_WITHOUT_NOTIFICATION,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,FOREGROUND_SERVICE_MEDIA_PLAYBACK,FOREGROUND_SERVICE_SPECIAL_USE,HIGH_SAMPLING_RATE_SENSORS,INTERNET,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_VISUAL_USER_SELECTED,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.adjust.preinstall.READ_PERMISSION,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,org.torproject.torbrowser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,org.torproject.torbrowser.permission.RECEIVE_DOWNLOAD_BROADCAST</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
 			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 			<uses-permission maxSdkVersion="26" name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
 			<nativecode>arm64-v8a</nativecode>
