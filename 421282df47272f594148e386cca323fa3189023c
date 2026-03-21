@@ -34,6 +34,24 @@
       "parentUuid": "a156eb48_0b443767",
       "revId": "421282df47272f594148e386cca323fa3189023c",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f64c6476_b03ce038",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-03-21T18:04:10Z",
+      "side": 1,
+      "message": "Local build cache issue",
+      "parentUuid": "cc164a3f_57c5937f",
+      "revId": "421282df47272f594148e386cca323fa3189023c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
