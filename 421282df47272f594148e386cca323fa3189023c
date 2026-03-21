@@ -16,6 +16,24 @@
       "message": "The repositories don\u0027t show up at all",
       "revId": "421282df47272f594148e386cca323fa3189023c",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cc164a3f_57c5937f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-03-21T17:46:36Z",
+      "side": 1,
+      "message": "Works for me here after picking this change. Is the .json along the old XMLs in the proper location on device? Did you test with F-Droid Basic 2.0? did you clear \"storage\" in app settings (since we don\u0027t ship with 2.0 you need to update to that first and then).",
+      "parentUuid": "a156eb48_0b443767",
+      "revId": "421282df47272f594148e386cca323fa3189023c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
