@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "60d0045a_6f5e95e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-03-21T18:27:05Z",
+      "side": 1,
+      "message": "Orbot is not on the latest version, since the apk now uses a different naming scheme upstream. That should be fixed before shipping, but it\u0027s not blocking this chain.",
+      "revId": "c3dafc2c5baba31f9b68a616b3c191cd50143263",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
