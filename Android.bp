@@ -103,6 +103,21 @@ android_app_import {
 }
 
 android_app_import {
+    name: "CoMaps",
+    relative_install_path: "repo",
+    dex_preopt: {
+        enabled: false,
+    },
+    fdroid: true,
+    preprocessed: true,
+    product_specific: true,
+    enforce_uses_libs: false,
+    apk: "repo/CoMaps.apk",
+    presigned: true,
+    skip_preprocessed_apk_checks: true,
+}
+
+android_app_import {
     name: "DAVx5",
     relative_install_path: "repo",
     dex_preopt: {
@@ -169,35 +184,6 @@ android_app_import {
     product_specific: true,
     enforce_uses_libs: false,
     apk: "repo/OnionShare.apk",
-    presigned: true,
-    skip_preprocessed_apk_checks: true,
-}
-
-android_app_import {
-    name: "Orbot",
-    relative_install_path: "repo",
-    dex_preopt: {
-        enabled: false,
-    },
-    fdroid: true,
-    preprocessed: true,
-    product_specific: true,
-    enforce_uses_libs: false,
-    apk: "repo/Orbot.apk",
-    presigned: true,
-}
-
-android_app_import {
-    name: "OrganicMaps",
-    relative_install_path: "repo",
-    dex_preopt: {
-        enabled: false,
-    },
-    fdroid: true,
-    preprocessed: true,
-    product_specific: true,
-    enforce_uses_libs: false,
-    apk: "repo/OrganicMaps.apk",
     presigned: true,
     skip_preprocessed_apk_checks: true,
 }
@@ -273,4 +259,18 @@ android_app_import {
     apk: "repo/TorBrowser.apk",
     presigned: true,
     skip_preprocessed_apk_checks: true,
+}
+
+android_app_import {
+    name: "TorVPN",
+    relative_install_path: "repo",
+    dex_preopt: {
+        enabled: false,
+    },
+    fdroid: true,
+    preprocessed: true,
+    product_specific: true,
+    enforce_uses_libs: false,
+    apk: "repo/TorVPN.apk",
+    presigned: true,
 }

@@ -2,20 +2,11 @@
 
 PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/fallback-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/fallback-icon.png \
-    prebuilts/calyx/fdroid/repo/app.organicmaps/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/app.organicmaps/en-US/icon.png \
+    prebuilts/calyx/fdroid/repo/app.comaps.fdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/app.comaps.fdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/at.bitfire.davdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/at.bitfire.davdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.aurora.store/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.aurora.store/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/diff/1773201694000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773201694000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773288147000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773288147000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773375152000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773375152000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773460891000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773460891000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773547316000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773547316000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773633768000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773633768000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773720091000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773720091000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773806496000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773806496000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773892898000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773892898000.json \
-    prebuilts/calyx/fdroid/repo/diff/1773979311000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1773979311000.json \
+    prebuilts/calyx/fdroid/repo/diff/1774891661000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1774891661000.json \
     prebuilts/calyx/fdroid/repo/entry.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.jar \
     prebuilts/calyx/fdroid/repo/entry.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.json \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \
@@ -35,8 +26,9 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/org.onionshare.android.fdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.onionshare.android.fdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.openobservatory.ooniprobe/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.openobservatory.ooniprobe/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.thoughtcrime.securesms/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.thoughtcrime.securesms/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/org.torproject.android/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.torproject.android/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/org.torproject.torbrowser/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.torproject.torbrowser/en-US/icon.png \
+    prebuilts/calyx/fdroid/repo/org.torproject.vpn/en-US/featureGraphic.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.torproject.vpn/en-US/featureGraphic.png \
+    prebuilts/calyx/fdroid/repo/org.torproject.vpn/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/org.torproject.vpn/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/se.leap.riseupvpn/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/se.leap.riseupvpn/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/status/running.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/status/running.json \
     prebuilts/calyx/fdroid/repo/status/update.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/status/update.json \
@@ -53,15 +45,15 @@ PRODUCT_PACKAGES += \
     aurora-store \
     AuroraStore \
     BreezyWeather \
+    CoMaps \
     DAVx5 \
     F-DroidBasic \
     GCamPhotosPreview \
     OONIProbe \
     OnionShare \
-    Orbot \
-    OrganicMaps \
     RiseupVPN \
     ScrambledExif \
     Signal \
     Thunderbird \
     TorBrowser \
+    TorVPN \

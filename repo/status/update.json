@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1774049258201,
+  "endTimestamp": 1774903727007,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "3b64dcee7a7a46eefd56e49e902037d61b635ed6",
@@ -32,7 +32,7 @@
   "jarsigner": "/usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner",
   "keytool": "/usr/lib/jvm/java-17-openjdk-amd64/bin/keytool",
   "needsUpdate": [
-    "app.organicmaps",
+    "app.comaps.fdroid",
     "at.bitfire.davdroid",
     "com.aurora.store",
     "com.google.android.apps.photos",
@@ -43,12 +43,12 @@
     "org.onionshare.android.fdroid",
     "org.openobservatory.ooniprobe",
     "org.thoughtcrime.securesms",
-    "org.torproject.android",
     "org.torproject.torbrowser",
+    "org.torproject.vpn",
     "se.leap.riseupvpn"
   ],
   "noPackages": [
-    "app.organicmaps",
+    "app.comaps.fdroid",
     "at.bitfire.davdroid",
     "com.aurora.store",
     "com.google.android.apps.photos",
@@ -59,12 +59,12 @@
     "org.onionshare.android.fdroid",
     "org.openobservatory.ooniprobe",
     "org.thoughtcrime.securesms",
-    "org.torproject.android",
     "org.torproject.torbrowser",
+    "org.torproject.vpn",
     "se.leap.riseupvpn"
   ],
   "noUpdateCheck": [
-    "app.organicmaps",
+    "app.comaps.fdroid",
     "at.bitfire.davdroid",
     "com.aurora.store",
     "com.google.android.apps.photos",
@@ -75,10 +75,10 @@
     "org.onionshare.android.fdroid",
     "org.openobservatory.ooniprobe",
     "org.thoughtcrime.securesms",
-    "org.torproject.android",
     "org.torproject.torbrowser",
+    "org.torproject.vpn",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1774049253000,
+  "startTimestamp": 1774903721000,
   "subcommand": "update"
 }

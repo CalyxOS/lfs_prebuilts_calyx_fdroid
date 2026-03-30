@@ -1,20 +1,20 @@
 {
   "repo": {
     "name": {
-      "en-US": "CalyxOS Local Repository"
+      "en-US": "CalyxOS Local"
     },
     "description": {
-      "en-US": "This is a repository of apps to be used with CalyxOS. It is installed\nto the system partition, and meant to be used to initially install\napps when offline. It contains a limited number of applications deemed\nsuitable for inclusion with CalyxOS.\n"
+      "en-US": "This is a repository of apps to be used with CalyxOS. It is installed to the system partition, and meant to be used to initially install apps when offline. It contains a limited number of applications deemed suitable for inclusion with CalyxOS.\n"
     },
     "icon": {
       "en-US": {
         "name": "/icons/fdroid-icon.png",
-        "sha256": "bdfc7687f447c8db57da77169d8ba32612b28bbe1b1928c7f39c0287fbf3e801",
-        "size": 6669
+        "sha256": "7bd820935ac517711ae93a90a135d6e27f606aa9941c3785b0f271ee7b5cefe1",
+        "size": 5514
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1774049255000,
+    "timestamp": 1774903724000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -51,6 +51,11 @@
           "en-US": "System"
         }
       },
+      "VPN & Proxy": {
+        "name": {
+          "en-US": "VPN & Proxy"
+        }
+      },
       "Writing": {
         "name": {
           "en-US": "Writing"
@@ -59,60 +64,66 @@
     }
   },
   "packages": {
-    "app.organicmaps": {
+    "app.comaps.fdroid": {
       "metadata": {
-        "added": 1773633767000,
+        "added": 1774891639000,
         "categories": [
           "Navigation",
           "Default"
         ],
-        "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-        "lastUpdated": 1773633767000,
+        "changelog": "https://codeberg.org/comaps/comaps/releases",
+        "issueTracker": "https://codeberg.org/comaps/comaps/issues",
+        "lastUpdated": 1774891639000,
         "license": "Apache-2.0",
-        "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
-        "webSite": "https://organicmaps.app/",
+        "sourceCode": "https://codeberg.org/comaps/comaps",
+        "translation": "https://translate.codeberg.org/projects/comaps/",
+        "webSite": "https://www.comaps.app/",
+        "liberapay": "CoMaps",
+        "openCollective": "comaps",
         "name": {
-          "en-US": "Organic Maps"
+          "en-US": "CoMaps"
         },
         "summary": {
-          "en-US": "Offline maps with turn-by-turn navigation"
+          "en-US": "Easy map navigation - Discover more of your journey - Powered by the community"
         },
         "description": {
-          "en-US": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides"
+          "en-US": "A community-led free & open source maps app based on OpenStreetMap data and reinforced with commitment to transparency, privacy and being not-for-profit. CoMaps is a fork/spin-off of Organic Maps, which in turn is a fork of Maps.ME.\n\nRead on about reasons for the project and its direction at <b><i>codeberg.org/comaps</i></b>.\nJoin the community there and help make the best maps app\n• Use the app and spread the word about it\n• Give feedback and report issues\n• Update map data in the app or on the OpenStreetMap website\n\n‣ <b>Offline-focused</b>: Plan and navigate your trip abroad without the need for cellular service, search waypoints while on a distant hike, etc. All app functions are designed to work offline.\n‣ <b>Respecting Privacy</b>: The app is designed with privacy in mind - does not identify people, does not track, and does not collect personal information. Ads-free.\n‣ <b>Simple and Polished</b>: essential easy to use features that just work.\n‣ <b>Saves Your Battery and Space</b>: Doesn’t drain your battery like other navigation apps. Compact maps save precious space on your phone.\n‣ <b>Free and Built by the Community</b>: People like you helped build the app by adding places to OpenStreetMap, testing and giving feedback on features and contributing their development skills and money.\n‣ <b>Open and Transparent Decision-making and Financials, Not-for-profit and Fully Open Source.</b>\n\n<b>Main Features</b>:\n• Downloadable detailed maps with places which are not available with Google Maps\n• Outdoor mode with highlighted hiking trails, campsites, water sources, peaks, contour lines, etc\n• Walking paths and cycleways\n• Points of interest like restaurants, gas stations, hotels, shops, sightseeings and many more\n• Search by name or an address or by point of interest category\n• Navigation with voice announcements for walking, cycling, or driving\n• Bookmark your favorite places with a single tap\n• Offline Wikipedia articles\n• Subway transit layer and directions\n• Track recording\n• Export and import bookmarks and tracks in KML, KMZ, GPX formats\n• A dark mode to use during the night\n• Improve map data for everyone using a basic built-in editor\n\n<b>Freedom Is Here</b>\nDiscover your journey, navigate the world with privacy and community at the forefront!\n"
         },
+        "donate": [
+          "https://www.comaps.app/donate/"
+        ],
         "icon": {
           "en-US": {
-            "name": "/app.organicmaps/en-US/icon.png",
-            "sha256": "c6205b085bdeebd93ba07359cd20084fa2b7932acd35bc074ccaa0d1799a3594",
-            "size": 9968
+            "name": "/app.comaps.fdroid/en-US/icon.png",
+            "sha256": "5ea6bd8651a5ba8234304f576c7acb39a009fdd5fdc1632d0e12e0a4561b50e2",
+            "size": 27535
           }
         },
-        "preferredSigner": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
+        "preferredSigner": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
       },
       "versions": {
-        "0a53061f1bbbb6305cda0f028882914143c10e5369a5ad6fa6b768abe16a94f7": {
-          "added": 1773633767000,
+        "aed3521ce770d1482b9c30c973a058c754083f7348a34edbb7aa816e47f74306": {
+          "added": 1774891639000,
           "file": {
-            "name": "/OrganicMaps.apk",
-            "sha256": "0a53061f1bbbb6305cda0f028882914143c10e5369a5ad6fa6b768abe16a94f7",
-            "size": 70200943
+            "name": "/CoMaps.apk",
+            "sha256": "aed3521ce770d1482b9c30c973a058c754083f7348a34edbb7aa816e47f74306",
+            "size": 65003435
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a",
               "armeabi-v7a",
-              "x86",
               "x86_64"
             ],
-            "versionName": "2026.03.12-2-FDroid",
-            "versionCode": 26031202,
+            "versionName": "2026.03.23-5-FDroid",
+            "versionCode": 26032305,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 36
             },
             "signer": {
               "sha256": [
-                "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
+                "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
               ]
             },
             "usesPermission": [
@@ -145,25 +156,22 @@
                 "name": "android.permission.FOREGROUND_SERVICE_LOCATION"
               },
               {
-                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
-              },
-              {
                 "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
               },
               {
                 "name": "android.permission.POST_NOTIFICATIONS"
               },
               {
-                "name": "androidx.car.app.ACCESS_SURFACE"
+                "name": "androidx.car.app.NAVIGATION_TEMPLATES"
               },
               {
-                "name": "androidx.car.app.NAVIGATION_TEMPLATES"
+                "name": "androidx.car.app.ACCESS_SURFACE"
               },
               {
                 "name": "android.permission.RECEIVE_BOOT_COMPLETED"
               },
               {
-                "name": "app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+                "name": "app.comaps.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }
@@ -172,14 +180,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1773633762000,
+        "added": 1774891640000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1773633762000,
+        "lastUpdated": 1774891640000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -241,7 +249,7 @@
       },
       "versions": {
         "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5": {
-          "added": 1773633762000,
+          "added": 1774891640000,
           "file": {
             "name": "/DAVx5.apk",
             "sha256": "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5",
@@ -350,14 +358,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1768017691000,
+        "added": 1774891635000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1768017691000,
+        "lastUpdated": 1774891635000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -408,7 +416,7 @@
       },
       "versions": {
         "757a82b3d569597a13ffca191e4043233cfaa4bd4e9005ae297a2fcdf3d96d9e": {
-          "added": 1768017691000,
+          "added": 1774891635000,
           "file": {
             "name": "/AuroraStore.apk",
             "sha256": "757a82b3d569597a13ffca191e4043233cfaa4bd4e9005ae297a2fcdf3d96d9e",
@@ -501,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1774049254000,
+        "added": 1774903721000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1774049254000,
+        "lastUpdated": 1774903721000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -518,31 +526,31 @@
         "description": {
           "en-US": "If you have Google Photos installed, you can safely ignore this application.\n\nGCam Photos Preview lets you preview photos taken in Google Camera without\nneeding to install the proprietary Google Photos application.\n\nIt pretends to be Google Photos to do that."
         },
-        "preferredSigner": "0124194a5448d3891af970eacd10fd2e0dfaa0acfd93b924a741e78596a30e04"
+        "preferredSigner": "e1298af7b358f97282e7d13659438e2d233c42be7f4b34435c8445d73ea959c1"
       },
       "versions": {
-        "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8": {
-          "added": 1774049254000,
+        "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e": {
+          "added": 1774903721000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
-            "sha256": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
-            "size": 1486625
+            "sha256": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
+            "size": 34099
           },
           "manifest": {
-            "versionName": "0.4",
-            "versionCode": 1000000004,
+            "versionName": "1.0",
+            "versionCode": 1000000100,
             "usesSdk": {
-              "minSdkVersion": 30,
-              "targetSdkVersion": 31
+              "minSdkVersion": 35,
+              "targetSdkVersion": 35
             },
             "signer": {
               "sha256": [
-                "0124194a5448d3891af970eacd10fd2e0dfaa0acfd93b924a741e78596a30e04"
+                "e1298af7b358f97282e7d13659438e2d233c42be7f4b34435c8445d73ea959c1"
               ]
             },
             "usesPermission": [
               {
-                "name": "android.permission.READ_EXTERNAL_STORAGE"
+                "name": "android.permission.QUERY_ALL_PACKAGES"
               }
             ]
           }
@@ -551,14 +559,14 @@
     },
     "com.jarsilio.android.scrambledeggsif": {
       "metadata": {
-        "added": 1753707854000,
+        "added": 1774891645000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
-        "lastUpdated": 1753707854000,
+        "lastUpdated": 1774891645000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
         "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
@@ -611,7 +619,7 @@
       },
       "versions": {
         "b5edea35c0b3cb22675aa79fa0f920e17e2c35d31e19d8121d7e0e68c9c0e5d8": {
-          "added": 1753707854000,
+          "added": 1774891645000,
           "file": {
             "name": "/ScrambledExif.apk",
             "sha256": "b5edea35c0b3cb22675aa79fa0f920e17e2c35d31e19d8121d7e0e68c9c0e5d8",
@@ -646,7 +654,7 @@
     },
     "net.thunderbird.android": {
       "metadata": {
-        "added": 1773979311000,
+        "added": 1774891653000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -655,7 +663,7 @@
         ],
         "changelog": "https://github.com/thunderbird/thunderbird-android/releases/",
         "issueTracker": "https://github.com/thunderbird/thunderbird-android/issues",
-        "lastUpdated": 1773979311000,
+        "lastUpdated": 1774891653000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/thunderbird/thunderbird-android",
         "translation": "https://hosted.weblate.org/projects/tb-android/",
@@ -772,7 +780,7 @@
       },
       "versions": {
         "d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45": {
-          "added": 1773979311000,
+          "added": 1774891653000,
           "file": {
             "name": "/Thunderbird.apk",
             "sha256": "d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45",
@@ -853,14 +861,14 @@
     },
     "org.breezyweather": {
       "metadata": {
-        "added": 1771041711000,
+        "added": 1774891637000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
         "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
-        "lastUpdated": 1771041711000,
+        "lastUpdated": 1774891637000,
         "license": "LGPL-3.0-only",
         "sourceCode": "https://github.com/breezy-weather/breezy-weather",
         "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
@@ -898,7 +906,7 @@
       },
       "versions": {
         "7f10a18a99fb0cc037189124c89fb47c1a5b433dd4c7ffb52b999ee9a1cff5c7": {
-          "added": 1771041711000,
+          "added": 1774891637000,
           "file": {
             "name": "/BreezyWeather.apk",
             "sha256": "7f10a18a99fb0cc037189124c89fb47c1a5b433dd4c7ffb52b999ee9a1cff5c7",
@@ -985,14 +993,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1753707844000,
+        "added": 1774891641000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1753707844000,
+        "lastUpdated": 1774891641000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1037,12 +1045,12 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "4af7d64ed4f5f43eecc0c0ea1bef0b29befdfca01ddc8878245b76e46ba8e4ee": {
-          "added": 1753707844000,
+        "fdbcb468502f49eaecc12169c3a7c95c4d50104b5708f018d94d6025cb273f1b": {
+          "added": 1774891641000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "4af7d64ed4f5f43eecc0c0ea1bef0b29befdfca01ddc8878245b76e46ba8e4ee",
-            "size": 11015916
+            "sha256": "fdbcb468502f49eaecc12169c3a7c95c4d50104b5708f018d94d6025cb273f1b",
+            "size": 8634309
           },
           "manifest": {
             "nativecode": [
@@ -1051,11 +1059,11 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.23.0",
-            "versionCode": 1023050,
+            "versionName": "2.0-alpha5",
+            "versionCode": 2000005,
             "usesSdk": {
-              "minSdkVersion": 23,
-              "targetSdkVersion": 35
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
             },
             "signer": {
               "sha256": [
@@ -1064,13 +1072,19 @@
             },
             "usesPermission": [
               {
+                "name": "android.permission.INTERNET"
+              },
+              {
                 "name": "android.permission.ACCESS_NETWORK_STATE"
               },
               {
-                "name": "android.permission.ACCESS_WIFI_STATE"
+                "name": "android.permission.POST_NOTIFICATIONS"
               },
               {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
               },
               {
                 "name": "android.permission.REQUEST_INSTALL_PACKAGES"
@@ -1079,45 +1093,25 @@
                 "name": "android.permission.REQUEST_DELETE_PACKAGES"
               },
               {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
                 "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
-              },
-              {
-                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
-                "maxSdkVersion": 28
-              },
-              {
-                "name": "android.permission.NFC"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
               },
               {
                 "name": "android.permission.QUERY_ALL_PACKAGES"
               },
               {
-                "name": "android.permission.POST_NOTIFICATIONS"
+                "name": "android.permission.WAKE_LOCK"
               },
               {
-                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
-              },
-              {
-                "name": "org.fdroid.basic.permission.UPDATE_REPOS"
-              },
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
               },
               {
                 "name": "org.fdroid.basic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               },
               {
                 "name": "android.permission.CAMERA"
-              },
-              {
-                "name": "android.permission.READ_EXTERNAL_STORAGE",
-                "maxSdkVersion": 28
               }
             ]
           }
@@ -1126,14 +1120,14 @@
     },
     "org.onionshare.android.fdroid": {
       "metadata": {
-        "added": 1773633764000,
+        "added": 1774891642000,
         "categories": [
           "Internet",
           "Security",
           "Default"
         ],
         "issueTracker": "https://github.com/onionshare/onionshare-android/issues",
-        "lastUpdated": 1773633764000,
+        "lastUpdated": 1774891642000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/onionshare/onionshare-android",
         "name": {
@@ -1159,7 +1153,7 @@
       },
       "versions": {
         "a485bf65b38b3b0fd056c541134f70f6a0754e0baa0d5c6d24158332ed2c6389": {
-          "added": 1773633764000,
+          "added": 1774891642000,
           "file": {
             "name": "/OnionShare.apk",
             "sha256": "a485bf65b38b3b0fd056c541134f70f6a0754e0baa0d5c6d24158332ed2c6389",
@@ -1220,7 +1214,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1773633763000,
+        "added": 1774891641000,
         "categories": [
           "Internet",
           "Security",
@@ -1228,7 +1222,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1773633763000,
+        "lastUpdated": 1774891641000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -1272,7 +1266,7 @@
       },
       "versions": {
         "12205181400872f4c197391a51a734ade14d4fd00af747db5770850573e016e0": {
-          "added": 1773633763000,
+          "added": 1774891641000,
           "file": {
             "name": "/OONIProbe.apk",
             "sha256": "12205181400872f4c197391a51a734ade14d4fd00af747db5770850573e016e0",
@@ -1331,13 +1325,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1773979309000,
+        "added": 1774891651000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1773979309000,
+        "lastUpdated": 1774891651000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1360,12 +1354,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "c312e9621ce9e826ee3aa3e9c31279fb4ae9e50875f012e13aaed3030361c28e": {
-          "added": 1773979309000,
+        "be1d14eab96220ade81b84399c5c723e4bc4cc4ef9be70598b96831f4e90c28c": {
+          "added": 1774891651000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "c312e9621ce9e826ee3aa3e9c31279fb4ae9e50875f012e13aaed3030361c28e",
-            "size": 116323165
+            "sha256": "be1d14eab96220ade81b84399c5c723e4bc4cc4ef9be70598b96831f4e90c28c",
+            "size": 117171339
           },
           "manifest": {
             "nativecode": [
@@ -1374,8 +1368,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.3.4",
-            "versionCode": 166801,
+            "versionName": "8.4.2",
+            "versionCode": 167002,
             "features": [
               {
                 "name": "android.hardware.camera"
@@ -1568,6 +1562,9 @@
                 "name": "com.android.vending.BILLING"
               },
               {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
                 "name": "android.permission.REORDER_TASKS"
               },
               {
@@ -1626,162 +1623,16 @@
         }
       }
     },
-    "org.torproject.android": {
-      "metadata": {
-        "added": 1768622498000,
-        "categories": [
-          "Security",
-          "Internet",
-          "Default"
-        ],
-        "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-        "lastUpdated": 1768622498000,
-        "license": "BSD-3-Clause",
-        "sourceCode": "https://gitweb.torproject.org/orbot.git",
-        "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
-        "webSite": "https://www.torproject.org/docs/android.html",
-        "bitcoin": "1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk",
-        "liberapay": "GuardianProject",
-        "name": {
-          "en-US": "Orbot"
-        },
-        "summary": {
-          "af": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm",
-          "am": ", ግላዊነትዎን አሻሽል ኬላዎች በኩል ለመላቀቅ እና ደህንነትዎ ይበልጥ በተጠበቀ ሁኔታ መገናኘት.",
-          "ar": "اوربوتبروكسي مع تور",
-          "bg": "Подобрете поверителността си, минете през защитни стени, общувайте по-безопасно.",
-          "ca": "Millori la seva privacitat, trencar a través de tallafocs i comunicar-se de form",
-          "cs": "Vylepšete vaše soukromí, prorazit brány firewall a komunikovat bezpečně.",
-          "de": "Vermittlung ins Tor-Netzwerk",
-          "el": "Βελτιώστε την προστασία της ιδιωτικής ζωής σας, να σπάσει μέσω firewalls και να ",
-          "en-US": "Enhance your privacy, break through firewalls and communicate more safely.",
-          "eo": "Pliigi vian privatecon, konekti tra fajroŝirmiloj kaj pli sekure.",
-          "et": "Ehita oma privaatsust, murda läbi tulemüüride ja suhelda turvaliselt.",
-          "fi": "Paranna yksityisyyttä, murtaa palomuurien ja kommunikoida turvallisemmin.",
-          "hi": "आपकी गोपनीयता को बढ़ाने, फायरवॉल के माध्यम से तोड़ने के लिए और अधिक सुरक्षित रूप",
-          "hr": "Poboljšajte svoju privatnost, probiti firewall i komunicirati više sigurno.",
-          "hu": "Fokozza az adatvédelmét, törjön át tűzfalakon és kommunikáljon biztonságosabban.",
-          "id": "Meningkatkan privasi Anda, menerobos firewall dan berkomunikasi lebih aman.",
-          "it": "Migliora la tua privacy, aggira i firewall e comunica in modo più sicuro.",
-          "ja": "あなたのプライバシーを強化、ファイアウォールを突破すると、より安全に通信します。",
-          "ko": "개인 정보 보호를 강화하고, 방화벽을 통해 휴식과보다 안전하게 통신 할 수 있습니다.",
-          "lt": "Patobulinkite savo privatumą, pralaužti užkardas ir daugiau bendrauti saugiai.",
-          "lv": "Uzlabojiet savu privātumu, izlauzties cauri ugunsmūriem un sazināties drošāk.",
-          "nl": "Verbeter uw privacy, breken door firewalls en communiceren meer veilig.",
-          "no": "Forbedre ditt privatliv, bryte gjennom brannmurer og kommunisere sikkert.",
-          "pl": "Popraw prywatność, przebij się przez zapory ogniowe i komunikuj się bezpiecznie.",
-          "pt": "Melhore a sua privacidade, abra firewalls e comunique com mais segurança.",
-          "pt-PT": "Melhore a sua privacidade, abra firewalls e comunique com mais segurança.",
-          "ro": "Spori intimitatea, rupe prin intermediul firewall-uri și de a comunica mai mult ",
-          "ru": "OrbotПрокси в комплекте с TorOrbotПрокси в комплекте с Tor",
-          "sk": "Vylepšite vaše súkromie, preraziť brány firewall a komunikovať bezpečne.",
-          "sl": "Izboljšajte svojo zasebnost, prekinil skozi požarne zidove in komunicirati bolj ",
-          "sv": "Förbättra din integritet, bryta igenom brandväggar och kommunicera på ett säkert",
-          "sw": "Kuongeza siri yako, kuvunja kupitia firewalls na kuwasiliana kwa usalama zaidi.",
-          "th": "เพิ่มความเป็นส่วนตัวของคุณตัดผ่านไฟร์วอลล์และการสื่อสารอย่างปลอดภัยมากขึ้น",
-          "tr": "Gizliliğinizi artırın, güvenlik duvarlarından geçin ve güvenli iletişim kurun.",
-          "uk": "Покращте свою приватність, прорвіть брандмауери та спілкуйтеся безпечніше.",
-          "zh-CN": "增强您的隐私，突破防火墙并更安全地进行通信。"
-        },
-        "description": {
-          "en-US": "Tor is both software and an open network that helps you defend against network\nsurveillance that threatens personal freedom and privacy, confidential business\nactivities and relationships.\n\nOrbot allows access to Tor by accessing a local SOCKS or HTTP proxy.\nOn a rooted device, the proxying can be completely transparent\ni.e. the app that accesses the network need not be aware of the\nproxy's existence; you can choose which apps go via the proxy in the\nsettings.\n\nIf you don't have root access, there are some apps that are designed to work\nclosely with tor or allow proxied connections:\nhttps://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and\nhttps://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox\ncalled <a href=\"https://github.com/guardianproject/ProxyMob/downloads\">ProxyMob</a> (not yet\navailable from the Mozilla addon site).\n"
-        },
-        "donate": [
-          "https://www.torproject.org/donate/donate.html.en"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "/org.torproject.android/en-US/icon.png",
-            "sha256": "fabb88e8b471d7aef35a43250f90fe1fc25efe97c1da2efd8382aead76c70266",
-            "size": 36370
-          }
-        },
-        "preferredSigner": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
-      },
-      "versions": {
-        "75695707f81cfae247952875e61b468da9686ad5f7b20c87afbf7093f3d550e3": {
-          "added": 1768622498000,
-          "file": {
-            "name": "/Orbot.apk",
-            "sha256": "75695707f81cfae247952875e61b468da9686ad5f7b20c87afbf7093f3d550e3",
-            "size": 42527360
-          },
-          "manifest": {
-            "nativecode": [
-              "arm64-v8a"
-            ],
-            "versionName": "17.8.0-RC-1-tor-0.4.8.21",
-            "versionCode": 1780300102,
-            "usesSdk": {
-              "minSdkVersion": 24,
-              "targetSdkVersion": 36
-            },
-            "signer": {
-              "sha256": [
-                "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
-              ]
-            },
-            "usesPermission": [
-              {
-                "name": "android.permission.INTERNET"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "android.permission.ACCESS_NETWORK_STATE"
-              },
-              {
-                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
-              },
-              {
-                "name": "android.permission.ACCESS_WIFI_STATE"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED"
-              },
-              {
-                "name": "android.permission.SCHEDULE_EXACT_ALARM"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING"
-              },
-              {
-                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
-              },
-              {
-                "name": "android.permission.POST_NOTIFICATIONS"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
-              },
-              {
-                "name": "android.permission.USE_BIOMETRIC"
-              },
-              {
-                "name": "android.permission.USE_FINGERPRINT"
-              },
-              {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "org.torproject.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              }
-            ]
-          }
-        }
-      }
-    },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1771992105000,
+        "added": 1774891658000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1771992105000,
+        "lastUpdated": 1774891658000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1811,19 +1662,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "f38fb2a37724e7e7e0b0bf0eec3f1c37b804b9b8a868b1593c2310256873a769": {
-          "added": 1771992105000,
+        "b4ba913d9de8cacc842bd21be4384ea358910bd86655b1a6625d98fdd7fac0e2": {
+          "added": 1774891658000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "f38fb2a37724e7e7e0b0bf0eec3f1c37b804b9b8a868b1593c2310256873a769",
-            "size": 110876025
+            "sha256": "b4ba913d9de8cacc842bd21be4384ea358910bd86655b1a6625d98fdd7fac0e2",
+            "size": 110912889
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "15.0.7 (140.8.0esr)",
-            "versionCode": 2016145546,
+            "versionName": "15.0.8 (140.9.0esr)",
+            "versionCode": 2016150914,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -1937,9 +1788,117 @@
         }
       }
     },
+    "org.torproject.vpn": {
+      "metadata": {
+        "added": 1774891659000,
+        "categories": [
+          "VPN & Proxy",
+          "Default"
+        ],
+        "changelog": "https://gitlab.torproject.org/tpo/applications/vpn/-/blob/HEAD/CHANGELOG.md",
+        "issueTracker": "https://gitlab.torproject.org/tpo/applications/vpn/-/issues/",
+        "lastUpdated": 1774891659000,
+        "license": "BSD-3-Clause-Clear",
+        "sourceCode": "https://gitlab.torproject.org/tpo/applications/vpn/",
+        "translation": "https://hosted.weblate.org/projects/tor/tor-vpn/",
+        "webSite": "https://www.torproject.org/",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/org.torproject.vpn/en-US/featureGraphic.png",
+            "sha256": "00cf1d6baf75fe6d5e57e25300545da6b8170e0c45a926c57b2336f7d7a1c505",
+            "size": 198198
+          }
+        },
+        "bitcoin": "bc1qtt04zfgjxg7lpqhk9vk8hnmnwf88ucwww5arsd",
+        "name": {
+          "en-US": "Tor VPN"
+        },
+        "summary": {
+          "en-US": "Tor-powered with per-app routing, access unblocking & network-level privacy."
+        },
+        "description": {
+          "en-US": "<b>Beta release: The VPN that fights back</b>\n<p>Tor VPN Beta puts control back in your hands when others try to cut you off from the world. This early-access release is for users who want to help shape the future of mobile privacy and can do safely.</p>\n<b>What can Tor VPN Beta do?</b>\n<ul>\n  <li>Network-level privacy: Tor VPN hides your real IP address and location from the apps and services you use–and from anyone watching your connection.</li>\n  <li>Per-app routing: You choose which apps are routed through Tor. Each app gets its own Tor circuit and exit IP, preventing network observers from connecting all of your online activity.</li>\n  <li>App-level censorship resistance: When access is blocked, Tor VPN may help reconnect your essential apps to the internet. (Beta limitation: This early access version has limited anti-censorship capabilities and users may face connection issues)</li>\n  <li>Built on Arti: Tor VPN uses Tor's next-generation Rust implementation. That means safer memory handling, modern code architecture, and a stronger security foundation than legacy C-Tor tools.</li>\n<b>Who is Tor VPN Beta for?</b>\n<p>Tor VPN Beta is an early-access release and not suitable for high-risk users or sensitive use-cases during the beta period.</p>\n<p>Tor VPN Beta is for early adopters who want to help shape mobile privacy and can do so safely. Users should expect bugs and report issues. If you're ready to test, bring the app to its limits, and share feedback, we'd love your help tipping the scales toward a freer internet.</p>\n<b>Important limitations (PLEASE READ)</b>\n<p>Tor VPN is not a silver bullet either: Some Android platform data can still identify your device; no VPN can fully prevent this. If you face extreme surveillance risks, we recommend against using Tor VPN Beta.</p>\n<p>Not all of Tor's anti-censorship features are implemented yet. Users in heavily censored regions might not be able to use Tor VPN Beta to connect to Tor or the internet.</p>"
+        },
+        "donate": [
+          "https://donate.torproject.org/"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "/org.torproject.vpn/en-US/icon.png",
+            "sha256": "029c3c9fa29cb7f92494663b6d21e28b1e4b1fb44578924bcb0eb626da5f35ac",
+            "size": 113529
+          }
+        },
+        "preferredSigner": "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d"
+      },
+      "versions": {
+        "71b5bf35c070efdbaac29adfc07942ad5b55c9d410510684e04c66b340394279": {
+          "added": 1774891659000,
+          "file": {
+            "name": "/TorVPN.apk",
+            "sha256": "71b5bf35c070efdbaac29adfc07942ad5b55c9d410510684e04c66b340394279",
+            "size": 74198179
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.5.0Beta-arm64-v8a",
+            "versionCode": 192,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "org.torproject.vpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
     "se.leap.riseupvpn": {
       "metadata": {
-        "added": 1753707853000,
+        "added": 1774891644000,
         "categories": [
           "Internet",
           "Security",
@@ -1947,7 +1906,7 @@
         ],
         "changelog": "https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG",
         "issueTracker": "https://0xacab.org/leap/bitmask_android/issues",
-        "lastUpdated": 1753707853000,
+        "lastUpdated": 1774891644000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://0xacab.org/leap/bitmask_android",
         "translation": "https://www.transifex.com/projects/p/bitmask-android",
@@ -1995,7 +1954,7 @@
       },
       "versions": {
         "8906e929f8abc21beeac6bc21494c68fce296f6ae2168f50330f5b6fa27cab32": {
-          "added": 1753707853000,
+          "added": 1774891644000,
           "file": {
             "name": "/RiseupVPN.apk",
             "sha256": "8906e929f8abc21beeac6bc21494c68fce296f6ae2168f50330f5b6fa27cab32",

@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1774049255000,
+    "timestamp": 1774903724000,
     "version": 20002,
-    "name": "CalyxOS Local Repository",
+    "name": "CalyxOS Local",
     "icon": "fdroid-icon.png",
     "address": "file:///product/fdroid/repo",
-    "description": "This is a repository of apps to be used with CalyxOS. It is installed\nto the system partition, and meant to be used to initially install\napps when offline. It contains a limited number of applications deemed\nsuitable for inclusion with CalyxOS.\n"
+    "description": "This is a repository of apps to be used with CalyxOS. It is installed to the system partition, and meant to be used to initially install apps when offline. It contains a limited number of applications deemed suitable for inclusion with CalyxOS.\n"
   },
   "requests": {
     "install": [],
@@ -34,9 +34,9 @@
       "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
       "translation": "https://poeditor.com/join/project/54swaCpFXJ",
       "webSite": "http://auroraoss.com",
-      "added": 1768017691000,
+      "added": 1774891635000,
       "packageName": "com.aurora.store",
-      "lastUpdated": 1768017691000,
+      "lastUpdated": 1774891635000,
       "localized": {
         "de": {
           "summary": "Ein Google Playstore-Client"
@@ -122,9 +122,9 @@
       "license": "LGPL-3.0-only",
       "sourceCode": "https://github.com/breezy-weather/breezy-weather",
       "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
-      "added": 1771041711000,
+      "added": 1774891637000,
       "packageName": "org.breezyweather",
-      "lastUpdated": 1771041711000,
+      "lastUpdated": 1774891637000,
       "localized": {
         "en-US": {
           "description": "Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.\n\nIn the app, you'll find:\n- Real-time weather conditions (temperature, feels like, wind, UV index, humidity, dew point, atmospheric pressure, visibility, cloud cover, ceiling)\n- Daily and hourly forecasts up to 16 days (temperature, air quality, wind, UV index, precipitation, sunshine, feels like)\n- Detailed hourly forecasts (humidity / dew point, pressure, cloud cover, visibility)\n- Precipitation in the next hour\n- Air quality, allergen and ephemeris information\n- Severe weather and precipitation alerts\n\nThe app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability:\n- Automatic dark mode\n- Custom icon packs\n- Large selection of home screen widgets for at-a-glance information\n- Live wallpaper\n\n<b>Sources</b>\nAvailable worldwide weather sources:\n- Open-Meteo\n- AccuWeather\u00b9\n- MET Norway\u00b9\n- OpenWeatherMap\u00b9\u00b2\n- Pirate Weather\u00b9\u00b3\n- HERE\u00b9\u00b3\n- M\u00e9t\u00e9o France\u00b9\n- Danmarks Meteorologiske Institut (DMI)\u00b9\n\nAvailable only-national weather sources:\n- Mixed China sources\u00b9\n- National Weather Service (NWS)\u00b9\n- Bright Sky (DWD)\n- Environment and Climate Change Canada\u00b9\n- Israel Meteorological Service (IMS)\u00b9\n- SMHI\u00b9\n- MET \u00c9ireann\u00b9\n\nAvailable secondary weather sources:\n- WMO Severe Weather Information Centre\u00b9\n- Recosant\u00e9\n- ATMO AuRA\u00b9\n\n\u00b9 Not included in versions with suffix _fdroid\n\u00b2 Often rate-limited\n\u00b3 Requires an API key\n\n<b>Versions</b>\nDepending on your F-Droid repositories, you may be able to download different flavors of Breezy Weather:\n- Versions with no suffix: standard version, fully open source\n- Versions with _gplay suffix: same as standard + includes proprietary Fused location for Google Play Services users\n- Versions with _fdroid suffix: same as standard without all sources that are not libre/self-hostable\n\n<b>Permissions</b>\nRequired:\n- Network (ACCESS_NETWORK_STATE, ACCESS_WIFI_STATE, INTERNET): fetch weather data from sources over the Internet\n\nOptional:\n- Background services (RECEIVE_BOOT_COMPLETED, WAKE_LOCK, SET_ALARM, FOREGROUND_SERVICE, FOREGROUND_SERVICE_DATA_SYNC, FOREGROUND_SERVICE_SPECIAL_USE): weather updates in the background and scheduled forecast notifications\n- Ignore battery optimizations (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS): help preventing the app from being killed on some devices\n- Send notifications (POST_NOTIFICATIONS): alerts, precipitation, today/tomorrow forecast, notification-widget, update progress of background updates, etc\n- Location (ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): to show weather in your current location\n- Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): helps setting the live weather wallpaper and/or widgets on some devices\n- Tile (EXPAND_STATUS_BAR): allow to launch the app from Quick Settings\n\n<b>License</b>\n- GNU Lesser General Public License v3.0\n- This License does not grant any rights in the trademarks, service marks, or logos of any Contributor.\n- Misrepresentation of the origin of that material is prohibited, and modified versions of such material must be marked in reasonable ways as different from the original version.\n",
@@ -146,6 +146,36 @@
     },
     {
       "allowedAPKSigningKeys": [
+        "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
+      ],
+      "categories": [
+        "Navigation",
+        "Default"
+      ],
+      "changelog": "https://codeberg.org/comaps/comaps/releases",
+      "suggestedVersionCode": "26032305",
+      "donate": "https://www.comaps.app/donate/",
+      "issueTracker": "https://codeberg.org/comaps/comaps/issues",
+      "liberapay": "CoMaps",
+      "license": "Apache-2.0",
+      "openCollective": "comaps",
+      "sourceCode": "https://codeberg.org/comaps/comaps",
+      "translation": "https://translate.codeberg.org/projects/comaps/",
+      "webSite": "https://www.comaps.app/",
+      "added": 1774891639000,
+      "packageName": "app.comaps.fdroid",
+      "lastUpdated": 1774891639000,
+      "localized": {
+        "en-US": {
+          "description": "A community-led free & open source maps app based on OpenStreetMap data and reinforced with commitment to transparency, privacy and being not-for-profit. CoMaps is a fork/spin-off of Organic Maps, which in turn is a fork of Maps.ME.\n\nRead on about reasons for the project and its direction at <b><i>codeberg.org/comaps</i></b>.\nJoin the community there and help make the best maps app\n\u2022 Use the app and spread the word about it\n\u2022 Give feedback and report issues\n\u2022 Update map data in the app or on the OpenStreetMap website\n\n\u2023 <b>Offline-focused</b>: Plan and navigate your trip abroad without the need for cellular service, search waypoints while on a distant hike, etc. All app functions are designed to work offline.\n\u2023 <b>Respecting Privacy</b>: The app is designed with privacy in mind - does not identify people, does not track, and does not collect personal information. Ads-free.\n\u2023 <b>Simple and Polished</b>: essential easy to use features that just work.\n\u2023 <b>Saves Your Battery and Space</b>: Doesn\u2019t drain your battery like other navigation apps. Compact maps save precious space on your phone.\n\u2023 <b>Free and Built by the Community</b>: People like you helped build the app by adding places to OpenStreetMap, testing and giving feedback on features and contributing their development skills and money.\n\u2023 <b>Open and Transparent Decision-making and Financials, Not-for-profit and Fully Open Source.</b>\n\n<b>Main Features</b>:\n\u2022 Downloadable detailed maps with places which are not available with Google Maps\n\u2022 Outdoor mode with highlighted hiking trails, campsites, water sources, peaks, contour lines, etc\n\u2022 Walking paths and cycleways\n\u2022 Points of interest like restaurants, gas stations, hotels, shops, sightseeings and many more\n\u2022 Search by name or an address or by point of interest category\n\u2022 Navigation with voice announcements for walking, cycling, or driving\n\u2022 Bookmark your favorite places with a single tap\n\u2022 Offline Wikipedia articles\n\u2022 Subway transit layer and directions\n\u2022 Track recording\n\u2022 Export and import bookmarks and tracks in KML, KMZ, GPX formats\n\u2022 A dark mode to use during the night\n\u2022 Improve map data for everyone using a basic built-in editor\n\n<b>Freedom Is Here</b>\nDiscover your journey, navigate the world with privacy and community at the forefront!\n",
+          "icon": "icon.png",
+          "name": "CoMaps",
+          "summary": "Easy map navigation - Discover more of your journey - Powered by the community"
+        }
+      }
+    },
+    {
+      "allowedAPKSigningKeys": [
         "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       ],
       "authorName": "bitfire web engineering",
@@ -162,9 +192,9 @@
       "sourceCode": "https://www.davx5.com/source",
       "translation": "https://www.transifex.com/bitfireAT/davx5/",
       "webSite": "https://www.davx5.com/",
-      "added": 1773633762000,
+      "added": 1774891640000,
       "packageName": "at.bitfire.davdroid",
-      "lastUpdated": 1773633762000,
+      "lastUpdated": 1774891640000,
       "localized": {
         "ar": {
           "description": "DAVx\u2075 \u0647\u0648 \u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0648\u0645\u0632\u0627\u0645\u0646\u0629 \u0644\u0622\u0646\u062f\u0631\u0648\u064a\u062f \u064a\u062a\u0643\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0635\u064a\u0644\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0641\u064a \u0646\u0638\u0627\u0645 \u0622\u0646\u062f\u0631\u0648\u064a\u062f.\n\n\u0627\u0633\u062a\u062e\u062f\u0645\u0647 \u0645\u0639 \u062e\u0627\u062f\u0645\u0643 \u0627\u0644\u062e\u0627\u0635 \u0623\u0648 \u0645\u0639 \u062c\u0647\u0629 \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u062a\u062b\u0642 \u0628\u0647\u0627 \u0644\u0625\u0628\u0642\u0627\u0621 \u062c\u0647\u0627\u062a \u0627\u062a\u0635\u0627\u0644\u0643 \u0648 \u0623\u062d\u062f\u0627\u062b\u0643 \u0648 \u0645\u0647\u0627\u0645\u0643 \u062a\u062d\u062a \u0633\u064a\u0637\u0631\u062a\u0643.\n\n\u0644\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u062e\u0627\u062f\u0645\u0627\u062a/\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0645\u062a \u062a\u062c\u0631\u0628\u062a\u0647\u0627 \u060c \u0648\u0644\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u060c \u0623\u0644\u0642 \u0646\u0638\u0631\u0629 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u064a\u0628.",
@@ -247,7 +277,7 @@
         "AlwaysInstall"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "1023050",
+      "suggestedVersionCode": "2000005",
       "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
@@ -258,9 +288,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1753707844000,
+      "added": 1774891641000,
       "packageName": "org.fdroid.basic",
-      "lastUpdated": 1753707844000,
+      "lastUpdated": 1774891641000,
       "localized": {
         "ar": {
           "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
@@ -320,16 +350,16 @@
       "categories": [
         "System"
       ],
-      "suggestedVersionCode": "1000000004",
+      "suggestedVersionCode": "1000000100",
       "description": "If you have Google Photos installed, you can safely ignore this application.\n\nGCam Photos Preview lets you preview photos taken in Google Camera without\nneeding to install the proprietary Google Photos application.\n\nIt pretends to be Google Photos to do that.",
       "license": "Apache-2.0",
       "name": "GCam Photos Preview",
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1774049254000,
+      "added": 1774903721000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1774049254000
+      "lastUpdated": 1774903721000
     },
     {
       "allowedAPKSigningKeys": [
@@ -344,9 +374,9 @@
       "issueTracker": "https://github.com/onionshare/onionshare-android/issues",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/onionshare/onionshare-android",
-      "added": 1773633764000,
+      "added": 1774891642000,
       "packageName": "org.onionshare.android.fdroid",
-      "lastUpdated": 1773633764000,
+      "lastUpdated": 1774891642000,
       "localized": {
         "en-US": {
           "description": "Ever wanted to share something without also sharing it with Google or Dropbox? Tax documents, medical information, or unpublished research? Share files directly and securely without the middlemen.",
@@ -384,9 +414,9 @@
       "sourceCode": "https://github.com/ooni/probe-android",
       "translation": "https://www.transifex.com/otf/ooniprobe/",
       "webSite": "https://ooni.torproject.org/",
-      "added": 1773633763000,
+      "added": 1774891641000,
       "packageName": "org.openobservatory.ooniprobe",
-      "lastUpdated": 1773633763000,
+      "lastUpdated": 1774891641000,
       "localized": {
         "de": {
           "summary": "Offenes Observatorium von Netzerk-Interferenzen (OONI)"
@@ -445,166 +475,6 @@
     },
     {
       "allowedAPKSigningKeys": [
-        "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b"
-      ],
-      "bitcoin": "1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk",
-      "categories": [
-        "Security",
-        "Internet",
-        "Default"
-      ],
-      "suggestedVersionCode": "1780300102",
-      "description": "Tor is both software and an open network that helps you defend against network\nsurveillance that threatens personal freedom and privacy, confidential business\nactivities and relationships.\n\nOrbot allows access to Tor by accessing a local SOCKS or HTTP proxy.\nOn a rooted device, the proxying can be completely transparent\ni.e. the app that accesses the network need not be aware of the\nproxy's existence; you can choose which apps go via the proxy in the\nsettings.\n\nIf you don't have root access, there are some apps that are designed to work\nclosely with tor or allow proxied connections:\nhttps://f-droid.org/packages/info.guardianproject.otr.app.im, https://f-droid.org/packages/acr.browser.lightning and\nhttps://f-droid.org/packages/org.mariotaku.twidere. There is also a proxy configurator addon for Firefox\ncalled <a href=\"https://github.com/guardianproject/ProxyMob/downloads\">ProxyMob</a> (not yet\navailable from the Mozilla addon site).\n",
-      "donate": "https://www.torproject.org/donate/donate.html.en",
-      "issueTracker": "https://dev.guardianproject.info/projects/orbot/issues",
-      "liberapay": "GuardianProject",
-      "license": "BSD-3-Clause",
-      "sourceCode": "https://gitweb.torproject.org/orbot.git",
-      "translation": "https://hosted.weblate.org/projects/guardianproject/orbot",
-      "webSite": "https://www.torproject.org/docs/android.html",
-      "added": 1768622498000,
-      "packageName": "org.torproject.android",
-      "lastUpdated": 1768622498000,
-      "localized": {
-        "af": {
-          "summary": "Verbeter jou privaatheid, breek deur middel van firewalls en meer veilig te komm"
-        },
-        "am": {
-          "summary": ", \u130d\u120b\u12ca\u1290\u1275\u12ce\u1295 \u12a0\u123b\u123d\u120d \u12ac\u120b\u12ce\u127d \u1260\u12a9\u120d \u1208\u1218\u120b\u1240\u1245 \u12a5\u1293 \u12f0\u1205\u1295\u1290\u1275\u12ce \u12ed\u1260\u120d\u1325 \u1260\u1270\u1320\u1260\u1240 \u1201\u1294\u1273 \u1218\u1308\u1293\u1298\u1275."
-        },
-        "ar": {
-          "summary": "\u0627\u0648\u0631\u0628\u0648\u062a\u0628\u0631\u0648\u0643\u0633\u064a \u0645\u0639 \u062a\u0648\u0631"
-        },
-        "bg": {
-          "summary": "\u041f\u043e\u0434\u043e\u0431\u0440\u0435\u0442\u0435 \u043f\u043e\u0432\u0435\u0440\u0438\u0442\u0435\u043b\u043d\u043e\u0441\u0442\u0442\u0430 \u0441\u0438, \u043c\u0438\u043d\u0435\u0442\u0435 \u043f\u0440\u0435\u0437 \u0437\u0430\u0449\u0438\u0442\u043d\u0438 \u0441\u0442\u0435\u043d\u0438, \u043e\u0431\u0449\u0443\u0432\u0430\u0439\u0442\u0435 \u043f\u043e-\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e."
-        },
-        "ca": {
-          "summary": "Millori la seva privacitat, trencar a trav\u00e9s de tallafocs i comunicar-se de form"
-        },
-        "cs": {
-          "summary": "Vylep\u0161ete va\u0161e soukrom\u00ed, prorazit br\u00e1ny firewall a komunikovat bezpe\u010dn\u011b."
-        },
-        "de": {
-          "summary": "Vermittlung ins Tor-Netzwerk"
-        },
-        "el": {
-          "summary": "\u0392\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b6\u03c9\u03ae\u03c2 \u03c3\u03b1\u03c2, \u03bd\u03b1 \u03c3\u03c0\u03ac\u03c3\u03b5\u03b9 \u03bc\u03ad\u03c3\u03c9 firewalls \u03ba\u03b1\u03b9 \u03bd\u03b1 "
-        },
-        "en-US": {
-          "icon": "icon.png",
-          "name": "Orbot",
-          "summary": "Enhance your privacy, break through firewalls and communicate more safely."
-        },
-        "eo": {
-          "summary": "Pliigi vian privatecon, konekti tra fajro\u015dirmiloj kaj pli sekure."
-        },
-        "et": {
-          "summary": "Ehita oma privaatsust, murda l\u00e4bi tulem\u00fc\u00fcride ja suhelda turvaliselt."
-        },
-        "fi": {
-          "summary": "Paranna yksityisyytt\u00e4, murtaa palomuurien ja kommunikoida turvallisemmin."
-        },
-        "hi": {
-          "summary": "\u0906\u092a\u0915\u0940 \u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0915\u094b \u092c\u0922\u093c\u093e\u0928\u0947, \u092b\u093e\u092f\u0930\u0935\u0949\u0932 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0924\u094b\u0921\u093c\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0914\u0930 \u0905\u0927\u093f\u0915 \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0930\u0942\u092a"
-        },
-        "hr": {
-          "summary": "Pobolj\u0161ajte svoju privatnost, probiti firewall i komunicirati vi\u0161e sigurno."
-        },
-        "hu": {
-          "summary": "Fokozza az adatv\u00e9delm\u00e9t, t\u00f6rj\u00f6n \u00e1t t\u0171zfalakon \u00e9s kommunik\u00e1ljon biztons\u00e1gosabban."
-        },
-        "id": {
-          "summary": "Meningkatkan privasi Anda, menerobos firewall dan berkomunikasi lebih aman."
-        },
-        "it": {
-          "summary": "Migliora la tua privacy, aggira i firewall e comunica in modo pi\u00f9 sicuro."
-        },
-        "ja": {
-          "summary": "\u3042\u306a\u305f\u306e\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3092\u5f37\u5316\u3001\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3092\u7a81\u7834\u3059\u308b\u3068\u3001\u3088\u308a\u5b89\u5168\u306b\u901a\u4fe1\u3057\u307e\u3059\u3002"
-        },
-        "ko": {
-          "summary": "\uac1c\uc778 \uc815\ubcf4 \ubcf4\ud638\ub97c \uac15\ud654\ud558\uace0, \ubc29\ud654\ubcbd\uc744 \ud1b5\ud574 \ud734\uc2dd\uacfc\ubcf4\ub2e4 \uc548\uc804\ud558\uac8c \ud1b5\uc2e0 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-        },
-        "lt": {
-          "summary": "Patobulinkite savo privatum\u0105, pralau\u017eti u\u017ekardas ir daugiau bendrauti saugiai."
-        },
-        "lv": {
-          "summary": "Uzlabojiet savu priv\u0101tumu, izlauzties cauri ugunsm\u016briem un sazin\u0101ties dro\u0161\u0101k."
-        },
-        "nl": {
-          "summary": "Verbeter uw privacy, breken door firewalls en communiceren meer veilig."
-        },
-        "no": {
-          "summary": "Forbedre ditt privatliv, bryte gjennom brannmurer og kommunisere sikkert."
-        },
-        "pl": {
-          "summary": "Popraw prywatno\u015b\u0107, przebij si\u0119 przez zapory ogniowe i komunikuj si\u0119 bezpiecznie."
-        },
-        "pt": {
-          "summary": "Melhore a sua privacidade, abra firewalls e comunique com mais seguran\u00e7a."
-        },
-        "pt-PT": {
-          "summary": "Melhore a sua privacidade, abra firewalls e comunique com mais seguran\u00e7a."
-        },
-        "ro": {
-          "summary": "Spori intimitatea, rupe prin intermediul firewall-uri \u0219i de a comunica mai mult "
-        },
-        "ru": {
-          "summary": "Orbot\u041f\u0440\u043e\u043a\u0441\u0438 \u0432 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0435 \u0441 TorOrbot\u041f\u0440\u043e\u043a\u0441\u0438 \u0432 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0435 \u0441 Tor"
-        },
-        "sk": {
-          "summary": "Vylep\u0161ite va\u0161e s\u00fakromie, prerazi\u0165 br\u00e1ny firewall a komunikova\u0165 bezpe\u010dne."
-        },
-        "sl": {
-          "summary": "Izbolj\u0161ajte svojo zasebnost, prekinil skozi po\u017earne zidove in komunicirati bolj "
-        },
-        "sv": {
-          "summary": "F\u00f6rb\u00e4ttra din integritet, bryta igenom brandv\u00e4ggar och kommunicera p\u00e5 ett s\u00e4kert"
-        },
-        "sw": {
-          "summary": "Kuongeza siri yako, kuvunja kupitia firewalls na kuwasiliana kwa usalama zaidi."
-        },
-        "th": {
-          "summary": "\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e31\u0e27\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e15\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1f\u0e23\u0e4c\u0e27\u0e2d\u0e25\u0e25\u0e4c\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e2a\u0e37\u0e48\u0e2d\u0e2a\u0e32\u0e23\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e21\u0e32\u0e01\u0e02\u0e36\u0e49\u0e19"
-        },
-        "tr": {
-          "summary": "Gizlili\u011finizi art\u0131r\u0131n, g\u00fcvenlik duvarlar\u0131ndan ge\u00e7in ve g\u00fcvenli ileti\u015fim kurun."
-        },
-        "uk": {
-          "summary": "\u041f\u043e\u043a\u0440\u0430\u0449\u0442\u0435 \u0441\u0432\u043e\u044e \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u0456\u0441\u0442\u044c, \u043f\u0440\u043e\u0440\u0432\u0456\u0442\u044c \u0431\u0440\u0430\u043d\u0434\u043c\u0430\u0443\u0435\u0440\u0438 \u0442\u0430 \u0441\u043f\u0456\u043b\u043a\u0443\u0439\u0442\u0435\u0441\u044f \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0456\u0448\u0435."
-        },
-        "zh-CN": {
-          "summary": "\u589e\u5f3a\u60a8\u7684\u9690\u79c1\uff0c\u7a81\u7834\u9632\u706b\u5899\u5e76\u66f4\u5b89\u5168\u5730\u8fdb\u884c\u901a\u4fe1\u3002"
-        }
-      }
-    },
-    {
-      "allowedAPKSigningKeys": [
-        "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9"
-      ],
-      "categories": [
-        "Navigation",
-        "Default"
-      ],
-      "suggestedVersionCode": "26031202",
-      "description": "Organic Maps offers fast offline maps app for travelers, tourists, hikers and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders.\n\n* Detailed offline maps with places that don't exist on other maps\n* Cycling routes, hiking trails and walking paths\n* Contour lines, elevation profiles, peaks and slopes\n* Turn-by-turn walking, cycling and car navigation with voice guidance\n* Fast offline search on the map and bookmarks\n* Dark mode to protect your eyes\n* No ads, no trackers, no data collection, no crapware, no pesticides",
-      "issueTracker": "https://github.com/organicmaps/organicmaps/issues",
-      "license": "Apache-2.0",
-      "sourceCode": "https://github.com/organicmaps/organicmaps/tree/HEAD",
-      "webSite": "https://organicmaps.app/",
-      "added": 1773633767000,
-      "packageName": "app.organicmaps",
-      "lastUpdated": 1773633767000,
-      "localized": {
-        "en-US": {
-          "icon": "icon.png",
-          "name": "Organic Maps",
-          "summary": "Offline maps with turn-by-turn navigation"
-        }
-      }
-    },
-    {
-      "allowedAPKSigningKeys": [
         "cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2"
       ],
       "authorName": "LEAP",
@@ -624,9 +494,9 @@
       "sourceCode": "https://0xacab.org/leap/bitmask_android",
       "translation": "https://www.transifex.com/projects/p/bitmask-android",
       "webSite": "https://riseup.net/",
-      "added": 1753707853000,
+      "added": 1774891644000,
       "packageName": "se.leap.riseupvpn",
-      "lastUpdated": 1753707853000,
+      "lastUpdated": 1774891644000,
       "localized": {
         "de": {
           "summary": "Sicheres VPN mit Bitmask"
@@ -703,9 +573,9 @@
       "license": "GPL-3.0-only",
       "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
       "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
-      "added": 1753707854000,
+      "added": 1774891645000,
       "packageName": "com.jarsilio.android.scrambledeggsif",
-      "lastUpdated": 1753707854000,
+      "lastUpdated": 1774891645000,
       "localized": {
         "cs-CZ": {
           "description": "Scrambled Exit (vyslovov\u00e1no <i>egg</i>sif) v\u00e1m pom\u00e1h\u00e1 odstranit metadata z obr\u00e1zk\u016f ne\u017e je sd\u00edl\u00edte.\n\nPokud se na to c\u00edt\u00edte.\n\nPokud nechcete velk\u00e9 internetov\u00e9 spole\u010dnosti (nebo kohokoliv) aby v\u011bd\u011bl kde jste va\u0161e obr\u00e1zky vyfotili tak nezapome\u0148te z nich odstranit metadata ne\u017e je sd\u00edl\u00edte.\n\nPro odstran\u011bn\u00ed metadat z obr\u00e1zku jej jednodu\u0161e sd\u00edlejte jako obvykle a vyberte <i>Scambled Exif</i>. O moment pozd\u011bji se objev\u00ed dialog pro sd\u00edlen\u00ed. Nyn\u00ed u\u017e jen sd\u00edlejte s jakoukoliv aplikac\u00ed jste cht\u011bli.\n\nA voil\u00e0!\n\n<b>Po\u017eadovan\u00e1 Android Opr\u00e1vn\u011bn\u00ed:</b>\n\n\u2605 READ_EXTERNAL_STORAGE pro \u010dten\u00ed obr\u00e1zk\u016f kter\u00e9 chcete sd\u00edlet.\n\n<b>Zdrojov\u00fd k\u00f3d</b>\n\n\u2605 Tato aplikace je open source. M\u016f\u017eete se pod\u00edvat na zdrojov\u00fd k\u00f3d (a m\u016f\u017eete i p\u0159isp\u011bt jestli chcete) zde:\n\nhttps://gitlab.com/juanitobananas/scrambled-exif\n\n<b>P\u0159eklad</b>\n\nPokud tuto aplikaci chete p\u0159elo\u017eit do sv\u00e9ho jazyka, m\u016f\u017eete to ud\u011blat pou\u017eit\u00edm transifex:\n\nhttps://www.transifex.com/juanitobananas/scrambled-exif/\n\n<b>Ostatn\u00ed v\u011bci a Fakty</b>\n\n\u2605 Exif je pou\u017e\u00edv\u00e1n form\u00e1tem JPEG, co\u017e je form\u00e1t ve kter\u00e9m Android kamera ukl\u00e1d\u00e1 vyfocen\u00e9 obr\u00e1zky. Pokud se o Exif chcete dozv\u011bd\u011bt v\u00edc, koukn\u011bte se na Wikipedii.\n\n\u2605 Scrambled Exif tak\u00e9 p\u0159ejmenov\u00e1v\u00e1 sd\u00edlen\u00e9 soubory.\n\n\u2605 Pros\u00edm nebu\u010fte a\u017e moc p\u0159esv\u011bd\u010den\u00ed o tom, \u017ee se data vyma\u017eou. Scrambled Exif d\u011bl\u00e1 svou pr\u00e1ci skv\u011ble, ale m\u016f\u017ee se st\u00e1t n\u011bkdy chyba. V\u017edycky to zkontrolujte ne\u017e budete obr\u00e1zek sd\u00edlet.\n\n\u2605 Vlastn\u011b to Exif data <i>nezam\u00edch\u00e1</i>, ale sma\u017ee. Tak\u017ee to jm\u00e9no je docela hloup\u00e9. Ale m\u011b se l\u00edb\u00ed. Ikona tak\u00e9 nezobrazuje m\u00edchan\u00e1 vejce tak\u017ee je asi taky hloup\u00e1. Ale m\u011b se l\u00edb\u00ed. A tak\u00e9 jsem velk\u00fd fanou\u0161ek vajec. Tak\u017ee tahle aplikace m\u00e1 nejen hloup\u00e9 jm\u00e9no a stejn\u011b hloupou ikonu, ale i mou (ne-hloupou) \u00factu k vejc\u00edm. Hlavn\u011b <i>huevos fritos</i>. Proto\u017ee to miluju.\n\n\u2605 U\u017eijte si sd\u00edlen\u00ed fotek!",
@@ -775,16 +645,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "166801",
+      "suggestedVersionCode": "167002",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1773979309000,
+      "added": 1774891651000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1773979309000,
+      "lastUpdated": 1774891651000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -811,9 +681,9 @@
       "sourceCode": "https://github.com/thunderbird/thunderbird-android",
       "translation": "https://hosted.weblate.org/projects/tb-android/",
       "webSite": "https://thunderbird.net",
-      "added": 1773979311000,
+      "added": 1774891653000,
       "packageName": "net.thunderbird.android",
-      "lastUpdated": 1773979311000,
+      "lastUpdated": 1774891653000,
       "localized": {
         "ca": {
           "description": "El Thunderbird \u00e9s una potent aplicaci\u00f3 de correu electr\u00f2nic centrada en la privadesa. Gestioneu sense esfor\u00e7 diversos comptes de correu electr\u00f2nic des d'una aplicaci\u00f3, amb una opci\u00f3 de \u00abSafata d'entrada unificada\u00bb per obtenir la m\u00e0xima productivitat. Basat en tecnologia de codi obert i recolzat per un equip dedicat de desenvolupadors juntament amb una comunitat global de voluntaris, el Thunderbird mai tracta les vostres dades privades com un producte. Est\u00e0 totalment finan\u00e7at per les contribucions econ\u00f2miques dels nostres usuaris, de manera que no haureu de tornar a veure anuncis barrejats amb els vostres correus electr\u00f2nics.\n\n<b>Qu\u00e8 podeu fer</b>\n<ul>\n  <li>Deixeu enrere m\u00faltiples aplicacions i correu web. Utilitzeu una \u00fanica aplicaci\u00f3, amb una safata d'entrada unificada opcional, per continuar el vostre dia.</li>\n  <li>Gaudiu d'un client de correu electr\u00f2nic respectu\u00f3s amb la privadesa que mai recopila ni ven les vostres dades personals. Us connectem directament amb el vostre prove\u00efdor de correu electr\u00f2nic. Aix\u00f2 \u00e9s tot!</li>\n  <li>Porteu la vostra privadesa al seg\u00fcent nivell utilitzant l'encriptaci\u00f3 de correu electr\u00f2nic OpenPGP (PGP/MIME) amb l'aplicaci\u00f3 \u00abOpenKeychain\u00bb per xifrar i desxifrar els vostres missatges.</li>\n  <li>Trieu sincronitzar el vostre correu electr\u00f2nic a l'instant, a intervals determinats o a demanda. Sigui com sigui que vulgueu consultar el vostre correu electr\u00f2nic, dep\u00e8n de v\u00f3s!</li>\n  <li>Cerqueu els vostres missatges importants mitjan\u00e7ant tant la cerca local i com la cerca al servidor.</li>\n</ul>\n\n<b>Compatibilitat</b>\n<ul>\n  <li>El Thunderbird funciona amb els protocols IMAP i POP3, admetent una \u00e0mplia gamma de prove\u00efdors de correu electr\u00f2nic, com ara Gmail, Outlook, Yahoo Mail, iCloud i m\u00e9s.</li>\n</ul>\n\n<b>Per qu\u00e8 utilitzar el Thunderbird</b>\n<ul>\n  <li>El nom de confian\u00e7a en correu electr\u00f2nic des de fa m\u00e9s de 20 anys, ara a l'Android.</li>\n  <li>El Thunderbird est\u00e0 totalment finan\u00e7at amb contribucions volunt\u00e0ries dels nostres usuaris. No utilitzem les vostres dades personals. Mai sou el producte.</li>\n  <li>Elaborat per un equip tan efica\u00e7 com v\u00f3s. Volem que dediqueu un temps m\u00ednim a utilitzar l'aplicaci\u00f3 i que en obtingueu el m\u00e0xim a canvi.</li>\n  <li>Amb col\u00b7laboradors d'arreu del m\u00f3n, el Thunderbird per a l'Android s'ha tradu\u00eft a m\u00e9s de 20 idiomes.</li>\n  <li>Recolzat per la corporaci\u00f3 MZLA Technologies, una filial de propietat total de la Fundaci\u00f3 Mozilla.</li>\n</ul>\n\n<b>Codi obert i comunitat</b>\n<ul>\n  <li>El Thunderbird \u00e9s lliure i de codi obert, la qual cosa significa que el seu codi est\u00e0 disponible per veure, modificar, utilitzar i compartir lliurement. La seva llic\u00e8ncia tamb\u00e9 garanteix que ser\u00e0 gratu\u00eft per sempre. Podeu pensar en el Thunderbird com un regal de milers de col\u00b7laboradors.</li>\n  <li>Desenvolupem en obert amb actualitzacions regulars i transparents al nostre bloc i llistes de correu.</li>\n  <li>El nostre servei d'assist\u00e8ncia als usuaris est\u00e0 impulsat per la nostra comunitat global. Trobeu les respostes que necessiteu o feu el paper de col\u00b7laborador, ja sigui per respondre preguntes, traduir l'aplicaci\u00f3 o parlar del Thunderbird als vostres amics i familiars.</li>\n</ul>\n",
@@ -991,7 +861,7 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "2016145546",
+      "suggestedVersionCode": "2016150914",
       "description": "Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you. Any cookies automatically clear when you\u2019re done browsing.\n\nDEFEND AGAINST SURVEILLANCE\nTor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you\u2019re using Tor.\n\nRESIST FINGERPRINTING\nTor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.\n\nMULTI-LAYERED ENCRYPTION\nWhen you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works:\n\nBROWSE FREELY\nWith Tor Browser for Android, you are free to access sites your local internet service provider may have blocked.\n\nTHIS APP IS MADE POSSIBLE BY DONORS LIKE YOU\nTor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation. Give before the end of 2019, and Mozilla will match your gift: https://donate.torproject.org/donate/donate-tbi-gp\n\nLearn more about Tor Browser for Android:\n- Need help? Visit https://support.torproject.org. The manual is coming soon.\n- Learn more about what\u2019s happening at Tor: https://blog.torproject.org\n- Follow the Tor Project on Twitter: https://twitter.com/torproject\n\nABOUT THE TOR PROJECT\nThe Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project\u2019s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.\n",
       "donate": "https://donate.torproject.org/",
       "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
@@ -1000,34 +870,63 @@
       "name": "Tor Browser for Android",
       "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "added": 1771992105000,
+      "added": 1774891658000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1771992105000,
+      "lastUpdated": 1774891658000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
         }
       }
+    },
+    {
+      "allowedAPKSigningKeys": [
+        "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d"
+      ],
+      "bitcoin": "bc1qtt04zfgjxg7lpqhk9vk8hnmnwf88ucwww5arsd",
+      "categories": [
+        "VPN & Proxy",
+        "Default"
+      ],
+      "changelog": "https://gitlab.torproject.org/tpo/applications/vpn/-/blob/HEAD/CHANGELOG.md",
+      "suggestedVersionCode": "192",
+      "donate": "https://donate.torproject.org/",
+      "issueTracker": "https://gitlab.torproject.org/tpo/applications/vpn/-/issues/",
+      "license": "BSD-3-Clause-Clear",
+      "sourceCode": "https://gitlab.torproject.org/tpo/applications/vpn/",
+      "translation": "https://hosted.weblate.org/projects/tor/tor-vpn/",
+      "webSite": "https://www.torproject.org/",
+      "added": 1774891659000,
+      "packageName": "org.torproject.vpn",
+      "lastUpdated": 1774891659000,
+      "localized": {
+        "en-US": {
+          "description": "<b>Beta release: The VPN that fights back</b>\n<p>Tor VPN Beta puts control back in your hands when others try to cut you off from the world. This early-access release is for users who want to help shape the future of mobile privacy and can do safely.</p>\n<b>What can Tor VPN Beta do?</b>\n<ul>\n  <li>Network-level privacy: Tor VPN hides your real IP address and location from the apps and services you use\u2013and from anyone watching your connection.</li>\n  <li>Per-app routing: You choose which apps are routed through Tor. Each app gets its own Tor circuit and exit IP, preventing network observers from connecting all of your online activity.</li>\n  <li>App-level censorship resistance: When access is blocked, Tor VPN may help reconnect your essential apps to the internet. (Beta limitation: This early access version has limited anti-censorship capabilities and users may face connection issues)</li>\n  <li>Built on Arti: Tor VPN uses Tor's next-generation Rust implementation. That means safer memory handling, modern code architecture, and a stronger security foundation than legacy C-Tor tools.</li>\n<b>Who is Tor VPN Beta for?</b>\n<p>Tor VPN Beta is an early-access release and not suitable for high-risk users or sensitive use-cases during the beta period.</p>\n<p>Tor VPN Beta is for early adopters who want to help shape mobile privacy and can do so safely. Users should expect bugs and report issues. If you're ready to test, bring the app to its limits, and share feedback, we'd love your help tipping the scales toward a freer internet.</p>\n<b>Important limitations (PLEASE READ)</b>\n<p>Tor VPN is not a silver bullet either: Some Android platform data can still identify your device; no VPN can fully prevent this. If you face extreme surveillance risks, we recommend against using Tor VPN Beta.</p>\n<p>Not all of Tor's anti-censorship features are implemented yet. Users in heavily censored regions might not be able to use Tor VPN Beta to connect to Tor or the internet.</p>",
+          "featureGraphic": "featureGraphic.png",
+          "icon": "icon.png",
+          "name": "Tor VPN",
+          "summary": "Tor-powered with per-app routing, access unblocking & network-level privacy."
+        }
+      }
     }
   ],
   "packages": {
-    "app.organicmaps": [
+    "app.comaps.fdroid": [
       {
-        "added": 1773633767000,
-        "apkName": "OrganicMaps.apk",
-        "hash": "0a53061f1bbbb6305cda0f028882914143c10e5369a5ad6fa6b768abe16a94f7",
+        "added": 1774891639000,
+        "apkName": "CoMaps.apk",
+        "hash": "aed3521ce770d1482b9c30c973a058c754083f7348a34edbb7aa816e47f74306",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
           "arm64-v8a",
           "armeabi-v7a",
-          "x86",
           "x86_64"
         ],
-        "packageName": "app.organicmaps",
-        "sig": "472167dd9f46ae80fec5f3a3e8f47a81",
-        "signer": "e216fc386c327ec88d056026f1dea27be2bc3f9d7ee956e4361c4b64ec459fe9",
-        "size": 70200943,
+        "packageName": "app.comaps.fdroid",
+        "sig": "a8aef575b8a950336066518d6443aa00",
+        "signer": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b",
+        "size": 65003435,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -1067,10 +966,6 @@
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-            null
-          ],
-          [
             "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
             null
           ],
@@ -1079,11 +974,11 @@
             null
           ],
           [
-            "androidx.car.app.ACCESS_SURFACE",
+            "androidx.car.app.NAVIGATION_TEMPLATES",
             null
           ],
           [
-            "androidx.car.app.NAVIGATION_TEMPLATES",
+            "androidx.car.app.ACCESS_SURFACE",
             null
           ],
           [
@@ -1091,17 +986,17 @@
             null
           ],
           [
-            "app.organicmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "app.comaps.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
             null
           ]
         ],
-        "versionCode": 26031202,
-        "versionName": "2026.03.12-2-FDroid"
+        "versionCode": 26032305,
+        "versionName": "2026.03.23-5-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
       {
-        "added": 1773633762000,
+        "added": 1774891640000,
         "apkName": "DAVx5.apk",
         "hash": "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5",
         "hashType": "sha256",
@@ -1227,7 +1122,7 @@
     ],
     "com.aurora.store": [
       {
-        "added": 1768017691000,
+        "added": 1774891635000,
         "apkName": "AuroraStore.apk",
         "hash": "757a82b3d569597a13ffca191e4043233cfaa4bd4e9005ae297a2fcdf3d96d9e",
         "hashType": "sha256",
@@ -1327,29 +1222,29 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1774049254000,
+        "added": 1774903721000,
         "apkName": "GCamPhotosPreview.apk",
-        "hash": "9b26689836a0bb651fa7225a5e0176e9e504a777f6ce510984442a34c35d19b8",
+        "hash": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
         "hashType": "sha256",
-        "minSdkVersion": 30,
+        "minSdkVersion": 35,
         "packageName": "com.google.android.apps.photos",
-        "sig": "40a7f0bec25fddb9ffe341c951a44b26",
-        "signer": "0124194a5448d3891af970eacd10fd2e0dfaa0acfd93b924a741e78596a30e04",
-        "size": 1486625,
-        "targetSdkVersion": 31,
+        "sig": "d2e16bac9050ab431f9059465bf30f41",
+        "signer": "e1298af7b358f97282e7d13659438e2d233c42be7f4b34435c8445d73ea959c1",
+        "size": 34099,
+        "targetSdkVersion": 35,
         "uses-permission": [
           [
-            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.QUERY_ALL_PACKAGES",
             null
           ]
         ],
-        "versionCode": 1000000004,
-        "versionName": "0.4"
+        "versionCode": 1000000100,
+        "versionName": "1.0"
       }
     ],
     "com.jarsilio.android.scrambledeggsif": [
       {
-        "added": 1753707854000,
+        "added": 1774891645000,
         "apkName": "ScrambledExif.apk",
         "hash": "b5edea35c0b3cb22675aa79fa0f920e17e2c35d31e19d8121d7e0e68c9c0e5d8",
         "hashType": "sha256",
@@ -1379,7 +1274,7 @@
     ],
     "net.thunderbird.android": [
       {
-        "added": 1773979311000,
+        "added": 1774891653000,
         "apkName": "Thunderbird.apk",
         "hash": "d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45",
         "hashType": "sha256",
@@ -1467,7 +1362,7 @@
     ],
     "org.breezyweather": [
       {
-        "added": 1771041711000,
+        "added": 1774891637000,
         "apkName": "BreezyWeather.apk",
         "hash": "7f10a18a99fb0cc037189124c89fb47c1a5b433dd4c7ffb52b999ee9a1cff5c7",
         "hashType": "sha256",
@@ -1563,11 +1458,11 @@
     ],
     "org.fdroid.basic": [
       {
-        "added": 1753707844000,
+        "added": 1774891641000,
         "apkName": "F-DroidBasic.apk",
-        "hash": "4af7d64ed4f5f43eecc0c0ea1bef0b29befdfca01ddc8878245b76e46ba8e4ee",
+        "hash": "fdbcb468502f49eaecc12169c3a7c95c4d50104b5708f018d94d6025cb273f1b",
         "hashType": "sha256",
-        "minSdkVersion": 23,
+        "minSdkVersion": 24,
         "nativecode": [
           "arm64-v8a",
           "armeabi-v7a",
@@ -1577,19 +1472,27 @@
         "packageName": "org.fdroid.basic",
         "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
         "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
-        "size": 11015916,
-        "targetSdkVersion": 35,
+        "size": 8634309,
+        "targetSdkVersion": 36,
         "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
           [
             "android.permission.ACCESS_NETWORK_STATE",
             null
           ],
           [
-            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.POST_NOTIFICATIONS",
             null
           ],
           [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
             null
           ],
           [
@@ -1601,19 +1504,11 @@
             null
           ],
           [
+            "android.permission.ENFORCE_UPDATE_OWNERSHIP",
+            null
+          ],
+          [
             "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            28
-          ],
-          [
-            "android.permission.NFC",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
             null
           ],
           [
@@ -1621,23 +1516,11 @@
             null
           ],
           [
-            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.WAKE_LOCK",
             null
           ],
           [
-            "android.permission.ENFORCE_UPDATE_OWNERSHIP",
-            null
-          ],
-          [
-            "org.fdroid.basic.permission.UPDATE_REPOS",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
             null
           ],
           [
@@ -1647,19 +1530,15 @@
           [
             "android.permission.CAMERA",
             null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            28
           ]
         ],
-        "versionCode": 1023050,
-        "versionName": "1.23.0"
+        "versionCode": 2000005,
+        "versionName": "2.0-alpha5"
       }
     ],
     "org.onionshare.android.fdroid": [
       {
-        "added": 1773633764000,
+        "added": 1774891642000,
         "apkName": "OnionShare.apk",
         "hash": "a485bf65b38b3b0fd056c541134f70f6a0754e0baa0d5c6d24158332ed2c6389",
         "hashType": "sha256",
@@ -1722,7 +1601,7 @@
     ],
     "org.openobservatory.ooniprobe": [
       {
-        "added": 1773633763000,
+        "added": 1774891641000,
         "apkName": "OONIProbe.apk",
         "hash": "12205181400872f4c197391a51a734ade14d4fd00af747db5770850573e016e0",
         "hashType": "sha256",
@@ -1779,12 +1658,12 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1773979309000,
+        "added": 1774891651000,
         "apkName": "Signal.apk",
         "features": [
           "android.hardware.camera"
         ],
-        "hash": "c312e9621ce9e826ee3aa3e9c31279fb4ae9e50875f012e13aaed3030361c28e",
+        "hash": "be1d14eab96220ade81b84399c5c723e4bc4cc4ef9be70598b96831f4e90c28c",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -1796,7 +1675,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 116323165,
+        "size": 117171339,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2032,6 +1911,10 @@
             null
           ],
           [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
             "android.permission.REORDER_TASKS",
             null
           ],
@@ -2104,96 +1987,15 @@
             null
           ]
         ],
-        "versionCode": 166801,
-        "versionName": "8.3.4"
-      }
-    ],
-    "org.torproject.android": [
-      {
-        "added": 1768622498000,
-        "apkName": "Orbot.apk",
-        "hash": "75695707f81cfae247952875e61b468da9686ad5f7b20c87afbf7093f3d550e3",
-        "hashType": "sha256",
-        "minSdkVersion": 24,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "org.torproject.android",
-        "sig": "8bd7e51b479aeba908ff46ada3305a29",
-        "signer": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b",
-        "size": 42527360,
-        "targetSdkVersion": 36,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING",
-            null
-          ],
-          [
-            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-            null
-          ],
-          [
-            "android.permission.POST_NOTIFICATIONS",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-            null
-          ],
-          [
-            "android.permission.USE_BIOMETRIC",
-            null
-          ],
-          [
-            "android.permission.USE_FINGERPRINT",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "org.torproject.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 1780300102,
-        "versionName": "17.8.0-RC-1-tor-0.4.8.21"
+        "versionCode": 167002,
+        "versionName": "8.4.2"
       }
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1771992105000,
+        "added": 1774891658000,
         "apkName": "TorBrowser.apk",
-        "hash": "f38fb2a37724e7e7e0b0bf0eec3f1c37b804b9b8a868b1593c2310256873a769",
+        "hash": "b4ba913d9de8cacc842bd21be4384ea358910bd86655b1a6625d98fdd7fac0e2",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2202,7 +2004,7 @@
         "packageName": "org.torproject.torbrowser",
         "sig": "31e36334f34e126a0e0d1efd29b84fb2",
         "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
-        "size": 110876025,
+        "size": 110912889,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2332,13 +2134,82 @@
             null
           ]
         ],
-        "versionCode": 2016145546,
-        "versionName": "15.0.7 (140.8.0esr)"
+        "versionCode": 2016150914,
+        "versionName": "15.0.8 (140.9.0esr)"
+      }
+    ],
+    "org.torproject.vpn": [
+      {
+        "added": 1774891659000,
+        "apkName": "TorVPN.apk",
+        "hash": "71b5bf35c070efdbaac29adfc07942ad5b55c9d410510684e04c66b340394279",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.torproject.vpn",
+        "sig": "f3f6206a4ca96bc217b6d136dd638596",
+        "signer": "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d",
+        "size": 74198179,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "org.torproject.vpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 192,
+        "versionName": "1.5.0Beta-arm64-v8a"
       }
     ],
     "se.leap.riseupvpn": [
       {
-        "added": 1753707853000,
+        "added": 1774891644000,
         "apkName": "RiseupVPN.apk",
         "hash": "8906e929f8abc21beeac6bc21494c68fce296f6ae2168f50330f5b6fa27cab32",
         "hashType": "sha256",
