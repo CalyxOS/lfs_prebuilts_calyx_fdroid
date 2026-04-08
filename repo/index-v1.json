@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1774903724000,
+    "timestamp": 1775678132000,
     "version": 20002,
     "name": "CalyxOS Local",
     "icon": "fdroid-icon.png",
@@ -277,7 +277,7 @@
         "AlwaysInstall"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "2000005",
+      "suggestedVersionCode": "2000006",
       "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
@@ -288,9 +288,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1774891641000,
+      "added": 1775102493000,
       "packageName": "org.fdroid.basic",
-      "lastUpdated": 1774891641000,
+      "lastUpdated": 1775102493000,
       "localized": {
         "ar": {
           "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
@@ -357,9 +357,14 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1774903721000,
+      "added": 1775678130000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1774903721000
+      "lastUpdated": 1775678130000,
+      "localized": {
+        "en-US": {
+          "icon": "icon.png"
+        }
+      }
     },
     {
       "allowedAPKSigningKeys": [
@@ -861,7 +866,7 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "2016150914",
+      "suggestedVersionCode": "2016153210",
       "description": "Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you. Any cookies automatically clear when you\u2019re done browsing.\n\nDEFEND AGAINST SURVEILLANCE\nTor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you\u2019re using Tor.\n\nRESIST FINGERPRINTING\nTor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.\n\nMULTI-LAYERED ENCRYPTION\nWhen you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works:\n\nBROWSE FREELY\nWith Tor Browser for Android, you are free to access sites your local internet service provider may have blocked.\n\nTHIS APP IS MADE POSSIBLE BY DONORS LIKE YOU\nTor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation. Give before the end of 2019, and Mozilla will match your gift: https://donate.torproject.org/donate/donate-tbi-gp\n\nLearn more about Tor Browser for Android:\n- Need help? Visit https://support.torproject.org. The manual is coming soon.\n- Learn more about what\u2019s happening at Tor: https://blog.torproject.org\n- Follow the Tor Project on Twitter: https://twitter.com/torproject\n\nABOUT THE TOR PROJECT\nThe Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project\u2019s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.\n",
       "donate": "https://donate.torproject.org/",
       "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
@@ -870,9 +875,9 @@
       "name": "Tor Browser for Android",
       "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "added": 1774891658000,
+      "added": 1775620894000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1774891658000,
+      "lastUpdated": 1775620894000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -1222,7 +1227,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1774903721000,
+        "added": 1775678130000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
         "hashType": "sha256",
@@ -1458,9 +1463,9 @@
     ],
     "org.fdroid.basic": [
       {
-        "added": 1774891641000,
+        "added": 1775102493000,
         "apkName": "F-DroidBasic.apk",
-        "hash": "fdbcb468502f49eaecc12169c3a7c95c4d50104b5708f018d94d6025cb273f1b",
+        "hash": "a3a6db20e16fb6a5d3fdebfef7d074ef248ccf55453ab69b091cc0490ae05c55",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1472,7 +1477,7 @@
         "packageName": "org.fdroid.basic",
         "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
         "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
-        "size": 8634309,
+        "size": 8699845,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -1532,8 +1537,8 @@
             null
           ]
         ],
-        "versionCode": 2000005,
-        "versionName": "2.0-alpha5"
+        "versionCode": 2000006,
+        "versionName": "2.0-alpha6"
       }
     ],
     "org.onionshare.android.fdroid": [
@@ -1993,9 +1998,9 @@
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1774891658000,
+        "added": 1775620894000,
         "apkName": "TorBrowser.apk",
-        "hash": "b4ba913d9de8cacc842bd21be4384ea358910bd86655b1a6625d98fdd7fac0e2",
+        "hash": "11badb45f0d9cad67406dfcc531699b675449e77eae7ba344e80adef7d121ecb",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2004,7 +2009,7 @@
         "packageName": "org.torproject.torbrowser",
         "sig": "31e36334f34e126a0e0d1efd29b84fb2",
         "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
-        "size": 110912889,
+        "size": 110871929,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2134,8 +2139,8 @@
             null
           ]
         ],
-        "versionCode": 2016150914,
-        "versionName": "15.0.8 (140.9.0esr)"
+        "versionCode": 2016153210,
+        "versionName": "15.0.9 (140.9.1esr)"
       }
     ],
     "org.torproject.vpn": [

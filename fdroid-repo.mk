@@ -5,8 +5,8 @@ PRODUCT_COPY_FILES += \
     prebuilts/calyx/fdroid/repo/app.comaps.fdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/app.comaps.fdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/at.bitfire.davdroid/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/at.bitfire.davdroid/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.aurora.store/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.aurora.store/en-US/icon.png \
+    prebuilts/calyx/fdroid/repo/com.google.android.apps.photos/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.google.android.apps.photos/en-US/icon.png \
     prebuilts/calyx/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/com.jarsilio.android.scrambledeggsif/en-US/icon.png \
-    prebuilts/calyx/fdroid/repo/diff/1774891661000.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/diff/1774891661000.json \
     prebuilts/calyx/fdroid/repo/entry.jar:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.jar \
     prebuilts/calyx/fdroid/repo/entry.json:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/entry.json \
     prebuilts/calyx/fdroid/repo/icons/fdroid-icon.png:$(TARGET_COPY_OUT_PRODUCT)/fdroid/repo/icons/fdroid-icon.png \

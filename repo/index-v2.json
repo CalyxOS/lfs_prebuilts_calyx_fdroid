@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1774903724000,
+    "timestamp": 1775678132000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -509,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1774903721000,
+        "added": 1775678130000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1774903721000,
+        "lastUpdated": 1775678130000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -526,11 +526,18 @@
         "description": {
           "en-US": "If you have Google Photos installed, you can safely ignore this application.\n\nGCam Photos Preview lets you preview photos taken in Google Camera without\nneeding to install the proprietary Google Photos application.\n\nIt pretends to be Google Photos to do that."
         },
+        "icon": {
+          "en-US": {
+            "name": "/com.google.android.apps.photos/en-US/icon.png",
+            "sha256": "1a2cb7e93d8ec3081fefff1174633c09e51e38032b078fe32ea5da7ad007c148",
+            "size": 10624
+          }
+        },
         "preferredSigner": "e1298af7b358f97282e7d13659438e2d233c42be7f4b34435c8445d73ea959c1"
       },
       "versions": {
         "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e": {
-          "added": 1774903721000,
+          "added": 1775678130000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
@@ -993,14 +1000,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1774891641000,
+        "added": 1775102493000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1774891641000,
+        "lastUpdated": 1775102493000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1045,12 +1052,12 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "fdbcb468502f49eaecc12169c3a7c95c4d50104b5708f018d94d6025cb273f1b": {
-          "added": 1774891641000,
+        "a3a6db20e16fb6a5d3fdebfef7d074ef248ccf55453ab69b091cc0490ae05c55": {
+          "added": 1775102493000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "fdbcb468502f49eaecc12169c3a7c95c4d50104b5708f018d94d6025cb273f1b",
-            "size": 8634309
+            "sha256": "a3a6db20e16fb6a5d3fdebfef7d074ef248ccf55453ab69b091cc0490ae05c55",
+            "size": 8699845
           },
           "manifest": {
             "nativecode": [
@@ -1059,8 +1066,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "2.0-alpha5",
-            "versionCode": 2000005,
+            "versionName": "2.0-alpha6",
+            "versionCode": 2000006,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -1625,14 +1632,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1774891658000,
+        "added": 1775620894000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1774891658000,
+        "lastUpdated": 1775620894000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1662,19 +1669,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "b4ba913d9de8cacc842bd21be4384ea358910bd86655b1a6625d98fdd7fac0e2": {
-          "added": 1774891658000,
+        "11badb45f0d9cad67406dfcc531699b675449e77eae7ba344e80adef7d121ecb": {
+          "added": 1775620894000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "b4ba913d9de8cacc842bd21be4384ea358910bd86655b1a6625d98fdd7fac0e2",
-            "size": 110912889
+            "sha256": "11badb45f0d9cad67406dfcc531699b675449e77eae7ba344e80adef7d121ecb",
+            "size": 110871929
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "15.0.8 (140.9.0esr)",
-            "versionCode": 2016150914,
+            "versionName": "15.0.9 (140.9.1esr)",
+            "versionCode": 2016153210,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
