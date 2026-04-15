@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1775678132000,
+    "timestamp": 1776266748000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,14 +66,14 @@
   "packages": {
     "app.comaps.fdroid": {
       "metadata": {
-        "added": 1774891639000,
+        "added": 1775793701000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "changelog": "https://codeberg.org/comaps/comaps/releases",
         "issueTracker": "https://codeberg.org/comaps/comaps/issues",
-        "lastUpdated": 1774891639000,
+        "lastUpdated": 1775793701000,
         "license": "Apache-2.0",
         "sourceCode": "https://codeberg.org/comaps/comaps",
         "translation": "https://translate.codeberg.org/projects/comaps/",
@@ -102,12 +102,12 @@
         "preferredSigner": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
       },
       "versions": {
-        "aed3521ce770d1482b9c30c973a058c754083f7348a34edbb7aa816e47f74306": {
-          "added": 1774891639000,
+        "648abef7596de3c54e8c60a24c0f70c423956bd4ed2e3fa737622c8d8722447c": {
+          "added": 1775793701000,
           "file": {
             "name": "/CoMaps.apk",
-            "sha256": "aed3521ce770d1482b9c30c973a058c754083f7348a34edbb7aa816e47f74306",
-            "size": 65003435
+            "sha256": "648abef7596de3c54e8c60a24c0f70c423956bd4ed2e3fa737622c8d8722447c",
+            "size": 65228545
           },
           "manifest": {
             "nativecode": [
@@ -115,8 +115,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2026.03.23-5-FDroid",
-            "versionCode": 26032305,
+            "versionName": "2026.04.07-8-FDroid",
+            "versionCode": 26040708,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 36
@@ -509,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1775678130000,
+        "added": 1776266745000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1775678130000,
+        "lastUpdated": 1776266745000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -529,15 +529,15 @@
         "icon": {
           "en-US": {
             "name": "/com.google.android.apps.photos/en-US/icon.png",
-            "sha256": "1a2cb7e93d8ec3081fefff1174633c09e51e38032b078fe32ea5da7ad007c148",
-            "size": 10624
+            "sha256": "b407531c61d0762ea14c0c3136838744051843281d356ee91f03e35f54aac7a1",
+            "size": 9462
           }
         },
         "preferredSigner": "e1298af7b358f97282e7d13659438e2d233c42be7f4b34435c8445d73ea959c1"
       },
       "versions": {
         "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e": {
-          "added": 1775678130000,
+          "added": 1776266745000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
@@ -1000,14 +1000,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1775102493000,
+        "added": 1775880092000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1775102493000,
+        "lastUpdated": 1775880092000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1052,12 +1052,12 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "a3a6db20e16fb6a5d3fdebfef7d074ef248ccf55453ab69b091cc0490ae05c55": {
-          "added": 1775102493000,
+        "2f83ac3adfb3abfd40047172d101adc96368967b7169a0c80a1a48f00dec9fe1": {
+          "added": 1775880092000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "a3a6db20e16fb6a5d3fdebfef7d074ef248ccf55453ab69b091cc0490ae05c55",
-            "size": 8699845
+            "sha256": "2f83ac3adfb3abfd40047172d101adc96368967b7169a0c80a1a48f00dec9fe1",
+            "size": 8888369
           },
           "manifest": {
             "nativecode": [
@@ -1066,8 +1066,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "2.0-alpha6",
-            "versionCode": 2000006,
+            "versionName": "2.0-alpha7",
+            "versionCode": 2000007,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -1332,13 +1332,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1774891651000,
+        "added": 1776139291000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1774891651000,
+        "lastUpdated": 1776139291000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1361,12 +1361,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "be1d14eab96220ade81b84399c5c723e4bc4cc4ef9be70598b96831f4e90c28c": {
-          "added": 1774891651000,
+        "fe36718b4506ce5d9a6d25f8add3df101e3ab7ca18dc77e69fe8c2309109915a": {
+          "added": 1776139291000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "be1d14eab96220ade81b84399c5c723e4bc4cc4ef9be70598b96831f4e90c28c",
-            "size": 117171339
+            "sha256": "fe36718b4506ce5d9a6d25f8add3df101e3ab7ca18dc77e69fe8c2309109915a",
+            "size": 117241720
           },
           "manifest": {
             "nativecode": [
@@ -1375,8 +1375,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.4.2",
-            "versionCode": 167002,
+            "versionName": "8.6.2",
+            "versionCode": 167501,
             "features": [
               {
                 "name": "android.hardware.camera"
@@ -1797,14 +1797,14 @@
     },
     "org.torproject.vpn": {
       "metadata": {
-        "added": 1774891659000,
+        "added": 1775880094000,
         "categories": [
           "VPN & Proxy",
           "Default"
         ],
         "changelog": "https://gitlab.torproject.org/tpo/applications/vpn/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/vpn/-/issues/",
-        "lastUpdated": 1774891659000,
+        "lastUpdated": 1775880094000,
         "license": "BSD-3-Clause-Clear",
         "sourceCode": "https://gitlab.torproject.org/tpo/applications/vpn/",
         "translation": "https://hosted.weblate.org/projects/tor/tor-vpn/",
@@ -1839,19 +1839,19 @@
         "preferredSigner": "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d"
       },
       "versions": {
-        "71b5bf35c070efdbaac29adfc07942ad5b55c9d410510684e04c66b340394279": {
-          "added": 1774891659000,
+        "711e5cabcc54f54d37e87ddd41fc80d903adf1c30985f77b3575061a8ecf203a": {
+          "added": 1775880094000,
           "file": {
             "name": "/TorVPN.apk",
-            "sha256": "71b5bf35c070efdbaac29adfc07942ad5b55c9d410510684e04c66b340394279",
-            "size": 74198179
+            "sha256": "711e5cabcc54f54d37e87ddd41fc80d903adf1c30985f77b3575061a8ecf203a",
+            "size": 89044925
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "1.5.0Beta-arm64-v8a",
-            "versionCode": 192,
+            "versionName": "1.6.0Beta-arm64-v8a",
+            "versionCode": 202,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 35

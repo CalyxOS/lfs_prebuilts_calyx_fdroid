@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1775678132000,
+    "timestamp": 1776266748000,
     "version": 20002,
     "name": "CalyxOS Local",
     "icon": "fdroid-icon.png",
@@ -153,7 +153,7 @@
         "Default"
       ],
       "changelog": "https://codeberg.org/comaps/comaps/releases",
-      "suggestedVersionCode": "26032305",
+      "suggestedVersionCode": "26040708",
       "donate": "https://www.comaps.app/donate/",
       "issueTracker": "https://codeberg.org/comaps/comaps/issues",
       "liberapay": "CoMaps",
@@ -162,9 +162,9 @@
       "sourceCode": "https://codeberg.org/comaps/comaps",
       "translation": "https://translate.codeberg.org/projects/comaps/",
       "webSite": "https://www.comaps.app/",
-      "added": 1774891639000,
+      "added": 1775793701000,
       "packageName": "app.comaps.fdroid",
-      "lastUpdated": 1774891639000,
+      "lastUpdated": 1775793701000,
       "localized": {
         "en-US": {
           "description": "A community-led free & open source maps app based on OpenStreetMap data and reinforced with commitment to transparency, privacy and being not-for-profit. CoMaps is a fork/spin-off of Organic Maps, which in turn is a fork of Maps.ME.\n\nRead on about reasons for the project and its direction at <b><i>codeberg.org/comaps</i></b>.\nJoin the community there and help make the best maps app\n\u2022 Use the app and spread the word about it\n\u2022 Give feedback and report issues\n\u2022 Update map data in the app or on the OpenStreetMap website\n\n\u2023 <b>Offline-focused</b>: Plan and navigate your trip abroad without the need for cellular service, search waypoints while on a distant hike, etc. All app functions are designed to work offline.\n\u2023 <b>Respecting Privacy</b>: The app is designed with privacy in mind - does not identify people, does not track, and does not collect personal information. Ads-free.\n\u2023 <b>Simple and Polished</b>: essential easy to use features that just work.\n\u2023 <b>Saves Your Battery and Space</b>: Doesn\u2019t drain your battery like other navigation apps. Compact maps save precious space on your phone.\n\u2023 <b>Free and Built by the Community</b>: People like you helped build the app by adding places to OpenStreetMap, testing and giving feedback on features and contributing their development skills and money.\n\u2023 <b>Open and Transparent Decision-making and Financials, Not-for-profit and Fully Open Source.</b>\n\n<b>Main Features</b>:\n\u2022 Downloadable detailed maps with places which are not available with Google Maps\n\u2022 Outdoor mode with highlighted hiking trails, campsites, water sources, peaks, contour lines, etc\n\u2022 Walking paths and cycleways\n\u2022 Points of interest like restaurants, gas stations, hotels, shops, sightseeings and many more\n\u2022 Search by name or an address or by point of interest category\n\u2022 Navigation with voice announcements for walking, cycling, or driving\n\u2022 Bookmark your favorite places with a single tap\n\u2022 Offline Wikipedia articles\n\u2022 Subway transit layer and directions\n\u2022 Track recording\n\u2022 Export and import bookmarks and tracks in KML, KMZ, GPX formats\n\u2022 A dark mode to use during the night\n\u2022 Improve map data for everyone using a basic built-in editor\n\n<b>Freedom Is Here</b>\nDiscover your journey, navigate the world with privacy and community at the forefront!\n",
@@ -277,7 +277,7 @@
         "AlwaysInstall"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "2000006",
+      "suggestedVersionCode": "2000007",
       "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
@@ -288,9 +288,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1775102493000,
+      "added": 1775880092000,
       "packageName": "org.fdroid.basic",
-      "lastUpdated": 1775102493000,
+      "lastUpdated": 1775880092000,
       "localized": {
         "ar": {
           "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
@@ -357,9 +357,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1775678130000,
+      "added": 1776266745000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1775678130000,
+      "lastUpdated": 1776266745000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -650,16 +650,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "167002",
+      "suggestedVersionCode": "167501",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1774891651000,
+      "added": 1776139291000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1774891651000,
+      "lastUpdated": 1776139291000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -894,16 +894,16 @@
         "Default"
       ],
       "changelog": "https://gitlab.torproject.org/tpo/applications/vpn/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "192",
+      "suggestedVersionCode": "202",
       "donate": "https://donate.torproject.org/",
       "issueTracker": "https://gitlab.torproject.org/tpo/applications/vpn/-/issues/",
       "license": "BSD-3-Clause-Clear",
       "sourceCode": "https://gitlab.torproject.org/tpo/applications/vpn/",
       "translation": "https://hosted.weblate.org/projects/tor/tor-vpn/",
       "webSite": "https://www.torproject.org/",
-      "added": 1774891659000,
+      "added": 1775880094000,
       "packageName": "org.torproject.vpn",
-      "lastUpdated": 1774891659000,
+      "lastUpdated": 1775880094000,
       "localized": {
         "en-US": {
           "description": "<b>Beta release: The VPN that fights back</b>\n<p>Tor VPN Beta puts control back in your hands when others try to cut you off from the world. This early-access release is for users who want to help shape the future of mobile privacy and can do safely.</p>\n<b>What can Tor VPN Beta do?</b>\n<ul>\n  <li>Network-level privacy: Tor VPN hides your real IP address and location from the apps and services you use\u2013and from anyone watching your connection.</li>\n  <li>Per-app routing: You choose which apps are routed through Tor. Each app gets its own Tor circuit and exit IP, preventing network observers from connecting all of your online activity.</li>\n  <li>App-level censorship resistance: When access is blocked, Tor VPN may help reconnect your essential apps to the internet. (Beta limitation: This early access version has limited anti-censorship capabilities and users may face connection issues)</li>\n  <li>Built on Arti: Tor VPN uses Tor's next-generation Rust implementation. That means safer memory handling, modern code architecture, and a stronger security foundation than legacy C-Tor tools.</li>\n<b>Who is Tor VPN Beta for?</b>\n<p>Tor VPN Beta is an early-access release and not suitable for high-risk users or sensitive use-cases during the beta period.</p>\n<p>Tor VPN Beta is for early adopters who want to help shape mobile privacy and can do so safely. Users should expect bugs and report issues. If you're ready to test, bring the app to its limits, and share feedback, we'd love your help tipping the scales toward a freer internet.</p>\n<b>Important limitations (PLEASE READ)</b>\n<p>Tor VPN is not a silver bullet either: Some Android platform data can still identify your device; no VPN can fully prevent this. If you face extreme surveillance risks, we recommend against using Tor VPN Beta.</p>\n<p>Not all of Tor's anti-censorship features are implemented yet. Users in heavily censored regions might not be able to use Tor VPN Beta to connect to Tor or the internet.</p>",
@@ -918,9 +918,9 @@
   "packages": {
     "app.comaps.fdroid": [
       {
-        "added": 1774891639000,
+        "added": 1775793701000,
         "apkName": "CoMaps.apk",
-        "hash": "aed3521ce770d1482b9c30c973a058c754083f7348a34edbb7aa816e47f74306",
+        "hash": "648abef7596de3c54e8c60a24c0f70c423956bd4ed2e3fa737622c8d8722447c",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -931,7 +931,7 @@
         "packageName": "app.comaps.fdroid",
         "sig": "a8aef575b8a950336066518d6443aa00",
         "signer": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b",
-        "size": 65003435,
+        "size": 65228545,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -995,8 +995,8 @@
             null
           ]
         ],
-        "versionCode": 26032305,
-        "versionName": "2026.03.23-5-FDroid"
+        "versionCode": 26040708,
+        "versionName": "2026.04.07-8-FDroid"
       }
     ],
     "at.bitfire.davdroid": [
@@ -1227,7 +1227,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1775678130000,
+        "added": 1776266745000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
         "hashType": "sha256",
@@ -1463,9 +1463,9 @@
     ],
     "org.fdroid.basic": [
       {
-        "added": 1775102493000,
+        "added": 1775880092000,
         "apkName": "F-DroidBasic.apk",
-        "hash": "a3a6db20e16fb6a5d3fdebfef7d074ef248ccf55453ab69b091cc0490ae05c55",
+        "hash": "2f83ac3adfb3abfd40047172d101adc96368967b7169a0c80a1a48f00dec9fe1",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1477,7 +1477,7 @@
         "packageName": "org.fdroid.basic",
         "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
         "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
-        "size": 8699845,
+        "size": 8888369,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -1537,8 +1537,8 @@
             null
           ]
         ],
-        "versionCode": 2000006,
-        "versionName": "2.0-alpha6"
+        "versionCode": 2000007,
+        "versionName": "2.0-alpha7"
       }
     ],
     "org.onionshare.android.fdroid": [
@@ -1663,12 +1663,12 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1774891651000,
+        "added": 1776139291000,
         "apkName": "Signal.apk",
         "features": [
           "android.hardware.camera"
         ],
-        "hash": "be1d14eab96220ade81b84399c5c723e4bc4cc4ef9be70598b96831f4e90c28c",
+        "hash": "fe36718b4506ce5d9a6d25f8add3df101e3ab7ca18dc77e69fe8c2309109915a",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -1680,7 +1680,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 117171339,
+        "size": 117241720,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1992,8 +1992,8 @@
             null
           ]
         ],
-        "versionCode": 167002,
-        "versionName": "8.4.2"
+        "versionCode": 167501,
+        "versionName": "8.6.2"
       }
     ],
     "org.torproject.torbrowser": [
@@ -2145,9 +2145,9 @@
     ],
     "org.torproject.vpn": [
       {
-        "added": 1774891659000,
+        "added": 1775880094000,
         "apkName": "TorVPN.apk",
-        "hash": "71b5bf35c070efdbaac29adfc07942ad5b55c9d410510684e04c66b340394279",
+        "hash": "711e5cabcc54f54d37e87ddd41fc80d903adf1c30985f77b3575061a8ecf203a",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -2156,7 +2156,7 @@
         "packageName": "org.torproject.vpn",
         "sig": "f3f6206a4ca96bc217b6d136dd638596",
         "signer": "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d",
-        "size": 74198179,
+        "size": 89044925,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2208,8 +2208,8 @@
             null
           ]
         ],
-        "versionCode": 192,
-        "versionName": "1.5.0Beta-arm64-v8a"
+        "versionCode": 202,
+        "versionName": "1.6.0Beta-arm64-v8a"
       }
     ],
     "se.leap.riseupvpn": [
