@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1776266748000,
+    "timestamp": 1776366668000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -509,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1776266745000,
+        "added": 1776366666000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1776266745000,
+        "lastUpdated": 1776366666000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -536,19 +536,19 @@
         "preferredSigner": "e1298af7b358f97282e7d13659438e2d233c42be7f4b34435c8445d73ea959c1"
       },
       "versions": {
-        "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e": {
-          "added": 1776266745000,
+        "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff": {
+          "added": 1776366666000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
-            "sha256": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
-            "size": 34099
+            "sha256": "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff",
+            "size": 42610
           },
           "manifest": {
-            "versionName": "1.0",
-            "versionCode": 1000000100,
+            "versionName": "1.1",
+            "versionCode": 1000000101,
             "usesSdk": {
               "minSdkVersion": 35,
-              "targetSdkVersion": 35
+              "targetSdkVersion": 36
             },
             "signer": {
               "sha256": [
@@ -1332,13 +1332,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1776139291000,
+        "added": 1776312106000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1776139291000,
+        "lastUpdated": 1776312106000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1361,12 +1361,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "fe36718b4506ce5d9a6d25f8add3df101e3ab7ca18dc77e69fe8c2309109915a": {
-          "added": 1776139291000,
+        "48a24e4c4b5cc8a2afa4cc26520a90e7d2a54de8f7d218a4de49f1f700e2d531": {
+          "added": 1776312106000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "fe36718b4506ce5d9a6d25f8add3df101e3ab7ca18dc77e69fe8c2309109915a",
-            "size": 117241720
+            "sha256": "48a24e4c4b5cc8a2afa4cc26520a90e7d2a54de8f7d218a4de49f1f700e2d531",
+            "size": 118060963
           },
           "manifest": {
             "nativecode": [
@@ -1375,8 +1375,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.6.2",
-            "versionCode": 167501,
+            "versionName": "8.7.3",
+            "versionCode": 167901,
             "features": [
               {
                 "name": "android.hardware.camera"
