@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1776266748000,
+    "timestamp": 1776312108000,
     "version": 20002,
     "name": "CalyxOS Local",
     "icon": "fdroid-icon.png",
@@ -357,9 +357,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1776266745000,
+      "added": 1776312100000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1776266745000,
+      "lastUpdated": 1776312100000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -650,16 +650,16 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "167501",
+      "suggestedVersionCode": "167901",
       "description": "Privacy is possible. Signal makes it easy.\n\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal's servers never have access to any of your communication and never store any of your data.\n\n\u2605 Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\n\n\u2605 Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code. Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\n\n\u2605 Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\n\n\u2605 Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once. Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\n\n\u2605 Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\n\n\u2605 Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges.",
       "issueTracker": "https://support.signal.org/",
       "license": "GPL-3.0-only",
       "sourceCode": "https://github.com/signalapp/Signal-Android",
       "summary": "Signal Private Messenger",
       "webSite": "https://www.signal.org",
-      "added": 1776139291000,
+      "added": 1776312106000,
       "packageName": "org.thoughtcrime.securesms",
-      "lastUpdated": 1776139291000,
+      "lastUpdated": 1776312106000,
       "localized": {
         "en-US": {
           "icon": "icon.png",
@@ -1227,7 +1227,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1776266745000,
+        "added": 1776312100000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "2ba3d8a21dc8931cf4938a9f078d25cf7fecde9b3b63fc03c83594f2f76e100e",
         "hashType": "sha256",
@@ -1663,12 +1663,12 @@
     ],
     "org.thoughtcrime.securesms": [
       {
-        "added": 1776139291000,
+        "added": 1776312106000,
         "apkName": "Signal.apk",
         "features": [
           "android.hardware.camera"
         ],
-        "hash": "fe36718b4506ce5d9a6d25f8add3df101e3ab7ca18dc77e69fe8c2309109915a",
+        "hash": "48a24e4c4b5cc8a2afa4cc26520a90e7d2a54de8f7d218a4de49f1f700e2d531",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -1680,7 +1680,7 @@
         "packageName": "org.thoughtcrime.securesms",
         "sig": "4685187b2fceb9e4d3946ae7fffb5fe6",
         "signer": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26",
-        "size": 117241720,
+        "size": 118060963,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1992,8 +1992,8 @@
             null
           ]
         ],
-        "versionCode": 167501,
-        "versionName": "8.6.2"
+        "versionCode": 167901,
+        "versionName": "8.7.3"
       }
     ],
     "org.torproject.torbrowser": [
