@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1776366668000,
+    "timestamp": 1777176098000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -509,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1776366666000,
+        "added": 1777176096000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1776366666000,
+        "lastUpdated": 1777176096000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -537,7 +537,7 @@
       },
       "versions": {
         "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff": {
-          "added": 1776366666000,
+          "added": 1777176096000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff",
@@ -661,7 +661,7 @@
     },
     "net.thunderbird.android": {
       "metadata": {
-        "added": 1774891653000,
+        "added": 1776484886000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -670,7 +670,7 @@
         ],
         "changelog": "https://github.com/thunderbird/thunderbird-android/releases/",
         "issueTracker": "https://github.com/thunderbird/thunderbird-android/issues",
-        "lastUpdated": 1774891653000,
+        "lastUpdated": 1776484886000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/thunderbird/thunderbird-android",
         "translation": "https://hosted.weblate.org/projects/tb-android/",
@@ -786,12 +786,12 @@
         "preferredSigner": "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1"
       },
       "versions": {
-        "d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45": {
-          "added": 1774891653000,
+        "c2083ddf5882e3c3f54f2f1d42e5a108ea9a2eec4a4f9519e3ee0b59707eaa13": {
+          "added": 1776484886000,
           "file": {
             "name": "/Thunderbird.apk",
-            "sha256": "d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45",
-            "size": 14504793
+            "sha256": "c2083ddf5882e3c3f54f2f1d42e5a108ea9a2eec4a4f9519e3ee0b59707eaa13",
+            "size": 10556219
           },
           "manifest": {
             "nativecode": [
@@ -800,8 +800,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "17.0",
-            "versionCode": 21,
+            "versionName": "18.0",
+            "versionCode": 22,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 35
@@ -1000,14 +1000,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1775880092000,
+        "added": 1776657687000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1775880092000,
+        "lastUpdated": 1776657687000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1052,12 +1052,12 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "2f83ac3adfb3abfd40047172d101adc96368967b7169a0c80a1a48f00dec9fe1": {
-          "added": 1775880092000,
+        "a9d4f41d493f4b698480dd1826baf7f0066f069e247c4a0f64f5e117a901d63d": {
+          "added": 1776657687000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "2f83ac3adfb3abfd40047172d101adc96368967b7169a0c80a1a48f00dec9fe1",
-            "size": 8888369
+            "sha256": "a9d4f41d493f4b698480dd1826baf7f0066f069e247c4a0f64f5e117a901d63d",
+            "size": 8978481
           },
           "manifest": {
             "nativecode": [
@@ -1066,8 +1066,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "2.0-alpha7",
-            "versionCode": 2000007,
+            "versionName": "2.0-alpha8",
+            "versionCode": 2000008,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -1632,14 +1632,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1775620894000,
+        "added": 1776830506000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1775620894000,
+        "lastUpdated": 1776830506000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1669,19 +1669,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "11badb45f0d9cad67406dfcc531699b675449e77eae7ba344e80adef7d121ecb": {
-          "added": 1775620894000,
+        "dd6fd64cd955c0c93692243e5f6f6ea9ac0802ec957e926d70cf725fb38c1059": {
+          "added": 1776830506000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "11badb45f0d9cad67406dfcc531699b675449e77eae7ba344e80adef7d121ecb",
-            "size": 110871929
+            "sha256": "dd6fd64cd955c0c93692243e5f6f6ea9ac0802ec957e926d70cf725fb38c1059",
+            "size": 110921081
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "15.0.9 (140.9.1esr)",
-            "versionCode": 2016153210,
+            "versionName": "15.0.10 (140.10.0esr)",
+            "versionCode": 2016156330,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35

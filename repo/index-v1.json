@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1776366668000,
+    "timestamp": 1777176098000,
     "version": 20002,
     "name": "CalyxOS Local",
     "icon": "fdroid-icon.png",
@@ -277,7 +277,7 @@
         "AlwaysInstall"
       ],
       "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
-      "suggestedVersionCode": "2000007",
+      "suggestedVersionCode": "2000008",
       "description": "NOTE: The Basic version of F-Droid Client has a reduced feature set (e.g. no nearby share and no panic feature). It targets Android 13 and can do unattended updates without privileged extension or root.\n\nF-Droid is an installable catalogue of libre software apps for Android. The F-Droid client app makes it easy to browse, install, and keep track of updates on your device.\n\nIt connects to any F-Droid compatible repositories. The default repo is hosted at f-droid.org, which contains only bona fide libre software.\n\nAndroid itself is open in the sense that you are free to install APKs from anywhere you wish, but there are many good reasons for using F-Droid as your libre software app manager:\n\n* Get notified when updates are available\n* Optionally download and install updates automatically\n* Keep track of older and beta versions\n* Filter out apps incompatible with the device\n* Find apps via categories and searchable descriptions\n* Access associated URLs for donations, source code etc.\n* Stay safe by checking repo index signatures and APK hashes",
       "donate": "https://f-droid.org/donate",
       "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
@@ -288,9 +288,9 @@
       "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
       "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
       "webSite": "https://f-droid.org",
-      "added": 1775880092000,
+      "added": 1776657687000,
       "packageName": "org.fdroid.basic",
-      "lastUpdated": 1775880092000,
+      "lastUpdated": 1776657687000,
       "localized": {
         "ar": {
           "summary": "\u062a\u0637\u0628\u064a\u0642 \u0639\u0645\u064a\u0644 \u062e\u0641\u064a\u0641 \u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u0644\u0630\u064a \u064a\u062d\u062a\u0631\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629"
@@ -357,9 +357,9 @@
       "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
       "summary": "Preview photos from Google Camera",
       "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
-      "added": 1776366666000,
+      "added": 1777176096000,
       "packageName": "com.google.android.apps.photos",
-      "lastUpdated": 1776366666000,
+      "lastUpdated": 1777176096000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -679,16 +679,16 @@
         "Default"
       ],
       "changelog": "https://github.com/thunderbird/thunderbird-android/releases/",
-      "suggestedVersionCode": "21",
+      "suggestedVersionCode": "22",
       "donate": "https://mzla.link/supportTfA",
       "issueTracker": "https://github.com/thunderbird/thunderbird-android/issues",
       "license": "Apache-2.0",
       "sourceCode": "https://github.com/thunderbird/thunderbird-android",
       "translation": "https://hosted.weblate.org/projects/tb-android/",
       "webSite": "https://thunderbird.net",
-      "added": 1774891653000,
+      "added": 1776484886000,
       "packageName": "net.thunderbird.android",
-      "lastUpdated": 1774891653000,
+      "lastUpdated": 1776484886000,
       "localized": {
         "ca": {
           "description": "El Thunderbird \u00e9s una potent aplicaci\u00f3 de correu electr\u00f2nic centrada en la privadesa. Gestioneu sense esfor\u00e7 diversos comptes de correu electr\u00f2nic des d'una aplicaci\u00f3, amb una opci\u00f3 de \u00abSafata d'entrada unificada\u00bb per obtenir la m\u00e0xima productivitat. Basat en tecnologia de codi obert i recolzat per un equip dedicat de desenvolupadors juntament amb una comunitat global de voluntaris, el Thunderbird mai tracta les vostres dades privades com un producte. Est\u00e0 totalment finan\u00e7at per les contribucions econ\u00f2miques dels nostres usuaris, de manera que no haureu de tornar a veure anuncis barrejats amb els vostres correus electr\u00f2nics.\n\n<b>Qu\u00e8 podeu fer</b>\n<ul>\n  <li>Deixeu enrere m\u00faltiples aplicacions i correu web. Utilitzeu una \u00fanica aplicaci\u00f3, amb una safata d'entrada unificada opcional, per continuar el vostre dia.</li>\n  <li>Gaudiu d'un client de correu electr\u00f2nic respectu\u00f3s amb la privadesa que mai recopila ni ven les vostres dades personals. Us connectem directament amb el vostre prove\u00efdor de correu electr\u00f2nic. Aix\u00f2 \u00e9s tot!</li>\n  <li>Porteu la vostra privadesa al seg\u00fcent nivell utilitzant l'encriptaci\u00f3 de correu electr\u00f2nic OpenPGP (PGP/MIME) amb l'aplicaci\u00f3 \u00abOpenKeychain\u00bb per xifrar i desxifrar els vostres missatges.</li>\n  <li>Trieu sincronitzar el vostre correu electr\u00f2nic a l'instant, a intervals determinats o a demanda. Sigui com sigui que vulgueu consultar el vostre correu electr\u00f2nic, dep\u00e8n de v\u00f3s!</li>\n  <li>Cerqueu els vostres missatges importants mitjan\u00e7ant tant la cerca local i com la cerca al servidor.</li>\n</ul>\n\n<b>Compatibilitat</b>\n<ul>\n  <li>El Thunderbird funciona amb els protocols IMAP i POP3, admetent una \u00e0mplia gamma de prove\u00efdors de correu electr\u00f2nic, com ara Gmail, Outlook, Yahoo Mail, iCloud i m\u00e9s.</li>\n</ul>\n\n<b>Per qu\u00e8 utilitzar el Thunderbird</b>\n<ul>\n  <li>El nom de confian\u00e7a en correu electr\u00f2nic des de fa m\u00e9s de 20 anys, ara a l'Android.</li>\n  <li>El Thunderbird est\u00e0 totalment finan\u00e7at amb contribucions volunt\u00e0ries dels nostres usuaris. No utilitzem les vostres dades personals. Mai sou el producte.</li>\n  <li>Elaborat per un equip tan efica\u00e7 com v\u00f3s. Volem que dediqueu un temps m\u00ednim a utilitzar l'aplicaci\u00f3 i que en obtingueu el m\u00e0xim a canvi.</li>\n  <li>Amb col\u00b7laboradors d'arreu del m\u00f3n, el Thunderbird per a l'Android s'ha tradu\u00eft a m\u00e9s de 20 idiomes.</li>\n  <li>Recolzat per la corporaci\u00f3 MZLA Technologies, una filial de propietat total de la Fundaci\u00f3 Mozilla.</li>\n</ul>\n\n<b>Codi obert i comunitat</b>\n<ul>\n  <li>El Thunderbird \u00e9s lliure i de codi obert, la qual cosa significa que el seu codi est\u00e0 disponible per veure, modificar, utilitzar i compartir lliurement. La seva llic\u00e8ncia tamb\u00e9 garanteix que ser\u00e0 gratu\u00eft per sempre. Podeu pensar en el Thunderbird com un regal de milers de col\u00b7laboradors.</li>\n  <li>Desenvolupem en obert amb actualitzacions regulars i transparents al nostre bloc i llistes de correu.</li>\n  <li>El nostre servei d'assist\u00e8ncia als usuaris est\u00e0 impulsat per la nostra comunitat global. Trobeu les respostes que necessiteu o feu el paper de col\u00b7laborador, ja sigui per respondre preguntes, traduir l'aplicaci\u00f3 o parlar del Thunderbird als vostres amics i familiars.</li>\n</ul>\n",
@@ -866,7 +866,7 @@
         "Internet",
         "Default"
       ],
-      "suggestedVersionCode": "2016153210",
+      "suggestedVersionCode": "2016156330",
       "description": "Tor Browser for Android is the only official mobile browser supported by the Tor Project, developers of the world\u2019s strongest tool for privacy and freedom online.\n\nBLOCK TRACKERS\nTor Browser isolates each website you visit so third-party trackers and ads can\u2019t follow you. Any cookies automatically clear when you\u2019re done browsing.\n\nDEFEND AGAINST SURVEILLANCE\nTor Browser prevents someone watching your connection from knowing what websites you visit. All anyone monitoring your browsing habits can see is that you\u2019re using Tor.\n\nRESIST FINGERPRINTING\nTor aims to make all users look the same, making it difficult for you to be fingerprinted based on your browser and device information.\n\nMULTI-LAYERED ENCRYPTION\nWhen you use Tor Browser for Android, your traffic is relayed and encrypted three times as it passes over the Tor network. The network is comprised of thousands of volunteer-run servers known as Tor relays. Watch this animation to learn more about how it works:\n\nBROWSE FREELY\nWith Tor Browser for Android, you are free to access sites your local internet service provider may have blocked.\n\nTHIS APP IS MADE POSSIBLE BY DONORS LIKE YOU\nTor Browser is free and open source software developed the Tor Project, a nonprofit organization. You can help keep Tor strong, secure, and independent by making a donation. Give before the end of 2019, and Mozilla will match your gift: https://donate.torproject.org/donate/donate-tbi-gp\n\nLearn more about Tor Browser for Android:\n- Need help? Visit https://support.torproject.org. The manual is coming soon.\n- Learn more about what\u2019s happening at Tor: https://blog.torproject.org\n- Follow the Tor Project on Twitter: https://twitter.com/torproject\n\nABOUT THE TOR PROJECT\nThe Tor Project, Inc., is a 501(c)(3) organization developing free and open source software for privacy and freedom online, protecting people from tracking, surveillance, and censorship. The Tor Project\u2019s mission is to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, support their unrestricted availability and use, and further their scientific and popular understanding.\n",
       "donate": "https://donate.torproject.org/",
       "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
@@ -875,9 +875,9 @@
       "name": "Tor Browser for Android",
       "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
       "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
-      "added": 1775620894000,
+      "added": 1776830506000,
       "packageName": "org.torproject.torbrowser",
-      "lastUpdated": 1775620894000,
+      "lastUpdated": 1776830506000,
       "localized": {
         "en-US": {
           "icon": "icon.png"
@@ -1227,7 +1227,7 @@
     ],
     "com.google.android.apps.photos": [
       {
-        "added": 1776366666000,
+        "added": 1777176096000,
         "apkName": "GCamPhotosPreview.apk",
         "hash": "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff",
         "hashType": "sha256",
@@ -1279,9 +1279,9 @@
     ],
     "net.thunderbird.android": [
       {
-        "added": 1774891653000,
+        "added": 1776484886000,
         "apkName": "Thunderbird.apk",
-        "hash": "d94c44355ab2f17cfc91d5bc874bcafeed39e737983abdb1336caa2e1c1d4c45",
+        "hash": "c2083ddf5882e3c3f54f2f1d42e5a108ea9a2eec4a4f9519e3ee0b59707eaa13",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -1293,7 +1293,7 @@
         "packageName": "net.thunderbird.android",
         "sig": "51d46a3e4944aa1faf96d23a6d3770a2",
         "signer": "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1",
-        "size": 14504793,
+        "size": 10556219,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -1361,8 +1361,8 @@
             null
           ]
         ],
-        "versionCode": 21,
-        "versionName": "17.0"
+        "versionCode": 22,
+        "versionName": "18.0"
       }
     ],
     "org.breezyweather": [
@@ -1463,9 +1463,9 @@
     ],
     "org.fdroid.basic": [
       {
-        "added": 1775880092000,
+        "added": 1776657687000,
         "apkName": "F-DroidBasic.apk",
-        "hash": "2f83ac3adfb3abfd40047172d101adc96368967b7169a0c80a1a48f00dec9fe1",
+        "hash": "a9d4f41d493f4b698480dd1826baf7f0066f069e247c4a0f64f5e117a901d63d",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1477,7 +1477,7 @@
         "packageName": "org.fdroid.basic",
         "sig": "b1f4c7b7c59bc03bb2f04845dab36e40",
         "signer": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312",
-        "size": 8888369,
+        "size": 8978481,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -1537,8 +1537,8 @@
             null
           ]
         ],
-        "versionCode": 2000007,
-        "versionName": "2.0-alpha7"
+        "versionCode": 2000008,
+        "versionName": "2.0-alpha8"
       }
     ],
     "org.onionshare.android.fdroid": [
@@ -1998,9 +1998,9 @@
     ],
     "org.torproject.torbrowser": [
       {
-        "added": 1775620894000,
+        "added": 1776830506000,
         "apkName": "TorBrowser.apk",
-        "hash": "11badb45f0d9cad67406dfcc531699b675449e77eae7ba344e80adef7d121ecb",
+        "hash": "dd6fd64cd955c0c93692243e5f6f6ea9ac0802ec957e926d70cf725fb38c1059",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2009,7 +2009,7 @@
         "packageName": "org.torproject.torbrowser",
         "sig": "31e36334f34e126a0e0d1efd29b84fb2",
         "signer": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8",
-        "size": 110871929,
+        "size": 110921081,
         "targetSdkVersion": 35,
         "uses-permission": [
           [
@@ -2139,8 +2139,8 @@
             null
           ]
         ],
-        "versionCode": 2016153210,
-        "versionName": "15.0.9 (140.9.1esr)"
+        "versionCode": 2016156330,
+        "versionName": "15.0.10 (140.10.0esr)"
       }
     ],
     "org.torproject.vpn": [
