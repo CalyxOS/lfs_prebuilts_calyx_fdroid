@@ -19,7 +19,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1777176101768,
+  "endTimestamp": 1778126501590,
   "failedBuilds": {},
   "fdroidserver": {
     "commitId": "3b64dcee7a7a46eefd56e49e902037d61b635ed6",
@@ -79,6 +79,6 @@
     "org.torproject.vpn",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1777176096000,
+  "startTimestamp": 1778126490000,
   "subcommand": "update"
 }
