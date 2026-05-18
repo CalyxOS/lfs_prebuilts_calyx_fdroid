@@ -19,10 +19,10 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1778126501590,
+  "endTimestamp": 1779130327805,
   "failedBuilds": {},
   "fdroidserver": {
-    "commitId": "3b64dcee7a7a46eefd56e49e902037d61b635ed6",
+    "commitId": "f2cbcff316140169383f5a290964c8414758b1d4",
     "isDirty": true,
     "modifiedFiles": [
       "fdroidserver/update.py"
@@ -79,6 +79,15 @@
     "org.torproject.vpn",
     "se.leap.riseupvpn"
   ],
-  "startTimestamp": 1778126490000,
+  "stages": {
+    "delete_disabled_builds": 1779130315641,
+    "index.make repo": 1779130324938,
+    "prepare_apps repo": 1779130322432,
+    "process_apks": 1779130315641,
+    "read_added_date_from_all_apks": 1779130322432,
+    "remove_apks": 1779130322431,
+    "scan_repo_files": 1779130322430
+  },
+  "startTimestamp": 1779130315000,
   "subcommand": "update"
 }

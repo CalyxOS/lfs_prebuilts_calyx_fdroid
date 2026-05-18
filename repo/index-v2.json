@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1778126498000,
+    "timestamp": 1779130324000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,14 +66,14 @@
   "packages": {
     "app.comaps.fdroid": {
       "metadata": {
-        "added": 1777262491000,
+        "added": 1778385705000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "changelog": "https://codeberg.org/comaps/comaps/releases",
         "issueTracker": "https://codeberg.org/comaps/comaps/issues",
-        "lastUpdated": 1777262491000,
+        "lastUpdated": 1778385705000,
         "license": "Apache-2.0",
         "sourceCode": "https://codeberg.org/comaps/comaps",
         "translation": "https://translate.codeberg.org/projects/comaps/",
@@ -102,12 +102,12 @@
         "preferredSigner": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
       },
       "versions": {
-        "47d583fd8b065c2b7f365b4e5c2fbd90e74405a59dc2e167fa18bdc9e22b4d73": {
-          "added": 1777262491000,
+        "20d441e9ab6cf49e55224532ba6c93e1937322eb9094fe2c3f52db920583ccca": {
+          "added": 1778385705000,
           "file": {
             "name": "/CoMaps.apk",
-            "sha256": "47d583fd8b065c2b7f365b4e5c2fbd90e74405a59dc2e167fa18bdc9e22b4d73",
-            "size": 65384307
+            "sha256": "20d441e9ab6cf49e55224532ba6c93e1937322eb9094fe2c3f52db920583ccca",
+            "size": 65470491
           },
           "manifest": {
             "nativecode": [
@@ -115,8 +115,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2026.04.23-19-FDroid",
-            "versionCode": 26042319,
+            "versionName": "2026.05.06-11-FDroid",
+            "versionCode": 26050611,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 36
@@ -180,14 +180,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1774891640000,
+        "added": 1779130316000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1774891640000,
+        "lastUpdated": 1779130316000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -248,12 +248,12 @@
         "preferredSigner": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       },
       "versions": {
-        "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5": {
-          "added": 1774891640000,
+        "a22312f5ba76d6e05d67da3b604fc0794e2df2b46de6b6f57ed17c340630030f": {
+          "added": 1779130316000,
           "file": {
             "name": "/DAVx5.apk",
-            "sha256": "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5",
-            "size": 16016134
+            "sha256": "a22312f5ba76d6e05d67da3b604fc0794e2df2b46de6b6f57ed17c340630030f",
+            "size": 15993488
           },
           "manifest": {
             "nativecode": [
@@ -262,8 +262,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.5.10-ose",
-            "versionCode": 405100003,
+            "versionName": "4.5.12-ose",
+            "versionCode": 405120004,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -509,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1778126490000,
+        "added": 1779076877000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1778126490000,
+        "lastUpdated": 1779076877000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -537,7 +537,7 @@
       },
       "versions": {
         "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff": {
-          "added": 1778126490000,
+          "added": 1779076877000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff",
@@ -1335,13 +1335,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1778126496000,
+        "added": 1779130322000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1778126496000,
+        "lastUpdated": 1779130322000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1364,12 +1364,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "f8bcfe007ac3a902c3e868e2b1980a5170c04e35a5df2c7f141e9013b71981b4": {
-          "added": 1778126496000,
+        "d6ed8f710b62c1038b99bf53d8483ecb96ae9fb6e6dfce6bb991cd2e671191cb": {
+          "added": 1779130322000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "f8bcfe007ac3a902c3e868e2b1980a5170c04e35a5df2c7f141e9013b71981b4",
-            "size": 118430253
+            "sha256": "d6ed8f710b62c1038b99bf53d8483ecb96ae9fb6e6dfce6bb991cd2e671191cb",
+            "size": 112283463
           },
           "manifest": {
             "nativecode": [
@@ -1378,8 +1378,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.9.1",
-            "versionCode": 168401,
+            "versionName": "8.10.2",
+            "versionCode": 168701,
             "features": [
               {
                 "name": "android.hardware.camera"
@@ -1575,10 +1575,10 @@
                 "name": "android.permission.BLUETOOTH_CONNECT"
               },
               {
-                "name": "android.permission.REORDER_TASKS"
+                "name": "org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               },
               {
-                "name": "org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+                "name": "android.permission.REORDER_TASKS"
               },
               {
                 "name": "com.sec.android.provider.badge.permission.READ"
@@ -1635,14 +1635,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1777435296000,
+        "added": 1778212909000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1777435296000,
+        "lastUpdated": 1778212909000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1672,19 +1672,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "8b58e139a8e266f7f494bf83665f67dc8f37d7d28ffc0e8faf854d130829c93a": {
-          "added": 1777435296000,
+        "3164fe62cbe58825f1a6078126fb022fac576c12f5b101ae17096dd9f85c6f85": {
+          "added": 1778212909000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "8b58e139a8e266f7f494bf83665f67dc8f37d7d28ffc0e8faf854d130829c93a",
-            "size": 110957945
+            "sha256": "3164fe62cbe58825f1a6078126fb022fac576c12f5b101ae17096dd9f85c6f85",
+            "size": 110994994
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "15.0.11 (140.10.1esr)",
-            "versionCode": 2016157706,
+            "versionName": "15.0.13 (140.10.2esr)",
+            "versionCode": 2016159602,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
