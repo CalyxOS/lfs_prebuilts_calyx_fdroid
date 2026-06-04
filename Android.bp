@@ -85,7 +85,6 @@ android_app_import {
     enforce_uses_libs: false,
     apk: "repo/AuroraStore.apk",
     presigned: true,
-    skip_preprocessed_apk_checks: true,
 }
 
 android_app_import {

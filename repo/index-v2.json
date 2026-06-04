@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1778126498000,
+    "timestamp": 1780545700000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,14 +66,14 @@
   "packages": {
     "app.comaps.fdroid": {
       "metadata": {
-        "added": 1777262491000,
+        "added": 1778385705000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "changelog": "https://codeberg.org/comaps/comaps/releases",
         "issueTracker": "https://codeberg.org/comaps/comaps/issues",
-        "lastUpdated": 1777262491000,
+        "lastUpdated": 1778385705000,
         "license": "Apache-2.0",
         "sourceCode": "https://codeberg.org/comaps/comaps",
         "translation": "https://translate.codeberg.org/projects/comaps/",
@@ -102,12 +102,12 @@
         "preferredSigner": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
       },
       "versions": {
-        "47d583fd8b065c2b7f365b4e5c2fbd90e74405a59dc2e167fa18bdc9e22b4d73": {
-          "added": 1777262491000,
+        "20d441e9ab6cf49e55224532ba6c93e1937322eb9094fe2c3f52db920583ccca": {
+          "added": 1778385705000,
           "file": {
             "name": "/CoMaps.apk",
-            "sha256": "47d583fd8b065c2b7f365b4e5c2fbd90e74405a59dc2e167fa18bdc9e22b4d73",
-            "size": 65384307
+            "sha256": "20d441e9ab6cf49e55224532ba6c93e1937322eb9094fe2c3f52db920583ccca",
+            "size": 65470491
           },
           "manifest": {
             "nativecode": [
@@ -115,8 +115,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2026.04.23-19-FDroid",
-            "versionCode": 26042319,
+            "versionName": "2026.05.06-11-FDroid",
+            "versionCode": 26050611,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 36
@@ -180,14 +180,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1774891640000,
+        "added": 1780373187000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1774891640000,
+        "lastUpdated": 1780373187000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -248,12 +248,12 @@
         "preferredSigner": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       },
       "versions": {
-        "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5": {
-          "added": 1774891640000,
+        "17ed9c3475718e5142872f79ed1a3f03e92169a81a069cc7b622295a0d0dd319": {
+          "added": 1780373187000,
           "file": {
             "name": "/DAVx5.apk",
-            "sha256": "635f2031ec56195d9b6b3137a7f5a8ced275e32443ef5c30508da106b7047dc5",
-            "size": 16016134
+            "sha256": "17ed9c3475718e5142872f79ed1a3f03e92169a81a069cc7b622295a0d0dd319",
+            "size": 16018266
           },
           "manifest": {
             "nativecode": [
@@ -262,8 +262,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.5.10-ose",
-            "versionCode": 405100003,
+            "versionName": "4.5.13-ose",
+            "versionCode": 405130002,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -302,15 +302,6 @@
                 "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
               },
               {
-                "name": "android.permission.WAKE_LOCK"
-              },
-              {
-                "name": "android.permission.FOREGROUND_SERVICE"
-              },
-              {
-                "name": "at.bitfire.davdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-              },
-              {
                 "name": "android.permission.READ_CALENDAR"
               },
               {
@@ -339,6 +330,15 @@
               },
               {
                 "name": "at.techbee.jtx.permission.WRITE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "at.bitfire.davdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ],
             "usesPermissionSdk23": [
@@ -358,14 +358,14 @@
     },
     "com.aurora.store": {
       "metadata": {
-        "added": 1774891635000,
+        "added": 1780113691000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/AuroraOSS/AuroraStore/blob/HEAD/CHANGELOG",
         "issueTracker": "https://gitlab.com/AuroraOSS/AuroraStore/issues",
-        "lastUpdated": 1774891635000,
+        "lastUpdated": 1780113691000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/AuroraOSS/AuroraStore",
         "translation": "https://poeditor.com/join/project/54swaCpFXJ",
@@ -415,12 +415,12 @@
         "preferredSigner": "5c83c7672b929955dc0a1db89a5e6ae4389e2eae7ec939956041694e5815f532"
       },
       "versions": {
-        "757a82b3d569597a13ffca191e4043233cfaa4bd4e9005ae297a2fcdf3d96d9e": {
-          "added": 1774891635000,
+        "c4ce0df0bbb0e82be4e4bd7d8a3e000f08e04457187d560fe2ca3ae52941bf49": {
+          "added": 1780113691000,
           "file": {
             "name": "/AuroraStore.apk",
-            "sha256": "757a82b3d569597a13ffca191e4043233cfaa4bd4e9005ae297a2fcdf3d96d9e",
-            "size": 8148208
+            "sha256": "c4ce0df0bbb0e82be4e4bd7d8a3e000f08e04457187d560fe2ca3ae52941bf49",
+            "size": 8954451
           },
           "manifest": {
             "nativecode": [
@@ -429,11 +429,11 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.7.5",
-            "versionCode": 71,
+            "versionName": "4.8.3",
+            "versionCode": 75,
             "usesSdk": {
-              "minSdkVersion": 21,
-              "targetSdkVersion": 36
+              "minSdkVersion": 23,
+              "targetSdkVersion": 37
             },
             "signer": {
               "sha256": [
@@ -509,11 +509,11 @@
     },
     "com.google.android.apps.photos": {
       "metadata": {
-        "added": 1778126490000,
+        "added": 1779163289000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1778126490000,
+        "lastUpdated": 1779163289000,
         "license": "Apache-2.0",
         "sourceCode": "https://gitlab.com/CalyxOS/platform_external_calyx_GCamPhotosPreview",
         "webSite": "https://calyxos.org/news/2021/09/30/gcam-photos-preview/",
@@ -537,7 +537,7 @@
       },
       "versions": {
         "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff": {
-          "added": 1778126490000,
+          "added": 1779163289000,
           "file": {
             "name": "/GCamPhotosPreview.apk",
             "sha256": "e499d938b1ce803719fc456f29caa3a6ea440ab91244c39e6952e8bc61f938ff",
@@ -661,7 +661,7 @@
     },
     "net.thunderbird.android": {
       "metadata": {
-        "added": 1776484886000,
+        "added": 1780113693000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -670,7 +670,7 @@
         ],
         "changelog": "https://github.com/thunderbird/thunderbird-android/releases/",
         "issueTracker": "https://github.com/thunderbird/thunderbird-android/issues",
-        "lastUpdated": 1776484886000,
+        "lastUpdated": 1780113693000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/thunderbird/thunderbird-android",
         "translation": "https://hosted.weblate.org/projects/tb-android/",
@@ -786,12 +786,12 @@
         "preferredSigner": "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1"
       },
       "versions": {
-        "c2083ddf5882e3c3f54f2f1d42e5a108ea9a2eec4a4f9519e3ee0b59707eaa13": {
-          "added": 1776484886000,
+        "963661eb78f0a21bad2fe790084999185b7b53a9c29df67cb1b6955f6b3789d8": {
+          "added": 1780113693000,
           "file": {
             "name": "/Thunderbird.apk",
-            "sha256": "c2083ddf5882e3c3f54f2f1d42e5a108ea9a2eec4a4f9519e3ee0b59707eaa13",
-            "size": 10556219
+            "sha256": "963661eb78f0a21bad2fe790084999185b7b53a9c29df67cb1b6955f6b3789d8",
+            "size": 10654733
           },
           "manifest": {
             "nativecode": [
@@ -800,8 +800,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "18.0",
-            "versionCode": 22,
+            "versionName": "19.0",
+            "versionCode": 23,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 35
@@ -1224,7 +1224,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1774891641000,
+        "added": 1779422486000,
         "categories": [
           "Internet",
           "Security",
@@ -1232,7 +1232,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1774891641000,
+        "lastUpdated": 1779422486000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -1275,19 +1275,19 @@
         "preferredSigner": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6"
       },
       "versions": {
-        "12205181400872f4c197391a51a734ade14d4fd00af747db5770850573e016e0": {
-          "added": 1774891641000,
+        "ddeae0ebb693257a2f108cc8a41240ef74c6b65540b0a53698febbb57fc73eac": {
+          "added": 1779422486000,
           "file": {
             "name": "/OONIProbe.apk",
-            "sha256": "12205181400872f4c197391a51a734ade14d4fd00af747db5770850573e016e0",
-            "size": 66384812
+            "sha256": "ddeae0ebb693257a2f108cc8a41240ef74c6b65540b0a53698febbb57fc73eac",
+            "size": 66422427
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "6.0.1",
-            "versionCode": 272,
+            "versionName": "6.0.2",
+            "versionCode": 302,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -1335,13 +1335,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1778126496000,
+        "added": 1780373193000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1778126496000,
+        "lastUpdated": 1780373193000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1364,12 +1364,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "f8bcfe007ac3a902c3e868e2b1980a5170c04e35a5df2c7f141e9013b71981b4": {
-          "added": 1778126496000,
+        "274f2ac483a3559ad2773d2529671481ea70207ad32cf2aa58202f5938bf3adc": {
+          "added": 1780373193000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "f8bcfe007ac3a902c3e868e2b1980a5170c04e35a5df2c7f141e9013b71981b4",
-            "size": 118430253
+            "sha256": "274f2ac483a3559ad2773d2529671481ea70207ad32cf2aa58202f5938bf3adc",
+            "size": 114913564
           },
           "manifest": {
             "nativecode": [
@@ -1378,8 +1378,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.9.1",
-            "versionCode": 168401,
+            "versionName": "8.12.4",
+            "versionCode": 169701,
             "features": [
               {
                 "name": "android.hardware.camera"
@@ -1457,6 +1457,9 @@
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
               },
               {
                 "name": "android.permission.FOREGROUND_SERVICE_PHONE_CALL"
@@ -1575,10 +1578,10 @@
                 "name": "android.permission.BLUETOOTH_CONNECT"
               },
               {
-                "name": "android.permission.REORDER_TASKS"
+                "name": "org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               },
               {
-                "name": "org.thoughtcrime.securesms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+                "name": "android.permission.REORDER_TASKS"
               },
               {
                 "name": "com.sec.android.provider.badge.permission.READ"
@@ -1635,14 +1638,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1777435296000,
+        "added": 1780545698000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1777435296000,
+        "lastUpdated": 1780545698000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1672,19 +1675,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "8b58e139a8e266f7f494bf83665f67dc8f37d7d28ffc0e8faf854d130829c93a": {
-          "added": 1777435296000,
+        "04e520a452af7df6370be2ab1f8984d0b907c8400e6281691c135ba6a9788a52": {
+          "added": 1780545698000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "8b58e139a8e266f7f494bf83665f67dc8f37d7d28ffc0e8faf854d130829c93a",
-            "size": 110957945
+            "sha256": "04e520a452af7df6370be2ab1f8984d0b907c8400e6281691c135ba6a9788a52",
+            "size": 111056434
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "15.0.11 (140.10.1esr)",
-            "versionCode": 2016157706,
+            "versionName": "15.0.15 (140.11.0esr)",
+            "versionCode": 2016164570,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
