@@ -14,7 +14,7 @@
       }
     },
     "address": "file:///product/fdroid/repo",
-    "timestamp": 1785855807000,
+    "timestamp": 1789963281000,
     "categories": {
       "AlwaysInstall": {
         "name": {
@@ -66,14 +66,14 @@
   "packages": {
     "app.comaps.fdroid": {
       "metadata": {
-        "added": 1784520083000,
+        "added": 1788408211000,
         "categories": [
           "Navigation",
           "Default"
         ],
         "changelog": "https://codeberg.org/comaps/comaps/releases",
         "issueTracker": "https://codeberg.org/comaps/comaps/issues",
-        "lastUpdated": 1784520083000,
+        "lastUpdated": 1788408211000,
         "license": "Apache-2.0",
         "sourceCode": "https://codeberg.org/comaps/comaps",
         "translation": "https://translate.codeberg.org/projects/comaps/",
@@ -102,12 +102,12 @@
         "preferredSigner": "ca5180daacf1f26a18f98ff4bce2d62bbaaa39361c998b2267ced1bc0d2f932b"
       },
       "versions": {
-        "7a6cece583d5d31bd673016ee30abe29f47398535340efcfe9f217f05c818d78": {
-          "added": 1784520083000,
+        "fa4b2d5070a18d1b294dc44ec944f82280eca95406a82b4792916e400984e190": {
+          "added": 1788408211000,
           "file": {
             "name": "/CoMaps.apk",
-            "sha256": "7a6cece583d5d31bd673016ee30abe29f47398535340efcfe9f217f05c818d78",
-            "size": 66274799
+            "sha256": "fa4b2d5070a18d1b294dc44ec944f82280eca95406a82b4792916e400984e190",
+            "size": 68589845
           },
           "manifest": {
             "nativecode": [
@@ -115,8 +115,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "2026.07.16-10-FDroid",
-            "versionCode": 26071610,
+            "versionName": "2026.08.31-14-FDroid",
+            "versionCode": 26083114,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 36
@@ -180,14 +180,14 @@
     },
     "at.bitfire.davdroid": {
       "metadata": {
-        "added": 1784606495000,
+        "added": 1785988875000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://forums.bitfire.at/category/4/davx?tag=announcement",
         "issueTracker": "https://www.davx5.com/forums",
-        "lastUpdated": 1784606495000,
+        "lastUpdated": 1785988875000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://www.davx5.com/source",
         "translation": "https://www.transifex.com/bitfireAT/davx5/",
@@ -248,12 +248,12 @@
         "preferredSigner": "8b48e676a6864967791783c1d8d0fc0dd6d2ce33e1fb36787793ecd086d44707"
       },
       "versions": {
-        "11eb0d64dacd497f1fd2d3ba9e351f90403836649ed478c3f6e3b7ee136d2bf0": {
-          "added": 1784606495000,
+        "1efd4d6251d256f95f120d00c48dac741926d7890f76732297622e968396d2c4": {
+          "added": 1785988875000,
           "file": {
             "name": "/DAVx5.apk",
-            "sha256": "11eb0d64dacd497f1fd2d3ba9e351f90403836649ed478c3f6e3b7ee136d2bf0",
-            "size": 18692647
+            "sha256": "1efd4d6251d256f95f120d00c48dac741926d7890f76732297622e968396d2c4",
+            "size": 18684542
           },
           "manifest": {
             "nativecode": [
@@ -262,8 +262,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "4.5.18-ose",
-            "versionCode": 405180002,
+            "versionName": "4.5.19-ose",
+            "versionCode": 405190003,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
@@ -572,14 +572,14 @@
     },
     "com.jarsilio.android.scrambledeggsif": {
       "metadata": {
-        "added": 1784779499000,
+        "added": 1789201491000,
         "categories": [
           "System",
           "Default"
         ],
         "changelog": "https://gitlab.com/juanitobananas/scrambled-exif/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/juanitobananas/scrambled-exif/issues",
-        "lastUpdated": 1784779499000,
+        "lastUpdated": 1789201491000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD",
         "translation": "https://www.transifex.com/juanitobananas/scrambled-exif/",
@@ -631,12 +631,12 @@
         "preferredSigner": "3cdf1622c37d212be586b22928f28ccadbd7cb954f1005fce13e81850beb1d73"
       },
       "versions": {
-        "319d12013a2da530d22ab7a6bd76ffc1472f12d17e24382472290771ddb43a53": {
-          "added": 1784779499000,
+        "9092ec44f71820db543c8c773b2c48aea64fb4dde56f3d369d2635b50346fea1": {
+          "added": 1789201491000,
           "file": {
             "name": "/ScrambledExif.apk",
-            "sha256": "319d12013a2da530d22ab7a6bd76ffc1472f12d17e24382472290771ddb43a53",
-            "size": 4678226
+            "sha256": "9092ec44f71820db543c8c773b2c48aea64fb4dde56f3d369d2635b50346fea1",
+            "size": 4742156
           },
           "manifest": {
             "nativecode": [
@@ -645,8 +645,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.7.21",
-            "versionCode": 84,
+            "versionName": "1.8.1",
+            "versionCode": 86,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 37
@@ -661,7 +661,7 @@
                 "name": "android.permission.READ_EXTERNAL_STORAGE"
               },
               {
-                "name": "android.permission.REORDER_TASKS"
+                "name": "android.permission.POST_NOTIFICATIONS"
               },
               {
                 "name": "com.jarsilio.android.scrambledeggsif.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -673,7 +673,7 @@
     },
     "net.thunderbird.android": {
       "metadata": {
-        "added": 1784865692000,
+        "added": 1789617679000,
         "categories": [
           "Connectivity",
           "Internet",
@@ -682,7 +682,7 @@
         ],
         "changelog": "https://github.com/thunderbird/thunderbird-android/releases/",
         "issueTracker": "https://github.com/thunderbird/thunderbird-android/issues",
-        "lastUpdated": 1784865692000,
+        "lastUpdated": 1789617679000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/thunderbird/thunderbird-android",
         "translation": "https://hosted.weblate.org/projects/tb-android/",
@@ -798,12 +798,12 @@
         "preferredSigner": "b6524779b3dbbc5ac17a5ac271ddb29dcfbf723578c238e03c3c217811356dd1"
       },
       "versions": {
-        "6e30a429bb2cbcfbb18a69b234235bb5ef2bc2fe1d0cbcd8b5868518b8f7b69c": {
-          "added": 1784865692000,
+        "1e4a2e23a4bff8c8d96eae7ed809f1ebd05a4ab24650ab792c226749dd51d936": {
+          "added": 1789617679000,
           "file": {
             "name": "/Thunderbird.apk",
-            "sha256": "6e30a429bb2cbcfbb18a69b234235bb5ef2bc2fe1d0cbcd8b5868518b8f7b69c",
-            "size": 10752700
+            "sha256": "1e4a2e23a4bff8c8d96eae7ed809f1ebd05a4ab24650ab792c226749dd51d936",
+            "size": 10822051
           },
           "manifest": {
             "nativecode": [
@@ -812,11 +812,11 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "21.0",
-            "versionCode": 28,
+            "versionName": "23.0",
+            "versionCode": 31,
             "usesSdk": {
               "minSdkVersion": 23,
-              "targetSdkVersion": 35
+              "targetSdkVersion": 36
             },
             "signer": {
               "sha256": [
@@ -880,14 +880,14 @@
     },
     "org.breezyweather": {
       "metadata": {
-        "added": 1781150490000,
+        "added": 1787803287000,
         "categories": [
           "Internet",
           "Default"
         ],
         "changelog": "https://github.com/breezy-weather/breezy-weather/releases",
         "issueTracker": "https://github.com/breezy-weather/breezy-weather/issues",
-        "lastUpdated": 1781150490000,
+        "lastUpdated": 1787803287000,
         "license": "LGPL-3.0-only",
         "sourceCode": "https://github.com/breezy-weather/breezy-weather",
         "translation": "https://hosted.weblate.org/projects/breezy-weather/breezy-weather-android/#information",
@@ -924,12 +924,12 @@
         "preferredSigner": "29d435f70aa9aec3c1faff7f7ffa6e15785088d87f06ecfcab9c3cc62dc269d8"
       },
       "versions": {
-        "ac2715f6165b42fb34a6bfd2bfe4fb5812e74fbf23397fd872710f362082741e": {
-          "added": 1781150490000,
+        "1369d817d426498715f8ccb6750baff19dadd78e85f707088e9bca43977570c0": {
+          "added": 1787803287000,
           "file": {
             "name": "/BreezyWeather.apk",
-            "sha256": "ac2715f6165b42fb34a6bfd2bfe4fb5812e74fbf23397fd872710f362082741e",
-            "size": 20599441
+            "sha256": "1369d817d426498715f8ccb6750baff19dadd78e85f707088e9bca43977570c0",
+            "size": 20779665
           },
           "manifest": {
             "nativecode": [
@@ -938,8 +938,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "6.2.1_freenet",
-            "versionCode": 60201,
+            "versionName": "6.2.2_freenet",
+            "versionCode": 60202,
             "usesSdk": {
               "minSdkVersion": 23,
               "targetSdkVersion": 36
@@ -1012,14 +1012,14 @@
     },
     "org.fdroid.basic": {
       "metadata": {
-        "added": 1785855805000,
+        "added": 1787544124000,
         "categories": [
           "System",
           "AlwaysInstall"
         ],
         "changelog": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.com/fdroid/fdroidclient/issues",
-        "lastUpdated": 1785855805000,
+        "lastUpdated": 1787544124000,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://gitlab.com/fdroid/fdroidclient",
         "translation": "https://hosted.weblate.org/projects/f-droid/f-droid",
@@ -1064,12 +1064,12 @@
         "preferredSigner": "ef7f822b7653e2011cb8c5a7fc99e8d2ade1717e539ca56d6456295e3bc07312"
       },
       "versions": {
-        "1155d8f46950b50a876af89ee2982352512d51acf4d3f38358b1b026ee290560": {
-          "added": 1785855805000,
+        "bfb95a4f58e43b07dc1bc7e1be2cbaf7d41f0e38bb66f65895fb0982b0e9bc79": {
+          "added": 1787544124000,
           "file": {
             "name": "/F-DroidBasic.apk",
-            "sha256": "1155d8f46950b50a876af89ee2982352512d51acf4d3f38358b1b026ee290560",
-            "size": 9347228
+            "sha256": "bfb95a4f58e43b07dc1bc7e1be2cbaf7d41f0e38bb66f65895fb0982b0e9bc79",
+            "size": 9388070
           },
           "manifest": {
             "nativecode": [
@@ -1078,8 +1078,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "2.0-rc0",
-            "versionCode": 2000040,
+            "versionName": "2.0-rc1",
+            "versionCode": 2000041,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 37
@@ -1236,7 +1236,7 @@
     },
     "org.openobservatory.ooniprobe": {
       "metadata": {
-        "added": 1781841695000,
+        "added": 1786421030000,
         "categories": [
           "Internet",
           "Security",
@@ -1244,7 +1244,7 @@
         ],
         "changelog": "https://github.com/ooni/probe-android/releases",
         "issueTracker": "https://github.com/ooni/probe-android/issues",
-        "lastUpdated": 1781841695000,
+        "lastUpdated": 1786421030000,
         "license": "BSD-2-Clause",
         "sourceCode": "https://github.com/ooni/probe-android",
         "translation": "https://www.transifex.com/otf/ooniprobe/",
@@ -1287,22 +1287,22 @@
         "preferredSigner": "ceb39f9f7950a5fe84dc917ad3433d146355c861f7f3294ce82d55fb8cb0c0e6"
       },
       "versions": {
-        "a087d98e79f891be989529b8a3931a270d761dcbc183879ba4baa5ee4db749e6": {
-          "added": 1781841695000,
+        "7a5bc50be59ad5ed7526dd510a2128a6dc92ba08bd272e3645622783ba91a319": {
+          "added": 1786421030000,
           "file": {
             "name": "/OONIProbe.apk",
-            "sha256": "a087d98e79f891be989529b8a3931a270d761dcbc183879ba4baa5ee4db749e6",
-            "size": 76023909
+            "sha256": "7a5bc50be59ad5ed7526dd510a2128a6dc92ba08bd272e3645622783ba91a319",
+            "size": 81271144
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "6.1.0",
-            "versionCode": 332,
+            "versionName": "6.2.0",
+            "versionCode": 362,
             "usesSdk": {
               "minSdkVersion": 24,
-              "targetSdkVersion": 36
+              "targetSdkVersion": 37
             },
             "signer": {
               "sha256": [
@@ -1347,13 +1347,13 @@
     },
     "org.thoughtcrime.securesms": {
       "metadata": {
-        "added": 1785470495000,
+        "added": 1789201495000,
         "categories": [
           "Internet",
           "Default"
         ],
         "issueTracker": "https://support.signal.org/",
-        "lastUpdated": 1785470495000,
+        "lastUpdated": 1789201495000,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/signalapp/Signal-Android",
         "webSite": "https://www.signal.org",
@@ -1376,12 +1376,12 @@
         "preferredSigner": "29f34e5f27f211b424bc5bf9d67162c0eafba2da35af35c16416fc446276ba26"
       },
       "versions": {
-        "ee9bb40937638e36935edac43463a4d3d90a87c836e0f9852d3300d03e4c53a5": {
-          "added": 1785470495000,
+        "46cd670d2019db589a6a5aa0b5c70758ba8f4d1b1014c184b3f7678dada1dde5": {
+          "added": 1789201495000,
           "file": {
             "name": "/Signal.apk",
-            "sha256": "ee9bb40937638e36935edac43463a4d3d90a87c836e0f9852d3300d03e4c53a5",
-            "size": 118397592
+            "sha256": "46cd670d2019db589a6a5aa0b5c70758ba8f4d1b1014c184b3f7678dada1dde5",
+            "size": 122423430
           },
           "manifest": {
             "nativecode": [
@@ -1390,16 +1390,11 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "8.20.5",
-            "versionCode": 172402,
-            "features": [
-              {
-                "name": "android.hardware.camera"
-              }
-            ],
+            "versionName": "8.26.4",
+            "versionCode": 174801,
             "usesSdk": {
               "minSdkVersion": 23,
-              "targetSdkVersion": 35
+              "targetSdkVersion": 36
             },
             "signer": {
               "sha256": [
@@ -1647,14 +1642,14 @@
     },
     "org.torproject.torbrowser": {
       "metadata": {
-        "added": 1784692878000,
+        "added": 1789531293000,
         "categories": [
           "Security",
           "Internet",
           "Default"
         ],
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/tor-browser/issues",
-        "lastUpdated": 1784692878000,
+        "lastUpdated": 1789531293000,
         "license": "MPL-2.0",
         "sourceCode": "https://gitweb.torproject.org/tor-browser.git",
         "authorEmail": "playstore@torproject.org",
@@ -1684,19 +1679,19 @@
         "preferredSigner": "20061f045e737c67375c17794cfedb436a03cec6bacb7cb9f96642205ca2cec8"
       },
       "versions": {
-        "4982ff6e9eb1075f6035acae84aafcd70e4b9a70e72499af2476e6c1852516d0": {
-          "added": 1784692878000,
+        "f5eb307d3007b34fa3ecde53a6eb68c7dae2a40266d334ee4c0050f033317f09": {
+          "added": 1789531293000,
           "file": {
             "name": "/TorBrowser.apk",
-            "sha256": "4982ff6e9eb1075f6035acae84aafcd70e4b9a70e72499af2476e6c1852516d0",
-            "size": 111043961
+            "sha256": "f5eb307d3007b34fa3ecde53a6eb68c7dae2a40266d334ee4c0050f033317f09",
+            "size": 111076729
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "15.0.19 (140.13.0esr)",
-            "versionCode": 2016173762,
+            "versionName": "15.0.23 (140.16.0esr)",
+            "versionCode": 2016184530,
             "usesSdk": {
               "minSdkVersion": 21,
               "targetSdkVersion": 35
@@ -1812,14 +1807,14 @@
     },
     "org.torproject.vpn": {
       "metadata": {
-        "added": 1782964880000,
+        "added": 1788494478000,
         "categories": [
           "VPN & Proxy",
           "Default"
         ],
         "changelog": "https://gitlab.torproject.org/tpo/applications/vpn/-/blob/HEAD/CHANGELOG.md",
         "issueTracker": "https://gitlab.torproject.org/tpo/applications/vpn/-/issues/",
-        "lastUpdated": 1782964880000,
+        "lastUpdated": 1788494478000,
         "license": "BSD-3-Clause-Clear",
         "sourceCode": "https://gitlab.torproject.org/tpo/applications/vpn/",
         "translation": "https://hosted.weblate.org/projects/tor/tor-vpn/",
@@ -1854,19 +1849,19 @@
         "preferredSigner": "c2f6ffa30e56a7c53a226248ef908612ee539df2f52bede5a55037425b83331d"
       },
       "versions": {
-        "44891895ff6c95d6f7190df28af9a545e8b939460fad94b48c86af6177f576a6": {
-          "added": 1782964880000,
+        "60b67164db0d63fd0fd03e23637c43572f1213f242baa8852b39bdbebaecb54a": {
+          "added": 1788494478000,
           "file": {
             "name": "/TorVPN.apk",
-            "sha256": "44891895ff6c95d6f7190df28af9a545e8b939460fad94b48c86af6177f576a6",
-            "size": 78829669
+            "sha256": "60b67164db0d63fd0fd03e23637c43572f1213f242baa8852b39bdbebaecb54a",
+            "size": 90331450
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "1.8.0Beta-arm64-v8a",
-            "versionCode": 222,
+            "versionName": "1.9.1Beta-arm64-v8a",
+            "versionCode": 242,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 36
